@@ -1,0 +1,106 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+California School for the Blind (State Special Schl),California School for the Blind,500 Walnut Avenue Fremont CA 94536-4365,9.860499999999998,ppb,TRUE,tested,Fremont,Alameda County,37.5481948,-121.9808293
+California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,39350 Gallaudet Drive Fremont CA 94538-2308,NA,NA,FALSE,tested,Fremont,Alameda County,37.5573291,-121.9617297
+NA,St. Edward Parish,5788 Thornton Avenue Newark CA 94560,NA,NA,FALSE,tested,Newark,Alameda County,37.5395210780721,-122.028520511827
+Newark Unified,Whiteford (June) Special Education Preschool,35725 Cedar Boulevard Newark CA 94560-1324,6.903,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Newark Unified,John F. Kennedy Elementary,35430 Blackburn Drive Newark CA 94560-1312,NA,NA,FALSE,tested,Newark,Alameda County,37.5525641,-122.042348129968
+Newark Unified,Newark Junior High,6201 Lafayette Avenue Newark CA 94560-2432,6.926,ppb,TRUE,tested,Newark,Alameda County,37.5417841019707,-122.039344613929
+Newark Unified,Bridgepoint High (Continuation),35753 Cedar Boulevard Newark CA 94560-5007,9.112,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Newark Unified,E. L. Musick Elementary,5735 Musick Avenue Newark CA 94560-2554,NA,NA,FALSE,tested,Newark,Alameda County,37.5422929946954,-122.031741196313
+Newark Unified,H. A. Snow Elementary,6580 Mirabeau Drive Newark CA 94560-1121,NA,NA,FALSE,tested,Newark,Alameda County,37.54205605,-122.04920602959
+Newark Unified,Lincoln Elementary,36111 Bettencourt Street Newark CA 94560-2101,NA,NA,FALSE,tested,Newark,Alameda County,37.5362983061224,-122.052616979592
+Newark Unified,Birch Grove Intermediate,37490 Birch Street Newark CA 94560-4140,NA,NA,FALSE,tested,Newark,Alameda County,37.53516755,-122.02233140513
+Newark Unified,Newark Memorial High,39375 Cedar Boulevard Newark CA 94560-5007,NA,NA,FALSE,tested,Newark,Alameda County,37.52062465,-122.002553870503
+Newark Unified,August Schilling Elementary,36901 Spruce Street Newark CA 94560-2719,NA,NA,FALSE,tested,Newark,Alameda County,37.528165,-122.046106
+Newark Unified,James A. Graham Elementary,36270 Cherry Street Newark CA 94560-2318,NA,NA,FALSE,tested,Newark,Alameda County,37.5385757991409,-122.042763618605
+Newark Unified,Birch Grove Primary,6071 Smith Ave Newark CA 94560-4536,NA,NA,FALSE,tested,Newark,Alameda County,37.52948475,-122.016105727101
+New Haven Unified,Alvarado Elementary,31100 Fredi Street Union City CA 94587-2662,NA,NA,FALSE,tested,,Alameda County,37.5951713,-122.075430811472
+Fremont Unified,Warwick Elementary,3375 Warwick Road Fremont CA 94555-2499,NA,NA,FALSE,tested,Fremont,Alameda County,37.57702845,-122.031975421266
+New Haven Unified,New Haven Adult,1800 H St. Union City CA 94587-3321,NA,NA,FALSE,tested,,Alameda County,37.5926016,-122.025843
+New Haven Unified,Decoto School for Independent Study,600 G Street Union City CA 94587-2400,NA,NA,FALSE,tested,,Alameda County,37.5995437,-122.01968182526
+New Haven Unified,Tom Kitayama Elementary,1959 Sunsprite Drive Union City CA 94587-1995,NA,NA,FALSE,tested,,Alameda County,37.59842065,-122.050124345667
+Fremont Unified,Brookvale Elementary,3400 Nicolet Avenue Fremont CA 94536-3598,NA,NA,FALSE,tested,Fremont,Alameda County,37.56815035,-122.015190705448
+New Haven Unified,James Logan High,1800 H Street Union City CA 94587-3321,NA,NA,FALSE,tested,,Alameda County,37.5926016,-122.025843
+New Haven Unified,Pioneer Elementary,32737 Bel Aire Street Union City CA 94587-5500,8.7,ppb,TRUE,tested,,Alameda County,37.5722566926292,-122.072574629447
+Fremont Unified,Patterson Elementary,35521 Cabrillo Drive Fremont CA 94536-5499,NA,NA,FALSE,tested,Fremont,Alameda County,37.5622108584392,-122.030821771787
+Fremont Unified,Oliveira Elementary,4180 Alder Avenue Fremont CA 94536-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.56011265,-122.016677307163
+New Haven Unified,Cesar Chavez Middle,2801 Hop Ranch Road Union City CA 94587-5708,NA,NA,FALSE,tested,,Alameda County,37.5908013814989,-122.047206331903
+New Haven Unified,Itliong-Vera Cruz,31604 Alvarado Boulevard Union City CA 94587-5802,NA,NA,FALSE,tested,,Alameda County,37.5940148,-122.075862133026
+New Haven Unified,Delaine Eastin Elementary,34901 Eastin Drive Union City CA 94587-5577,NA,NA,FALSE,tested,,Alameda County,37.5666583608325,-122.074762424448
+Fremont Unified,Thornton Junior High,4357 Thornton Avenue Fremont CA 94536-4897,NA,NA,FALSE,tested,Fremont,Alameda County,37.5562645,-122.016361387949
+Fremont Unified,Cabrillo Elementary,36700 San Pedro Drive Fremont CA 94536-6406,NA,NA,FALSE,tested,Fremont,Alameda County,37.5520877,-122.0249502
+Fremont Unified,Parkmont Elementary,2601 Parkside Drive Fremont CA 94536-5246,NA,NA,FALSE,tested,Fremont,Alameda County,37.5610469,-121.9838495
+Fremont Unified,Washington High,38442 Fremont Boulevard Fremont CA 94536-6031,NA,NA,FALSE,tested,Fremont,Alameda County,37.5517175,-121.9935237
+Fremont Unified,Glenmoor Elementary,4620 Mattos Drive Fremont CA 94536-6784,NA,NA,FALSE,tested,Fremont,Alameda County,37.545657227359,-122.004857558375
+Fremont Unified,Tom Maloney Elementary,38700 Logan Drive Fremont CA 94536-6899,NA,NA,FALSE,tested,Fremont,Alameda County,37.5455376438979,-121.998471329024
+Fremont Unified,Circle of Independent Learning,4700 Calaveras Avenue B Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Fremont Unified,Young Adult Program,4700 Calaveras Ave. Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Fremont Unified,Fremont Adult,4700 Calaveras Avenue Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Mission Valley ROC/P,Mission Valley ROCP,5019 Stevenson Boulevard Fremont CA 94538-2449,NA,NA,FALSE,tested,Fremont,Alameda County,37.5281471544418,-121.983403422142
+Fremont Unified,Brier Elementary,39201 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.53972,-121.984794
+Fremont Unified,Glankler Early Learning Center,39207 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.5396325988888,-121.984859300833
+Fremont Unified,John F. Kennedy High,39999 Blacow Road Fremont CA 94538-1913,NA,NA,FALSE,tested,Fremont,Alameda County,37.528581,-121.983517
+Fremont Unified,G. M. Walters Junior High,39600 Logan Drive Fremont CA 94538-1912,6.6,ppb,TRUE,tested,Fremont,Alameda County,37.536994,-121.985187
+Fremont Unified,John G. Mattos Elementary,37944 Farwell Drive Fremont CA 94536-7008,NA,NA,FALSE,tested,Fremont,Alameda County,37.5384613424551,-122.012529408571
+Fremont Unified,O. N. Hirsch Elementary,41399 Chapel Way Fremont CA 94538-4202,NA,NA,FALSE,tested,Fremont,Alameda County,37.5286329509267,-121.963000411462
+Fremont Unified,John M. Horner Junior High,41365 Chapel Way Fremont CA 94538-4202,6.8,ppb,TRUE,tested,Fremont,Alameda County,37.529002439362,-121.963064904923
+Fremont Unified,Joshua Chadbourne Elementary,801 Plymouth Avenue Fremont CA 94539-4637,NA,NA,FALSE,tested,Fremont,Alameda County,37.542204,-121.940116
+Fremont Unified,William Hopkins Junior High,600 Driscoll Road Fremont CA 94539-3803,NA,NA,FALSE,tested,Fremont,Alameda County,37.54633945,-121.941167248094
+Fremont Unified,Harvey Green Elementary,42875 Gatewood Street Fremont CA 94538-4131,NA,NA,FALSE,tested,Fremont,Alameda County,37.5193434362124,-121.958535690013
+Fremont Unified,E. M. Grimmer Elementary,43030 Newport Drive Fremont CA 94538-6113,NA,NA,FALSE,tested,Fremont,Alameda County,37.519907673019,-121.951554335332
+Fremont Unified,John Blacow Elementary,40404 Sundale Drive Fremont CA 94538-3314,NA,NA,FALSE,tested,Fremont,Alameda County,37.5278759824823,-121.97766289141
+Fremont Unified,J. Haley Durham Elementary,40292 Leslie Street Fremont CA 94538-3520,NA,NA,FALSE,tested,,,,
+Fremont Unified,John Gomes Elementary,555 Lemos Lane Fremont CA 94539-3750,NA,NA,FALSE,tested,Fremont,Alameda County,37.5499652829224,-121.948201802562
+Fremont Unified,Steven Millard Elementary,5200 Valpey Park Drive Fremont CA 94538-3262,NA,NA,FALSE,tested,,,,
+Fremont Unified,Mission San Jose Elementary,43545 Bryant Street Fremont CA 94539-5885,NA,NA,FALSE,tested,Fremont,Alameda County,37.5293015,-121.9217133
+Fremont Unified,Mission Valley Elementary,41700 Denise Street Fremont CA 94539-4562,NA,NA,FALSE,tested,Fremont,Alameda County,37.536635,-121.946112065317
+Fremont Unified,Robertson High (Continuation),4455 Seneca Park Avenue Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+Fremont Unified,Vista Alternative,4455 Seneca Park Ave. Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+Fremont Unified,Mission San Jose High,41717 Palm Avenue Fremont CA 94539-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.5451551020408,-121.931842734694
+NA,Stratford School,5301 Curtis Street Fremont CA 94538,NA,NA,FALSE,tested,Fremont,Alameda County,37.5206326182875,-121.981087330021
+Fremont Unified,Fred E. Weibel Elementary,45135 South Grimmer Boulevard Fremont CA 94539-6631,8.3,ppb,TRUE,tested,Fremont,Alameda County,37.506196,-121.926512430028
+NA,Our Savior Lutheran School,1385 South Livermore Avenue Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6729144591837,-121.754096683673
+Livermore Valley Joint Unified,Del Valle Continuation High,2253 Fifth Street Livermore CA 94550-4549,NA,NA,FALSE,tested,,,,
+Livermore Valley Joint Unified,Emma C. Smith Elementary,391 Ontario Drive Livermore CA 94550-5249,NA,NA,FALSE,tested,Livermore,Alameda County,37.6659318957745,-121.796448621577
+Livermore Valley Joint Unified,East Avenue Middle,3951 East Avenue Livermore CA 94550-4830,NA,NA,FALSE,tested,Livermore,Alameda County,37.67834605,-121.750481266647
+Livermore Valley Joint Unified,Granada High,400 Wall Street Livermore CA 94550-4066,NA,NA,FALSE,tested,Livermore,Alameda County,37.67506785,-121.78796688858
+Livermore Valley Joint Unified,Jackson Avenue Elementary,554 Jackson Avenue Livermore CA 94550-3434,NA,NA,FALSE,tested,Livermore,Alameda County,37.68497945,-121.741209216416
+Livermore Valley Joint Unified,Joe Michell,1001 Elaine Avenue Livermore CA 94550-5414,NA,NA,FALSE,tested,Livermore,Alameda County,37.6695242594422,-121.783491806532
+Livermore Valley Joint Unified,Junction K-8,298 Junction Avenue Livermore CA 94551-5903,NA,NA,FALSE,tested,Livermore,Alameda County,37.6879208,-121.765169079566
+Livermore Valley Joint Unified,Livermore High,600 Maple Street Livermore CA 94550-3298,NA,NA,FALSE,tested,Livermore,Alameda County,37.680493,-121.761581
+Livermore Valley Joint Unified,Marylin Avenue Elementary,800 Marylin Avenue Livermore CA 94551-6514,NA,NA,FALSE,tested,Livermore,Alameda County,37.68475065,-121.785998196708
+Livermore Valley Joint Unified,Rancho Las Positas Elementary,401 East Jack London Boulevard Livermore CA 94551-1853,NA,NA,FALSE,tested,Livermore,Alameda County,37.688898,-121.796734
+Livermore Valley Joint Unified,Sunset Elementary,1671 Frankfurt Way Livermore CA 94550-6146,NA,NA,FALSE,tested,Livermore,Alameda County,37.6626956697751,-121.773451953919
+Livermore Valley Joint Unified,Vineyard Alternative,1401 Almond Avenue Livermore CA 94550-5043,NA,NA,FALSE,tested,Livermore,Alameda County,37.6774059392515,-121.739919
+Livermore Valley Joint Unified,William Mendenhall Middle,1701 El Padro Drive Livermore CA 94550-6215,NA,NA,FALSE,tested,Livermore,Alameda County,37.6627117929922,-121.792330085056
+Livermore Valley Joint Unified School District,Arroyo Mocho School,1040 Florence Rd Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6696284236321,-121.775205444749
+Livermore Valley Joint Unified School District,Lawrence Elementary School,2451 Portola Avenue Livermore CA 94551,NA,NA,FALSE,tested,Livermore,Alameda County,37.6900872,-121.770633
+Walnut Creek Elementary,Buena Vista Elementary,2355 San Juan Avenue Walnut Creek CA 94597-3099,NA,NA,FALSE,tested,,Contra Costa County,37.9115115074233,-122.068627394924
+Walnut Creek Elementary,Indian Valley Elementary,551 Marshall Drive Walnut Creek CA 94598-4908,NA,NA,FALSE,tested,,Contra Costa County,37.9021211956522,-122.033482467391
+Walnut Creek Elementary,Murwood Elementary,2050 Vanderslice Avenue Walnut Creek CA 94596-5923,NA,NA,FALSE,tested,,Contra Costa County,37.8827979,-122.0465007
+Walnut Creek Elementary,Parkmead Elementary,1920 Magnolia Way Walnut Creek CA 94595-1715,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1455587,-117.4499865
+Walnut Creek Elementary,Tice Creek,1847 Newell Avenue Walnut Creek CA 94595-1452,NA,NA,FALSE,tested,,Contra Costa County,37.8932287,-122.0569591
+Walnut Creek Elementary,Walnut Heights Elementary,4064 Walnut Boulevard Walnut Creek CA 94596-5463,NA,NA,FALSE,tested,,Contra Costa County,37.8946958948063,-122.038518776463
+Walnut Creek Elementary,Walnut Creek Intermediate,2425 Walnut Boulevard Walnut Creek CA 94597-3836,NA,NA,FALSE,tested,,Contra Costa County,37.9112324,-122.0590616
+Orinda Union Elementary,Del Rey Elementary,25 El Camino Moraga Orinda CA 94563-4117,NA,NA,FALSE,tested,,Contra Costa County,37.8462058574825,-122.154358336274
+Orinda Union Elementary,Glorietta Elementary,15 Martha Road Orinda CA 94563-3558,NA,NA,FALSE,tested,,Contra Costa County,37.8723969928457,-122.163513623171
+Orinda Union Elementary,Sleepy Hollow Elementary,20 Washington Lane Orinda CA 94563-1325,NA,NA,FALSE,tested,,Contra Costa County,37.9078599869878,-122.197453912393
+Orinda Union Elementary,Wagner Ranch Elementary,350 Camino Pablo Orinda CA 94563-1602,NA,NA,FALSE,tested,,Contra Costa County,37.8977722,-122.2067931
+Orinda Union Elementary,Orinda Intermediate,80 Ivy Drive Orinda CA 94563-4244,NA,NA,FALSE,tested,,Contra Costa County,37.851294,-122.145488
+Acalanes Union High,Acalanes High,1200 Pleasant Hill Road Lafayette CA 94549-2623,NA,NA,FALSE,tested,,Contra Costa County,37.9049243,-122.0988529
+Acalanes Union High,Campolindo High,300 Moraga Road Moraga CA 94556-2402,NA,NA,FALSE,tested,,Contra Costa County,37.8539178,-122.1250439
+Acalanes Union High,Acalanes Center for Independent Study,1963 Tice Valley Boulevard Walnut Creek CA 94595-2201,NA,NA,FALSE,tested,,Contra Costa County,37.8772498046448,-122.07334644756
+Acalanes Union High,Las Lomas High,1460 South Main Street Walnut Creek CA 94596-5319,NA,NA,FALSE,tested,,Contra Costa County,37.8914095034364,-122.057734167041
+Acalanes Union High,Miramonte High,750 Moraga Way Orinda CA 94563-4330,NA,NA,FALSE,tested,,Contra Costa County,37.842598247658,-122.145066358706
+San Lorenzo Unified,Colonial Acres Elementary,17115 Meekland Avenue Hayward CA 94541-1304,NA,NA,FALSE,tested,Hayward,Alameda County,37.6667862,-122.098816
+San Lorenzo Unified,San Lorenzo High,50 East Lewelling Boulevard San Lorenzo CA 94580-1732,NA,NA,FALSE,tested,,Alameda County,37.6868072977121,-122.12211761055
+San Lorenzo Unified,Corvallis Elementary,14790 Corvallis Street San Leandro CA 94579-1174,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6962579765223,-122.151655495355
+San Lorenzo Unified,Washington Manor Middle,1170 Fargo Avenue San Leandro CA 94579-1633,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6888269727242,-122.149191747777
+San Lorenzo Unified,Dayton Elementary,1500 Dayton Avenue San Leandro CA 94579-1528,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6879118,-122.157208539503
+NA,Redwood Christian Middle School and High School,1000 Paseo Grande San Lorenzo CA 94580,NA,NA,FALSE,tested,,Alameda County,37.6767322097773,-122.134528292363
+NA,Seneca Family of Agencies - James Baldwin Academy,2275 Arlington Drive San Leandro CA 94578,8.7,ppb,TRUE,tested,,,,
+San Lorenzo Unified,Bohannon Middle,800 Bockman Road San Lorenzo CA 94580-2906,10,ppb,TRUE,tested,,Alameda County,37.669577,-122.12528529648
+San Lorenzo Unified,East Bay Arts High,20450 Royal Ave Hayward CA 94541-4712,13,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+San Lorenzo Unified,Lorenzo Manor Elementary,18250 Bengal Street Hayward CA 94541-2202,NA,NA,FALSE,tested,,,,
+San Lorenzo Unified,KIPP King Collegiate High,2005 Via Barrett San Lorenzo CA 94580-1315,NA,NA,FALSE,tested,,Alameda County,37.6743136695458,-122.149903615786
+San Lorenzo Unified,Bay Elementary,2001 Bockman Road San Lorenzo CA 94580-1903,NA,NA,FALSE,tested,,Alameda County,37.6725764,-122.146889028229
