@@ -1,0 +1,24 @@
+{
+  "name": "@mak4lab/csv-splitter",
+  "version": "0.0.1",
+  "description": "Splits CSV into relational tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mak4lab/csv-splitter.git"
+  },
+  "keywords": [
+    "relational",
+    "database",
+    "CSV"
+  ],
+  "author": "Daniel J. Dufour & Victoria Mak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mak4lab/csv-splitter/issues"
+  },
+  "homepage": "https://github.com/mak4lab/csv-splitter#readme"
+}
