@@ -9,6 +9,8 @@ const tableNames = [
 	['district', 'schoolName']
 ];
 
+const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult', 'status'];
+
 const { readFileSync, writeFileSync } = require('fs');
 
 //const { convertCSVToArray } = require('convert-csv-to-array');
@@ -78,14 +80,18 @@ console.log('uniques', uniques);
 // replace values with index numbers
 rows.forEach(row => {
 	columns.forEach(column => {
-		const originalValue = row[column];
-		row[column] = uniques[column].indexOf(originalValue);
+		if (ignoreTheseColumns.indexOf(column) === -1) {
+			const originalValue = row[column];
+			row[column] = uniques[column].indexOf(originalValue);
+		}
 	});
 });
 
 //const outfile = infile.replace(".csv", "_compressed.csv");
 const outfile = 'output/compressed.csv';
-new ObjectsToCsv(rows).toDisk(outfile);
+new ObjectsToCsv(rows).toString(header=true).then(string => {
+	writeFileSync(outfile, string, 'utf-8');
+});
 
 
 // allow a user to specify tableNames
