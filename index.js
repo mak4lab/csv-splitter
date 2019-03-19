@@ -4,16 +4,29 @@ const infile = 'test/data/ca_schools_lead_testing_data_geocoded.csv';
 const tableNames = [
 	['county', 'city'],
 	['county', 'schoolName'],
-	['city', 'schoolName']
+	['city', 'schoolName'],
+	['county', 'district'],
+	['district', 'schoolName']
 ];
 
 const { readFileSync, writeFileSync } = require('fs');
 
-const { convertCSVToArray } = require('convert-csv-to-array');
-
+//const { convertCSVToArray } = require('convert-csv-to-array');
+const { toObjects } = require('jquery-csv');
 
 const ObjectsToCsv = require('objects-to-csv');
 
+function sortByLetter(a, b) {
+	if (typeof a === 'string' && typeof b === 'string') {
+		var aLowered = a.toLowerCase();
+		var bLowered = b.toLowerCase();
+		if (aLowered < bLowered) { return -1; }
+		if (aLowered > bLowered) { return 1; }
+		return 0;
+	} else {
+		return a - b;
+	}
+}
 
 function sortByNumber(a, b) {
 	return a - b;
@@ -25,9 +38,9 @@ const data = readFileSync(infile, 'utf-8');
 // remove \r
 const cleaned = data.replace(/\r/g, '');
 
-const rows = convertCSVToArray(cleaned).slice(1);
+const rows = toObjects(cleaned);
 
-const columns = Object.keys(rows[0]).sort();
+const columns = Object.keys(rows[0]).sort(sortByLetter);
 
 console.log("columns:", columns);
 
@@ -52,7 +65,7 @@ tableNames.forEach(([a, b]) => {
 // sort unique values for each column
 for (let columnName in uniques) {
 	// e.g. San Diego, San Francisco, San Pablo
-	const values = Array.from(uniques[columnName]).sort();
+	const values = Array.from(uniques[columnName]).sort(sortByLetter);
 	uniques[columnName] = values;
 
 	// save to index / lookup table
@@ -64,10 +77,10 @@ console.log('uniques', uniques);
 
 // replace values with index numbers
 rows.forEach(row => {
-	for (let column in row) {
+	columns.forEach(column => {
 		const originalValue = row[column];
 		row[column] = uniques[column].indexOf(originalValue);
-	}
+	});
 });
 
 //const outfile = infile.replace(".csv", "_compressed.csv");
