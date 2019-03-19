@@ -1,0 +1,349 @@
+
+29 Palms
+Agoura Hills
+Alameda
+Alhambra
+Aliso Viejo
+Alturas
+American Canyon
+Anaheim
+Anderson
+Angels
+Antioch
+Arcadia
+Arcata
+Arroyo Grande
+Artesia
+Atwater
+Auburn
+Avenal
+Azusa
+Bakersfield
+Baldwin Park
+Banning
+Beaumont
+Belmont
+Berkeley
+Beverly Hills
+Big Bear Lake
+Biggs
+Bishop
+Brawley
+Brea
+Brentwood
+Buellton
+Buena Park
+Burbank
+Burlingame
+Calabasas
+Calexico
+Calimesa
+Calipatria
+Calistoga
+Camarillo
+Capitola
+Carlsbad
+Carmel-by-the-Sea
+Carpinteria
+Carson
+Ceres
+Cerritos
+Chico
+Chino
+Chino Hills
+Chowchilla
+Chula Vista
+Citrus Heights
+Claremont
+Clearlake
+Cloverdale
+Clovis
+Coalinga
+Colfax
+Colton
+Colusa
+Colón
+Compton
+Concord
+Corning
+Corona
+Coronado
+Costa Mesa
+Cotati
+Covina
+Crescent City
+Cupertino
+Cypress
+Daly City
+Dana Point
+Del Rey Oaks
+Desert Hot Springs
+Diamond Bar
+Dixon
+Dorris
+Downey
+Duarte
+Dunsmuir
+East Palo Alto
+Eastvale
+El Cajon
+El Centro
+El Monte
+El Paso de Robles (Paso Robles)
+El Segundo
+Elk Grove
+Encinitas
+Escondido
+Etna
+Eureka
+Fairfield
+Farmersville
+Ferndale
+Fontana
+Fort Bragg
+Fort Jones
+Foster City
+Fountain Valley
+Fowler
+Fremont
+Fresno
+Fullerton
+Galt
+Garden Grove
+Gardena
+Gilroy
+Glendale
+Glendora
+Gonzales
+Grand Terrace
+Greenfield
+Grover Beach
+Guadalupe
+Half Moon Bay
+Hanford
+Hawthorne
+Hayward
+Healdsburg
+Hemet
+Hermosa Beach
+Highland
+Holtville
+Huntington Beach
+Huron
+Imperial
+Imperial Beach
+Indio
+Industry
+Inglewood
+Ione
+Irvine
+Jackson
+Jurupa Valley
+Kerman
+King City
+LA
+La Habra
+La Mesa
+La Mirada
+La Palma
+La Puente
+Laguna Beach
+Laguna Hills
+Laguna Niguel
+Lake Forest
+Lakeport
+Lakewood
+Lancaster
+Larkspur
+Lathrop
+Lemon Grove
+Lincoln
+Lindsay
+Livermore
+Livingston
+Lodi
+Loma Linda
+Lomita
+Lompoc
+Long Beach
+Los Altos
+Los Banos
+Loyalton
+Lynwood
+Madera
+Manhattan Beach
+Manteca
+Maricopa
+Marina
+Martinez
+Menifee
+Merced
+Millbrae
+Milpitas
+Mission Viejo
+Modesto
+Monrovia
+Montague
+Montclair
+Montebello
+Monterey
+Monterey Park
+Moorpark
+Moreno Valley
+Morro Bay
+Mount Shasta
+Mountain View
+Murrieta
+Napa
+National City
+Nevada City
+Newark
+Newport Beach
+Norwalk
+Oakdale
+Oakland
+Oceanside
+Ojai
+Ontario
+Orange
+Orange Cove
+Orland
+Oroville
+Oxnard
+Pacific Grove
+Pacifica
+Palm Springs
+Palmdale
+Palo Alto
+Palos Verdes Estates
+Paramount
+Parlier
+Pasadena
+Paso Robles
+Perris
+Petaluma
+Pico Rivera
+Pismo Beach
+Placentia
+Placerville
+Plymouth
+Point Arena
+Pomona
+Port Hueneme
+Porterville
+Poway
+Rancho Cordova
+Rancho Cucamonga
+Rancho Palos Verdes
+Rancho Santa Margarita
+Red Bluff
+Redding
+Redlands
+Redondo Beach
+Redwood City
+Reedley
+Rialto
+Richmond
+Ridgecrest
+Rio Dell
+Rio Vista
+Ripon
+Riverside
+Rocklin
+Rohnert Park
+Rosemead
+Roseville
+Sacramento
+Salinas
+San Bernardino
+San Bruno
+San Carlos
+San Clemente
+San Diego
+San Dimas
+San Fernando
+San Gabriel
+San Jacinto
+San José
+San Juan Bautista
+San Juan Capistrano
+San Leandro
+San Luis Obispo
+San Marcos
+San Mateo
+San Rafael
+Sanger
+Santa Ana
+Santa Barbara
+Santa Clara
+Santa Clarita
+Santa Cruz
+Santa Fe Springs
+Santa Maria
+Santa Monica
+Santa Paula
+Santa Rosa
+Santee
+Saratoga
+Scotts Valley
+Seal Beach
+Seaside
+Sebastopol
+Selma
+SF
+Shasta Lake
+Sierra Madre
+Signal Hill
+Simi Valley
+Solana Beach
+Soledad
+Solvang
+Sonoma
+Sonora
+South El Monte
+South Gate
+South Lake Tahoe
+St. Helena
+Stanton
+Stockton
+Suisun City
+Sunnyvale
+Susanville
+Sutter Creek
+Taft
+Temecula
+Temple City
+Thousand Oaks
+Torrance
+Tracy
+Trinidad
+Tulelake
+Turlock
+Tustin
+Upland
+Vacaville
+Vallejo
+Ventura
+Victorville
+Visalia
+Vista
+Walnut
+Waterford
+Watsonville
+Weed
+West Covina
+West Hollywood
+Westlake Village
+Westminster
+Westmorland
+Whittier
+Williams
+Willits
+Willows
+Winters
+Woodlake
+Woodland
+Yorba Linda
+Yreka
+Yuba City
+Yucaipa (City of)

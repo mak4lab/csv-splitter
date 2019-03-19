@@ -71,7 +71,7 @@ for (let columnName in uniques) {
 	uniques[columnName] = values;
 
 	// save to index / lookup table
-	const filename = "output/indexes/" + columnName + "-index.tsv";
+	const filename = "output/indexes/" + columnName + "-index.txt";
 	const fileText = values.join("\n") + "\n";
 	writeFileSync(filename, fileText, "utf-8");		
 }
