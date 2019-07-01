@@ -12,6 +12,7 @@ const tableNames = [
 const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult', 'status'];
 
 const { readFileSync, writeFileSync } = require('fs');
+const mkdirp = require('mkdirp');
 
 //const { convertCSVToArray } = require('convert-csv-to-array');
 const { toObjects } = require('jquery-csv');
@@ -41,6 +42,7 @@ const data = readFileSync(infile, 'utf-8');
 const cleaned = data.replace(/\r/g, '');
 
 const rows = toObjects(cleaned);
+const uncompressedRows = JSON.parse(JSON.stringify(rows));
 
 const columns = Object.keys(rows[0]).sort(sortByLetter);
 
@@ -71,7 +73,7 @@ for (let columnName in uniques) {
 	uniques[columnName] = values;
 
 	// save to index / lookup table
-	const filename = "output/indexes/" + columnName + "-index.txt";
+	const filename = "output/indices/" + columnName + "-index.txt";
 	const fileText = values.join("\n") + "\n";
 	writeFileSync(filename, fileText, "utf-8");		
 }
@@ -162,4 +164,27 @@ for (let tableName in coocurrences) {
 	}
 	writeFileSync(filename, fileText, 'utf-8');
 }
+
+// save files for each value of designated field
+const splitBy = ["city", "county", "district"];
+const saveTheseColumns = ['district', 'lead', 'medianResult', 'schoolAddress', 'schoolName', 'status'];
+const outfolder = "output/downloads/";
+const outfolders = splitBy.map(key => outfolder + key);
+console.log("outfolders:", outfolders);
+// todo: make sub folders generically
+splitBy.forEach(fieldName => {
+	console.log("splitting by", fieldName);
+	uniques[fieldName].forEach((uniqueValue, index) => {
+		const filtered = uncompressedRows.filter(row => {
+			// need to be aware of compression or not here later
+			return row[fieldName] == uniqueValue;
+		}).sort((a, b) => {
+			return sortByLetter(a.schoolName, b.schoolName);
+		});
+		const outfile = `output/downloads/${fieldName}/${index}.csv`;
+		new ObjectsToCsv(filtered).toString(header=true).then(string => {
+			writeFileSync(outfile, string, 'utf-8');
+		});
+	});
+});
 
