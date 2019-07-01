@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cupertino Union,Abraham Lincoln Elementary,21710 McClellan Road Cupertino CA 95014-4054,6.3,ppb,TRUE,tested,Cupertino,Santa Clara County,37.31494445,-122.054055543415
+Cupertino Union,C. B. Eaton Elementary,20220 Suisun Drive Cupertino CA 95014-4428,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.314792250000004,-122.026189594375
+Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32076165,-122.008954023319
+Cupertino Union,Cupertino Middle,1650 South Bernardo Ave. Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Cupertino Union,Cupertino Middle,1650 South Bernardo Avenue Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Cupertino Union,D. J. Sedgwick Elementary,19200 Phil Lane Cupertino CA 95014-3566,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3153599,-122.00851375683
+Cupertino Union,Garden Gate Elementary,10500 Ann Arbor Avenue Cupertino CA 95014-1661,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.33151935,-122.044798792772
+Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3364109,-122.04801905545
+Cupertino Union,John F. Kennedy Middle,821 Bubb Road Cupertino CA 95014-4938,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3107131,-122.052769980381
+Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.31491205,-122.056726500299
+Cupertino Union,Murdock-Portal Elementary,1188 Wunderlich Drive San Jose CA 95129-3163,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3045691627047,-121.999366812423
+Cupertino Union,Sam H. Lawson Middle,10401 Vista Drive Cupertino CA 95014-2081,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32937025,-122.027168700195
+Cupertino Union,Stevens Creek Elementary,10300 Ainsworth Drive Cupertino CA 95014-1099,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32765645,-122.06363933192
+Cupertino Union,Warren E. Hyde Middle,19325 Bollinger Road Cupertino CA 95014-4657,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.31137645,-122.011565021962
+Cupertino Union,West Valley Elementary,1635 Belleville Way Sunnyvale CA 94087-3926,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3388960816131,-122.061048832413
+Cupertino Union,William Faria Elementary,10155 Barbara Lane Cupertino CA 95014-2901,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3212587,-122.039904599999
+Cupertino Union,William Regnart Elementary,1170 Yorkshire Drive Cupertino CA 95014-4963,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3039769,-122.0473889

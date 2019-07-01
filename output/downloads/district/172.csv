@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Covina-Valley Unified,Barranca Elementary,727 South Barranca Avenue Covina CA 91723-3665,12,ppb,TRUE,tested,Covina,Los Angeles County,34.0861146,-117.8813437
+Covina-Valley Unified,Ben Lomond Elementary,621 East Covina Boulevard Covina CA 91722-2959,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0995018163265,-117.87816344898
+Covina-Valley Unified,Covina High,463 South Hollenbeck Avenue Covina CA 91723-2955,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0814773308649,-117.899036258277
+Covina-Valley Unified,Cypress Elementary,351 West Cypress Avenue Covina CA 91723-1214,NA,NA,FALSE,tested,NA,NA,NA,NA
+Covina-Valley Unified,Fairvalley High (Continuation),758 W Grondhal Covina CA 91722-2065,5.5,ppb,TRUE,tested,NA,NA,NA,NA
+Covina-Valley Unified,Grovecenter Elementary,775 North Lark Ellen Avenue West Covina CA 91791-1082,10.05,ppb,TRUE,tested,NA,NA,NA,NA
+Covina-Valley Unified,Lark Ellen Elementary,4555 North Lark Ellen Avenue Covina CA 91722-3134,NA,NA,NA,not tested,Covina,Los Angeles County,34.0949015887184,-117.916667647112
+Covina-Valley Unified,Las Palmas Middle,641 North Lark Ellen Avenue Covina CA 91722-3463,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0907729636761,-117.916683716282
+Covina-Valley Unified,Manzanita Elementary,4131 North Nora Avenue Covina CA 91722-3821,NA,NA,FALSE,tested,NA,Los Angeles County,34.0813562,-117.9385738
+Covina-Valley Unified,Merwin Elementary,16125 Cypress Covina CA 91722-2236,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0957384,-117.9055833
+Covina-Valley Unified,Mesa Elementary,409 South Barranca Street West Covina CA 91791-2209,12,ppb,TRUE,tested,West Covina,Los Angeles County,34.0662819805741,-117.881430768031
+Covina-Valley Unified,Northview High,1016 West Cypress Avenue Covina CA 91722-3145,14,ppb,TRUE,tested,NA,NA,NA,NA
+Covina-Valley Unified,Rowland Avenue Elementary,1355 East Rowland Avenue West Covina CA 91790-1845,6.3,ppb,TRUE,tested,West Covina,Los Angeles County,34.079215896557,-117.919468073311
+Covina-Valley Unified,Sierra Vista Middle,777 East Puente Street Covina CA 91723-2826,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0825668,-117.8835181
+Covina-Valley Unified,South Hills High,645 South Barranca Street West Covina CA 91723-0269,6.1,ppb,TRUE,tested,West Covina,Los Angeles County,34.0634428784329,-117.881265981803
+Covina-Valley Unified,Traweek Middle,1941 East Rowland Avenue West Covina CA 91723-0269,5.6,ppb,TRUE,tested,West Covina,Los Angeles County,34.079116,-117.90425
+Covina-Valley Unified,Workman Avenue Elementary,1941 East Workman Avenue West Covina CA 91791-1492,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0755600612245,-117.904309122449

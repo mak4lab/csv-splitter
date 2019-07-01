@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hughson Unified,Dickens (Billy Joe) High (Continuation),6937 Fox Road Hughson CA 95326-0099,NA,NA,NA,not tested,NA,Stanislaus County,37.6021206326531,-120.866129632653
+Hughson Unified,Emilie J. Ross Middle,7448 Fox Road Hughson CA 95326-0189,NA,NA,NA,not tested,NA,Stanislaus County,37.6018676656822,-120.853549379776
+Hughson Unified,Fox Road Elementary,7600 Fox Road Hughson CA 95326-9627,NA,NA,NA,not tested,NA,Stanislaus County,37.6018657730282,-120.852821784692
+Hughson Unified,Hughson Elementary,7201 East Whitmore Avenue Hughson CA 95326-0189,NA,NA,NA,not tested,NA,Stanislaus County,37.594844,-120.862994
+Hughson Unified,Hughson High,7419 East Whitmore Avenue Hughson CA 95326-0099,NA,NA,FALSE,tested,,Stanislaus County,37.5948250910836,-120.860327360328

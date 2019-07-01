@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8017859,-116.9677295
+San Jacinto Unified,"Clayton A. Record, Jr., Elementary",1600 Malaga Drive San Jacinto CA 92583-2369,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8063585,-116.9756553
+San Jacinto Unified,Estudillo Elementary,900 Las Rosas Drive San Jacinto CA 92583-4420,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7796345,-116.9417478
+San Jacinto Unified,Monte Vista Middle,181 North Ramona Boulevard San Jacinto CA 92583-3324,9.3,ppb,TRUE,tested,San Jacinto,Riverside County,33.788302,-116.964041
+San Jacinto Unified,Mountain Heights Academy,1000 Ramona Boulevard San Jacinto CA 92582-2552,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797636,-116.975642
+San Jacinto Unified,Park Hill Elementary,1157 East Commonwealth Avenue San Jacinto CA 92583-6842,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7694634416906,-116.942276585749
+San Jacinto Unified,San Jacinto Elementary,136  North Ramona Boulevard San Jacinto CA 92583-3325,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.787541,-116.963349
+San Jacinto Unified,San Jacinto High,500 Idyllwild Drive San Jacinto CA 92583-2615,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797116,-116.968881
+San Jacinto Unified,San Jacinto Leadership Academy - Magnet,1599 Malaga Drive San Jacinto CA 92583-2369,NA,NA,NA,not tested,San Jacinto,Riverside County,33.8063585,-116.9756553

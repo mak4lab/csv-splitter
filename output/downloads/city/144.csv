@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2213897,-121.1346625
+King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.2154301632653,-121.135151244898
+King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2098055714286,-121.127289
+South Monterey County Joint Union High,King City High,720 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2088201836735,-121.133137489796
+King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.2213897,-121.1346625
+South Monterey County Joint Union High,Pinnacle Academy Charter,760 Broadway St. King City CA 93930,NA,NA,NA,not tested,King City,Monterey County,36.2092185510204,-121.132606469388
+South Monterey County Joint Union High,Portola-Butler Continuation High,760 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2092185510204,-121.132606469388
+King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.2137548571429,-121.132602836735

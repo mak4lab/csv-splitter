@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Albany City Unified,Albany Adult,603 Key Route Blvd Albany CA 94706-1422,NA,NA,NA,not tested,NA,Alameda County,37.8965494259009,-122.29256332415
+Albany City Unified,Albany Childrens Center,720 Jackson St Albany CA 94706,8.2,ppb,TRUE,tested,NA,Alameda County,37.8931655138121,-122.30279703031
+Albany City Unified,Albany High,603 Key Route Boulevard Albany CA 94706-1422,NA,NA,FALSE,tested,NA,Alameda County,37.8965494259009,-122.29256332415
+Albany City Unified,Albany Middle,1259 Brighton Avenue Albany CA 94706-1336,NA,NA,FALSE,tested,NA,Alameda County,37.8976746177441,-122.295345998106
+Albany City Unified,Cornell Elementary,920 Talbot Avenue Albany CA 94706-2020,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8897097992548,-122.295256152722
+Albany City Unified,MacGregor High (Continuation),603 Key Rte Blvd Albany CA 94706-1422,NA,NA,FALSE,tested,NA,Alameda County,37.897482125,-122.2929625
+Albany City Unified,Marin Elementary,1001 Santa Fe Avenue Albany CA 94706-2341,NA,NA,FALSE,tested,NA,Alameda County,37.888418,-122.288236
+Albany City Unified,Ocean View Elementary,1000 Jackson Street Albany CA 94706-1904,NA,NA,FALSE,tested,NA,Alameda County,37.88751,-122.301014

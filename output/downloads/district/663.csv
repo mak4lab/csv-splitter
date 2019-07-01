@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Bernardino County Superintendent of Schools,Child Development Preschool Center,2350 North E St. San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.1583843,-117.2940074
+San Bernardino County Superintendent of Schools,San Bernardino Nutrition Services,1257 Northpark Blvd. W San Bernardino CA 92407,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.1789392828283,-117.313825474747

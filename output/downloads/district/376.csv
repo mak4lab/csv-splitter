@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Tahoe Unified,Al Tahoe,1100 Lyons Ave South Lake Tahoe CA 96150,32,ppb,TRUE,tested,South Lake Tahoe,El Dorado County,38.9379568214319,-119.975354272734
+Lake Tahoe Unified,Bijou Community,3501 Spruce Avenue South Lake Tahoe CA 96150-8317,NA,NA,FALSE,tested,South Lake Tahoe,El Dorado County,38.941982,-119.955815
+Lake Tahoe Unified,Lake Tahoe Environmental Science Magnet,1095 San Bernardino Avenue South Lake Tahoe CA 96150-5235,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Tahoe Unified,Mt. Tallac High,1735 Lake Tahoe Boulevard B South Lake Tahoe CA 96150-3718,NA,NA,NA,not tested,NA,NA,NA,NA
+Lake Tahoe Unified,Sierra House Elementary,1709 Remington Trail South Lake Tahoe CA 96150-6825,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Tahoe Unified,South Tahoe High,1735 Lake Tahoe Blvd South Lake Tahoe CA 96150-3718,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Tahoe Unified,South Tahoe Middle,2940 Lake Tahoe Boulevard South Lake Tahoe CA 96150-7800,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Tahoe Unified,Tahoe Valley Elementary,943 Tahoe Island Drive South Lake Tahoe CA 96150-4200,7.8,ppb,TRUE,tested,NA,NA,NA,NA

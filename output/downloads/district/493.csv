@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mount Pleasant Elementary,August Boeger Middle,1944 Flint Avenue San Jose CA 95148-1213,NA,NA,FALSE,tested,San José,Santa Clara County,37.3473151,-121.799311644746
+Mount Pleasant Elementary,Ida Jew Academies,1966 Flint Avenue San Jose CA 95148-1213,NA,NA,FALSE,tested,San José,Santa Clara County,37.3458269,-121.798318509122
+Mount Pleasant Elementary,Mt. Pleasant Elementary,14275 Candler Drive San Jose CA 95127-4157,NA,NA,FALSE,tested,NA,NA,NA,NA
+Mount Pleasant Elementary,Robert Sanders Elementary,3411 Rocky Mountain Drive San Jose CA 95127-4853,NA,NA,FALSE,tested,San José,Santa Clara County,37.352429,-121.801885261179
+Mount Pleasant Elementary,Valle Vista Elementary,2400 Flint Avenue San Jose CA 95148-1719,NA,NA,FALSE,tested,San José,Santa Clara County,37.339021,-121.792081

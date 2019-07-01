@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Emery Unified,Anna Yates Elementary,1070 41st Street Emeryville CA 94608-3643,NA,NA,NA,not tested,NA,Alameda County,37.832134,-122.279251
+Emery Unified,Emery Secondary,915 54th Street Oakland CA 94608-3142,NA,NA,NA,not tested,Oakland,Alameda County,37.8379092,-122.2805288
+Emery Unified,Emeryville Child Development Center,1220 53rd Street Emeryville CA 94608,NA,NA,FALSE,tested,NA,Alameda County,37.8368159,-122.2850281
+Emery Unified,Emeryville Preschool Students,1275 - 61st Street Emeryville CA 94608-2132,NA,NA,NA,not tested,NA,Alameda County,37.84286845,-122.287407904281

@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Monterey Peninsula Unified,Central Coast High,200 Coe Avenue Seaside CA 93955-6588,NA,NA,FALSE,tested,Seaside,Monterey County,36.6298470362887,-121.835494339146
+Monterey Peninsula Unified,Dual Language Academy of the Monterey Peninsula,225 Normandy Road Seaside CA 93955-6396,6,ppb,TRUE,tested,Seaside,Monterey County,36.6376941489091,-121.812842957289
+Monterey Peninsula Unified,George C. Marshall Elementary,300 Normandy Road Seaside CA 93955-6773,NA,NA,FALSE,tested,Seaside,Monterey County,36.637804,-121.813008
+Monterey Peninsula Unified,Highland Elementary School,1650 Sonoma Ave Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6058312482788,-121.829398660899
+Monterey Peninsula Unified,International School of Monterey,1720 Yosemite Street Seaside CA 93955-3914,NA,NA,FALSE,tested,Seaside,Monterey County,36.61249915,-121.827017064937
+Monterey Peninsula Unified,King Elementary School,1713 Broadway Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6088732307692,-121.825665
+Monterey Peninsula Unified,Ord Terrace Elementary,1755 La Salle Avenue Seaside CA 93955-4122,NA,NA,FALSE,tested,Seaside,Monterey County,36.6167132857143,-121.82642477551
+Monterey Peninsula Unified,Seaside Children’s Center,1450 Elm Avenue Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6073732222222,-121.834915277778
+Monterey Peninsula Unified,Seaside High,2200 Noche Buena Street Seaside CA 93955-3145,NA,NA,FALSE,tested,Seaside,Monterey County,36.6217031717172,-121.837876484848
+Monterey Peninsula Unified,Seaside Middle,999 Coe Avenue Seaside CA 93955-6589,6,ppb,TRUE,tested,Seaside,Monterey County,36.6217475,-121.8228365

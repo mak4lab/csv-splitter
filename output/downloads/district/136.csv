@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Charter Oak Unified,Badillo Elementary,1771 East Old Badillo Avenue Covina CA 91724-3126,NA,NA,FALSE,tested,NA,NA,NA,NA
+Charter Oak Unified,Bridges Community Day,1505 South Sunflower Ave. Glendora CA 91740-5839,6,ppb,TRUE,tested,Glendora,Los Angeles County,34.1114403475357,-117.846239193236
+Charter Oak Unified,Cedargrove Elementary,1209 North Glendora Avenue Covina CA 91724-1506,5.2,ppb,TRUE,tested,Covina,Los Angeles County,34.0997108446319,-117.863902384883
+Charter Oak Unified,Charter Oak High,1430 East Covina Boulevard Covina CA 91724-1651,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0994152,-117.8626877
+Charter Oak Unified,Glen Oak Elementary,1000 North Sunflower Ave Covina CA 91724-2307,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0982035490196,-117.846270843137
+Charter Oak Unified,Royal Oak Middle,303 South Glendora Avenue Covina CA 91724-3235,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.069216664589,-117.923389363362
+Charter Oak Unified,Stone Ridge Academy,1115 East Puente St Covina CA 91724,NA,NA,NA,not tested,Covina,Los Angeles County,34.08346885,-117.867729793367
+Charter Oak Unified,Washington Elementary,325 West Gladstone Glendora CA 91740-5503,NA,NA,FALSE,tested,NA,NA,NA,NA
+Charter Oak Unified,Willow Elementary,1427 South Willow Glendora CA 91740-5826,NA,NA,FALSE,tested,NA,NA,NA,NA

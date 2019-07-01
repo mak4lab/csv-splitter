@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mariposa County Unified,Lake Don Pedro Elementary,2411 Hildago La Grange CA 95329,NA,NA,NA,not tested,NA,NA,NA,NA
+Mariposa County Unified,Mariposa County High,5074 Old Highway Mariposa CA 95338-0127,NA,NA,FALSE,tested,NA,Mariposa County,37.459455,-119.956572
+Mariposa County Unified,Mariposa Elementary,5044 Jones Street Mariposa CA 95338-5002,NA,NA,FALSE,tested,NA,Mariposa County,37.4871599,-119.9643398

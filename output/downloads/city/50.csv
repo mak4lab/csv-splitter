@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+ABC Unified,ABC Adult,12254 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8788952692819,-118.071267626995
+ABC Unified,Bragg Elementary,11501 Bos Street Cerritos CA 90703-6742,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8561773,-118.089484853092
+ABC Unified,Carmenita Middle,13435 East 166th Street Cerritos CA 90703-2301,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8803779,-118.0715417
+Los Angeles Unified,District Offices,16700 Norwalk Blvd Cerritos  CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8796992929293,-118.072593878788
+ABC Unified,Gahr (Richard) High,11111 Artesia Boulevard Cerritos CA 90703-2533,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.87487315,-118.096358047446
+ABC Unified,Gonsalves (Joe A.) Elementary,13650 Park Street Cerritos CA 90703-1413,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8786370408163,-118.041281897959
+ABC Unified,Haskell (Pliny Fisk) Middle,11525 Del Amo Boulevard Cerritos CA 90703-7404,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.84809565,-118.087857409609
+ABC Unified,Leal (Frank C.) Elementary,12920 Droxford Street Cerritos CA 90703-6068,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8610743877551,-118.056688632653
+ABC Unified,Nixon (Patricia) Elementary,19600 Jacob Avenue Cerritos CA 90703-7526,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.852771,-118.07646
+Los Angeles Unified,Nutritional Services 083,12255 Cuesta Drive Cerritos CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8790755559573,-118.071317445012
+ABC Unified,Stowers(Cecil B.) Elementary,13350 Beach Street Cerritos CA 90703-1331,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8764334872129,-118.047498649998
+ABC Unified,Tracy (Wilbur) High (Continuation),12222 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878939816422,-118.072013662108
+ABC Unified,Whitney (Gretchen) High,16800 Shoemaker Avenue Cerritos CA 90703-1244,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8777826,-118.053554538212
+ABC Unified,Wittmann (Helen) Elementary,16801 Yvette Avenue Cerritos CA 90703-1245,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878112,-118.057171

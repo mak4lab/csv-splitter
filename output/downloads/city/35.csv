@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.8555087755102,-118.019979
+Fullerton Joint Union High,Buena Park High,8833 Academy Drive Buena Park CA 90621-3705,NA,NA,FALSE,tested,Buena Park,Orange County,33.86102,-117.98016
+Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
+Centralia Elementary,Buena Terra Elementary,8299 Holder Street Buena Park CA 90620-2957,NA,NA,FALSE,tested,Buena Park,Orange County,33.843761,-118.018506
+Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.8844450030327,-117.983275151995
+Centralia Elementary,Glen H. Dysinger Sr. Elementary,7770 Camellia Drive Buena Park CA 90620-2152,NA,NA,FALSE,tested,Buena Park,Orange County,33.8504489051835,-117.991762744913
+Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
+Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,NA,NA,NA,not tested,Buena Park,Orange County,33.82354815,-118.01825570187
+Anaheim Union High,Hope,7901 Knott Avenue Buena Park CA 90620-2469,7.3,ppb,TRUE,tested,Buena Park,Orange County,33.8614003,-118.0111968
+Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.85767295,-117.994675361216
+Centralia Elementary,Raymond Temple Elementary,7800 Holder Street Buena Park CA 90620-2315,NA,NA,FALSE,tested,Buena Park,Orange County,33.850241,-118.019721
+Private,Rossier Park School,7100 Knott Avenue Buena Park CA 90620,NA,NA,FALSE,tested,Buena Park,Orange County,33.8614003,-118.0111968
+Centralia Elementary,San Marino Elementary,6215 San Rolando Way Buena Park CA 90620-3635,5.8,ppb,TRUE,tested,Buena Park,Orange County,33.8369414506187,-118.024372949424

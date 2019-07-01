@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Cruz City High,Alternative Family Education,840 North Branciforte Avenue Santa Cruz CA 95062-1028,6.6,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City High,Ark Independent Studies,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City Elementary,Bay View Elementary,1231 Bay Street Santa Cruz CA 95060-4708,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9656226400402,-122.039004899297
+Santa Cruz City High,Costanoa Continuation High,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City Elementary,De Laveaga Elementary,1145 Morrissey Boulevard Santa Cruz CA 95065-1498,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9897425600716,-121.994825246833
+Santa Cruz City Elementary,Gault Elementary,1320 Seabright Avenue Santa Cruz CA 95062-2525,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9756449940181,-122.008589305668
+Santa Cruz City High,Harbor High,300 La Fonda Avenue Santa Cruz CA 95062-1431,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9868692033249,-121.994696977229
+Santa Cruz City High,Mission Hill Middle,425 King Street Santa Cruz CA 95060-3411,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9748363675906,-122.036134679082
+Santa Cruz County Office of Education,Pacific Collegiate Charter,255 Swift Street Santa Cruz CA 95060-6225,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9526331736176,-122.048088348469
+Santa Cruz City High,Santa Cruz Adult,319 La Fonda Avenue Santa Cruz CA 95062,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9870641022628,-121.994643618961
+Santa Cruz City Elementary,Santa Cruz City Elementary Alternative Education-Monarch,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz County Office of Education,Santa Cruz County Community,400 Encinal Street Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County Office of Education,Santa Cruz County Court,400 Encinal Street Santa Cruz CA 95060,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County ROP,Santa Cruz County ROP,400 Encinal Street B Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz County Office of Education,Santa Cruz County Special Education,400 Encinal St. Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073427759,-122.035516225472
+Santa Cruz City High,Santa Cruz High,415 Walnut Avenue Santa Cruz CA 95060-3633,24,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9718398566945,-122.033340386652
+Santa Cruz City Elementary,Westlake Elementary,1000 High Street Santa Cruz CA 95060-2596,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.977915,-122.047988

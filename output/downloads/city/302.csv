@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Solana Beach Elementary,Solan Vista Elementary,"780 Santa Victoria, Solana Beach, CA 92075",NA,NA,NA,exempt,Solana Beach,San Diego County,33.0042256861341,-117.250185317307
+Solana Beach Elementary,Solana Vista,"780 Santa Victoria, Solana Beach, CA 92075",NA,NA,NA,exempt,Solana Beach,San Diego County,33.0042256861341,-117.250185317307
+Solana Beach Elementary,Solana Vista Elementary,780 Santa Victoria Avenue Solana Beach CA 92075-1535,NA,NA,NA,not tested,Solana Beach,San Diego County,33.0042256861341,-117.250185317307

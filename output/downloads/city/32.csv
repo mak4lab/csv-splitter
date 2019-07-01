@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Brea-Olinda Unified,Arovista Elementary,900 Eadington Drive Brea CA 92821-5298,NA,NA,FALSE,tested,Brea,Orange County,33.913696,-117.911997
+Brea-Olinda Unified,Brea Canyon High (Continuation),689 North Wildcat Way Brea CA 92821-7400,6,ppb,TRUE,tested,Brea,Orange County,33.9295798237339,-117.875186078187
+Brea-Olinda Unified,Brea Country Hills Elementary,150 North Associated Road Brea CA 92821-4669,17,ppb,TRUE,tested,Brea,Orange County,33.920472,-117.873107
+Brea-Olinda Unified,Brea Junior High,400 North Brea Boulevard Brea CA 92821-3399,14,ppb,TRUE,tested,Brea,Orange County,33.9263096,-117.894576032159
+Brea-Olinda Unified,Brea-Olinda High,789 North Wildcat Way Brea CA 92821-7400,NA,NA,FALSE,tested,Brea,Orange County,33.9319621,-117.875972044283
+Private,Christ Lutheran,820 West Imperial Highway Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9175529701253,-117.911301890666
+Private,Heights Christian School / Brea,200 South Associated Road Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9172612179849,-117.87603473494801
+Brea-Olinda Unified,Laurel Elementary,200 South Flower Avenue Brea CA 92821-4944,NA,NA,FALSE,tested,Brea,Orange County,33.9160688,-117.896975323851
+Private,Montessori of Brea Inc.,701 Mulberry Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9105997,-117.907309410545
+Brea-Olinda Unified,Olinda Elementary,3145 East Birch Street Brea CA 92821-6250,NA,NA,FALSE,tested,Brea,Orange County,33.9194752,-117.853967263248
+Private,St. Angela Merici Elementary,575 South Walnut Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9120940074533,-117.904173861678
+Brea-Olinda Unified,William E. Fanning Elementary,650 North Apricot Brea CA 92821-3501,NA,NA,FALSE,tested,Brea,Orange County,33.9282756900475,-117.887751486378

@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Escondido Union High,Classical Academy High,207 E Pennsylvania Ave Escondido CA 92025-2808,NA,NA,FALSE,tested,Escondido,San Diego County,33.1242454,-117.0809507
+Escondido Union High,Classical Academy Online School,130 Woodward Avenue Escondido CA 92025,NA,NA,FALSE,tested,Escondido,San Diego County,33.12562,-117.085205
+Escondido Union High,Del Dios Middle School,1400 W. 9th Ave Escondido CA 92025,NA,NA,NA,not tested,Escondido,San Diego County,33.1115172,-117.0822445
+Escondido Union High,Del Lago Academy - Campus of Applied Science,1740 Scenic Trail Way Escondido CA 92029-4211,NA,NA,NA,not tested,Escondido,San Diego County,33.0973332,-117.1035246
+Escondido Union High,Escondido Adult,220 West Crest Escondido CA 92025,NA,NA,NA,not tested,NA,NA,NA,NA
+Escondido Union High,Escondido Charter High,1868 East Valley Parkway Escondido CA 92027-2525,NA,NA,FALSE,tested,Escondido,San Diego County,33.1361487280138,-117.054955856624
+Escondido Union High,Escondido Community Day,2065 East Valley Parkway Encinitas CA 92027,NA,NA,NA,not tested,NA,NA,NA,NA
+Escondido Union High,Escondido High,1535 North Broadway Escondido CA 92026-2015,NA,NA,NA,not tested,Escondido,San Diego County,33.14630115,-117.091930978854
+Escondido Union High,Escondido Union High School District,302 N. Midway Drive Escondido CA 92027,NA,NA,NA,not tested,Escondido,San Diego County,33.1360694231855,-117.050777548464
+Escondido Union High,Orange Glen High,2200 Glen Ridge Road Escondido CA 92027-4115,NA,NA,NA,not tested,Escondido,San Diego County,33.1291727,-117.042074101212
+Escondido Union High,San Pasqual High,3300 Bear Valley Parkway Escondido CA 92025-7636,NA,NA,NA,not tested,Escondido,San Diego County,33.0942124,-117.0589004
+Escondido Union High,Valley High (Continuation),410 North Hidden Trails Road Escondido CA 92027-5333,NA,NA,NA,not tested,NA,NA,NA,NA

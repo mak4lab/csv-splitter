@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sausalito Marin City,Bayside Martin Luther King Jr. Academy,200 Phillips Drive Sausalito CA 94965-1194,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sausalito Marin City,Willow Creek Academy,636 Nevada Street Sausalito CA 94965-1654,NA,NA,FALSE,tested,NA,Marin County,37.8640937,-122.5021955

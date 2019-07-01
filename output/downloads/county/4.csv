@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pierce Joint Unified,Arbuckle Elementary,701 Hall Street Arbuckle CA 95912-0100,NA,NA,FALSE,tested,NA,Colusa County,39.0162314236547,-122.060703652614
+Colusa Unified,Colusa Alternative High (Continuation),901 Colus Avenue Colusa CA 95932-3024,NA,NA,NA,not tested,Colusa,Colusa County,39.2008120553971,-122.020679712567
+Colusa Unified,Colusa Alternative Home,745 10th Street Colusa CA 95932-2220,11.9,ppb,TRUE,tested,Colusa,Colusa County,39.2108491020408,-122.016478102041
+Colusa Unified,Colusa High,901 Colus Avenue Colusa CA 95932-3024,NA,NA,FALSE,tested,Colusa,Colusa County,39.2008120553971,-122.020679712567
+Colusa Unified,George T. Egling Middle,813 Webster Street Colusa CA 95932-2355,NA,NA,FALSE,tested,Colusa,Colusa County,39.2105329463087,-122.014341369128
+Stony Creek Joint Unified,Indian Valley Elementary,5180 Lodoga Stonyford Road Stonyford CA 95979,NA,NA,NA,not tested,NA,Colusa County,39.380669,-122.551007
+Colusa Unified,James M. Burchfield Primary,400 Fremont Street Colusa CA 95932-2630,NA,NA,FALSE,tested,Colusa,Colusa County,39.207559,-122.009111
+Pierce Joint Unified,Lloyd G. Johnson Junior High,938 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.011793,-122.056001
+Maxwell Unified,Maxwell Elementary,146 North St. Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Middle,146 North Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Sr High,515 Oak Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.276269,-122.194849
+Pierce Joint Unified,Pierce High,960 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.0120038333333,-122.056014933333
+Princeton Joint Unified,Princeton Elementary,428 Norman Road Princeton CA 95970-0008,NA,NA,NA,not tested,NA,Colusa County,39.4064224870934,-122.012109710599
+Princeton Joint Unified,Princeton Junior-Senior High,473 State Street Princeton CA 95970-0008,NA,NA,NA,not tested,NA,Colusa County,39.4015552,-122.0114681
+Williams Unified,Williams Junior/Senior High,222 11th Street Williams CA 95987,NA,NA,NA,not tested,Williams,Colusa County,39.1566452696629,-122.15605794382
+Williams Unified,Williams Primary Elementary,1404 E Street Williams CA 95987-0007,NA,NA,NA,not tested,Williams,Colusa County,39.152548515625,-122.15708334375

@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Parlier Unified,Cesar E Chavez Elementary,500 Tuolumne St Parlier CA 93648-2648,NA,NA,FALSE,tested,Parlier,Fresno County,36.608246,-119.524605
+Parlier Unified,John C Martinez Elementary,13174 East Parlier Avenue Parlier CA 93648-2227,NA,NA,FALSE,tested,Parlier,Fresno County,36.614405,-119.553073625
+Parlier Unified,Mathew J Brletic Elementary,601 Third St Parlier CA 93648-2028,NA,NA,FALSE,tested,NA,NA,NA,NA
+Parlier Unified,Parlier High,603 Third Street Parlier CA 93648-2028,NA,NA,NA,not tested,NA,NA,NA,NA
+Parlier Unified,Parlier Junior High,1200 East Parlier Ave Parlier CA 93648-2493,NA,NA,FALSE,tested,Parlier,Fresno County,36.6117761,-119.5023149
+Parlier Unified,S Ben Benavidez Elementary,13900 Tuolumne Street Parlier CA 93648-2839,NA,NA,FALSE,tested,Parlier,Fresno County,36.6084845,-119.5359382
+Parlier Unified,San Joaquin Valley High,900 Newmark Avenue Parlier CA 93648-2034,NA,NA,FALSE,tested,NA,NA,NA,NA

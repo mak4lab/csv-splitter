@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+ABC Unified,ABC Adult,12254 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8788952692819,-118.071267626995
+ABC Unified,Aloha Elementary,11737 East 214th Street Lakewood CA 90715-2101,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.8351281711827,-118.084125855729
+ABC Unified,Artesia High,12108 East Del Amo Boulevard Lakewood CA 90715-1516,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.8459846381199,-118.074159226004
+ABC Unified,Bragg Elementary,11501 Bos Street Cerritos CA 90703-6742,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8561773,-118.089484853092
+ABC Unified,Burbank (Luther) Elementary,17711 Roseton Avenue Artesia CA 90701-3837,NA,NA,NA,not tested,Artesia,Los Angeles County,33.8702279798995,-118.087243959799
+ABC Unified,Carmenita Middle,13435 East 166th Street Cerritos CA 90703-2301,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8803779,-118.0715417
+ABC Unified,Carver (Charles J.) Elementary,19200 East Ely Street Cerritos CA 90703-7157,NA,NA,FALSE,tested,NA,NA,NA,NA
+ABC Unified,Cerritos Elementary,13600 East 183rd Street Cerritos CA 90703-8951,NA,NA,FALSE,tested,NA,NA,NA,NA
+ABC Unified,Cerritos High,12500 East 183rd Street Cerritos CA 90703-8450,NA,NA,FALSE,tested,NA,NA,NA,NA
+ABC Unified,Elliott (William F) Elementary,18415 Cortner Avenue Artesia CA 90703-8402,NA,NA,NA,not tested,NA,NA,NA,NA
+ABC Unified,Fedde (Pharis F.) Middle,21409 South Elaine Avenue Hawaiian Gardens CA 90716-1025,NA,NA,NA,not tested,NA,NA,NA,NA
+ABC Unified,Furgeson (Venn W.) Elementary,22215 Elaine Avenue Hawaiian Gardens CA 90716-1417,NA,NA,NA,not tested,NA,Los Angeles County,33.8267148023162,-118.076077513087
+ABC Unified,Gahr (Richard) High,11111 Artesia Boulevard Cerritos CA 90703-2533,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.87487315,-118.096358047446
+ABC Unified,Gonsalves (Joe A.) Elementary,13650 Park Street Cerritos CA 90703-1413,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8786370408163,-118.041281897959
+ABC Unified,Haskell (Pliny Fisk) Middle,11525 Del Amo Boulevard Cerritos CA 90703-7404,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.84809565,-118.087857409609
+ABC Unified,Hawaiian Elementary,12350 East 226th Street Hawaiian Gardens CA 90716-1721,NA,NA,NA,not tested,NA,NA,NA,NA
+ABC Unified,Juarez (Benito) Elementary,11939 Aclare Street Cerritos CA 90703-2709,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.8745129387755,-118.078883428571
+ABC Unified,Kennedy (John F.) Elementary,17500 Belshire Avenue Artesia CA 90701-4352,NA,NA,NA,not tested,Artesia,Los Angeles County,33.8721895092314,-118.070616269274
+ABC Unified,Leal (Frank C.) Elementary,12920 Droxford Street Cerritos CA 90703-6068,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8610743877551,-118.056688632653
+ABC Unified,Melbourne (Ella P.) Elementary,21314 Claretta Avenue Lakewood CA 90715-2301,NA,NA,NA,not tested,NA,Los Angeles County,33.835993714686,-118.067588314131
+ABC Unified,Niemes (John H.) Elementary,16715 Jersey Avenue Artesia CA 90701-1750,NA,NA,NA,not tested,Artesia,Los Angeles County,33.880036,-118.085722
+ABC Unified,Nixon (Patricia) Elementary,19600 Jacob Avenue Cerritos CA 90703-7526,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.852771,-118.07646
+ABC Unified,Palms Elementary,12445 East 207th Street Lakewood CA 90715-1619,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.842414,-118.06627475
+ABC Unified,Ross (Faye) Middle,17707 Elaine Avenue Artesia CA 90701-4018,NA,NA,NA,not tested,Artesia,Los Angeles County,33.872951,-118.076916
+ABC Unified,Stowers(Cecil B.) Elementary,13350 Beach Street Cerritos CA 90703-1331,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8764334872129,-118.047498649998
+ABC Unified,Tetzlaff (Martin B.) Middle,12351 East Del Amo Boulevard Cerritos CA 90703-7635,NA,NA,NA,not tested,NA,NA,NA,NA
+ABC Unified,Tracy (Wilbur) High (Continuation),12222 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878939816422,-118.072013662108
+ABC Unified,Whitney (Gretchen) High,16800 Shoemaker Avenue Cerritos CA 90703-1244,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.8777826,-118.053554538212
+ABC Unified,Wittmann (Helen) Elementary,16801 Yvette Avenue Cerritos CA 90703-1245,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878112,-118.057171

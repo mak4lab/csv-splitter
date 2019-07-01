@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oroville City Elementary,Bird Street Elementary,1421 Bird Street Oroville CA 95965-4783,5.5,ppb,TRUE,tested,Oroville,Butte County,39.5111219284287,-121.560910130311
+Oroville City Elementary,Central Middle,2565 Mesa Avenue Oroville CA 95966-6024,6.7,ppb,TRUE,tested,Oroville,Butte County,39.5036363761348,-121.544991303508
+Oroville City Elementary,Ishi Hills Middle,1 Ishi Hills Way Oroville CA 95966-5519,NA,NA,FALSE,tested,NA,NA,NA,NA
+Oroville City Elementary,Oakdale Heights Elementary,2255 Las Plumas Avenue Oroville CA 95966-6940,NA,NA,FALSE,tested,NA,Butte County,39.480425,-121.539593
+Oroville City Elementary,Ophir Elementary,210 Oakvale Avenue Oroville CA 95966-9494,NA,NA,FALSE,tested,NA,NA,NA,NA
+Oroville City Elementary,Stanford Avenue Elementary,1801 Stanford Avenue Oroville CA 95966-5231,NA,NA,FALSE,tested,Oroville,Butte County,39.513065,-121.536031
+Oroville City Elementary,STREAM Charter,455E Oro Dam Blvd East Oroville CA 95965-5743,NA,NA,NA,not tested,Oroville,Butte County,39.4979703872603,-121.570794558077
+Oroville City Elementary,Wyandotte Academy,2800 Wyandotte Avenue Oroville CA 95966-6583,NA,NA,FALSE,tested,Oroville,Butte County,39.500393,-121.5466087

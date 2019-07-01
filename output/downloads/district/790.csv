@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sylvan Union Elementary,Aspire University Charter,3313 Coffee Road Modesto CA 95355-1534,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6863855263158,-120.976129947368
+Sylvan Union Elementary,Coleman F. Brown Elementary,2024 Vera Cruz Drive Modesto CA 95355-2404,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6727388752345,-120.972243238628
+Sylvan Union Elementary,Crossroads Elementary,5800 Saxon Way Riverbank CA 95367-9559,NA,NA,FALSE,tested,NA,Stanislaus County,37.723242,-120.947949
+Sylvan Union Elementary,Daniel J. Savage Middle,1900 Maid Mariane Lane Modesto CA 95355-8744,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.670832,-120.93033
+Sylvan Union Elementary,Elizabeth Ustach Middle,2701 Kodiak Drive Modesto CA 95355-9256,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.683371,-120.954843
+Sylvan Union Elementary,Freedom Elementary,2101 Fine Avenue Modesto CA 95355-9771,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6735397236181,-120.926000778894
+Sylvan Union Elementary,Mary Ann Sanders Elementary,3101 Fine Avenue Modesto CA 95355-9702,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6781096,-120.9259839
+Sylvan Union Elementary,Orchard Elementary,1800 Wisdom Way Modesto CA 95355-8836,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6698136,-120.953971979601
+Sylvan Union Elementary,Sherwood Elementary,819 Rumble Road Modesto CA 95350-2414,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.68159,-120.963055
+Sylvan Union Elementary,Somerset Middle,1037 Floyd Avenue Modesto CA 95350-2426,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.678139271028,-120.978843392523
+Sylvan Union Elementary,Standiford Elementary,605 Tokay Avenue Modesto CA 95350-3535,9.2,ppb,TRUE,tested,Modesto,Stanislaus County,37.672735877551,-120.985722306122
+Sylvan Union Elementary,Stockard Coffee Elementary,3900 Northview Drive Modesto CA 95355-1244,5.4,ppb,TRUE,tested,Modesto,Stanislaus County,37.694755,-120.968402
+Sylvan Union Elementary,Sylvan Elementary,2908 Coffee Road Modesto CA 95355-1757,6,ppb,TRUE,tested,Modesto,Stanislaus County,37.680776678392,-120.975804899497
+Sylvan Union Elementary,Woodrow Elementary,800 Woodrow Avenue Modesto CA 95350-1234,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.685518,-121.003547

@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cambrian,Bagby Elementary,1840 Harris Avenue San Jose CA 95124-1125,NA,NA,FALSE,tested,San José,Santa Clara County,37.2788165412091,-121.922135626096
+Cambrian,Fammatre Elementary,2800 New Jersey Avenue San Jose CA 95124-1556,NA,NA,FALSE,tested,San José,Santa Clara County,37.27182385,-121.924046202283
+Cambrian,Farnham Charter,15711 Woodard Road San Jose CA 95124-2668,7.3,ppb,TRUE,tested,San José,Santa Clara County,37.2601301020408,-121.944858030612
+Cambrian,Price Charter Middle,2650 New Jersey Avenue San Jose CA 95124-1520,NA,NA,FALSE,tested,San José,Santa Clara County,37.2732829,-121.925085025296
+Cambrian,Sartorette Charter,3850 Woodford Drive San Jose CA 95124-3736,5.1,ppb,TRUE,tested,San José,Santa Clara County,37.2605782,-121.909569831706
+Cambrian,Steindorf STEAM K-8 Magnet,3001 Ross Avenue San Jose CA 95124-2358,NA,NA,FALSE,tested,San José,Santa Clara County,37.267169,-121.919323

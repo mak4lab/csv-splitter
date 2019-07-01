@@ -1,0 +1,35 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Placentia-Yorba Linda Unified,Bernardo Yorba Middle,5350 Fairmont Boulevard Yorba Linda CA 92886-4446,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.888733,-117.79044
+Placentia-Yorba Linda Unified,Brookhaven Elementary,1851 North Brookhaven Avenue Placentia CA 92870-2610,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Bryant Ranch Elementary,24695 Paseo de Toronto Yorba Linda CA 92887-5116,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.878688,-117.718458
+Placentia-Yorba Linda Unified,Charles Wagner Elementary,717 East Yorba Linda Boulevard Placentia CA 92870-3008,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Col. J. K. Tuffree Middle,2151 North Kraemer Boulevard Placentia CA 92870-1930,NA,NA,FALSE,tested,Placentia,Orange County,33.8802701,-117.8635938
+Placentia-Yorba Linda Unified,El Camino Real Continuation High,1351 East Orangethorpe Avenue Placentia CA 92870-5302,NA,NA,FALSE,tested,Placentia,Orange County,33.8682486,-117.8383336
+Placentia-Yorba Linda Unified,El Dorado High,1651 North Valencia Avenue Placentia CA 92870-3030,NA,NA,FALSE,tested,Placentia,Orange County,33.8918162597391,-117.854986169231
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Dr Anaheim CA 92807-1218,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Drive Anaheim CA 92807-1218,11,ppb,TRUE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Fairmont Elementary,5241 Fairmont Boulevard Yorba Linda CA 92886-4400,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.88745,-117.79038
+Placentia-Yorba Linda Unified,George Key,710 East Golden Avenue Placentia CA 92870-1635,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Glenknoll Elementary,6361 Glenknoll Drive Yorba Linda CA 92886-6416,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Glenview Elementary,1775 Glenview Avenue Anaheim CA 92807-1040,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Golden Elementary,740 East Golden Avenue Placentia CA 92870-1635,NA,NA,FALSE,tested,Placentia,Orange County,33.903763,-117.854632
+Placentia-Yorba Linda Unified,John O. Tynes Elementary,735 Stanford Placentia CA 92870-5117,NA,NA,FALSE,tested,Placentia,Orange County,33.872088,-117.85605
+Placentia-Yorba Linda Unified,Kraemer Middle,645 North Angelina Drive Placentia CA 92870-5007,NA,NA,FALSE,tested,Placentia,Orange County,33.8761828380701,-117.864844483857
+Placentia-Yorba Linda Unified,La Entrada High,"4999 Casa Loma Ave Yorba Linda, CA CA 92886-3398",NA,NA,NA,not tested,Yorba Linda,Orange County,33.895311,-117.824427
+Placentia-Yorba Linda Unified,Lakeview Elementary,17510 Lakeview Avenue Yorba Linda CA 92886-2381,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8860078,-117.8131998
+Placentia-Yorba Linda Unified,Linda Vista Elementary,5600 South Ohio Street Yorba Linda CA 92886-5499,6.15,ppb,TRUE,tested,NA,NA,NA,NA
+Placentia-Yorba Linda Unified,Mabel M. Paine Elementary,4444 Plumosa Drive Yorba Linda CA 92886-2399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8968331278564,-117.815812234666
+Placentia-Yorba Linda Unified,Melrose Elementary,974 South Melrose Street Placentia CA 92870-7117,NA,NA,FALSE,tested,Placentia,Orange County,33.8589200662845,-117.87363324891
+Placentia-Yorba Linda Unified,Morse Avenue Elementary,431 East Morse Avenue Placentia CA 92870-3413,NA,NA,FALSE,tested,Placentia,Orange County,33.8843548001274,-117.859435531316
+Placentia-Yorba Linda Unified,Rio Vista Elementary,310 North Rio Vista Street Anaheim CA 92806-3767,NA,NA,FALSE,tested,Anaheim,Orange County,33.843225,-117.871646387755
+Placentia-Yorba Linda Unified,Rose Drive Elementary,4700 Rose Drive Yorba Linda CA 92886-2096,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.890667,-117.841691
+Placentia-Yorba Linda Unified,Ruby Drive Elementary,601 Ruby Drive Placentia CA 92870-4828,5.7,ppb,TRUE,tested,Placentia,Orange County,33.879143,-117.874652
+Placentia-Yorba Linda Unified,Sierra Vista Elementary,1811 North Placentia Avenue Placentia CA 92870-2302,NA,NA,FALSE,tested,Placentia,Orange County,33.890818,-117.874018
+Placentia-Yorba Linda Unified,Topaz Elementary,3232 Topaz Lane Fullerton CA 92831-2609,NA,NA,FALSE,tested,Fullerton,Orange County,33.8860414440503,-117.870068041354
+Placentia-Yorba Linda Unified,Travis Ranch,5200 Via de la Escuela Yorba Linda CA 92887-2556,5.9,ppb,TRUE,tested,Yorba Linda,Orange County,33.885404,-117.761069
+Placentia-Yorba Linda Unified,Valadez Middle School Academy,161 East La Jolla Street Placentia CA 92870-7112,NA,NA,FALSE,tested,Placentia,Orange County,33.8587601572918,-117.87242171172
+Placentia-Yorba Linda Unified,Valencia High,500 North Bradford Avenue Placentia CA 92870-4844,NA,NA,FALSE,tested,Placentia,Orange County,33.87626,-117.869138
+Placentia-Yorba Linda Unified,Van Buren Elementary,1245 North Van Buren Street Placentia CA 92870-4024,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8840213971788,-117.83161421996
+Placentia-Yorba Linda Unified,Woodsboro Elementary,7575 East Woodsboro Avenue Anaheim CA 92807-2441,NA,NA,FALSE,tested,Anaheim,Orange County,33.8685126320867,-117.772420878394
+Placentia-Yorba Linda Unified,Yorba Linda High,19900 Bastanchury Road Yorba Linda CA 92886-8417,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8997731,-117.8103675
+Placentia-Yorba Linda Unified,Yorba Linda Middle,4777 Casa Loma Avenue Yorba Linda CA 92886-3399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.891485,-117.824211

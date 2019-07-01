@@ -1,0 +1,55 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fremont Unified,American High,36300 Fremont Boulevard Fremont CA 94536-3511,NA,NA,NA,not tested,Fremont,Alameda County,37.565347,-122.016483505976
+Fremont Unified,American High,"36300 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.565347,-122.016483505976
+Fremont Unified,Ardenwood Elementary,"33955 Emilia Ln, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5731681834559,-122.052285077273
+Fremont Unified,Ardenwood Elementary,33955 Emilia Lane Fremont CA 94555-2068,NA,NA,NA,not tested,Fremont,Alameda County,37.5731681834559,-122.052285077273
+Fremont Unified,Azeveda Elementary,"39450 Royal Palm Dr, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5309015000245,-121.993932148958
+Fremont Unified,Brier Elementary,39201 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.53972,-121.984794
+Fremont Unified,Brookvale Elementary,3400 Nicolet Avenue Fremont CA 94536-3598,NA,NA,FALSE,tested,Fremont,Alameda County,37.56815035,-122.015190705448
+Fremont Unified,Cabrillo Elementary,36700 San Pedro Drive Fremont CA 94536-6406,NA,NA,FALSE,tested,Fremont,Alameda County,37.5520877,-122.0249502
+Fremont Unified,Centerville Junior High,37720 Fremont Boulevard Fremont CA 94536-5096,NA,NA,NA,not tested,Fremont,Alameda County,37.555767,-122.002575475
+Fremont Unified,Centerville Junior High,"37720 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.555767,-122.002575475
+Fremont Unified,Circle of Independent Learning,4700 Calaveras Avenue B Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Fremont Unified,E. M. Grimmer Elementary,43030 Newport Drive Fremont CA 94538-6113,NA,NA,FALSE,tested,Fremont,Alameda County,37.519907673019,-121.951554335332
+Fremont Unified,Forest Park Elementary,"34400 Maybird Cir, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5612847210315,-122.051632006164
+Fremont Unified,Forest Park Elementary,34400 Maybird Circle Fremont CA 94555-2917,NA,NA,NA,not tested,Fremont,Alameda County,37.5612847210315,-122.051632006164
+Fremont Unified,Fred E. Weibel Elementary,45135 South Grimmer Boulevard Fremont CA 94539-6631,8.3,ppb,TRUE,tested,Fremont,Alameda County,37.506196,-121.926512430028
+Fremont Unified,Fremont Adult,4700 Calaveras Avenue Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Fremont Unified,G. M. Walters Junior High,39600 Logan Drive Fremont CA 94538-1912,6.6,ppb,TRUE,tested,Fremont,Alameda County,37.536994,-121.985187
+Fremont Unified,Glankler Early Learning Center,39207 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.5396325988888,-121.984859300833
+Fremont Unified,Glenmoor Elementary,4620 Mattos Drive Fremont CA 94536-6784,NA,NA,FALSE,tested,Fremont,Alameda County,37.545657227359,-122.004857558375
+Fremont Unified,Harvey Green Elementary,42875 Gatewood Street Fremont CA 94538-4131,NA,NA,FALSE,tested,Fremont,Alameda County,37.5193434362124,-121.958535690013
+Fremont Unified,Irvington High,"41800 Blacow Rd, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5359788,-121.9974553
+Fremont Unified,Irvington High,41800 Blacow Road Fremont CA 94538-3353,NA,NA,NA,not tested,Fremont,Alameda County,37.5225016,-121.9698683
+Fremont Unified,J. Haley Durham Elementary,40292 Leslie Street Fremont CA 94538-3520,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fremont Unified,James Leitch Elementary,47100 Fernald Street Fremont CA 94539-7005,NA,NA,NA,not tested,Fremont,Alameda County,37.48761645,-121.922657258549
+Fremont Unified,John Blacow Elementary,40404 Sundale Drive Fremont CA 94538-3314,NA,NA,FALSE,tested,Fremont,Alameda County,37.5278759824823,-121.97766289141
+Fremont Unified,John F. Kennedy High,39999 Blacow Road Fremont CA 94538-1913,NA,NA,FALSE,tested,Fremont,Alameda County,37.528581,-121.983517
+Fremont Unified,John G. Mattos Elementary,37944 Farwell Drive Fremont CA 94536-7008,NA,NA,FALSE,tested,Fremont,Alameda County,37.5384613424551,-122.012529408571
+Fremont Unified,John Gomes Elementary,555 Lemos Lane Fremont CA 94539-3750,NA,NA,FALSE,tested,Fremont,Alameda County,37.5499652829224,-121.948201802562
+Fremont Unified,John M. Horner Junior High,41365 Chapel Way Fremont CA 94538-4202,6.8,ppb,TRUE,tested,Fremont,Alameda County,37.529002439362,-121.963064904923
+Fremont Unified,Joseph Azevada Elementary,39450 Royal Palm Drive Fremont CA 94538-1843,NA,NA,NA,not tested,Fremont,Alameda County,37.5309015000245,-121.993932148958
+Fremont Unified,Joshua Chadbourne Elementary,801 Plymouth Avenue Fremont CA 94539-4637,NA,NA,FALSE,tested,Fremont,Alameda County,37.542204,-121.940116
+Fremont Unified,Leitch Elementary,"47100 Fernald St, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.48761645,-121.922657258549
+Fremont Unified,Mission San Jose Elementary,43545 Bryant Street Fremont CA 94539-5885,NA,NA,FALSE,tested,Fremont,Alameda County,37.5293015,-121.9217133
+Fremont Unified,Mission San Jose High,41717 Palm Avenue Fremont CA 94539-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.5451551020408,-121.931842734694
+Fremont Unified,Mission Valley Elementary,41700 Denise Street Fremont CA 94539-4562,NA,NA,FALSE,tested,Fremont,Alameda County,37.536635,-121.946112065317
+Fremont Unified,Niles Elementary,"37141 2nd St, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.5770356666667,-121.984622
+Fremont Unified,Niles Elementary,37141 Second Street Fremont CA 94536-2835,NA,NA,NA,not tested,NA,NA,NA,NA
+Fremont Unified,O. N. Hirsch Elementary,41399 Chapel Way Fremont CA 94538-4202,NA,NA,FALSE,tested,Fremont,Alameda County,37.5286329509267,-121.963000411462
+Fremont Unified,Oliveira Elementary,4180 Alder Avenue Fremont CA 94536-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.56011265,-122.016677307163
+Fremont Unified,Parkmont Elementary,2601 Parkside Drive Fremont CA 94536-5246,NA,NA,FALSE,tested,Fremont,Alameda County,37.5610469,-121.9838495
+Fremont Unified,Patterson Elementary,35521 Cabrillo Drive Fremont CA 94536-5499,NA,NA,FALSE,tested,Fremont,Alameda County,37.5622108584392,-122.030821771787
+Fremont Unified,Robertson High (Continuation),4455 Seneca Park Avenue Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+Fremont Unified,Steven Millard Elementary,5200 Valpey Park Drive Fremont CA 94538-3262,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fremont Unified,Thornton Junior High,4357 Thornton Avenue Fremont CA 94536-4897,NA,NA,FALSE,tested,Fremont,Alameda County,37.5562645,-122.016361387949
+Fremont Unified,Tom Maloney Elementary,38700 Logan Drive Fremont CA 94536-6899,NA,NA,FALSE,tested,Fremont,Alameda County,37.5455376438979,-121.998471329024
+Fremont Unified,Vallejo Mill Elementary,"38569 Canyon Heights Dr, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.57559515,-121.96055745
+Fremont Unified,Vallejo Mill Elementary,38569 Canyon Heights Drive Fremont CA 94536-1899,NA,NA,NA,not tested,Fremont,Alameda County,37.57559515,-121.96055745
+Fremont Unified,Vista Alternative,4455 Seneca Park Ave. Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+Fremont Unified,Warm Springs Elementary,"47370 Warm Springs Blvd, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.4970244,-121.9342068
+Fremont Unified,Warm Springs Elementary,47370 Warm Springs Boulevard Fremont CA 94539-7458,NA,NA,NA,not tested,Fremont,Alameda County,37.4970244,-121.9342068
+Fremont Unified,Warwick Elementary,3375 Warwick Road Fremont CA 94555-2499,NA,NA,FALSE,tested,Fremont,Alameda County,37.57702845,-122.031975421266
+Fremont Unified,Washington High,38442 Fremont Boulevard Fremont CA 94536-6031,NA,NA,FALSE,tested,Fremont,Alameda County,37.5517175,-121.9935237
+Fremont Unified,William Hopkins Junior High,600 Driscoll Road Fremont CA 94539-3803,NA,NA,FALSE,tested,Fremont,Alameda County,37.54633945,-121.941167248094
+Fremont Unified,Young Adult Program,4700 Calaveras Ave. Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441

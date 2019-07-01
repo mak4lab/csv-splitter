@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+River Delta Joint Unified,D. H. White School,500 Elm Way Rio Vista CA 94571-1304,NA,NA,FALSE,tested,Rio Vista,Solano County,38.1654721,-121.6946774
+River Delta Joint Unified,Isleton Elementary,412 Union Street PO Box 728 Isleton CA 95641-0728,NA,NA,FALSE,tested,NA,NA,NA,NA
+River Delta Joint Unified,Rio Vista High,410 South Fourth Street Rio Vista CA 94571-1939,13.6,ppb,TRUE,tested,NA,NA,NA,NA
+River Delta Joint Unified,Riverview Middle,525 South Second Street Rio Vista CA 94571-1941,NA,NA,FALSE,tested,NA,NA,NA,NA

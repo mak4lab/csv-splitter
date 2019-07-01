@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Willows Unified,Murdock Elementary,655 West French Street Willows CA 95988-2305,NA,NA,FALSE,tested,NA,NA,NA,NA
+Willows Unified,Willows Community High,823 West Laurel Street Willows CA 95988-2946,NA,NA,FALSE,tested,Willows,Glenn County,39.517935,-122.203469375
+Willows Unified,Willows High,203 North Murdock Avenue Willows CA 95988-2706,NA,NA,FALSE,tested,Willows,Glenn County,39.5213017461724,-122.201049624318
+Willows Unified,Willows Intermediate,1145 West Cedar Street Willows CA 95988-3311,5.1,ppb,TRUE,tested,Willows,Glenn County,39.514148,-122.205396358986

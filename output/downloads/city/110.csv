@@ -1,0 +1,126 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fresno Unified,Addams Elementary,2117 West McKinley Avenue Fresno CA 93728-1125,NA,NA,FALSE,tested,Fresno,Fresno County,36.7645915196615,-119.835802308615
+Fresno Unified,Ahwahnee Middle,1127 East Escalon Avenue Fresno CA 93710-5510,10.9,ppb,TRUE,tested,Fresno,Fresno County,36.8267282548154,-119.768225928552
+Fresno Unified,Ann B. Leavenworth,4420 East Thomas Avenue Fresno CA 93702-1441,NA,NA,NA,not tested,Fresno,Fresno County,36.7531069591837,-119.751619734694
+Fresno Unified,Aspen Valley Prep Academy,4221 N. Hughes Avenue Fresno CA 93705,NA,NA,FALSE,tested,Fresno,Fresno County,36.7943634024524,-119.835448916242
+Fresno Unified,Ayer Elementary,5272 East Lowe Avenue Fresno CA 93727-5216,NA,NA,FALSE,tested,Fresno,Fresno County,36.731301,-119.717127183489
+Fresno Unified,Aynesworth Elementary,4765 East Burns Avenue Fresno CA 93725-1732,NA,NA,FALSE,tested,Fresno,Fresno County,36.712435896814704,-119.737709251362
+Fresno Unified,Baird Middle,5500 North Maroa Avenue Fresno CA 93704-2005,6.5,ppb,TRUE,tested,Fresno,Fresno County,36.8177963965602,-119.799274044158
+Fresno County Office of Education,Beth Ramacher Educational Complex,710 N. Hughes Avenue Fresno CA 93728,5.5,ppb,TRUE,tested,Fresno,Fresno County,36.7521083784634,-119.835404143054
+Fresno County Office of Education,Big Picture Educational Academy,1207 South Trinity Street Fresno CA 93706-2611,NA,NA,NA,not tested,Fresno,Fresno County,36.7306251419714,-119.808531568117
+Fresno Unified,Birney Elementary,3034 East Cornell Avenue Fresno CA 93703-1231,NA,NA,FALSE,tested,Fresno,Fresno County,36.77682885,-119.773736747691
+Fresno Unified,Bullard High,5445 North Palm Avenue Fresno CA 93704-1941,NA,NA,FALSE,tested,Fresno,Fresno County,36.8164933302168,-119.808476970478
+Fresno Unified,Burroughs Elementary,166 North Sierra Vista Avenue Fresno CA 93702-2647,NA,NA,FALSE,tested,Fresno,Fresno County,36.7446112507499,-119.740795912415
+Fresno Unified,Calwa Elementary,4303 East Jensen Avenue Fresno CA 93725-2105,NA,NA,FALSE,tested,Fresno,Fresno County,36.7070051605321,-119.753368788448
+Fresno County Office of Education,Career Technical Education Charter High School at Kermit Kootz Education Complex,1320 Mariposa Street  Fresno CA 93703,NA,NA,FALSE,tested,Fresno,Fresno County,36.7304465714286,-119.797282734694
+Fresno Unified,Carter G. Woodson Public Charter,3333 North Bond Avenue Fresno CA 93726-5712,NA,NA,FALSE,tested,Fresno,Fresno County,36.7808243038652,-119.768033733242
+Fresno Unified,Carter G. Woodson Public Charter Satellite Campus,4880 N. First Street Fresno CA 93726,NA,NA,FALSE,tested,Fresno,Fresno County,36.8461871,-119.7746833
+Fresno Unified,Centennial Elementary,3830 East Saginaw Way Fresno CA 93726-5126,NA,NA,FALSE,tested,Fresno,Fresno County,36.7885823701767,-119.760320529733
+Central Unified,Central High East Campus,3535 North Cornelia Avenue Fresno CA 93722-7020,NA,NA,FALSE,tested,Fresno,Fresno County,36.7874329047619,-119.88048
+Clovis Unified,Clovis North High,2770 East International Avenue Fresno CA 93730-5400,NA,NA,FALSE,tested,Fresno,Fresno County,36.8896283,-119.7329452
+Fresno Unified,Columbia Elementary,1025 South Trinity Street Fresno CA 93706-2608,NA,NA,FALSE,tested,Fresno,Fresno County,36.733269020202,-119.808483515152
+Fresno Unified,Cooper Middle,2277 West Bellaire Way Fresno CA 93705-1736,5.7,ppb,TRUE,tested,Fresno,Fresno County,36.7918144808843,-119.837139320141
+Clovis Unified,Copper Hills Elementary,1881 East Plymouth Avenue Fresno CA 93720-4269,NA,NA,FALSE,tested,Fresno,Fresno County,36.8780008,-119.7467437
+Fresno Unified,David L. Greenberg Elementary,5081 East Lane Avenue Fresno CA 93727-4838,NA,NA,FALSE,tested,Fresno,Fresno County,36.7318288941676,-119.720558777445
+Fresno Unified,Del Mar Elementary,4122 North Del Mar Avenue Fresno CA 93704-4410,7.05,ppb,TRUE,tested,Fresno,Fresno County,36.7934031474186,-119.794914172922
+Fresno Unified,Design Science Early College High,2004 East Cambridge Avenue Fresno CA 93703-2119,NA,NA,FALSE,tested,Fresno,Fresno County,36.769466,-119.788044306107
+Fresno Unified,Eaton Elementary,1451 East Sierra Avenue Fresno CA 93710-4313,NA,NA,FALSE,tested,Fresno,Fresno County,36.8301614866962,-119.762361448981
+Fresno Unified,Edison Computech,555 East Belgravia Fresno CA 93706-4806,NA,NA,FALSE,tested,Fresno,Fresno County,36.7160182990994,-119.805325800378
+Fresno Unified,Edison High,540 East California Avenue Fresno CA 93706-3736,NA,NA,FALSE,tested,Fresno,Fresno County,36.7212901977689,-119.806014444476
+Fresno Unified,Edith B. Storey Elementary,5250 East Church Avenue Fresno CA 93725-0900,NA,NA,FALSE,tested,Fresno,Fresno County,36.714806755102,-119.713570857143
+Central Unified,El Capitan Middle,4443 West Weldon Avenue Fresno CA 93722-5440,NA,NA,FALSE,tested,Fresno,Fresno County,36.768103,-119.873168441512
+Fresno Unified,Ericson Elementary,4774 East Yale Avenue Fresno CA 93703-2722,NA,NA,FALSE,tested,Fresno,Fresno County,36.770342556038,-119.738279611123
+Fresno Unified,Erma Duncan Polytechnical High,4330 East Garland Avenue Fresno CA 93726-6102,7.55,ppb,TRUE,tested,Fresno,Fresno County,36.7849339344319,-119.752876727205
+Fresno Unified,Ewing Elementary,4873 East Olive Avenue Fresno CA 93727-1810,NA,NA,FALSE,tested,Fresno,Fresno County,36.7575720323255,-119.73319324092
+Fresno Unified,Ezekiel Balderas Elementary,4625 East Florence Avenue Fresno CA 93725-1110,NA,NA,FALSE,tested,Fresno,Fresno County,36.7176975020428,-119.743935166768
+Clovis Unified,Fancher Creek Elementary,5948 East Tulare Avenue Fresno CA 93727-3575,NA,NA,FALSE,tested,Fresno,Fresno County,36.7434734897959,-119.683403979592
+Fresno Unified,Figarden Elementary,6235 North Brawley Avenue Fresno CA 93722-9723,10,ppb,TRUE,tested,Fresno,Fresno County,36.8272903432851,-119.862578227673
+Fresno Unified,Florence E. Rata,1373 West Mesa Avenue Fresno CA 93711-2098,NA,NA,NA,not tested,Fresno,Fresno County,36.8245678987521,-119.816645409231
+Fresno Unified,Forkner Elementary,7120 North Valentine Avenue Fresno CA 93711-0644,NA,NA,FALSE,tested,Fresno,Fresno County,36.8388408762459,-119.856391408356
+Fresno Unified,Fort Miller Middle,1302 East Dakota Avenue Fresno CA 93704-4441,5.9,ppb,TRUE,tested,Fresno,Fresno County,36.7866882684312,-119.795815376097
+Clovis Unified,Fort Washington Elementary,960 East Teague Avenue Fresno CA 93720-1704,NA,NA,FALSE,tested,Fresno,Fresno County,36.8592761211935,-119.766602724588
+State Center Community College District,Fresno City College Child Development Center,1621 E. University Ave. Fresno CA 93703,NA,NA,FALSE,tested,Fresno,Fresno County,36.7668961161428,-119.791697214651
+Fresno Unified,Fresno High,1839 Echo Avenue Fresno CA 93704-6047,NA,NA,FALSE,tested,Fresno,Fresno County,36.7757655,-119.85422
+Fresno Unified,Gibson Elementary,1266 West Barstow Avenue Fresno CA 93711-3129,NA,NA,FALSE,tested,Fresno,Fresno County,36.8156720426909,-119.814007814995
+Central Unified,Glacier Point Middle,4055 North Bryan Avenue Fresno CA 93723-9212,NA,NA,FALSE,tested,Fresno,Fresno County,36.7956427959184,-119.907504673469
+Clovis Unified,Granite Ridge Intermediate,2770 East International Ave Fresno CA 93730-5400,NA,NA,FALSE,tested,Fresno,Fresno County,36.8896283,-119.7329452
+Fresno Unified,Hamilton Elementary,102 East Clinton Fresno CA 93704-5315,NA,NA,FALSE,tested,Fresno,Fresno County,36.7720109346012,-119.812534142637
+Central Unified,Hanh Phan Tilley Elementary,2280 North Valentine Avenue Fresno CA 93722-5553,NA,NA,FALSE,tested,Fresno,Fresno County,36.7697193728653,-119.853211738348
+Central Unified,Harvest Elementary,6514 West Gettysburg Avenue Fresno CA 93723-3013,NA,NA,FALSE,tested,Fresno,Fresno County,36.800704,-119.9074395
+Fresno Unified,Herbert Hoover High,5550 North First Street Fresno CA 93710-6201,NA,NA,FALSE,tested,Fresno,Fresno County,36.8461871,-119.7746833
+Central Unified,Herndon-Barstow Elementary,6265 North Grantland Avenue Fresno CA 93723-9334,NA,NA,FALSE,tested,Fresno,Fresno County,36.8269033333638,-119.916656235772
+Fresno Unified,Holland Elementary,4676 North Fresno Street Fresno CA 93726-0349,NA,NA,FALSE,tested,Fresno,Fresno County,36.8024214684897,-119.781272346131
+Fresno Unified,Irwin O. Addicott Elementary,2727 North Cedar Avenue Fresno CA 93703-2016,NA,NA,FALSE,tested,Fresno,Fresno County,36.7753945415038,-119.754330470299
+Fresno Unified,J. E. Young Academic Center,822 North Abby Street Fresno CA 93701-1002,NA,NA,NA,not tested,Fresno,Fresno County,36.7538064895081,-119.789113612657
+Fresno Unified,Jackson Elementary,3750 East Platt Avenue Fresno CA 93702-2800,NA,NA,FALSE,tested,Fresno,Fresno County,36.7417399449209,-119.76185210201
+Central Unified,James K. Polk Elementary,2195 North Polk Avenue Fresno CA 93722-5052,NA,NA,FALSE,tested,Fresno,Fresno County,36.7739235,-119.8892333
+Clovis Unified,James S. Fugman Elementary,10825 N Cedar Ave Fresno CA 93730-3586,NA,NA,FALSE,tested,Fresno,Fresno County,36.8924450612245,-119.756516040816
+Fresno Unified,Jefferson Elementary,202 North Mariposa Street Fresno CA 93701-2425,NA,NA,FALSE,tested,Fresno,Fresno County,36.7451019991856,-119.779145466653
+Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,NA,NA,FALSE,tested,Fresno,Fresno County,36.7333318287666,-119.675720166214
+Central Unified,John Steinbeck Elementary,3550 North Milburn Avenue Fresno CA 93722-7016,NA,NA,FALSE,tested,Fresno,Fresno County,36.7885704934029,-119.875935817181
+Clovis Unified,Kastner Intermediate,7676 North First Street Fresno CA 93720-0953,NA,NA,FALSE,tested,Fresno,Fresno County,36.8461871,-119.7746833
+Fresno Unified,Kepler Neighborhood,1537 Fulton Street Fresno CA 93721-1611,NA,NA,NA,not tested,Fresno,Fresno County,36.7392054296687,-119.796077022303
+Fresno Unified,Kepler Neighborhood School,1462 Broadway Fresno CA 93721,NA,NA,FALSE,tested,Fresno,Fresno County,36.7378298294588,-119.796093423472
+Fresno Unified,King Elementary,1001 East Florence Avenue Fresno CA 93706-4236,NA,NA,FALSE,tested,Fresno,Fresno County,36.7178877676679,-119.799243839175
+Fresno Unified,Kirk Elementary,2000 East Belgravia Avenue Fresno CA 93706-4416,NA,NA,FALSE,tested,Fresno,Fresno County,36.715914,-119.787226
+Fresno Unified,Kratt Elementary,650 West Sierra Avenue Fresno CA 93704-1051,NA,NA,NA,not tested,Fresno,Fresno County,36.8301675442723,-119.804804899009
+Fresno Unified,Lane Elementary,4730 East Lowe Avenue Fresno CA 93702-3918,NA,NA,NA,not tested,Fresno,Fresno County,36.7313023984771,-119.739593496967
+Fresno Unified,Lawless Elementary,5255 North Reese Avenue Fresno CA 93722-6111,6.300000000000001,ppb,TRUE,tested,Fresno,Fresno County,36.8128418360133,-119.867133158251
+Clovis Unified,Lincoln Elementary,774 East Alluvial Avenue Fresno CA 93720-2525,NA,NA,FALSE,tested,Fresno,Fresno County,36.8447861587595,-119.770801285685
+Fresno Unified,Lowell Elementary,171 North Poplar Avenue Fresno CA 93701-1743,NA,NA,FALSE,tested,Fresno,Fresno County,36.7451965057162,-119.795903837648
+Fresno Unified,Malloch Elementary,2251 West Morris Avenue Fresno CA 93711-1223,7.800000000000001,ppb,TRUE,tested,Fresno,Fresno County,36.8215820424111,-119.831964761355
+Fresno Unified,Manchester Gate,2307 East Dakota Avenue Fresno CA 93726-4001,7.7,ppb,TRUE,tested,Fresno,Fresno County,36.7869107880113,-119.783170666587
+Fresno Unified,Mario G. Olmos Elementary,550 South Garden Avenue Fresno CA 93727-3843,NA,NA,FALSE,tested,Fresno,Fresno County,36.738022195156,-119.734255387286
+Fresno Unified,Mayfair Elementary,3305 East Home Avenue Fresno CA 93703-4044,NA,NA,FALSE,tested,Fresno,Fresno County,36.763264240538,-119.769320593366
+Fresno Unified,McCardle Elementary,577 East Sierra Avenue Fresno CA 93710-3824,NA,NA,FALSE,tested,Fresno,Fresno County,36.8301186914021,-119.777329866727
+Central Unified,McKinley Elementary,4444 West McKinley Avenue Fresno CA 93722-5431,8.4,ppb,TRUE,tested,Fresno,Fresno County,36.764636,-119.873802
+Fresno Unified,McLane High,2727 North Cedar Ave Fresno CA 93703-2016,NA,NA,FALSE,tested,Fresno,Fresno County,36.7753945415038,-119.754330470299
+Fresno Unified,Miguel Hidalgo Elementary,3550 East Thomas Avenue Fresno CA 93702-1119,NA,NA,FALSE,tested,Fresno,Fresno County,36.7531690204082,-119.765141204082
+Fresno Unified,Morris E. Dailey Charter Elementary,3135 North Harrison Avenue Fresno CA 93704-5240,NA,NA,FALSE,tested,Fresno,Fresno County,36.7788427623151,-119.810963520675
+Clovis Unified,Mountain View Elementary,2002 East Alluvial Avenue Fresno CA 93720-0100,NA,NA,FALSE,tested,Fresno,Fresno County,36.8448839779841,-119.74757513254
+Fresno Unified,Muir Elementary,410 East Dennett Avenue Fresno CA 93728-3108,NA,NA,FALSE,tested,Fresno,Fresno County,36.755903006147,-119.806088887691
+Orange Center,National University Academy - Orange Center,3530 South Cherry Ave. Fresno CA 93706-5615,NA,NA,NA,not tested,Fresno,Fresno County,36.682706102194,-119.781646115589
+Private,Nelson J Anderson charter school,830 Fresno St Fresno CA 93706,NA,NA,NA,not tested,Fresno,Fresno County,36.7275679052654,-119.803833609817
+Fresno County Office of Education,New Spirit Charter Academy,4147 E. Dakota Avenue Fresno CA 93726-5208,NA,NA,NA,not tested,Fresno,Fresno County,36.7869464740568,-119.755569569355
+Central Unified,Norman Liddell Elementary,5455 West Alluvial Avenue Fresno CA 93722-2361,NA,NA,FALSE,tested,Fresno,Fresno County,36.8441687770597,-119.887799011295
+Fresno Unified,Norseman Elementary,4636 East Weldon Avenue Fresno CA 93703-2713,NA,NA,FALSE,tested,Fresno,Fresno County,36.768544113111,-119.743399511234
+Fresno Unified,Nutrition Center,4480 N. Brawley Ave Fresno CA 93722,NA,NA,NA,not tested,Fresno,Fresno County,36.80287166319,-119.862386204197
+Orange Center,Orange Center Elementary,3530 South Cherry Avenue Fresno CA 93706-5615,NA,NA,NA,not tested,Fresno,Fresno County,36.682706102194,-119.781646115589
+Central Unified,Pathway Community Day,11 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.7428599183673,-119.821965877551
+Central Unified,Pathway Elementary Community Day,21 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.7427808367347,-119.821964755102
+Fresno Unified,Phillip J Patino School of Entrepreneurship,2000 East Cambridge Avenue Fresno CA 93703,NA,NA,FALSE,tested,Fresno,Fresno County,36.769466,-119.788123
+Fresno Unified,Phoenix Elementary Academy Community Day,3335 North Arthur Avenue Fresno CA 93705-3507,NA,NA,FALSE,tested,Fresno,Fresno County,36.7806300612245,-119.815434183673
+Fresno Unified,Powers-Ginsburg Elementary,110 East Swift Avenue Fresno CA 93704-3511,6.4,ppb,TRUE,tested,Fresno,Fresno County,36.7956019959566,-119.811206204991
+Fresno County Office of Education,Ramacher Head Start,710 N. Hughes Ave. Fresno CA 93728,NA,NA,FALSE,tested,Fresno,Fresno County,36.7521083784634,-119.835404143054
+Clovis Unified,Riverview Elementary,2491 East Behymer Avenue Fresno CA 93720-5419,NA,NA,FALSE,tested,Fresno,Fresno County,36.8811868,-119.7476329
+Fresno Unified,Robinson Elementary,555 East Browning Avenue Fresno CA 93710-6108,NA,NA,FALSE,tested,Fresno,Fresno County,36.819273220438,-119.778362795979
+Fresno Unified,Roeding Elementary,1225 West Dakota Avenue Fresno CA 93705-2721,NA,NA,FALSE,tested,Fresno,Fresno County,36.7864940099649,-119.825555518544
+Clovis Unified,Roger S. Oraze Elementary,3468 North Armstrong Avenue Fresno CA 93727-1456,NA,NA,FALSE,tested,Fresno,Fresno County,36.7449032,-119.6730608
+Fresno Unified,Rutherford B. Gaston Sr. Middle,1100 East Church Avenue Fresno CA 93706,8.3,ppb,TRUE,tested,Fresno,Fresno County,36.7140490297555,-119.797546912897
+Fresno Unified,School of Unlimited Learning,2336 Calaveras Street Fresno CA 93721-1104,11,ppb,TRUE,tested,Fresno,Fresno County,36.7422769939961,-119.793122131663
+Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,NA,NA,FALSE,tested,Fresno,Fresno County,36.71037085,-119.671306150078
+Fresno Unified,Sequoia Middle,4050 East Hamilton Avenue Fresno CA 93702-4456,NA,NA,FALSE,tested,Fresno,Fresno County,36.7241184,-119.756946097728
+Fresno Unified,Sierra Charter,1931 North Fine Avenue Fresno CA 93727-1510,NA,NA,FALSE,tested,Fresno,Fresno County,36.7683678905983,-119.729057936281
+Fresno Unified,Slater Elementary,4472 North Emerson Avenue Fresno CA 93705-1206,NA,NA,FALSE,tested,Fresno,Fresno County,36.8044548,-119.8518534
+Fresno Unified,Southeast Elementary,5090 E CHURCH AVE Fresno CA 93725,NA,NA,NA,not tested,Fresno,Fresno County,36.7146622823757,-119.723092121316
+Fresno Unified,Starr Elementary,1780 West Sierra Avenue Fresno CA 93711-1836,7.2,ppb,TRUE,tested,Fresno,Fresno County,36.8300801773998,-119.824352018385
+Fresno Unified,Sunnyside High,1019 South Peach Avenue Fresno CA 93727-4889,NA,NA,FALSE,tested,Fresno,Fresno County,36.7330692733479,-119.718257345024
+Fresno Unified,Sunset Elementary,1755 South Crystal Avenue Fresno CA 93706-2721,NA,NA,FALSE,tested,Fresno,Fresno County,36.7242276363636,-119.831059727273
+Central Unified,Teague Elementary,4725 North Polk Avenue Fresno CA 93722-5319,NA,NA,FALSE,tested,Fresno,Fresno County,36.805201,-119.889554
+Clovis Unified,Temperance-Kutner Elementary,1448 North Armstrong Avenue Fresno CA 93727-2803,NA,NA,FALSE,tested,Fresno,Fresno County,36.7566404091477,-119.672949452456
+Fresno Unified,Tenaya Middle,1239 West Mesa Avenue Fresno CA 93711-2007,NA,NA,FALSE,tested,Fresno,Fresno County,36.8245994203145,-119.813076613257
+Fresno Unified,Tioga Middle,3232 East Fairmont Avenue Fresno CA 93726-0607,NA,NA,FALSE,tested,Fresno,Fresno County,36.8067937387813,-119.770843294274
+Fresno Unified,Turner Elementary,5218 East Clay Avenue Fresno CA 93727-2502,NA,NA,FALSE,tested,Fresno,Fresno County,36.7557705079761,-119.717307333235
+Fresno Unified,Vang Pao Elementary,4100 East Heaton Avenue Fresno CA 93702-4336,NA,NA,FALSE,tested,Fresno,Fresno County,36.7259181,-119.755829347778
+Fresno Unified,Viking Elementary,4251 North Winery Avenue Fresno CA 93726-3013,NA,NA,FALSE,tested,Fresno,Fresno County,36.864141,-119.7348176
+Fresno Unified,Vinland Elementary,4666 North Maple Avenue Fresno CA 93726-1202,6.1,ppb,TRUE,tested,Fresno,Fresno County,36.8025079135022,-119.745114503107
+Fresno County Office of Education,Violet Heintz Education Academy,4939 East Yale Avenue Fresno CA 93727-1523,NA,NA,NA,not tested,Fresno,Fresno County,36.7702351869182,-119.730127443868
+Clovis Unified,Virginia R. Borris Elementary,7071 E. Clinton Avenue Fresno CA 93727,NA,NA,FALSE,tested,Fresno,Fresno County,36.772051,-119.662944185907
+Fresno Unified,Wawona Middle,4524 North Thorne Avenue Fresno CA 93704-3519,NA,NA,FALSE,tested,Fresno,Fresno County,36.7998208769511,-119.812890445236
+Fresno Unified,Webster Elementary,2600 East Tyler Fresno CA 93701-1201,NA,NA,FALSE,tested,Fresno,Fresno County,36.755544,-119.779814
+West Park Elementary,West Park Charter Academy,2695 South Valentine Avenue Fresno CA 93706-9042,NA,NA,NA,not tested,Fresno,Fresno County,36.6958231426163,-119.853519348023
+West Park Elementary,West Park Elementary,2695 South Valentine Ave Fresno CA 93706-9042,NA,NA,NA,not tested,Fresno,Fresno County,36.6958231426163,-119.853519348023
+Central Unified,William Saroyan Elementary,5650 West Escalon Avenue Fresno CA 93722-3154,5.8,ppb,TRUE,tested,Fresno,Fresno County,36.8262586,-119.8806
+Fresno Unified,Wilson Elementary,2131 West Ashlan Avenue Fresno CA 93705-1701,8.1,ppb,TRUE,tested,Fresno,Fresno County,36.7936685093129,-119.835884933654
+Fresno Unified,Wishon Elementary,3857 East Harvard Avenue Fresno CA 93703-1919,NA,NA,FALSE,tested,Fresno,Fresno County,36.7740371680296,-119.76083918335
+Fresno Unified,Wolters Elementary,5174 North First Street Fresno CA 93710-7811,6.85,ppb,TRUE,tested,Fresno,Fresno County,36.8461871,-119.7746833

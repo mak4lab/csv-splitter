@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South Whittier Elementary,Carmela Elementary,13300 Lakeland Road Whittier CA 90605-3241,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.931657,-118.04867
+Little Lake City Elementary,Jersey Avenue Elementary,9400 Jersey Avenue Santa Fe Springs CA 90670-2859,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.954453,-118.081853
+Little Lake City Elementary,Lake Center Middle,10503 South Pioneer Boulevard Santa Fe Springs CA 90670-3703,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.9451041,-118.080829
+Little Lake City Elementary,Lakeview Elementary,11500 East Joslin Street Santa Fe Springs CA 90670-3612,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.944289,-118.088504
+Norwalk-La Mirada Unified,Ramona Head Start/State Preschool,14616 Dinard Avenue Norwalk CA 90650-5110,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.8984549344372,-118.050885621777
+Los Nietos,Rancho Santa Gertrudes Elementary,11233 East Charlesworth Road Santa Fe Springs CA 90670-2820,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.954482,-118.081302
+South Whittier Elementary,Richard L. Graves Middle,13243 East Los Nietos Road Whittier CA 90605-3295,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.943927,-118.051698

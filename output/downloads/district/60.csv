@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,NA,NA,NA,not tested,Belmont,San Mateo County,37.5237533745905,-122.282387486137
+Belmont-Redwood Shores Elementary,Cipriani Elementary,2525 Buena Vista Belmont CA 94002-1454,NA,NA,FALSE,tested,NA,NA,NA,NA
+Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,NA,NA,NA,not tested,Belmont,San Mateo County,37.507815,-122.321761
+Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,NA,NA,NA,not tested,Belmont,San Mateo County,37.525707,-122.274586
+Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,NA,NA,NA,not tested,Belmont,San Mateo County,37.5151144,-122.2838483
+Belmont-Redwood Shores Elementary,Redwood Shores Elementary,225 Shearwater Parkway Redwood City CA 94065-7449,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.5433285,-122.2462674
+Belmont-Redwood Shores Elementary,Sandpiper Elementary,801 Redwood Shores Parkway Redwood City CA 94065-2279,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.530382,-122.24563

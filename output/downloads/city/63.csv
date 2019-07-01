@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Abraham Lincoln Elementary,444 East Olive Street Colton CA 92324-2717,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077493,-117.317870469388
+Colton Joint Unified,Alice Birney Elementary,1050 East Olive Street Colton CA 92324-2531,5.5,ppb,TRUE,tested,Colton,San Bernardino County,34.0784005631568,-117.311042721942
+Colton Joint Unified,Colton Middle,670 West Laurel Street Colton CA 92324-1523,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0812239,-117.3336997
+Rialto Unified,Georgia Morris Elementary,1900 West Randall Avenue Colton CA 92324-6642,NA,NA,FALSE,tested,Colton,San Bernardino County,34.084928,-117.359718
+Colton Joint Unified,Paul Rogers Elementary,955 West Laurel Street Colton CA 92324-1527,5.550000000000001,ppb,TRUE,tested,Colton,San Bernardino County,34.0812239,-117.3336997
+Colton Joint Unified,San Salvador Preschool,471 Agua Mansa Road Colton CA 92324-3325,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0524435,-117.3460647
+Colton Joint Unified,Ulysses Grant Elementary,550 West Olive Street Colton CA 92324-1769,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0775265108581,-117.32951330005
+Colton Joint Unified,Washington High,900 East C Street Colton CA 92324-2600,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.0717028021324,-117.312446108504
+Rialto Unified,William G. Jehue Middle,1500 North Eucalyptus Avenue Colton CA 92324-6650,21,ppb,TRUE,tested,Colton,San Bernardino County,34.0847585245902,-117.357142393443
+Colton Joint Unified,William McKinley Elementary,600 West Johnston Street Colton CA 92324-1322,NA,NA,FALSE,tested,Colton,San Bernardino County,34.088454,-117.331081

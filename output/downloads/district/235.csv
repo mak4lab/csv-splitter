@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fairfax Elementary,Fairfax Jr. High,1500 South Fairfax Road Bakersfield CA 93307-3151,NA,NA,FALSE,tested,NA,Kern County,35.3526353,-118.931967
+Fairfax Elementary,Shirley Lane Elementary,6714 Shirley Lane Bakersfield CA 93307-3179,NA,NA,FALSE,tested,NA,Kern County,35.343377,-118.938667
+Fairfax Elementary,Virginia Avenue Elementary,3301 Virginia Avenue Bakersfield CA 93307-2931,NA,NA,FALSE,tested,Bakersfield,Kern County,35.36135,-118.948809
+Fairfax Elementary,Zephyr Lane Elementary,6327 Zephyr Lane Bakersfield CA 93307,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3469776363636,-118.934501545455

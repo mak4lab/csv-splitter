@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Calexico Unified,Aurora High (Continuation),641 Rockwood Avenue Calexico CA 92231-2700,NA,NA,FALSE,tested,Calexico,Imperial County,32.6713362618608,-115.496373768096
+Calexico Unified,Blanche Charles Elementary,1201 Kloke Road Calexico CA 92231-3491,NA,NA,FALSE,tested,Calexico,Imperial County,32.682481,-115.516172
+Calexico Unified,Calexico High,1030 Encinas Avenue Calexico CA 92231-2560,NA,NA,FALSE,tested,Calexico,Imperial County,32.6783359820348,-115.488417119769
+Calexico Unified,Calexico High School 9th Grade Campus,824 Blair Ave. Calexico CA 92231,NA,NA,FALSE,tested,Calexico,Imperial County,32.6732745714286,-115.490809357143
+Calexico Unified,Cesar Chavez Elementary,1251 East Zapata Street Calexico CA 92231-9677,NA,NA,FALSE,tested,Calexico,Imperial County,32.689875549999996,-115.475886115476
+Calexico Unified,Dool Elementary,800 Encinas Avenue Calexico CA 92231-2559,17,ppb,TRUE,tested,Calexico,Imperial County,32.67362625,-115.487217710714
+Calexico Unified,Enrique Camarena Jr. High,800 East Rivera Avenue Calexico CA 92231-3387,7.5,ppb,TRUE,tested,Calexico,Imperial County,32.6733258,-115.4740878
+Calexico Unified,Kennedy Gardens Elementary,2300 Rockwood Avenue Calexico CA 92231-1726,NA,NA,FALSE,tested,Calexico,Imperial County,32.69368,-115.496166
+Calexico Unified,Rockwood Elementary,1000 Rockwood Avenue Calexico CA 92231-2333,NA,NA,FALSE,tested,Calexico,Imperial County,32.677662,-115.496169
+Calexico Unified,William Moreno Junior High,1202 Kloke Road Calexico CA 92231-3490,NA,NA,FALSE,tested,Calexico,Imperial County,32.6824727653061,-115.516171316327

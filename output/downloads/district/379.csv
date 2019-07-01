@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lakeside Union Elementary,Eucalyptus Hills Elementary,11838 Valle Vista Road Lakeside CA 92040-1046,NA,NA,FALSE,tested,NA,San Diego County,32.873768,-116.935333
+Lakeside Union Elementary,Lakeside Early Advantage Preschool,9745 Marilla Drive Lakeside CA 92040-2807,NA,NA,FALSE,tested,NA,San Diego County,32.8542574484887,-116.940620350743
+Lakeside Union Elementary,Lakeside Farms Elementary,11915 Lakeside Avenue Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.866098,-116.935984
+Lakeside Union Elementary,Lakeside Middle,11833 Woodside Avenue Lakeside CA 92040-0578,14,ppb,TRUE,tested,NA,San Diego County,32.8549967570611,-116.938333644421
+Lakeside Union Elementary,Lakeview Elementary,9205 Lakeview Road Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.858303,-116.904602
+Lakeside Union Elementary,Lemon Crest Elementary,12463 Lemon Crest Drive Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.852336,-116.921157
+Lakeside Union Elementary,Lindo Park Elementary,12824 Lakeshore Drive Lakeside CA 92040-0578,6.1,ppb,TRUE,tested,NA,San Diego County,32.859907,-116.913845
+Lakeside Union Elementary,National University Academy,2030 University Drive Vista CA 92083-7736,NA,NA,FALSE,tested,Vista,San Diego County,33.173183,-117.219722
+Lakeside Union Elementary,River Valley Charter,9707 1/2 Marilla Drive Lakeside CA 92040-2868,NA,NA,NA,not tested,NA,NA,NA,NA
+Lakeside Union Elementary,Riverview Elementary,9308 Winter Gardens Boulevard Lakeside CA 92040-4539,NA,NA,FALSE,tested,NA,San Diego County,32.846443,-116.932397
+Lakeside Union Elementary,Tierra del Sol Middle,9611 Petite Lane Lakeside CA 92040-4317,NA,NA,FALSE,tested,NA,San Diego County,32.85413,-116.911549
+Lakeside Union Elementary,Winter Gardens Elementary,8501 Pueblo Road Lakeside CA 92040-5406,NA,NA,FALSE,tested,NA,NA,NA,NA

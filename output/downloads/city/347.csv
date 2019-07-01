@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Glenn County Office of Education,Glenn County Juvenile Court,311 South Villa Avenue Willows CA 95988,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Glenn County ROP,Glenn County ROP,451 South Villa Avenue B Willows CA 95988-2964,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Glenn County Office of Education,Success One!,451 South Villa Avenue Willows CA 95988-2964,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Glenn County Office of Education,Walden Academy,1149 West Wood Street Willows CA 95988-2614,NA,NA,FALSE,tested,Willows,Glenn County,39.5240825,-122.208147
+Willows Unified,Willows Community High,823 West Laurel Street Willows CA 95988-2946,NA,NA,FALSE,tested,Willows,Glenn County,39.517935,-122.203469375
+Willows Unified,Willows High,203 North Murdock Avenue Willows CA 95988-2706,NA,NA,FALSE,tested,Willows,Glenn County,39.5213017461724,-122.201049624318
+Willows Unified,Willows Intermediate,1145 West Cedar Street Willows CA 95988-3311,5.1,ppb,TRUE,tested,Willows,Glenn County,39.514148,-122.205396358986

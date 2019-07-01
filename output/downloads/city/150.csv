@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bassett Unified,Bassett Adult,934 North Sunkist La Puente CA 91746-1696,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0511599851722,-117.96947669631
+Bassett Unified,Bassett Senior High,755 Ardilla Avenue La Puente CA 91746-2163,NA,NA,NA,not tested,La Puente,Los Angeles County,34.051381,-117.976537
+Hacienda la Puente Unified,California Elementary,1111 California Avenue La Puente CA 91744-1927,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.059146950922504,-117.940135739766
+Hacienda la Puente Unified,Fairgrove Academy,15540 Fairgrove Avenue La Puente CA 91744-1620,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0418762040816,-117.947406163265
+Hacienda la Puente Unified,Hacienda La Puente Adult Education,14101 East Nelson Ave. La Puente CA 91746-2640,NA,NA,NA,not tested,La Puente,Los Angeles County,34.043299,-117.980571
+Rowland Unified,Hurley Elementary,535 South Dora Guzman Avenue La Puente CA 91744-5608,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0131133580219,-117.927658971194
+Hacienda la Puente Unified,La Puente High,15615 East Nelson Avenue La Puente CA 91744-3910,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0249680151539,-117.955655814318
+Hacienda la Puente Unified,Lassalette,14333 Lassalette Street La Puente CA 91744-2441,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0444756555117,-117.971434185517
+Hacienda la Puente Unified,Nelson Elementary,330 North California Avenue La Puente CA 91744-3718,5.3,ppb,TRUE,tested,La Puente,Los Angeles County,34.0336634181762,-117.966893269366
+Bassett Unified,Nueva Vista Continuation High,904 Willow Avenue La Puente CA 91746-1696,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0524060194099,-117.972380819814
+Hacienda la Puente Unified,Sierra Vista Middle,15801 Sierra Vista Court La Puente CA 91744-4040,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.030649,-117.947273
+Hacienda la Puente Unified,Sparks Middle,15100 Giordano Street La Puente CA 91744-2718,5.9,ppb,TRUE,tested,La Puente,Los Angeles County,34.0352318,-117.9556127
+Bassett Unified,Sunkist Elementary,935 Mayland Avenue La Puente CA 91746-1625,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0477639,-117.982214
+Hacienda la Puente Unified,Sunset Elementary,800 North Tonopah Avenue La Puente CA 91744-2460,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.044884,-117.967692
+Hacienda la Puente Unified,Temple Academy,635 California Avenue La Puente CA 91744-2602,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0662590416667,-117.932599208333
+Hacienda la Puente Unified,Willow Adult,14101 East Nelson Avenue La Puente CA 91746-2041,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.043299,-117.980571
+Hacienda la Puente Unified,Workman Elementary,16000 Workman Street La Puente CA 91744-4738,5.9,ppb,TRUE,tested,La Puente,Los Angeles County,34.0216167,-117.9444931

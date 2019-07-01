@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cupertino Union,Abraham Lincoln Elementary,21710 McClellan Road Cupertino CA 95014-4054,6.3,ppb,TRUE,tested,Cupertino,Santa Clara County,37.31494445,-122.054055543415
+Cupertino Union,Blue Hills Elementary,12300 De Sanka Avenue Saratoga CA 95070-3151,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.289951,-122.02582
+Cupertino Union,C. B. Eaton Elementary,20220 Suisun Drive Cupertino CA 95014-4428,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.314792250000004,-122.026189594375
+Cupertino Union,Chester W. Nimitz Elementary,545 East Cheyenne Drive Sunnyvale CA 94087-4421,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.346722,-122.03350326087
+Cupertino Union,Christa McAuliffe Elementary,12211 Titus Avenue Saratoga CA 95070-3456,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2922327087659,-122.009717866998
+Cupertino Union,Cupertino Middle,1650 South Bernardo Avenue Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Cupertino Union,Cupertino Middle,1650 South Bernardo Ave. Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Cupertino Union,D. J. Sedgwick Elementary,19200 Phil Lane Cupertino CA 95014-3566,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3153599,-122.00851375683
+Cupertino Union,Delor Montessori School,1510 Lewiston Dr. Sunnyvale  CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.34335375,-122.044553888017
+Cupertino Union,Dwight D. Eisenhower Elementary,277 Rodonovan Drive Santa Clara CA 95051-6656,5.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.329208997104,-121.989509860546
+Cupertino Union,Early Horizons Preschool,1510 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.34335375,-122.044553888017
+Cupertino Union,Garden Gate Elementary,10500 Ann Arbor Avenue Cupertino CA 95014-1661,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.33151935,-122.044798792772
+Cupertino Union,Happy Days,220 Blake Ave. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Cupertino Union,Joaquin Miller Middle,6151 Rainbow Drive San Jose CA 95129-4043,NA,NA,NA,not tested,San José,Santa Clara County,37.3013139172803,-122.012505387744
+Cupertino Union,John F. Kennedy Middle,821 Bubb Road Cupertino CA 95014-4938,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3107131,-122.052769980381
+Cupertino Union,John Muir Elementary,6560 Hanover Drive San Jose CA 95129-3832,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3003259672616,-122.019391156042
+Cupertino Union,L. P. Collins Elementary,10300 Blaney Avenue Cupertino CA 95014-2332,NA,NA,FALSE,tested,NA,NA,NA,NA
+Cupertino Union,Louis E. Stocklmeir Elementary,592 Dunholme Way Sunnyvale CA 94087-3300,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.344922,-122.027
+Cupertino Union,Manuel De Vargas Elementary,5050 Moorpark Avenue San Jose CA 95129-2136,NA,NA,FALSE,tested,San José,Santa Clara County,37.3105446421132,-121.991042352038
+Cupertino Union,Montclaire Elementary,1160 Street Joseph Avenue Los Altos CA 94024-6755,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3431326579005,-122.081778981215
+Cupertino Union,Morning Star,220 Blake Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Cupertino Union,Murdock-Portal Elementary,1188 Wunderlich Drive San Jose CA 95129-3163,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3045691627047,-121.999366812423
+Cupertino Union,Nelson S. Dilworth Elementary,1101 Strayer Drive San Jose CA 95129-4065,NA,NA,FALSE,tested,San José,Santa Clara County,37.3062964027729,-122.007018292773
+Cupertino Union,R. I. Meyerholz Elementary,6990 Melvin Drive San Jose CA 95129-2858,NA,NA,FALSE,tested,San José,Santa Clara County,37.307129,-122.026819
+Cupertino Union,Sam H. Lawson Middle,10401 Vista Drive Cupertino CA 95014-2081,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32937025,-122.027168700195
+Cupertino Union,Sierra School,220 Blake Ave Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Cupertino Union,Stevens Creek Elementary,10300 Ainsworth Drive Cupertino CA 95014-1099,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32765645,-122.06363933192
+Cupertino Union,Waha Montessori,220 Blake Av. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Cupertino Union,Warren E. Hyde Middle,19325 Bollinger Road Cupertino CA 95014-4657,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.31137645,-122.011565021962
+Cupertino Union,West Valley Elementary,1635 Belleville Way Sunnyvale CA 94087-3926,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3388960816131,-122.061048832413
+Cupertino Union,William Faria Elementary,10155 Barbara Lane Cupertino CA 95014-2901,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3212587,-122.039904599999
+Cupertino Union,William Regnart Elementary,1170 Yorkshire Drive Cupertino CA 95014-4963,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3039769,-122.0473889

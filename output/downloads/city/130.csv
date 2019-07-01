@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redlands Unified,Arroyo Verde Elementary,7701 Church Street Highland CA 92346-3968,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113287,-117.173653
+Redlands Unified,Beattie Middle,7800 Orange Street Highland CA 92346-5767,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1270653,-117.213127
+San Bernardino City Unified,Cole Elementary,1331 Cole Avenue Highland CA 92346-3119,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1249643061225,-117.212275469388
+Redlands Unified,Cram Elementary,29700 Water Street Highland CA 92346-5923,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1170700929491,-117.157817833476
+San Bernardino City Unified,Cypress Elementary,26825 Cypress Street Highland CA 92346-3539,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1139152869661,-117.219169756533
+Redlands Unified,Highland Grove Elementary,7700 Orange Street Highland CA 92346-5384,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1130773103039,-117.182641485933
+San Bernardino City Unified,Highland Pacific Elementary,3340 Pacific Street Highland CA 92346-2410,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1286122413626,-117.214460334066
+San Bernardino City Unified,Oehl Elementary,2525 Palm Avenue Highland CA 92346-2248,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1061637,-117.2088127
+San Bernardino City Unified,Thompson Elementary,7401 Church Avenue Highland CA 92346-3709,NA,NA,FALSE,tested,Highland,San Bernardino County,34.1185969840979,-117.204313248358

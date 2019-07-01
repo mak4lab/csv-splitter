@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+A Lighthouse Community Charter Public,Lodestar,"701, 105th Ave Oakland CA 94601-2630",NA,NA,NA,not tested,Oakland,Alameda County,37.7391795,-122.1668712
+A Lighthouse Community Charter Public,Lodestar A Lighthouse Community Charter Public,2433 Coolidge Avenue Oakland CA 94601,6.9,ppb,TRUE,tested,Oakland,Alameda County,37.7860766666667,-122.219261666667

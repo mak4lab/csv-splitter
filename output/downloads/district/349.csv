@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Kern High,Arvin High,900 Varsity Road Arvin CA 93203-2421,NA,NA,FALSE,tested,NA,Kern County,35.2164284545455,-118.834388438017
+Kern High,Bakersfield High,1241 G Street Bakersfield CA 93301-5173,8.4,ppb,TRUE,tested,Bakersfield,Kern County,35.369604,-119.022495
+Kern High,Centennial High School,8601 Hageman Rd Bakersfield CA 93312,NA,NA,FALSE,tested,Bakersfield,Kern County,35.39823,-119.102332
+Kern High,East Bakersfield High,2200 Quincy Street Bakersfield CA 93306-4036,NA,NA,FALSE,tested,Bakersfield,Kern County,35.379843,-118.967271
+Kern High,Foothill High,501 Park Drive Bakersfield CA 93306-6017,NA,NA,FALSE,tested,NA,Kern County,35.365373,-118.918574
+Kern High,Frontier High,6401 Allen Road Bakersfield CA 93314-9250,NA,NA,FALSE,tested,Bakersfield,Kern County,35.415579,-119.145483
+Kern High,Golden Valley High,801 Hosking Avenue Bakersfield CA 93307-5818,NA,NA,NA,not tested,Bakersfield,Kern County,35.281365,-119.004351
+Kern High,Highland High,2900 Royal Scots Way Bakersfield CA 93306-2819,NA,NA,FALSE,tested,Bakersfield,Kern County,35.401115,-118.931064
+Kern High,Independence High,8001 Old River Road Bakersfield CA 93311-9752,NA,NA,FALSE,tested,Bakersfield,Kern County,35.2826272487562,-119.10993997512401
+Kern High,Liberty High,925 Jewetta Avenue Bakersfield CA 93312-4683,NA,NA,FALSE,tested,Bakersfield,Kern County,35.363187,-119.12801
+Kern High,Mira Monte High,1800 South Fairfax Road Bakersfield CA 93307-8520,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3387704646465,-118.932113010101
+Kern High,North High,300 Galaxy Avenue Bakersfield CA 93308-1722,NA,NA,NA,not tested,NA,NA,NA,NA
+Kern High,Nueva Continuation High,8600 Palm Avenue Lamont CA 93241-2212,NA,NA,FALSE,tested,NA,Kern County,35.2579775050505,-118.909254787879
+Kern High,Ridgeview High,8501 Stine Road Bakersfield CA 93313-9782,NA,NA,FALSE,tested,Bakersfield,Kern County,35.2754759777778,-119.056767
+Kern High,ROC-Alternative Education-Bakersfield Adult School,2727 F Street Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3841855102041,-119.023575938776
+Kern High,Ruggenburg Special Education School,610 Ansol Ln  Bakersfield CA 93306,NA,NA,FALSE,tested,NA,Kern County,35.3673819591837,-118.926532877551
+Kern High,Shafter High,526 Mannel Avenue Shafter CA 93263-1810,NA,NA,FALSE,tested,NA,NA,NA,NA
+Kern High,South High,1101 Planz Road Bakersfield CA 93304-6150,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3248453571429,-119.014492
+Kern High,Stockdale High,2800 Buena Vista Road Bakersfield CA 93311-9791,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3294229310345,-119.127844862069
+Kern High,Tierra Del Sol Continuation High,3700 East Belle Terrace Bakersfield CA 93307-6832,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3458740253165,-118.988069113924
+Kern High,Vista Continuation High,200 P Street Bakersfield CA 93304-3051,NA,NA,FALSE,tested,Bakersfield,Kern County,35.358031,-119.011766
+Kern High,Vista West Continuation High,7115 Rosedale Highway Bakersfield CA 93308-5845,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3832892090858,-119.081202325613
+Kern High,West High,1200 New Stine Road Bakersfield CA 93309-3534,NA,NA,FALSE,tested,Bakersfield,Kern County,35.344113,-119.061037

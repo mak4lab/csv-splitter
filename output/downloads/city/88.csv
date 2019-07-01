@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,TRUE,tested,East Palo Alto,San Mateo County,37.468619,-122.128093
+Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4670250138554,-122.131837078408
+Ravenswood City School,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4621972300486,-122.134570389119
+Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
+Ravenswood City School,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
+Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632487127531,-122.131904758728
+Private,Eastside College Preparatory School,1041 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632459388629,-122.13204140297
+Ravenswood City School,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+Ravenswood City School,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4604091,-122.1439868
+Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+Ravenswood City School,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4608287106356,-122.133501498457

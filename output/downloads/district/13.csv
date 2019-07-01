@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alpine Union Elementary,Alpine Elementary,1850 Alpine Boulevard Alpine CA 91901-3898,NA,NA,FALSE,tested,NA,San Diego County,32.8375629339905,-116.774421031358
+Alpine Union Elementary,Boulder Oaks Elementary,2320 Tavern Road Alpine CA 91901-3134,5.95,ppb,TRUE,tested,NA,San Diego County,32.8201631158861,-116.776323745351
+Alpine Union Elementary,Creekside Early Learning Center,8818 Harbison Canyon Road Alpine CA 91901-2616,NA,NA,FALSE,tested,NA,NA,NA,NA
+Alpine Union Elementary,Joan MacQueen Middle,2001 Tavern Road Alpine CA 91901-3129,NA,NA,FALSE,tested,NA,San Diego County,32.8245809047947,-116.775383763639
+Alpine Union Elementary,Mountain View Learning Academy,8770 Harbison Canyon Road Alpine CA 91901-2615,5.66,ppb,TRUE,tested,NA,NA,NA,NA
+Alpine Union Elementary,Shadow Hills Elementary,8770 Harbison Canyon Road Alpine CA 91901-2615,NA,NA,NA,not tested,NA,NA,NA,NA

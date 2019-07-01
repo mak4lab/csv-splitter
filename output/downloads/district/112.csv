@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Campbell Union,Blackford Elementary,1970 Willow Street San Jose CA 95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Campbell Union,Blackford Elementary (Blackford Preschool),1970 Willow St San Jose CA 	95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Campbell Union,Campbell Middle,295 West Cherry Lane Campbell CA 95008-3417,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Capri Elementary,850 Chapman Avenue Campbell CA 95008-6807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Capri Elementary (Capri Preschool),850 Chapman Ave Campbell CA 95008-6807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Castlemont Elementary,3040 East Payne Avenue Campbell CA 95008-0136,NA,NA,FALSE,tested,NA,NA,NA,NA
+Campbell Union,Forest Hill Elementary,4450 McCoy Avenue San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Campbell Union,Forest Hill Elementary (Forest Hill Preschool),4450 McCoy Ave San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Campbell Union,Lynhaven Elementary,881 South Cypress Avenue San Jose CA 95117-2508,6,ppb,TRUE,tested,San José,Santa Clara County,37.3112146363636,-121.959861
+Campbell Union,Marshall Lane Elementary,14114 Marilyn Lane Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Marshall Lane Elementary (Marshall Lane Preschool),14114 Marilyn Ln Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Monroe Middle,1055 South Monroe Street San Jose CA 95128-3150,NA,NA,FALSE,tested,San José,Santa Clara County,37.3090003697083,-121.94358596837
+Campbell Union,Rolling Hills Middle,1585 More Avenue Los Gatos CA 95030-1094,NA,NA,FALSE,tested,NA,Santa Clara County,37.2546685,-121.9867358
+Campbell Union,Rosemary Elementary,401 West Hamilton Avenue Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Campbell Union,Rosemary Family Learning Center (Rosemary Preschool),401 West Hamilton Ave Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Campbell Union,Sherman Oaks Elementary,1800 Fruitdale Avenue San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Campbell Union,Sherman Oaks Elementary (Sherman Oaks Preschool),1800 Fruitdale Ave San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Campbell Union,Village,825 West Parr Avenue Campbell CA 95008-6803,NA,NA,FALSE,tested,NA,Santa Clara County,37.2646829,-121.96507901733101

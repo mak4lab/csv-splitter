@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Trona Joint Unified,Trona Elementary,83600 Trona Road. Trona CA 93562-2101,NA,NA,FALSE,tested,,San Bernardino County,35.7706939969096,-117.369153325702
+Trona Joint Unified,Trona High,83600 Trona Rd. Trona CA 93562-2101,NA,NA,NA,not tested,NA,San Bernardino County,35.7706939969096,-117.369153325702

@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Downey Unified,Alameda Elementary,8613 East Alameda Street Downey CA 90242-2620,NA,NA,FALSE,tested,NA,NA,NA,NA
+Downey Unified,Carpenter Elementary,9439 East Foster Road Downey CA 90242-4835,8.2,ppb,TRUE,tested,NA,NA,NA,NA
+Downey Unified,Columbus Continuation,12330 Woodruff Avenue Downey CA 90241-5610,9.5,ppb,TRUE,tested,Downey,Los Angeles County,33.9199699661461,-118.11657
+Downey Unified,Doty Middle,10301 South Woodruff Avenue Downey CA 90241-2944,NA,NA,FALSE,tested,NA,NA,NA,NA
+Downey Unified,Downey Adult,12340 Woodruff Avenue Downey CA 90241,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9199290854977,-118.116568873688
+Downey Unified,Downey High,11040 Brookshire Avenue Downey CA 90241-3816,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9386835410395,-118.12913720043
+Downey Unified,Gallatin Elementary,9513 Brookshire Avenue Downey CA 90240-3301,5.8,ppb,TRUE,tested,Downey,Los Angeles County,33.9557710507242,-118.116267657102
+Downey Unified,Gauldin Elementary,9724 Spry Street Downey CA 90242-3110,7.1,ppb,TRUE,tested,Downey,Los Angeles County,33.920634,-118.120281
+Downey Unified,Griffiths Middle,9633 Tweedy Lane Downey CA 90240-3140,NA,NA,FALSE,tested,Downey,Los Angeles County,33.95937715,-118.130629318267
+Downey Unified,Imperial Elementary,8133 Imperial Highway Downey CA 90242-3715,NA,NA,FALSE,tested,NA,NA,NA,NA
+Downey Unified,Lewis Elementary,13220 South Bellflower Boulevard Downey CA 90242-4817,NA,NA,FALSE,tested,NA,NA,NA,NA
+Downey Unified,Old River Elementary,11995 Old River School Road Downey CA 90242-2155,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9388021890639,-118.155099873957
+Downey Unified,Price Elementary,9525 South Tweedy Lane Downey CA 90240-3138,NA,NA,FALSE,tested,NA,NA,NA,NA
+Downey Unified,Rio Hondo Elementary,7731 East Muller Street Downey CA 90241-2115,8.7,ppb,TRUE,tested,NA,NA,NA,NA
+Downey Unified,Rio San Gabriel Elementary,9338 Gotham Street Downey CA 90241-2925,NA,NA,FALSE,tested,Downey,Los Angeles County,33.938844977707,-118.112053720891
+Downey Unified,Stauffer Middle,11985 Old River School Road Downey CA 90242-2155,7.6,ppb,TRUE,tested,Downey,Los Angeles County,33.9388626617237,-118.155059558851
+Downey Unified,Sussman Middle,12500 Birchdale Avenue Downey CA 90242-3604,15,ppb,TRUE,tested,Downey,Los Angeles County,33.920693,-118.139899
+Downey Unified,Unsworth Elementary,9001 Lindsey Avenue Downey CA 90240-2419,6,ppb,TRUE,tested,Downey,Los Angeles County,33.955794,-118.106539
+Downey Unified,Ward Elementary,8851 East Adoree Street Downey CA 90242-4501,5.6,ppb,TRUE,tested,Downey,Los Angeles County,33.9147833469388,-118.141658306122
+Downey Unified,Warren High,8141 De Palma Street Downey CA 90241-5102,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9348786072963,-118.140652991418
+Downey Unified,Williams Elementary,7530 East Arnett Street Downey CA 90241-4403,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9448630943609,-118.148725152824

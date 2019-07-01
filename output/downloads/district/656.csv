@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Salinas Union High,Alisal High,777 Williams Road Salinas CA 93905-1907,NA,NA,NA,not tested,Salinas,Monterey County,36.6811125918367,-121.604595612245
+Salinas Union High,Carr Lake Community Day,10 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.6873813946986,-121.646338464112
+Salinas Union High,El Puente,20 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.6872881380719,-121.646122794252
+Salinas Union High,El Sausal Middle,1155 East Alisal Street Salinas CA 93905-2715,NA,NA,NA,not tested,Salinas,Monterey County,36.6726732857143,-121.624130877551
+Salinas Union High,Everett Alvarez High,1900 Independence Boulevard Salinas CA 93906-5300,NA,NA,FALSE,tested,Salinas,Monterey County,36.712132,-121.618425
+Salinas Union High,Harden Middle,1561 McKinnon Street Salinas CA 93906-4100,NA,NA,FALSE,tested,Salinas,Monterey County,36.7082002040816,-121.645598918367
+Salinas Union High,La Paz Middle,1300 North Sanborn Road Salinas CA 93905-4127,NA,NA,NA,not tested,Salinas,Monterey County,36.691219,-121.6061
+Salinas Union High,Mount Toro High,10 Sherwood Place B Salinas CA 93906-4010,NA,NA,FALSE,tested,Salinas,Monterey County,36.6873813946986,-121.646338464112
+Salinas Union High,North Salinas High,55 Kip Drive Salinas CA 93906-2908,NA,NA,FALSE,tested,Salinas,Monterey County,36.7050131127064,-121.644829396845
+Salinas Union High,Salinas High,726 South Main Street Salinas CA 93901-3243,NA,NA,FALSE,tested,Salinas,Monterey County,36.6675410675676,-121.655927108108
+Salinas Union High,Washington Middle,560 Iverson Street Salinas CA 93901-2534,NA,NA,FALSE,tested,Salinas,Monterey County,36.6692562857143,-121.663322857143

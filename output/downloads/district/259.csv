@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fremont Union High,Community Day,589 West Fremont Ave Sunnyvale CA 94087-2556,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3527645,-122.037499411599
+Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32076165,-122.008954023319
+Fremont Union High,Fremont High,1279 Sunnyvale-Saratoga Road Sunnyvale CA 94087-2535,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3526070497761,-122.03250461253
+Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3364109,-122.04801905545
+Fremont Union High,Lynbrook High,1280 Johnson Avenue San Jose CA 95129-4172,NA,NA,FALSE,tested,San José,Santa Clara County,37.3016001207421,-122.006344036533
+Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.31491205,-122.056726500299

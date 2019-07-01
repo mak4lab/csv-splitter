@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fountain Valley Elementary,Courreges (Roch) Elementary,18313 Santa Carlotta Fountain Valley CA 92708-5616,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fountain Valley Elementary,Cox (James H.) Elementary,17615 Los Jardines East Fountain Valley CA 92708-5340,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707484,-117.939004
+Fountain Valley Elementary,Fulton (Harry C.) Middle,8778 El Lago Street Fountain Valley CA 92708-4320,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fountain Valley Elementary,Gisler (Robert) Elementary,18720 Las Flores Street Fountain Valley CA 92708-7113,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.693843,-117.949741
+Fountain Valley Elementary,Masuda (Kazuo) Middle,17415 Los Jardines West Fountain Valley CA 92708-4846,5.6,ppb,TRUE,tested,Fountain Valley,Orange County,33.7092971770922,-117.94338026179
+Fountain Valley Elementary,Newland (William T.) Elementary,8787 Dolphin Street Huntington Beach CA 92646-3218,NA,NA,NA,not tested,NA,NA,NA,NA
+Fountain Valley Elementary,Oka (Isojiro) Elementary,9800 Yorktown Avenue Huntington Beach CA 92646-2841,NA,NA,NA,not tested,Huntington Beach,Orange County,33.679528,-117.957143
+Fountain Valley Elementary,Plavan (Urbain H.) Elementary,9675 Warner Avenue Fountain Valley CA 92708-2823,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.716138,-117.959421
+Fountain Valley Elementary,Talbert (Samuel E.) Middle,9101 Brabham Drive Huntington Beach CA 92646-2764,NA,NA,NA,not tested,Huntington Beach,Orange County,33.680802,-117.969194372639
+Fountain Valley Elementary,Tamura (Hisamatsu) Elementary,17340 Santa Suzanne Street Fountain Valley CA 92708-3307,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.711794,-117.976083

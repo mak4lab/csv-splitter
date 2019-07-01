@@ -1,0 +1,431 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cupertino Union,Abraham Lincoln Elementary,21710 McClellan Road Cupertino CA 95014-4054,6.3,ppb,TRUE,tested,Cupertino,Santa Clara County,37.31494445,-122.054055543415
+San Jose Unified,Abraham Lincoln High,555 Dana Avenue San Jose CA 95126-2002,NA,NA,FALSE,tested,San José,Santa Clara County,37.3292183571287,-121.923881790079
+East Side Union High,ACE Charter High,1776 Educational Park Dr. San Jose CA 95133-1703,NA,NA,NA,not tested,San José,Santa Clara County,37.369855,-121.8594963
+Santa Clara County Office of Education,ACE Empower Academy,625 South Sunset Avenue San Jose CA 95116-3423,NA,NA,FALSE,tested,San José,Santa Clara County,37.3476782,-121.843766150063
+Franklin-McKinley Elementary,ACE Franklin McKinley,1665 Santee Drive San Jose CA 95112-2865,NA,NA,FALSE,tested,San José,Santa Clara County,37.327993,-121.845405
+San Jose Unified,ACE Inspire Academy,110 East Hedding Street San Jose CA 95112-6334,NA,NA,FALSE,tested,San José,Santa Clara County,37.3549071521506,-121.899958680927
+Private,Achiever Christian,540 Sands Drive San Jose CA 95125,5.9,ppb,TRUE,tested,San José,Santa Clara County,37.2880588501677,-121.874335093244
+Private,Action Day Primary Plus - Allen,5845 Allen Ave San Jose CA 95123,7.4,ppb,TRUE,tested,San José,Santa Clara County,37.2451031521739,-121.856177173913
+Private,Action Day Primary Plus - Amber,3500 Amber Dr San Jose CA 95117,NA,NA,FALSE,tested,San José,Santa Clara County,37.304731,-121.958633
+Private,Action Day Primary Plus - West Valley Middle School,801 Hibiscus Ln San Jose CA 95117,NA,NA,FALSE,tested,San José,Santa Clara County,37.31334,-121.972194
+Palo Alto Unified,Addison Elementary,650 Addison Avenue Palo Alto CA 94301-3206,5.95,ppb,TRUE,tested,Palo Alto,Santa Clara County,37.44582835,-122.150796384204
+Alum Rock Union Elementary,Adelante Dual Language Academy,2999 Ridgemont Drive San Jose CA 95127-4649,NA,NA,FALSE,tested,San José,Santa Clara County,37.34517975,-121.813228430601
+Santa Clara Unified,Adrian Wilcox High,3250 Monroe Street Santa Clara CA 95051-1153,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.36503355,-121.984846829821
+Milpitas Unified,Alexander Rose Elementary,250 Roswell Drive Milpitas CA 95035-5945,7.800000000000001,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4331699246334,-121.877515449654
+San Jose Unified,Allen at Steinbeck,820 Steinbeck Drive San Jose CA 95123-2634,NA,NA,FALSE,tested,San José,Santa Clara County,37.247349,-121.856932
+Private,Almaden Country School,6835 Trinidad Drive San Jose CA 95120,NA,NA,FALSE,tested,San José,Santa Clara County,37.2174995408412,-121.852692858183
+San Jose Unified,Almaden Elementary,1295 Dentwood Drive San Jose CA 95118-3018,NA,NA,FALSE,tested,San José,Santa Clara County,37.2508391933773,-121.884821016743
+Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100525543478
+East Side Union High,Alpha Cindy Avitia High,1601 Cunningham Avenue San Jose CA 95122-2314,NA,NA,NA,not tested,San José,Santa Clara County,37.326578,-121.834505
+Alum Rock Union Elementary,Alpha: Blanca Alvarado Middle,1601 Cunningham Ave. San Jose CA 95122-2322,NA,NA,FALSE,tested,San José,Santa Clara County,37.326578,-121.834505
+Santa Clara County Office of Education,Alpha: Jose Hernandez Middle,1601 Cunningham Ave.B San Jose CA 95122-2314,NA,NA,NA,not tested,San José,Santa Clara County,37.326578,-121.834505
+Mountain View-Los Altos Union High,Alta Vista High,1325 Bryant Avenue Mountain View CA 94040-4527,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.3604236,-122.063647948218
+Mountain Valley Unified,Alta Vista High School,1325 Bryant Ave. Mountain View CA 94040,NA,NA,NA,not tested,Mountain View,Santa Clara County,37.3604236,-122.063647948218
+Oak Grove Elementary,Anderson (Alex) Elementary,5800 Calpine Drive San Jose CA 95123-3705,NA,NA,FALSE,tested,San José,Santa Clara County,37.245834,-121.811663
+East Side Union High,Andrew P. Hill High,3200 Senter Road San Jose CA 95111-1332,NA,NA,FALSE,tested,San José,Santa Clara County,37.293375,-121.833037
+San Jose Unified,Anne Darling Elementary,333 North 33rd Street San Jose CA 95133-1634,NA,NA,FALSE,tested,San José,Santa Clara County,37.35637455,-121.865491610903
+Milpitas Unified,Anthony Spangler Elementary,140 North Abbott Milpitas CA 95035-4849,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.4306902815324,-121.914574034922
+Gilroy Unified,Antonio Del Buono Elementary,9300 Wren Avenue Gilroy CA 95020-7636,6.8,ppb,TRUE,tested,Gilroy,Santa Clara County,37.029817,-121.587405
+East Side Union High,Apollo High,1835 Cunningham Avenue San Jose CA 95122-1712,NA,NA,NA,not tested,San José,Santa Clara County,37.33208455,-121.829672667465
+Alum Rock Union Elementary,Aptitud Community Academy at Goss,2475 Van Winkle Lane San Jose CA 95116-3758,NA,NA,FALSE,tested,San José,Santa Clara County,37.34982905,-121.832228975253
+Private,Archbishop Mitty High,5000 Mitty Way San Jose CA 95129,NA,NA,FALSE,tested,San José,Santa Clara County,37.315761,-121.991181
+Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.3961242,-122.116366380816
+Union Elementary,Athenour Early Childhood Education Center,5200 Dent Avenue San Jose CA 95118-2258,NA,NA,FALSE,tested,San José,Santa Clara County,37.2490924,-121.8973826
+Mount Pleasant Elementary,August Boeger Middle,1944 Flint Avenue San Jose CA 95148-1213,NA,NA,FALSE,tested,San José,Santa Clara County,37.3473151,-121.799311644746
+San Jose Unified,Bachrodt Charter Academy,102 Sonora Avenue San Jose CA 95110-1457,7,ppb,TRUE,tested,San José,Santa Clara County,37.3633124351186,-121.912851256734
+Cambrian,Bagby Elementary,1840 Harris Avenue San Jose CA 95124-1125,NA,NA,FALSE,tested,San José,Santa Clara County,37.2788165412091,-121.922135626096
+Oak Grove Elementary,Baldwin (Julia) Elementary,280 Martinvale Lane San Jose CA 95119-1840,NA,NA,FALSE,tested,San José,Santa Clara County,37.2241037281032,-121.784108316595
+Morgan Hill Unified,Barrett Elementary,895 Barrett Avenue Morgan Hill CA 95037-5206,NA,NA,FALSE,tested,NA,Santa Clara County,37.1222199377841,-121.63199983136
+Palo Alto Unified,Barron Park Elementary,800 Barron Avenue Palo Alto CA 94306-2610,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4134353,-122.137152
+Private,Bellarmine College Preparatory,960 West Hedding Street San Jose CA 95126,NA,NA,FALSE,tested,San José,Santa Clara County,37.3421682869133,-121.920847174594
+Alum Rock Union Elementary,Ben Painter Elementary,500 Rough and Ready Road San Jose CA 95133-2068,NA,NA,FALSE,tested,San José,Santa Clara County,37.3769234,-121.84232094743
+Mountain View Whisman,Benjamin Bubb Elementary,525 Hans Avenue Mountain View CA 94040-3103,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.3790766293336,-122.082193385755
+Oak Grove Elementary,Bernal Intermediate,6610 San Ignacio Avenue San Jose CA 95119-1935,NA,NA,FALSE,tested,San José,Santa Clara County,37.2271079200832,-121.790871062166
+Berryessa Union Elementary,Berryessa Union Elementary,1376 Piedmont Road San Jose CA 95132-2498,NA,NA,NA,not tested,San José,Santa Clara County,37.4038865686333,-121.848857562656
+Sunnyvale,Bishop Elementary,450 North Sunnyvale Avenue Sunnyvale CA 94085-4320,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3866360124888,-122.02530759453
+Campbell Union,Blackford Elementary,1970 Willow Street San Jose CA 95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Campbell Union,Blackford Elementary (Blackford Preschool),1970 Willow St San Jose CA 	95125-5241,NA,NA,FALSE,tested,San José,Santa Clara County,37.3115382,-121.895046
+Los Gatos Union Elementary,Blossom Hill Elementary,16400 Blossom Hill Road Los Gatos CA 95032-3553,NA,NA,FALSE,tested,NA,Santa Clara County,37.2357007,-121.9629608
+Cupertino Union,Blue Hills Elementary,12300 De Sanka Avenue Saratoga CA 95070-3151,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.289951,-122.02582
+San Jose Unified,Booksin Elementary,1590 Dry Creek Road San Jose CA 95125-4618,NA,NA,FALSE,tested,San José,Santa Clara County,37.28794055,-121.905667607594
+Santa Clara Unified,Bowers Elementary,2755 Barkley Avenue Santa Clara CA 95051-2414,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.357262,-121.976179545455
+Campbell Union High,Boynton High,901 Boynton Avenue San Jose CA 95117-2006,NA,NA,FALSE,tested,San José,Santa Clara County,37.310173,-121.966056
+Santa Clara Unified,Bracher Elementary,2700 Chromite Drive Santa Clara CA 95051-0910,8.65,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.36721,-121.976192
+Santa Clara Unified,Braly Elementary,675 Gail Avenue Sunnyvale CA 94086-8016,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3662693829787,-122.017373
+Campbell Union High,Branham High,1570 Branham Lane San Jose CA 95118-2201,6.4,ppb,TRUE,tested,San José,Santa Clara County,37.2564419339259,-121.896076323778
+San Jose Unified,Bret Harte Middle,7050 Bret Harte Drive San Jose CA 95120-3205,NA,NA,FALSE,tested,San José,Santa Clara County,37.2093188519832,-121.837914423203
+Santa Clara Unified,Briarwood Elementary,1930 Townsend Avenue Santa Clara CA 95051-2203,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.35829675,-121.988098234293
+Franklin-McKinley Elementary,Bridges Academy,1702 Mclaughlin Avenue San Jose CA 95122-2936,NA,NA,FALSE,tested,San José,Santa Clara County,37.3268849,-121.845221846064
+Union Elementary,Bright Horizons Preschool,220 Belgatos Rd Los Gatos CA 95032,NA,NA,FALSE,tested,,Santa Clara County,37.2333499,-121.918505456551
+San Jose Unified,Broadway High,4825 Speak Lane San Jose CA 95118-3769,NA,NA,FALSE,tested,San José,Santa Clara County,37.2612624,-121.8798853338
+Berryessa Union Elementary,Brooktree Elementary,1781 Olivetree Drive San Jose CA 95131-1933,NA,NA,FALSE,tested,San José,Santa Clara County,37.3981488309419,-121.87952144545
+Santa Clara County Office of Education,Brownell Annex,7701 Hanna St. Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.010248,-121.575839
+Gilroy Unified,Brownell Middle,7800 Carmel Street Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0114677,-121.57757865535
+Santa Clara Unified,Buchser Middle,1111 Bellomy Street Santa Clara CA 95050-5433,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3465735,-121.9378954
+Santa Clara County Office of Education,Bullis Charter,102 West Portola Avenue Los Altos CA 94022-1210,NA,NA,NA,not tested,Los Altos,Santa Clara County,37.39673,-122.117781
+Cupertino Union,C. B. Eaton Elementary,20220 Suisun Drive Cupertino CA 95014-4428,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.314792250000004,-122.026189594375
+Santa Clara Unified,C. W. Haman Elementary,865 Los Padres Boulevard Santa Clara CA 95050-5130,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3434733532777,-121.964660688517
+Evergreen Elementary,Cadwallader Elementary,3799 Cadwallader Avenue San Jose CA 95121-1114,NA,NA,FALSE,tested,San José,Santa Clara County,37.306555,-121.787756
+Milpitas Unified,Calaveras Hills,1331 East Calaveras Blvd. Milpitas CA 95035-5707,11,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4362486,-121.883107607177
+East Side Union High,Calero High,420 Calero Avenue San Jose CA 95123-4240,NA,NA,FALSE,tested,San José,Santa Clara County,37.2424612216916,-121.826904885065
+Campbell Union High,Camden Community Day,2223 Camden Avenue San Jose CA 95124-2027,NA,NA,NA,not tested,San José,Santa Clara County,37.263766,-121.937817
+San Jose Unified,Canoas Elementary,880 Wren Drive San Jose CA 95125-2950,7.5,ppb,TRUE,tested,San José,Santa Clara County,37.2846416026873,-121.876335026552
+Franklin-McKinley Elementary,Captain Jason M. Dahl Elementary,3200 Water Street San Jose CA 95111-3236,6.1,ppb,TRUE,tested,San José,Santa Clara County,37.28882055,-121.839846644109
+Union Elementary,Carlton Elementary,2421 Carlton Avenue San Jose CA 95124-4949,NA,NA,FALSE,tested,NA,Santa Clara County,37.24728715,-121.946460212757
+Evergreen Elementary,Carolyn A. Clark Elementary,3701 Rue Mirassou Drive San Jose CA 95148-4382,NA,NA,FALSE,tested,San José,Santa Clara County,37.3216905,-121.769636
+Private,Casa Di Mir Montessori Elementary,90 East Latimer Avenue Campbell CA 95008,NA,NA,FALSE,tested,NA,Santa Clara County,37.290577999999996,-121.948370655172
+San Jose Unified,Castillero Middle,6384 Leyland Park Drive San Jose CA 95120-4516,NA,NA,FALSE,tested,San José,Santa Clara County,37.2210324415723,-121.881753389025
+Santa Clara Unified,Central Park Elementary School,2720 Sonoma Place Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.34479175,-121.976139832859
+Alum Rock Union Elementary,Cesar Chavez Elementary,2000 Kammerer Avenue San Jose CA 95116-3016,5.8,ppb,TRUE,tested,San José,Santa Clara County,37.3487957,-121.845214640286
+Evergreen Elementary,Chaboya Middle,3276 Cortona Drive San Jose CA 95135-1180,NA,NA,FALSE,tested,San José,Santa Clara County,37.3125588015666,-121.764057483247
+Private,Challenger - Harwood,4949 Harwood Road San Jose CA 95124,NA,NA,FALSE,tested,San José,Santa Clara County,37.247944143147,-121.913198247562
+Private,Challenger - Shawnee,500 Shawnee Lane San Jose CA 95123,NA,NA,FALSE,tested,San José,Santa Clara County,37.241208,-121.830827
+Private,Challenger - Sunnyvale,1185 Hollenbeck Avenue Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.35529835,-122.04228195
+Private,Challenger-Almaden,19950 McKean Road San Jose CA 95120,14,ppb,TRUE,tested,San José,Santa Clara County,37.2000904480753,-121.825402146436
+Santa Clara County Office of Education,Chandler Tripp School,780 Thornton Way. San Jose CA 95128,NA,NA,NA,not tested,San José,Santa Clara County,37.3119277268798,-121.938588414623
+Morgan Hill Unified,Charter School of Morgan Hill,9530 Monterey Road Morgan Hill CA 95037-9356,NA,NA,FALSE,tested,San José,Santa Clara County,37.1955426479103,-121.717580728963
+Sunnyvale,Cherry Chase Elementary,1138 Heatherstone Way Sunnyvale CA 94087-1620,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3669738459288,-122.057059454378
+Berryessa Union Elementary,Cherrywood Elementary,2550 Greengate Drive San Jose CA 95132-2699,NA,NA,FALSE,tested,San José,Santa Clara County,37.3945498945124,-121.865487866766
+Cupertino Union,Chester W. Nimitz Elementary,545 East Cheyenne Drive Sunnyvale CA 94087-4421,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.346722,-122.03350326087
+Cupertino Union,Christa McAuliffe Elementary,12211 Titus Avenue Saratoga CA 95070-3456,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2922327087659,-122.009717866998
+Oak Grove Elementary,Christopher Elementary,565 Coyote Road San Jose CA 95111-2599,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2793966972699,-121.816712104481
+Gilroy Unified,Christopher High,850 Day Road Gilroy CA 95020-9324,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.039655,-121.60452
+Alum Rock Union Elementary,Clyde Arbuckle Elementary,1970 Cinderella Lane San Jose CA 95116-3503,NA,NA,FALSE,tested,San José,Santa Clara County,37.34422165,-121.840083067466
+Alum Rock Union Elementary,Clyde L. Fischer Middle,1720 Hopkins Dr. San Jose CA 95122-1632,NA,NA,FALSE,tested,San José,Santa Clara County,37.3377965,-121.829212479685
+Sunnyvale,Columbia Middle,739 Morse Avenue Sunnyvale CA 94085-3010,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3938976636417,-122.018418565813
+Morgan Hill Unified,Community Adult,17940 Monterey Street Morgan Hill CA 95037-3660,7.1,ppb,TRUE,tested,NA,Santa Clara County,37.128057,-121.6524137
+Fremont Union High,Community Day,589 West Fremont Ave Sunnyvale CA 94087-2556,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3527645,-122.037499411599
+Franklin-McKinley Elementary,Cornerstone Academy Preparatory,1598 Lucretia Avenue San Jose CA 95122-3817,NA,NA,NA,not tested,San José,Santa Clara County,37.325724,-121.852982
+Moreland,Country Lane Elementary,5140 Country Lane San Jose CA 95129-4299,NA,NA,FALSE,tested,San José,Santa Clara County,37.2985896534002,-121.992862600758
+Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
+Mountain View Whisman,Crittenden Middle,1701 Rock Street Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.41065575,-122.085477812878
+Sunnyvale,Cumberland Elementary,824 Cumberland Avenue Sunnyvale CA 94087-1221,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3672762304214,-122.043012281014
+Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32076165,-122.008954023319
+Cupertino Union,Cupertino Middle,1650 South Bernardo Ave. Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Cupertino Union,Cupertino Middle,1650 South Bernardo Avenue Sunnyvale CA 94087-5256,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.34007595,-122.05810354039
+Milpitas Unified,Curtner Elementary,275 Redwood Milpitas CA 95035-3843,9.9,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4400136938776,-121.911950877551
+Cupertino Union,D. J. Sedgwick Elementary,19200 Phil Lane Cupertino CA 95014-3566,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3153599,-122.00851375683
+Union Elementary,Dartmouth Middle,5575 Dartmouth Drive San Jose CA 95118-3332,NA,NA,FALSE,tested,San José,Santa Clara County,37.2398469133715,-121.896463194586
+Palo Alto Unified,David Starr Jordan Middle,750 North California Avenue Palo Alto CA 94303-3629,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4386066,-122.134630593255
+Oak Grove Elementary,Davis (Caroline) Intermediate,5035 Edenview Drive San Jose CA 95111-4031,NA,NA,FALSE,tested,San José,Santa Clara County,37.263435,-121.812784
+Campbell Union High,Del Mar High,1224 Del Mar Avenue San Jose CA 95128-3529,NA,NA,FALSE,tested,San José,Santa Clara County,37.3032833602815,-121.930279379591
+Oak Grove Elementary,Del Roble Elementary,5345 Avenida Almendros San Jose CA 95123-1405,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565760220769,-121.835311231134
+Cupertino Union,Delor Montessori School,1510 Lewiston Dr. Sunnyvale  CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.34335375,-122.044553888017
+Santa Clara County Office of Education,Discovery Charter,4021 Teale Avenue San Jose CA 95117-3433,NA,NA,FALSE,tested,San José,Santa Clara County,37.3027838980242,-121.973640184193
+Santa Clara County Office of Education,Discovery Charter II,762 Sunset Glen Drive San Jose CA 95123,NA,NA,FALSE,tested,San José,Santa Clara County,37.23527515,-121.847342302918
+Santa Clara Unified,Don Callejon,4176 Lick Mill Boulevard Santa Clara CA 95054-3585,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.402638,-121.9536494
+Alum Rock Union Elementary,Donald J. Meyer Elementary,1824 Daytona Drive San Jose CA 95122-1719,NA,NA,FALSE,tested,San José,Santa Clara County,37.3340142,-121.8264988
+Evergreen Elementary,Dove Hill Elementary,1460 Colt Way San Jose CA 95121-1900,NA,NA,FALSE,tested,San José,Santa Clara County,37.29995525,-121.808921436304
+San Jose Unified,Downtown College Preparatory,1402 Monterey Rd San Jose CA 95110,NA,NA,NA,not tested,San José,Santa Clara County,37.3163961894701,-121.873621541661
+San Jose Unified,Downtown College Preparatory Middle,1155 East Julian Street San Jose CA 95116-1005,NA,NA,NA,not tested,San José,Santa Clara County,37.3510843516163,-121.871275248205
+Palo Alto Unified,Duveneck Elementary,705 Alester Avenue Palo Alto CA 94303-2859,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4495998,-122.133409827773
+Cupertino Union,Dwight D. Eisenhower Elementary,277 Rodonovan Drive Santa Clara CA 95051-6656,5.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.329208997104,-121.989509860546
+Cupertino Union,Early Horizons Preschool,1510 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.34335375,-122.044553888017
+Moreland,Easterbrook Discovery,4835 Doyle Road San Jose CA 95129-3246,NA,NA,FALSE,tested,San José,Santa Clara County,37.3034395322172,-121.98660128414
+Oak Grove Elementary,Edenvale Elementary,285 Azucar Avenue San Jose CA 95111-2902,9,ppb,TRUE,tested,San José,Santa Clara County,37.261638,-121.802891571705
+Santa Clara County Office of Education,Edenvale/Discovery Head Start,285 Azucar Ave. San Jose CA 95111,NA,NA,NA,not tested,San José,Santa Clara County,37.261638,-121.802891571705
+Mountain View Whisman,Edith Landels Elementary,115 West Dana Street Mountain View CA 94041-1406,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.389478204609,-122.072591976506
+Palo Alto Unified,El Carmelo Elementary,3024 Bryant Street Palo Alto CA 94306-2335,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4256116734014,-122.130155666892
+Morgan Hill Unified,El Toro Elementary,455 East Main Avenue Morgan Hill CA 95037-3745,NA,NA,FALSE,tested,NA,Santa Clara County,37.1351678256052,-121.648451819422
+Gilroy Unified,Eliot Elementary,475 Old Gilroy Street Gilroy CA 95020-6214,9.6,ppb,TRUE,tested,Gilroy,Santa Clara County,37.0062875,-121.561900341962
+Sunnyvale,Ellis Elementary,550 East Olive Avenue Sunnyvale CA 94086-6345,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3697912877243,-122.023720503379
+San Jose Unified,Empire Gardens Elementary,1060 East Empire Street San Jose CA 95112-1715,NA,NA,FALSE,tested,San José,Santa Clara County,37.3545936578636,-121.876181227877
+Union Elementary,Enlighten Chinese Preschool,1921 Clarinda Wy San Jose CA 95124,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2450273183297,-121.924233977881
+San Jose Unified,Ernesto Galarza Elementary,1610 Bird Avenue San Jose CA 95125-1821,6.5,ppb,TRUE,tested,San José,Santa Clara County,37.303716789498,-121.887008179368
+Palo Alto Unified,Escondido Elementary,890 Escondido Road Stanford CA 94305-7101,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4209075,-122.1558912
+East Side Union High,Escuela Popular Accelerated Family Learning,467 North White Road San Jose CA 95127-1936,NA,NA,NA,not tested,San José,Santa Clara County,37.3784730855592,-121.838321533431
+East Side Union High,"Escuela Popular/Center for Training and Careers, Family Learning",149 North White Road San Jose CA 95127-1612,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3658911,-121.8280622
+Evergreen Elementary,Evergreen Elementary,3010 Fowler Road San Jose CA 95135-1017,NA,NA,FALSE,tested,San José,Santa Clara County,37.3106327965251,-121.777172642241
+East Side Union High,Evergreen Valley High,3300 Quimby Road San Jose CA 95148-3122,NA,NA,FALSE,tested,San José,Santa Clara County,37.3238527,-121.8087368
+Palo Alto Unified,Fairmeadow Elementary,500 East Meadow Drive Palo Alto CA 94306-3624,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4181497,-122.1228321
+Sunnyvale,Fairwood Elementary,1110 Fairwood Avenue Sunnyvale CA 94089-2311,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3961629545446,-121.991396909914
+Cambrian,Fammatre Elementary,2800 New Jersey Avenue San Jose CA 95124-1556,NA,NA,FALSE,tested,San José,Santa Clara County,37.27182385,-121.924046202283
+Cambrian,Farnham Charter,15711 Woodard Road San Jose CA 95124-2668,7.3,ppb,TRUE,tested,San José,Santa Clara County,37.2601301020408,-121.944858030612
+Saratoga Union Elementary,Foothill Elementary,13919 Lynde Avenue Saratoga CA 95070-5310,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2652328461953,-122.033430808543
+East Side Union High,Foothill High,230 Pala Avenue San Jose CA 95127-1862,NA,NA,FALSE,tested,San José,Santa Clara County,37.3680986237336,-121.838727782904
+Campbell Union,Forest Hill Elementary,4450 McCoy Avenue San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Campbell Union,Forest Hill Elementary (Forest Hill Preschool),4450 McCoy Ave San Jose CA 95130-2117,NA,NA,FALSE,tested,NA,Santa Clara County,37.2763856919937,-121.980683236875
+Mountain View Whisman,Frank L. Huff Elementary,253 Martens Avenue Mountain View CA 94040-3220,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.3753074056,-122.074669549172
+Franklin-McKinley Elementary,Franklin Elementary,420 Tully Road San Jose CA 95111-1914,6.1,ppb,TRUE,tested,San José,Santa Clara County,37.3062236394668,-121.850030573828
+Fremont Union High,Fremont High,1279 Sunnyvale-Saratoga Road Sunnyvale CA 94087-2535,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3526070497761,-122.03250461253
+Private,French American School of Silicon Valley,1522 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3432134669743,-122.044988696004
+Oak Grove Elementary,Frost (Earl) Elementary,530 Gettysburg Drive San Jose CA 95123-3234,NA,NA,FALSE,tested,San José,Santa Clara County,37.2475257258545,-121.836921800876
+Franklin-McKinley Elementary,G. W. Hellyer Elementary,725 Hellyer Avenue San Jose CA 95111-1523,NA,NA,FALSE,tested,San José,Santa Clara County,37.2844562307692,-121.819246692308
+Mountain View Whisman,Gabriela Mistral Elementary,505 Escuela Avenue Mountain View CA 94040-2006,NA,NA,NA,not tested,Mountain View,Santa Clara County,37.39480695,-122.093525161552
+Cupertino Union,Garden Gate Elementary,10500 Ann Arbor Avenue Cupertino CA 95014-1661,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.33151935,-122.044798792772
+San Jose Unified,Gardner Elementary,502 Illinois Avenue San Jose CA 95125-1534,14,ppb,TRUE,tested,San José,Santa Clara County,37.3220981203575,-121.896272066292
+Santa Clara County Office of Education,Gateway School,7151 Hanna St. Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0010887782062,-121.571695564123
+Moreland,George C. Payne Elementary,3750 Gleason Avenue San Jose CA 95130-1323,NA,NA,NA,not tested,NA,Santa Clara County,37.297343206733,-121.968096562815
+Santa Clara Unified,George Mayne Elementary,5030 North First Street Alviso CA 95002-0187,NA,NA,FALSE,tested,San José,Santa Clara County,37.3973954,-121.936343
+Evergreen Elementary,George V. LeyVa Intermediate,1865 Monrovia Drive San Jose CA 95122-1505,NA,NA,FALSE,tested,San José,Santa Clara County,37.3155894,-121.811664860556
+Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.36386675,-122.081681652979
+Gilroy Unified,Gilroy Adult Education,7881 Murray Avenue Gilroy CA 95020,NA,NA,NA,not tested,Gilroy,Santa Clara County,37.0131477226154,-121.56462588094
+Oak Grove Elementary,Glider Elementary,511 Cozy Drive San Jose CA 95123-4811,NA,NA,NA,not tested,San José,Santa Clara County,37.232726,-121.823989
+San Jose Unified,Grant Elementary,470 East Jackson Street San Jose CA 95112-3211,NA,NA,FALSE,tested,San José,Santa Clara County,37.3526871,-121.8865322
+San Jose Unified,Graystone Elementary,6982 Shearwater Drive San Jose CA 95120-2123,NA,NA,FALSE,tested,San José,Santa Clara County,37.2108050667027,-121.837715314563
+Palo Alto Unified,Greendell,4120 Middlefield Road Palo Alto CA 94303-4741,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4172798596632,-122.105648757157
+Union Elementary,Guadalupe Elementary,6044 Vera Cruz Drive San Jose CA 95120-4863,NA,NA,FALSE,tested,San José,Santa Clara County,37.2283267939553,-121.89776607284399
+San Jose Unified,Gunderson High,620 Gaundabert Lane San Jose CA 95136-2830,NA,NA,FALSE,tested,San José,Santa Clara County,37.2585155393881,-121.853155323133
+Moreland,Gussie M. Baker Elementary,4845 Bucknall Road San Jose CA 95130-2021,NA,NA,FALSE,tested,NA,Santa Clara County,37.2834552237209,-121.987350382878
+San Jose Unified,Hacienda Science/Environmental Magnet,1290 Kimberly Drive San Jose CA 95118-1536,11.05,ppb,TRUE,tested,San José,Santa Clara County,37.2698104297871,-121.88388518662
+Cupertino Union,Happy Days,220 Blake Ave. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Oak Grove Elementary,Hayes Elementary,5035 Poston Drive San Jose CA 95136-3348,NA,NA,FALSE,tested,San José,Santa Clara County,37.26224115,-121.827271595335
+Palo Alto Unified,Henry M. Gunn High,780 Arastradero Road Palo Alto CA 94306-3827,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4007804,-122.1338672
+Palo Alto Unified,Herbert Hoover Elementary,445 East Charleston Road Palo Alto CA 94306-4236,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4188005,-122.114543279369
+San Jose Unified,Herbert Hoover Middle,1635 Park Avenue San Jose CA 95126-2123,NA,NA,FALSE,tested,San José,Santa Clara County,37.3323651234999,-121.922282989138
+Oak Grove Elementary,Herman (Leonard) Intermediate,5955 Blossom Avenue San Jose CA 95123-4032,NA,NA,FALSE,tested,San José,Santa Clara County,37.2404819656585,-121.839709690927
+San Jose Unified,Hester Site SCCOE,1460 The Alameda San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3338130412903,-121.914578757434
+Evergreen Elementary,Holly Oak Elementary,2995 Rossmore Way San Jose CA 95148-3527,NA,NA,FALSE,tested,San José,Santa Clara County,37.3193701,-121.798819977548
+Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3364109,-122.04801905545
+Alum Rock Union Elementary,Horace Cureton Elementary,3720 East Hills Drive San Jose CA 95127-2418,NA,NA,FALSE,tested,San José,Santa Clara County,37.36760425,-121.814843353003
+Mount Pleasant Elementary,Ida Jew Academies,1966 Flint Avenue San Jose CA 95148-1213,NA,NA,FALSE,tested,San José,Santa Clara County,37.3458269,-121.798318509122
+East Side Union High,Independence High,1776 Educational Park Drive San Jose CA 95133-1703,7.7,ppb,TRUE,tested,San José,Santa Clara County,37.369855,-121.8594963
+Mountain View Whisman,Isaac Newton Graham Middle,1175 Castro Street Mountain View CA 94040-2505,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.383672877551,-122.085091489796
+Morgan Hill Unified,Jackson Academy of Music and Math (JAMM),2700 Fountain Oaks Drive Morgan Hill CA 95037-3907,NA,NA,FALSE,tested,NA,Santa Clara County,37.13756265,-121.605364049751
+Evergreen Elementary,James Franklin Smith Elementary,2220 Woodbury Lane San Jose CA 95121-3233,NA,NA,FALSE,tested,San José,Santa Clara County,37.2977673085038,-121.787085405719
+East Side Union High,James Lick High,57 North White Road San Jose CA 95127-1933,NA,NA,FALSE,tested,San José,Santa Clara County,37.368753,-121.83075
+Palo Alto Unified,Jane Lathrop Stanford Middle,480 East Meadow Drive Palo Alto CA 94306-3699,5.75,ppb,TRUE,tested,Palo Alto,Santa Clara County,37.4181497,-122.1228321
+Franklin-McKinley Elementary,Jeanne R. Meadows Elementary,1250 Taper Lane San Jose CA 95122-2950,NA,NA,FALSE,tested,San José,Santa Clara County,37.32109135,-121.839708792198
+Cupertino Union,Joaquin Miller Middle,6151 Rainbow Drive San Jose CA 95129-4043,NA,NA,NA,not tested,San José,Santa Clara County,37.3013139172803,-122.012505387744
+Santa Clara County Office of Education,Job Corps Head Start,3485 East Hills Dr. San Jose CA 95127,NA,NA,NA,not tested,San José,Santa Clara County,37.3663190645479,-121.818987836847
+Cupertino Union,John F. Kennedy Middle,821 Bubb Road Cupertino CA 95014-4938,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3107131,-122.052769980381
+Evergreen Elementary,John J. Montgomery Elementary,2010 Daniel Maloney Drive San Jose CA 95121-1328,NA,NA,FALSE,tested,San José,Santa Clara County,37.307553,-121.801516
+Cupertino Union,John Muir Elementary,6560 Hanover Drive San Jose CA 95129-3832,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3003259672616,-122.019391156042
+San Jose Unified,John Muir Middle,1260 Branham Lane San Jose CA 95118-3703,NA,NA,FALSE,tested,San José,Santa Clara County,37.26027745,-121.881463646473
+Milpitas Unified,John Sinnott Elementary,2025 Yellowstone Avenue Milpitas CA 95035-6951,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.4250465888664,-121.871749939432
+Alum Rock Union Elementary,Joseph George Middle,277 Mahoney Drive San Jose CA 95127-3547,5.6,ppb,TRUE,tested,San José,Santa Clara County,37.3702378,-121.815845406534
+Santa Clara Unified,Juan Cabrillo Middle,2550 Cabrillo Avenue Santa Clara CA 95051-1803,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3596959753176,-121.972970873144
+Palo Alto Unified,Juana Briones Elementary,4100 Orme Street Palo Alto CA 94306-3106,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4076608,-122.1305213
+Evergreen Elementary,Katherine R. Smith Elementary,2025 Clarice Drive San Jose CA 95122-1204,NA,NA,FALSE,tested,San José,Santa Clara County,37.32541,-121.823199
+Santa Clara Unified,Kathryn Hughes Elementary,4949 Calle de Escuela Santa Clara CA 95054-1430,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.40484,-121.964205
+Private,KinderCare,794 East Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.388128,-122.01172122449
+Alum Rock Union Elementary,KIPP Heartwood Academy,1250 South King Road San Jose CA 95122-2146,NA,NA,FALSE,tested,San José,Santa Clara County,37.3374073328829,-121.840558415808
+Franklin-McKinley Elementary,KIPP Heritage Academy,2545 Sherlock Drive San Jose CA 95121-2700,NA,NA,FALSE,tested,San José,Santa Clara County,37.311042174557,-121.838637780664
+Alum Rock Union Elementary,Kipp Prize Preparatory Academy,1250 South King Rd San Jose CA 95122-2146,NA,NA,FALSE,tested,San José,Santa Clara County,37.3374073328829,-121.840558415808
+East Side Union High,KIPP San Jose Collegiate,1790 Educational Park Drive San Jose CA 95133-1703,NA,NA,FALSE,tested,San José,Santa Clara County,37.3687379,-121.8607277
+Sunnyvale,Lakewood Elementary,750 Lakechime Drive Sunnyvale CA 94089-2539,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3982475628569,-122.004363455886
+Berryessa Union Elementary,Laneview Elementary,2095 Warmwood Lane San Jose CA 95132-1251,NA,NA,FALSE,tested,San José,Santa Clara County,37.4147862677546,-121.871069161996
+Gilroy Unified,Las Animas Elementary,6550 Cimino Street Gilroy CA 95020-3453,NA,NA,FALSE,tested,Gilroy,Santa Clara County,36.9894334,-121.580490275053
+Moreland,Latimer Elementary,4250 Latimer Avenue San Jose CA 95130-1400,NA,NA,FALSE,tested,San José,Santa Clara County,37.2911983592584,-121.978015916136
+East Side Union High,Latino College Preparatory Academy,14271 Story Rd San Jose CA 95127-3823,NA,NA,NA,not tested,San José,Santa Clara County,37.3595739,-121.816315604078
+Santa Clara Unified,Laurelwood Elementary,955 Teal Drive Santa Clara CA 95051-4299,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3428532163748,-122.002368737028
+Evergreen Elementary,Laurelwood Elementary,4280 Partridge Drive San Jose CA 95121-1012,NA,NA,FALSE,tested,San José,Santa Clara County,37.3025947920841,-121.780129782182
+Oak Grove Elementary,Ledesma (Rita) Elementary,1001 Schoolhouse Road San Jose CA 95138-1374,NA,NA,FALSE,tested,San José,Santa Clara County,37.241697064702,-121.761740044522
+Alum Rock Union Elementary,Lee Mathson Middle,2050 Kammerer Avenue San Jose CA 95116-3020,NA,NA,FALSE,tested,San José,Santa Clara County,37.35078285,-121.841037794521
+Private,Legacy Christian School,420 Allegan Circle San Jose CA 95123,5.3,ppb,TRUE,tested,San Jose,Santa Clara County,37.2346994751695,-121.815226388245
+Campbell Union High,Leigh High,5210 Leigh Avenue San Jose CA 95124-5616,NA,NA,FALSE,tested,NA,Santa Clara County,37.2432334883992,-121.922564691112
+San Jose Unified,Leland High,6677 Camden Ave San Jose CA 95120-2142,NA,NA,FALSE,tested,San José,Santa Clara County,37.2216001385711,-121.851259861516
+Moreland,Leroy Anderson Elementary,4000 Rhoda Drive San Jose CA 95117-3225,NA,NA,FALSE,tested,San José,Santa Clara County,37.3047506723417,-121.971512784447
+Morgan Hill Unified,Lewis H. Britton Middle,80 West Central Avenue Morgan Hill CA 95037-4302,NA,NA,FALSE,tested,NA,Santa Clara County,37.1316230267878,-121.658066902932
+Union Elementary,Lietz Elementary,5300 Carter Avenue San Jose CA 95118-2813,NA,NA,FALSE,tested,San José,Santa Clara County,37.2435152112412,-121.903457132212
+Alum Rock Union Elementary,Linda Vista Elementary,100 Kirk Avenue San Jose CA 95127-2295,NA,NA,FALSE,tested,San José,Santa Clara County,37.3779458,-121.824223413625
+Union Elementary,Little Oak Preschool,1921 Clarinda Way San Jose CA 95124,NA,NA,NA,not tested,San José,Santa Clara County,37.2450273183297,-121.924233977881
+Morgan Hill Unified,Live Oak High,1505 East Main Avenue Morgan Hill CA 95037-3217,10,ppb,TRUE,tested,NA,Santa Clara County,37.1482013540416,-121.632013359537
+Mountain View-Los Altos Union High,Los Altos High,201 Almond Avenue Los Altos CA 94022-2206,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385071,-122.109264
+Los Gatos-Saratoga Joint Union High,Los Gatos High,20 High School Court Los Gatos CA 95030-6917,NA,NA,FALSE,tested,,Santa Clara County,37.2233806,-121.97663879999
+Morgan Hill Unified,Los Paseos Elementary,121 Avenida Grande San Jose CA 95139-1107,NA,NA,FALSE,tested,San José,Santa Clara County,37.227451,-121.76885
+Cupertino Union,Louis E. Stocklmeir Elementary,592 Dunholme Way Sunnyvale CA 94087-3300,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.344922,-122.027
+Los Gatos Union Elementary,Louise Van Meter Elementary,16445 Los Gatos Boulevard Los Gatos CA 95032-5524,NA,NA,FALSE,tested,NA,Santa Clara County,37.2382642,-121.9617309
+Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3613621152209,-122.092284068525
+Palo Alto Unified,Lucille M. Nixon Elementary,1711 Stanford Avenue Stanford CA 94305-1061,NA,NA,FALSE,tested,,Santa Clara County,37.4145454,-122.156197212857
+Gilroy Unified,Luigi Aprea Elementary,9225 Calle del Rey Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0264199459099,-121.603534448013
+East Side Union High,Luis Valdez Leadership Academy,1855 Lucretia Ave San Jose CA 95122-3730,NA,NA,NA,not tested,San José,Santa Clara County,37.3199485,-121.851015133072
+Luther Burbank,Luther Burbank Elementary,4 Wabash Avenue San Jose CA 95128-1931,NA,NA,FALSE,tested,San José,Santa Clara County,37.3235464583333,-121.926669041667
+Fremont Union High,Lynbrook High,1280 Johnson Avenue San Jose CA 95129-4172,NA,NA,FALSE,tested,San José,Santa Clara County,37.3016001207421,-122.006344036533
+Alum Rock Union Elementary,Lyndale Elementary,13901 Nordyke Drive San Jose CA 95127-3138,NA,NA,FALSE,tested,San José,Santa Clara County,37.36040605,-121.825196401719
+Campbell Union,Lynhaven Elementary,881 South Cypress Avenue San Jose CA 95117-2508,6,ppb,TRUE,tested,San José,Santa Clara County,37.3112146363636,-121.959861
+Berryessa Union Elementary,Majestic Way Elementary,1855 Majestic Way San Jose CA 95132-1940,NA,NA,FALSE,tested,San José,Santa Clara County,37.410621,-121.857291
+Cupertino Union,Manuel De Vargas Elementary,5050 Moorpark Avenue San Jose CA 95129-2136,NA,NA,FALSE,tested,San José,Santa Clara County,37.3105446421132,-121.991042352038
+Santa Clara Unified,Marian A. Peterson Middle,1380 Rosalia Avenue Sunnyvale CA 94087-3763,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3483894,-122.007670737107
+Mountain View Whisman,Mariano Castro Elementary,505 Escuela Ave Mountain View CA 94040-2006,5.1,ppb,TRUE,tested,Mountain View,Santa Clara County,37.39480695,-122.093525161552
+Campbell Union,Marshall Lane Elementary,14114 Marilyn Lane Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Marshall Lane Elementary (Marshall Lane Preschool),14114 Marilyn Ln Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Milpitas Unified,Marshall Pomeroy Elementary,1505 Escuela Parkway Milpitas CA 95035-3213,6.6,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4539634451557,-121.902097566027
+Morgan Hill Unified,Martin Murphy Middle,141 Avenida Espana San Jose CA 95139-1164,NA,NA,FALSE,tested,San José,Santa Clara County,37.2264016555883,-121.766733931478
+Santa Clara Unified,Martinson Child Development Center,1350 Hope Drive Santa Clara CA 95054,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.4006929263364,-121.954244892215
+Franklin-McKinley Elementary,McKinley Elementary,651 Macredes Avenue San Jose CA 95116-3257,NA,NA,FALSE,tested,San José,Santa Clara County,37.3376466,-121.862278610729
+San Jose Unified,Merritt Trace Elementary,651 Dana Avenue San Jose CA 95126-2003,NA,NA,FALSE,tested,San José,Santa Clara County,37.3308925767421,-121.925842621494
+San Jose Unified,Middle College High,2101 Moorpark Avenue San Jose CA 95128,NA,NA,NA,not tested,San José,Santa Clara County,37.316418,-121.928977
+Alum Rock Union Elementary,Millard McCollam Elementary,3311 Lucian Avenue San Jose CA 95127-1544,NA,NA,FALSE,tested,San José,Santa Clara County,37.3819426,-121.833367673007
+Evergreen Elementary,Millbrook Elementary,3200 Millbrook Drive San Jose CA 95148-3681,NA,NA,FALSE,tested,San José,Santa Clara County,37.31961,-121.788141
+Santa Clara Unified,Millikin Elementary,615 Hobart Terrace Santa Clara CA 95051-5620,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.33308485,-121.976951861331
+Milpitas Unified,Milpitas Adult,1331 East Calaveras Boulevard Milpitas CA 95035-5707,NA,NA,NA,not tested,Milpitas,Santa Clara County,37.4362486,-121.883107607177
+Milpitas Unified,Milpitas High,1285 Escuela Parkway Milpitas CA 95035-3221,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.452521,-121.901234
+Oak Grove Elementary,Miner (George) Elementary,5629 Lean Avenue San Jose CA 95123-3620,NA,NA,FALSE,tested,San José,Santa Clara County,37.2503505714286,-121.817386142857
+Campbell Union,Monroe Middle,1055 South Monroe Street San Jose CA 95128-3150,NA,NA,FALSE,tested,San José,Santa Clara County,37.3090003697083,-121.94358596837
+Mountain View Whisman,Monta Loma Elementary,460 Thompson Avenue Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.4083818235294,-122.097990176471
+Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.31491205,-122.056726500299
+Santa Clara Unified,Montague Elementary,750 Laurie Avenue Santa Clara CA 95054-2236,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3884912855557,-121.947396694153
+Cupertino Union,Montclaire Elementary,1160 Street Joseph Avenue Los Altos CA 94024-6755,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3431326579005,-122.081778981215
+Private,Monticello Academy,3401 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367002,-121.990535
+Private,Monticello Academy,3345 Lochinvar Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.339382,-121.991308902439
+Santa Clara Unified,Monticello School,3411 Monroe Street Santa Clara CA 95051,6.5,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.367002,-121.990754387755
+Moreland,Moreland Middle,4600 Student Lane San Jose CA 95130-1762,NA,NA,FALSE,tested,San José,Santa Clara County,37.2883468,-121.984511909437
+Cupertino Union,Morning Star,220 Blake Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Berryessa Union Elementary,Morrill Middle,1970 Morrill Avenue San Jose CA 95132-1637,6,ppb,TRUE,tested,San José,Santa Clara County,37.4103443480929,-121.871074217822
+Mountain View-Los Altos Union High,Mountain View High,3535 Truman Avenue Mountain View CA 94040-4559,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3586027,-122.06715676878
+Gilroy Unified,Mt. Madonna High,8750 Hirasaki Court Gilroy CA 95020-7531,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.02017015,-121.594695596438
+East Side Union High,Mt. Pleasant High,1750 South White Road San Jose CA 95127-4760,NA,NA,FALSE,tested,San José,Santa Clara County,37.3474165,-121.805967718941
+Cupertino Union,Murdock-Portal Elementary,1188 Wunderlich Drive San Jose CA 95129-3163,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3045691627047,-121.999366812423
+Cupertino Union,Nelson S. Dilworth Elementary,1101 Strayer Drive San Jose CA 95129-4065,NA,NA,FALSE,tested,San José,Santa Clara County,37.3062964027729,-122.007018292773
+Santa Clara Unified,New Valley Continuation High,1875 Lawrence Road Santa Clara CA 95051-2162,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3572650346781,-121.995692413997
+Berryessa Union Elementary,Noble Elementary,3466 Grossmont Drive San Jose CA 95132-3119,NA,NA,FALSE,tested,San José,Santa Clara County,37.39473525,-121.839507285802
+Union Elementary,Noddin Elementary,1755 Gilda Way San Jose CA 95124-6207,NA,NA,FALSE,tested,San José,Santa Clara County,37.237787883089,-121.916242047198
+Morgan Hill Unified,Nordstrom Elementary,1425 East Dunne Avenue Morgan Hill CA 95037-7029,NA,NA,FALSE,tested,NA,Santa Clara County,37.1360030916979,-121.621844701032
+Berryessa Union Elementary,Northwood Elementary,2760 East Trimble Road San Jose CA 95132-1055,NA,NA,FALSE,tested,San José,Santa Clara County,37.3935813,-121.9194668
+Evergreen Elementary,Norwood Creek Elementary,3241 Remington Way San Jose CA 95148-2757,NA,NA,FALSE,tested,San José,Santa Clara County,37.328181,-121.790226463721
+Evergreen Elementary,O. B. Whaley Elementary,2655 Alvin Avenue San Jose CA 95121-1609,NA,NA,FALSE,tested,San José,Santa Clara County,37.3148818929382,-121.823558203976
+Alum Rock Union Elementary,O. S. Hubbard Elementary,1745 June Avenue San Jose CA 95122-2213,NA,NA,FALSE,tested,San José,Santa Clara County,37.3304304857347,-121.837619091612
+Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
+East Side Union High,Oak Grove High,285 Blossom Hill Road San Jose CA 95123-2048,NA,NA,FALSE,tested,San José,Santa Clara County,37.2512147,-121.83076
+Oak Grove Elementary,Oak Ridge Elementary,5920 Bufkin Drive San Jose CA 95123-4308,NA,NA,FALSE,tested,San José,Santa Clara County,37.2410814176018,-121.821127899008
+Alum Rock Union Elementary,Ocala Middle,2800 Ocala Avenue San Jose CA 95148-1114,NA,NA,FALSE,tested,San José,Santa Clara County,37.3414882,-121.814239848627
+Palo Alto Unified,Ohlone Elementary,950 Amarillo Avenue Palo Alto CA 94303-3701,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4392653,-122.122593479195
+Private,One World Montessori School,1170 Foxworthy Avenue San Jose CA 95118,NA,NA,FALSE,tested,San José,Santa Clara County,37.2776877758567,-121.88157568321
+Orchard Elementary,Orchard Elementary,921 Fox Lane San Jose CA 95131-1602,NA,NA,FALSE,tested,San José,Santa Clara County,37.3874622690979,-121.902556025924
+Union Elementary,Oster Elementary,1855 Lencar Way San Jose CA 95124-3603,NA,NA,FALSE,tested,San José,Santa Clara County,37.2567568,-121.919732911548
+Morgan Hill Unified,P. A. Walsh STEAM Academy,353 West Main Avenue Morgan Hill CA 95037-4530,33,ppb,TRUE,tested,NA,Santa Clara County,37.1267384623531,-121.661151859814
+Palo Alto Unified,Packard Children's Hospital/Stanford,725 Welch Road Palo Alto CA 94304-1601,NA,NA,NA,not tested,NA,Santa Clara County,37.4360355,-122.175178657079
+Palo Alto Unified,Palo Alto Adult Education,50 Embarcadero Rd Palo Alto CA 94301-2321,NA,NA,NA,not tested,Palo Alto,Santa Clara County,37.4377927521259,-122.158062307275
+Palo Alto Unified,Palo Alto High,50 Embarcadero Road Palo Alto CA 94301-2321,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4377927521259,-122.158062307275
+Palo Alto Unified,Palo Verde Elementary,3450 Louis Road Palo Alto CA 94303-4403,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.430916,-122.113658793444
+Morgan Hill Unified,Paradise Valley/Machado Elementary,1400 La Crosse Drive Morgan Hill CA 95037-5675,21,ppb,TRUE,tested,NA,Santa Clara County,37.1070914,-121.647088116906
+Oak Grove Elementary,Parkview Elementary,330 Bluefield Drive San Jose CA 95136-2100,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.271116933603,-121.847532952658
+Santa Clara Unified,Patrick Henry Intermediate,1095 Dunford Way Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3469854,-122.003877479319
+Milpitas Unified,Pearl Zanker Elementary,1585 Fallen Leaf Drive Milpitas CA 95035-6762,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.40770145,-121.905725904895
+East Side Union High,Piedmont Hills High,1377 Piedmont Road San Jose CA 95132-2497,12,ppb,TRUE,tested,San José,Santa Clara County,37.40163675,-121.851329117938
+Berryessa Union Elementary,Piedmont Middle,955 Piedmont Road San Jose CA 95132-2820,14,ppb,TRUE,tested,San José,Santa Clara County,37.39235425,-121.845639734138
+Private,Pine Hill School Second Start Learning D,1325 Bouret Drive San Jose CA 95118,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565604434284,-121.886681700061
+San Jose Unified,Pioneer High,1290 Blossom Hill Road San Jose CA 95118-3126,NA,NA,FALSE,tested,San José,Santa Clara County,37.2484425594634,-121.88219622854
+Santa Clara Unified,Pomeroy Elementary,1250 Pomeroy Avenue Santa Clara CA 95051-3618,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3483602307692,-121.986637
+Santa Clara Unified,Ponderosa Elementary,804 Ponderosa Avenue Sunnyvale CA 94086-8612,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3629685683612,-122.009753836984
+Cambrian,Price Charter Middle,2650 New Jersey Avenue San Jose CA 95124-1520,NA,NA,FALSE,tested,San José,Santa Clara County,37.2732829,-121.925085025296
+Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.29131785,-121.99983615542
+Evergreen Elementary,Quimby Oak Middle,3190 Quimby Road San Jose CA 95148-3022,NA,NA,FALSE,tested,San José,Santa Clara County,37.3238527,-121.8087368
+Cupertino Union,R. I. Meyerholz Elementary,6990 Melvin Drive San Jose CA 95129-2858,NA,NA,FALSE,tested,San José,Santa Clara County,37.307129,-122.026819
+San Jose Unified,Rachel Carson Elementary,4245 Meg Drive San Jose CA 95136-1959,NA,NA,FALSE,tested,San José,Santa Clara County,37.270596653921,-121.855122603088
+Private,Rainbow Montessori Child Development Center,790 E Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3880107,-122.0102722
+Franklin-McKinley Elementary,Ramblewood Elementary,1351 Lightland Road San Jose CA 95121-2663,NA,NA,FALSE,tested,San José,Santa Clara County,37.2952906770887,-121.811892115873
+Milpitas Unified,Rancho Milpitas Middle,1915 Yellowstone Avenue Milpitas CA 95035-6992,10,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4248144704266,-121.872772565229
+Los Gatos Union Elementary,Raymond J. Fisher Middle,19195 Fisher Avenue Los Gatos CA 95032-4510,NA,NA,FALSE,tested,NA,Santa Clara County,37.2325357731811,-121.967057091946
+Saratoga Union Elementary,Redwood Middle,13925 Fruitvale Avenue Saratoga CA 95070-5603,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2674315462679,-122.013987278175
+San Jose Unified,Reed Elementary,1524 Jacob Avenue San Jose CA 95118-1613,6.2,ppb,TRUE,tested,San José,Santa Clara County,37.2645203735563,-121.894646965936
+Alum Rock Union Elementary,Renaissance Academy,1720 Hopkins Drive San Jose CA 95122-1632,NA,NA,FALSE,tested,San José,Santa Clara County,37.3377965,-121.829212479685
+Alum Rock Union Elementary,Renaissance at Mathson,2050 Kammerer Ave San Jose CA 95116-3020,NA,NA,FALSE,tested,San José,Santa Clara County,37.35078285,-121.841037794521
+Franklin-McKinley Elementary,Robert F. Kennedy Elementary,1602 Lucretia Avenue San Jose CA 95122-3812,NA,NA,FALSE,tested,San José,Santa Clara County,37.3245163012428,-121.85209523177
+Milpitas Unified,Robert Randall Elementary,1300 Edsel Drive Milpitas CA 95035-5701,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.430487,-121.882394
+Mount Pleasant Elementary,Robert Sanders Elementary,3411 Rocky Mountain Drive San Jose CA 95127-4853,NA,NA,FALSE,tested,San José,Santa Clara County,37.352429,-121.801885261179
+Santa Clara County Office of Education,Rocketship Academy Brilliant Minds,2960 Story Road San Jose CA 95127-3925,NA,NA,FALSE,tested,San José,Santa Clara County,37.354355132918,-121.821624962016
+Santa Clara County Office of Education,Rocketship Alma Academy,198 West Alma Avenue San Jose CA 95110-3631,NA,NA,FALSE,tested,San José,Santa Clara County,37.313579,-121.877842
+Santa Clara County Office of Education,Rocketship Fuerza Community Prep,70 South Jackson Avenue San Jose CA 95116-2506,NA,NA,FALSE,tested,San José,Santa Clara County,37.3569911274095,-121.841904600566
+Santa Clara County Office of Education,Rocketship Los Suenos Academy,331 South 34th Street San Jose CA 95116-2905,NA,NA,FALSE,tested,San José,Santa Clara County,37.344902875,-121.851689125
+Santa Clara County Office of Education,Rocketship Mateo Sheedy Elementary,788 Locust Street San Jose CA 95110-2954,NA,NA,FALSE,tested,San José,Santa Clara County,37.32176075,-121.886417094673
+Franklin-McKinley Elementary,Rocketship Mosaic Elementary,950 Owsley Avenue San Jose CA 95122-3109,NA,NA,FALSE,tested,San José,Santa Clara County,37.3298872465498,-121.855096449572
+Santa Clara County Office of Education,Rocketship Rising Stars,3167 Senter Road San Jose CA 95111-1332,NA,NA,FALSE,tested,San José,Santa Clara County,37.2916708,-121.83361525
+Santa Clara County Office of Education,Rocketship Si Se Puede Academy,2249 Dobern Avenue San Jose CA 95116-3405,NA,NA,FALSE,tested,San José,Santa Clara County,37.3523481418185,-121.839785498259
+Franklin-McKinley Elementary,Rocketship Spark Academy,683 Sylvandale Avenue San Jose CA 95111-1414,NA,NA,FALSE,tested,San José,Santa Clara County,37.2880488149887,-121.822077416123
+Gilroy Unified,Rod Kelley Elementary,8755 Kern Avenue Gilroy CA 95020-4034,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0212382,-121.592901487465
+Campbell Union,Rolling Hills Middle,1585 More Avenue Los Gatos CA 95030-1094,NA,NA,FALSE,tested,NA,Santa Clara County,37.2546685,-121.9867358
+Campbell Union,Rosemary Elementary,401 West Hamilton Avenue Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Campbell Union,Rosemary Family Learning Center (Rosemary Preschool),401 West Hamilton Ave Campbell CA 95008-0509,NA,NA,FALSE,tested,NA,Santa Clara County,37.2942641312161,-121.957261714419
+Berryessa Union Elementary,Ruskin Elementary,1401 Turlock Lane San Jose CA 95132-2347,NA,NA,FALSE,tested,San José,Santa Clara County,37.3999750471741,-121.855860117541
+Alum Rock Union Elementary,Russo/McEntee Academy,2851 Gay Avenue San Jose CA 95127-2320,NA,NA,FALSE,tested,San José,Santa Clara County,37.3684060205021,-121.836117022929
+Oak Grove Elementary,Sakamoto Elementary,6280 Shadelands Drive San Jose CA 95123-4645,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.231077534351,-121.8392948431
+Cupertino Union,Sam H. Lawson Middle,10401 Vista Drive Cupertino CA 95014-2081,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32937025,-122.027168700195
+East Side Union High,San Jose Conservation Corps Charter,1560 Berger Drive San Jose CA 95112-2703,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3726410493757,-121.896915279599
+East Side Union High,San Jose Conservation Corps Charter School – Senter Rd,2650 Senter Rd.  San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2941603,-121.8340908
+San Jose Unified,San Jose High,275 North 24th Street San Jose CA 95116-1143,NA,NA,FALSE,tested,San José,Santa Clara County,37.3504239441135,-121.871216439546
+Morgan Hill Unified,San Martin Gwinn Environmental Science Academy,100 North Street San Martin CA 95046-9517,NA,NA,FALSE,tested,NA,Santa Clara County,37.0884375,-121.6115415
+Sunnyvale,San Miguel Elementary,777 San Miguel Avenue Sunnyvale CA 94085-3411,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3913641,-122.009172683307
+Private,Santa Clara Christian,3421 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367002,-121.99097377551
+Santa Clara Unified,Santa Clara Community Day,3450 Brookdale Drive Santa Clara CA 95051-4624,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3421041592094,-121.991894803459
+Santa Clara Unified,Santa Clara High,3000 Benton Street Santa Clara CA 95051-3736,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.346519,-121.982146
+Oak Grove Elementary,Santa Teresa Elementary,6200 Encinal Drive San Jose CA 95119-1514,NA,NA,FALSE,tested,San José,Santa Clara County,37.235932,-121.796069
+Franklin-McKinley Elementary,Santee Elementary,1313 Audubon Drive San Jose CA 95122-3211,NA,NA,FALSE,tested,San José,Santa Clara County,37.32820185,-121.847520499827
+Saratoga Union Elementary,Saratoga Elementary,14592 Oak Street Saratoga CA 95070-6028,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2567635923003,-122.032694355356
+Los Gatos-Saratoga Joint Union High,Saratoga High,20300 Herriman Avenue Saratoga CA 95070-4950,NA,NA,NA,not tested,Saratoga,Santa Clara County,37.2672830471655,-122.030447249233
+Cambrian,Sartorette Charter,3850 Woodford Drive San Jose CA 95124-3736,5.1,ppb,TRUE,tested,San José,Santa Clara County,37.2605782,-121.909569831706
+San Jose Unified,Schallenberger Elementary,1280 Koch Lane San Jose CA 95125-4199,5.9,ppb,TRUE,tested,San José,Santa Clara County,37.2805536788635,-121.888359429612
+Santa Clara Unified,Scott Lane Elementary,1925 Scott Boulevard Santa Clara CA 95050-3723,8.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.3578071916708,-121.959372465065
+Private,Seven Trees Site,300 El Cajon Dr San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.28295355,-121.830520226661
+Campbell Union,Sherman Oaks Elementary,1800 Fruitdale Avenue San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Campbell Union,Sherman Oaks Elementary (Sherman Oaks Preschool),1800 Fruitdale Ave San Jose CA 95128-4970,NA,NA,FALSE,tested,San José,Santa Clara County,37.30981615,-121.924835974323
+Franklin-McKinley Elementary,"Shirakawa (George, Sr.) Elementary",665 Wool Creek Drive San Jose CA 95112-2617,NA,NA,FALSE,tested,San José,Santa Clara County,37.31513645,-121.84875373934
+Cupertino Union,Sierra School,220 Blake Ave Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Berryessa Union Elementary,Sierramont Middle,3155 Kimlee Drive San Jose CA 95132-3605,NA,NA,FALSE,tested,San José,Santa Clara County,37.40418645,-121.857058190189
+Metro Education,Silicon Valley Career Technical Education Center,760 Hillsdale Avenue San Jose CA 95136-1106,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.27655,-121.865919352845
+East Side Union High,Silver Creek High,3434 Silver Creek Road San Jose CA 95121-1845,NA,NA,FALSE,tested,San José,Santa Clara County,37.3041546624726,-121.808217730499
+Evergreen Elementary,Silver Oak Elementary,5000 Farnsworth Drive San Jose CA 95138-2336,NA,NA,FALSE,tested,San José,Santa Clara County,37.284244,-121.773682
+San Jose Unified,Simonds Elementary,6515 Grapevine Way San Jose CA 95120-4020,NA,NA,FALSE,tested,San José,Santa Clara County,37.2204824503583,-121.868420375718
+Mountain View Whisman,Slater Special Education Preschool,220 North Whisman Road Mountain View CA 94043-3954,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.395260583744,-122.0604021324
+Private,Snell Site,3550 Snell Avenue San Jose CA 95136,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2805827272727,-121.848015060606
+Gilroy Unified,Solorsano Middle,7121 Grenache Way Gilroy CA 95020-2500,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.00072795,-121.594621068673
+Gilroy Unified,South Valley Middle,385 IOOF Avenue Gilroy CA 95020-5205,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0150968549837,-121.565992961122
+Santa Clara County Office of Education,Spark Charter,739 Morse Avenue Sunnyvale CA 94088-3010,NA,NA,NA,not tested,Sunnyvale,Santa Clara County,37.3938976636417,-122.018418565813
+Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3709394,-122.0914759
+Private,St. Mary's Elementary,30 Lyndon Avenue Los Gatos CA 95030,NA,NA,FALSE,tested,NA,Santa Clara County,37.223826509054,-121.98501584687
+Cambrian,Steindorf STEAM K-8 Magnet,3001 Ross Avenue San Jose CA 95124-2358,NA,NA,FALSE,tested,San José,Santa Clara County,37.267169,-121.919323
+Cupertino Union,Stevens Creek Elementary,10300 Ainsworth Drive Cupertino CA 95014-1099,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.32765645,-122.06363933192
+Mountain View Whisman,Stevenson Elementary,750B San Pierre Way Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.4036909,-122.083978558387
+Oak Grove Elementary,Stipe (Samuel) Elementary,5000 Lyng Drive San Jose CA 95111-2720,NA,NA,FALSE,tested,San José,Santa Clara County,37.2711828189389,-121.806560981472
+Franklin-McKinley Elementary,Stonegate Elementary,2605 Gassmann Drive San Jose CA 95121-2812,NA,NA,FALSE,tested,San José,Santa Clara County,37.308131,-121.836975
+Private,Stratford Middle School,1718 Andover Ln. San Jose CA 95124,NA,NA,FALSE,tested,San José,Santa Clara County,37.25526305,-121.909752549614
+Private,Stratford School,820 West McKinley Avenue Sunnyvale CA 94086,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3762394919264,-122.039560104671
+Private,Stratford School,1196 Lime Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3556865568547,-122.054467392313
+Private,Stratford School,890 Pomeroy Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3408002,-121.9884962
+Private,Stratford School,220 Kensington Way Los Gatos CA 95032,NA,NA,FALSE,tested,NA,Santa Clara County,37.2406740908784,-121.927644419711
+Berryessa Union Elementary,Summerdale Elementary,1100 Summerdale Drive San Jose CA 95132-2934,NA,NA,FALSE,tested,San José,Santa Clara County,37.39021535,-121.850836941873
+Santa Clara County Office of Education,Summit Denali High School,195 Leota Ave Sunnyvale CA 94085-4707,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3800612431605,-122.049781952883
+Santa Clara County Office of Education,Summit Denali Middle School,539 E Weddell Drive Sunnyvale CA 94085-4707,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.397079,-122.015087
+East Side Union High,Summit Public School: Rainier,1750 South White Rd. San Jose CA 95127-4760,NA,NA,NA,not tested,San José,Santa Clara County,37.3474165,-121.805967718941
+Santa Clara County Office of Education,Summit Public School: Tahoma,285 Blossom Hill Road San Jose CA 95123-2048,NA,NA,NA,not tested,San José,Santa Clara County,37.2512147,-121.83076
+Milpitas Unified,Sunnyhills Child Development Center,365 Dixon Road Milpitas CA 95035,8.55,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4599192105263,-121.904596210526
+Sunnyvale,Sunnyvale Middle,1080 Mango Avenue Sunnyvale CA 94087-1728,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3601097159998,-122.05419588238
+Private,Sunol Site,258 Sunol Street San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3248359104486,-121.906009869403
+Santa Clara County Office of Education,Sunrise Middle,1149 East Julian Street San Jose CA 95116-1005,NA,NA,FALSE,tested,San José,Santa Clara County,37.3510989296767,-121.871253350359
+Santa Clara Unified,Sutter Elementary,3200 Forbes Avenue Santa Clara CA 95051-6119,13,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.3344397797525,-121.986698623125
+Franklin-McKinley Elementary,Sylvandale Middle,653 Sylvandale Avenue San Jose CA 95111-1414,NA,NA,FALSE,tested,San José,Santa Clara County,37.2880423770666,-121.822184835735
+Alum Rock Union Elementary,Sylvia Cassell Elementary,1300 Tallahassee Drive San Jose CA 95122-3939,NA,NA,FALSE,tested,San José,Santa Clara County,37.3445405240049,-121.830366282367
+Oak Grove Elementary,Taylor (Bertha) Elementary,410 Sautner Drive San Jose CA 95123-5252,5.1,ppb,TRUE,tested,San José,Santa Clara County,37.2310818737224,-121.808187102211
+Palo Alto Unified,Terman Middle,655 Arastradero Road Palo Alto CA 94306-3838,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4028112,-122.126531583716
+San Jose Unified,Terrell Elementary,3925 Pearl Avenue San Jose CA 95136-1531,5.35,ppb,TRUE,tested,San José,Santa Clara County,37.2698286875,-121.86799934375
+Oak Grove Elementary,The Academy,4955 Edenview Drive San Jose CA 95119-4031,NA,NA,FALSE,tested,San José,Santa Clara County,37.2674356317816,-121.81186757984
+Private,The Campbell community Center,1 W Campbell Ave Campbell CA 95008,8.4,ppb,TRUE,tested,NA,Santa Clara County,37.287101,-121.950056
+Private,The Foundation for Hispanic Education,14271 Story Road San Jose CA 95127-3823,NA,NA,FALSE,tested,San José,Santa Clara County,37.3595739,-121.816315604078
+Private,The Kings Academy,562 North Britton Ave.  Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3866518831086,-122.013067301204
+Mountain View Whisman,Theuerkauf Elementary,1625 San Luis Avenue Mountain View CA 94043-3133,9.9,ppb,TRUE,tested,Mountain View,Santa Clara County,37.40525985,-122.084245663297
+Alum Rock Union Elementary,Thomas P. Ryan Elementary,1241 McGinness Avenue San Jose CA 95127-4026,NA,NA,FALSE,tested,San José,Santa Clara County,37.3501607811014,-121.822761407043
+Milpitas Unified,Thomas Russell Middle,1500 Escuela Parkway Milpitas CA 95035-3220,6.75,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4536345696025,-121.90165951926
+Evergreen Elementary,Tom Matsumoto Elementary,4121 Mackin Woods Lane San Jose CA 95135-1159,NA,NA,FALSE,tested,San José,Santa Clara County,37.312375,-121.765273
+Berryessa Union Elementary,Toyon Elementary,995 Bard Street San Jose CA 95127-1103,NA,NA,FALSE,tested,San José,Santa Clara County,37.39026945,-121.838926427921
+Private,Trust Primary School,4660 Eastus Drive San Jose CA 95129,NA,NA,FALSE,tested,San José,Santa Clara County,37.306956,-121.98769
+Santa Clara County Office of Education,University Preparatory Academy Charter,2315 Canoas Garden Avenue San Jose CA 95125-2005,NA,NA,NA,not tested,San José,Santa Clara County,37.291472,-121.8745804
+Mount Pleasant Elementary,Valle Vista Elementary,2400 Flint Avenue San Jose CA 95148-1719,NA,NA,FALSE,tested,San José,Santa Clara County,37.339021,-121.792081
+Sunnyvale,Vargas Elementary,1054 Carson Drive Sunnyvale CA 94086-5806,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3814430169438,-122.047543763587
+Campbell Union,Village,825 West Parr Avenue Campbell CA 95008-6803,NA,NA,FALSE,tested,NA,Santa Clara County,37.2646829,-121.96507901733101
+Berryessa Union Elementary,Vinci Park Elementary,1311 Vinci Park Way San Jose CA 95131-2792,NA,NA,FALSE,tested,San José,Santa Clara County,37.3811918187553,-121.872889268528
+Franklin-McKinley Elementary,Voices College-Bound Language Academy,715 Hellyer Avenue San Jose CA 95111-1584,NA,NA,NA,not tested,San José,Santa Clara County,37.2844573846154,-121.819275153846
+Santa Clara County Office of Education,Voices College-Bound Language Academy at Morgan Hill,16870 Murphy Avenue Morgan Hill CA 95037-9650,NA,NA,FALSE,tested,NA,Santa Clara County,37.1322389130016,-121.627594432545
+Santa Clara County Office of Education,Voices College-Bound Language Academy at Mt. Pleasant,14271 Story San Jose CA 95127-3823,NA,NA,NA,not tested,San José,Santa Clara County,37.3595739,-121.816315604078
+Cupertino Union,Waha Montessori,220 Blake Av. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.980090247617
+Palo Alto Unified,Walter Hays Elementary,1525 Middlefield Road Palo Alto CA 94301-3353,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.443143,-122.143396369512
+Cupertino Union,Warren E. Hyde Middle,19325 Bollinger Road Cupertino CA 95014-4657,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.31137645,-122.011565021962
+Santa Clara Unified,Washington Elementary,270 Washington Avenue Santa Clara CA 95050-5950,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4321833092776,-122.140672474402
+San Jose Unified,Washington Elementary,100 Oak Street San Jose CA 95110-2817,7.3,ppb,TRUE,tested,San José,Santa Clara County,37.32077435,-121.882288151311
+SBE - Thrive Public,Wei Yu International Charter,3675 Payne Avenue San Jose CA 95117-2833,NA,NA,NA,not tested,San José,Santa Clara County,37.301202,-121.965622
+Cupertino Union,West Valley Elementary,1635 Belleville Way Sunnyvale CA 94087-3926,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3388960816131,-122.061048832413
+Campbell Union High,Westmont High,4805 Westmont Avenue Campbell CA 95008-5725,NA,NA,FALSE,tested,NA,Santa Clara County,37.2712266,-121.9807789
+Santa Clara Unified,Westwood Elementary,435 Saratoga Avenue Santa Clara CA 95050-6434,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3331721,-121.96017227658
+Milpitas Unified,William Burnett Elementary,400 Fanyon Milpitas CA 95035-4630,7.5,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4407099142633,-121.881859570008
+East Side Union High,William C. Overfelt High,1835 Cunningham Avenue San Jose CA 95122-1712,NA,NA,FALSE,tested,San José,Santa Clara County,37.33208455,-121.829672667465
+Cupertino Union,William Faria Elementary,10155 Barbara Lane Cupertino CA 95014-2901,NA,NA,FALSE,tested,Cupertino,Santa Clara County,37.3212587,-122.039904599999
+Cupertino Union,William Regnart Elementary,1170 Yorkshire Drive Cupertino CA 95014-4963,NA,NA,NA,not tested,Cupertino,Santa Clara County,37.3039769,-122.0473889
+Alum Rock Union Elementary,William Sheppard Middle,480 Rough and Ready Road San Jose CA 95133-2422,NA,NA,FALSE,tested,San José,Santa Clara County,37.37453095,-121.84157169393
+San Jose Unified,Williams Elementary,1150 Rajkovich Way San Jose CA 95120-3145,NA,NA,FALSE,tested,San José,Santa Clara County,37.20835,-121.850801857143
+San Jose Unified,Willow Glen Elementary,1425 Lincoln Avenue San Jose CA 95125-3398,NA,NA,FALSE,tested,San José,Santa Clara County,37.3032133089713,-121.896923589465
+San Jose Unified,Willow Glen High,2001 Cottle Avenue San Jose CA 95125-3502,11.15,ppb,TRUE,tested,San José,Santa Clara County,37.2920937219339,-121.896812872636
+San Jose Unified,Willow Glen Middle,2105 Cottle Avenue San Jose CA 95125-3504,9.4,ppb,TRUE,tested,San José,Santa Clara County,37.2918848135063,-121.896671652487
+Santa Clara Unified,Wilson Alternative,1840 Benton St Santa Clara CA 95050-5215,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.347089728139,-121.955509785376
+Franklin-McKinley Elementary,Windmill Springs Elementary,2880 Aetna Way San Jose CA 95121-2301,NA,NA,FALSE,tested,San José,Santa Clara County,37.3063010340161,-121.824267152638
+East Side Union High,Yerba Buena High,1855 Lucretia Avenue San Jose CA 95122-3730,NA,NA,FALSE,tested,San José,Santa Clara County,37.3199485,-121.851015133072

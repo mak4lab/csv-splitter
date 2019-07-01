@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+La Habra City Elementary,Arbolita Elementary,1001 East Brookdale Avenue La Habra CA 90631-3114,NA,NA,FALSE,tested,La Habra,Orange County,33.94374035,-117.936415555335
+La Habra City Elementary,El Cerrito Elementary,1051 North Hillside La Habra CA 90631-2820,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Habra City Elementary,Imperial Middle,1450 South Schoolwood Drive La Habra CA 90631-7276,5.4,ppb,TRUE,tested,NA,NA,NA,NA
+La Habra City Elementary,Ladera Palma Elementary,2151 East Brookdale Avenue La Habra CA 90631-3267,NA,NA,FALSE,tested,La Habra,Orange County,33.94401215,-117.922231675
+La Habra City Elementary,Las Lomas Elementary,301 Las Lomas Drive La Habra CA 90631-7171,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Habra City Elementary,Las Positas Elementary,1400 South Schoolwood Drive La Habra CA 90631-7276,NA,NA,FALSE,tested,NA,NA,NA,NA
+La Habra City Elementary,Sierra Vista Elementary,1800 East Whittier Boulevard La Habra CA 90631-4171,NA,NA,FALSE,tested,La Habra,Orange County,33.9391185,-117.9389394
+La Habra City Elementary,Walnut Elementary,625 North Walnut Street La Habra CA 90631-3711,NA,NA,FALSE,tested,La Habra,Orange County,33.93812795,-117.951662610353
+La Habra City Elementary,Washington Middle,716 East La Habra Boulevard La Habra CA 90631-5530,8.1,ppb,TRUE,tested,La Habra,Orange County,33.93040295,-117.93840602111

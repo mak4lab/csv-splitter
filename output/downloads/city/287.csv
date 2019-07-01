@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Angeles Unified,Canyon Charter Elementary,421 Entrada Drive Santa Monica CA 90402-1303,NA,NA,NA,not tested,Santa Monica,Los Angeles County,34.0336633,-118.5089081
+LAUSD,CANYON ELEMENTARY SCHOOL,"421 ENTRADA DR, SANTA MONICA,   CA 90402",NA,NA,NA,exempt,Santa Monica,Los Angeles County,34.0336633,-118.5089081
+Santa Monica-Malibu Unified,Edison Elementary,2402 Virginia Avenue Santa Monica CA 90404-5204,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0242373797046,-118.466154298964
+Santa Monica-Malibu Unified,Franklin Elementary,2400 Montana Avenue Santa Monica CA 90403-2124,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.03938,-118.486169
+Santa Monica-Malibu Unified,Grant Elementary,2368 Pearl Street Santa Monica CA 90405-2853,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0190167,-118.462434668119
+Santa Monica-Malibu Unified,John Adams Middle,2425 16th Street Santa Monica CA 90405-2621,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0130197247648,-118.470040020959
+Santa Monica-Malibu Unified,Lincoln Middle,1501 California Avenue Santa Monica CA 90403-4305,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.029067,-118.489457
+Santa Monica-Malibu Unified,McKinley Elementary,2401 Santa Monica Boulevard Santa Monica CA 90404-2044,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0316726315789,-118.476180105263
+Santa Monica-Malibu Unified,Olympic High (Continuation),721 Ocean Park Boulevard Santa Monica CA 90405-3811,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0061374659743,-118.477872038857
+Los Angeles Unified,Paul Revere Charter Middle,1450 Allenford Avenue Los Angeles CA 90049-3614,NA,NA,NA,not tested,Santa Monica,Los Angeles County,34.0547406488502,-118.494952894965
+Santa Monica-Malibu Unified,Pine Street School,731 Pine St. Santa Monica CA 90405,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0075471725109,-118.478789340366
+Private,PS1 Pluralistic School,1225 Broadway Santa Monica CA 90404,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0217896530612,-118.485433326531
+LAUSD,REVERE MIDDLE SCHOOL,"1450 ALLENFORD AVE, LOS ANGELES,    CA 90049",NA,NA,NA,exempt,Santa Monica,Los Angeles County,34.0547406488502,-118.494952894965
+Santa Monica-Malibu Unified,Roosevelt Elementary,801 Montana Avenue Santa Monica CA 90403-1502,5.9,ppb,TRUE,tested,Santa Monica,Los Angeles County,34.0380642,-118.4880168
+Santa Monica-Malibu Unified,Santa Monica High,601 Pico Boulevard Santa Monica CA 90405-1224,5.6,ppb,TRUE,tested,Santa Monica,Los Angeles County,34.0218868,-118.4649637
+LAUSD,VENICE ADULT SKILL CENTER,"611 5TH AVE, VENICE, CA 90291",NA,NA,NA,exempt,Santa Monica,Los Angeles County,33.9961611,-118.4726957
+LAUSD,VENICE ALTERNATIVE EDUCATION WORK CENTER,"611 5TH AVE, VENICE, CA 90291",NA,NA,NA,exempt,Santa Monica,Los Angeles County,33.9961611,-118.4726957
+Santa Monica-Malibu Unified,Will Rogers Elementary,2401 14th Street Santa Monica CA 90405-2615,8.7,ppb,TRUE,tested,Santa Monica,Los Angeles County,34.011864,-118.471529

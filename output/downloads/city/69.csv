@@ -1,0 +1,28 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Corona-Norco Unified,Auburndale Intermediate,1255 River Road Corona CA 92880-1350,5.2,ppb,TRUE,tested,Corona,Riverside County,33.907414,-117.581623
+Corona-Norco Unified,Benjamin Franklin Elementary,2650 Oak Avenue Corona CA 92882-7569,NA,NA,FALSE,tested,Corona,Riverside County,33.852428600934,-117.592773007347
+Corona-Norco Unified,Centennial High,1820 Rimpau Avenue Corona CA 92881-3228,NA,NA,FALSE,tested,Corona,Riverside County,33.8359452,-117.5489876
+Corona-Norco Unified,Cesar Chavez Academy,1150 Paseo Grande Corona CA 92882-6440,NA,NA,FALSE,tested,Corona,Riverside County,33.8705839998871,-117.608589133454
+Corona-Norco Unified,Citrus Hills Intermediate,3211 South Main Street Corona CA 92882-6313,NA,NA,FALSE,tested,Corona,Riverside County,33.837766,-117.57211
+Corona-Norco Unified,Corona Fundamental Intermediate,1230 South Main Street Corona CA 92882-4464,9.1,ppb,TRUE,tested,Corona,Riverside County,33.8423671,-117.5738191
+Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
+Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Coronita Elementary,1757 Via Del Rio Corona CA 92882-3741,NA,NA,FALSE,tested,Corona,Riverside County,33.8738145099617,-117.603807983912
+Corona-Norco Unified,Dwight D. Eisenhower Elementary,3355 Mountain Gate Drive Corona CA 92882-8858,NA,NA,FALSE,tested,Corona,Riverside County,33.838566,-117.5846149
+Corona-Norco Unified,El Cerrito Middle,7610 El Cerrito Road Corona CA 92881-4296,NA,NA,FALSE,tested,Corona,Riverside County,33.8299308,-117.5343507
+Corona-Norco Unified,Foothill Elementary,2601 South Buena Vista Avenue Corona CA 92882-7562,NA,NA,FALSE,tested,Corona,Riverside County,33.8533728331795,-117.581049412827
+Corona-Norco Unified,Garretson Elementary,1650 Garretson Avenue Corona CA 92879-2428,NA,NA,FALSE,tested,Corona,Riverside County,33.8646372,-117.561551
+Corona-Norco Unified,Jefferson Elementary,1040 South Vicentia Avenue Corona CA 92882-4124,NA,NA,FALSE,tested,Corona,Riverside County,33.8718253391245,-117.576037975301
+Corona-Norco Unified,John Adams Elementary,2350 Border Avenue Corona CA 92882-5608,NA,NA,FALSE,tested,Corona,Riverside County,33.8579152190545,-117.604930394779
+Corona-Norco Unified,John Stallings Elementary,1980 Fullerton Avenue Corona CA 92881-3105,NA,NA,FALSE,tested,Corona,Riverside County,33.8374777,-117.5579367
+Corona-Norco Unified,Lee V. Pollard High,185 Magnolia Ave Corona CA 92879-3329,NA,NA,FALSE,tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Lincoln Alternative Elementary,1041 Fullerton Avenue Corona CA 92879-2518,5.1,ppb,TRUE,tested,Corona,Riverside County,33.8696562533786,-117.556962673312
+Corona-Norco Unified,Orange Elementary,1350 Valencia Road Corona CA 92881-0739,NA,NA,FALSE,tested,Corona,Riverside County,33.8351064,-117.563219
+Corona-Norco Unified,Orange Grove High,300 Buena Vista Avenue Corona CA 92882-1937,NA,NA,FALSE,tested,Corona,Riverside County,33.8516063,-117.5814851
+Corona-Norco Unified,Parkridge Elementary,750 Corona Avenue Corona CA 92879-1074,NA,NA,FALSE,tested,Corona,Riverside County,33.89247075,-117.5581195
+Corona-Norco Unified,Prado View Elementary,2800 Ridgeline Drive Corona CA 92882-8734,NA,NA,FALSE,tested,Corona,Riverside County,33.877874,-117.638136
+Alvord Unified,Promenade Elementary,550 Hamilton Drive Corona CA 91719-5851,NA,NA,FALSE,tested,Corona,Riverside County,33.89451045,-117.51453392666
+Corona-Norco Unified,Susan B. Anthony Elementary,2665 Gilbert Avenue Corona CA 92881-8677,NA,NA,FALSE,tested,Corona,Riverside County,33.842842,-117.550653
+Corona-Norco Unified,Vicentia Elementary,2005 South Vicentia Avenue Corona CA 92882-4261,NA,NA,FALSE,tested,Corona,Riverside County,33.859848,-117.577235
+Corona-Norco Unified,William McKinley Elementary,2050 Aztec Lane Corona CA 92879-7858,NA,NA,FALSE,tested,Corona,Riverside County,33.903448,-117.532394
+Corona-Norco Unified,Woodrow Wilson Elementary,1750 Spyglass Drive Corona CA 92883-0696,NA,NA,FALSE,tested,Corona,Riverside County,33.8142590848156,-117.539225707417

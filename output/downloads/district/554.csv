@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oxnard Union High,Adolfo Camarillo High,4660 Mission Oaks Boulevard Camarillo CA 93012-5132,NA,NA,NA,not tested,Camarillo,Ventura County,34.2219489259254,-119.005170554405
+Oxnard Union High,"Architecture, Construction & Engineering Charter High (ACE)",570 Airport Way Camarillo CA 93010-8500,NA,NA,NA,not tested,Camarillo,Ventura County,34.208374,-119.076202142857
+Oxnard Union High,Camarillo Academy of Progressive Education,777 Aileen Street Camarillo CA 93010-2959,NA,NA,NA,not tested,Camarillo,Ventura County,34.2259163519536,-119.059498416133
+Oxnard Union High,Channel Islands High,1400 Raiders Way Oxnard CA 93033-5699,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1705618,-119.162355504779
+Oxnard Union High,Condor High,4000 S Rose Ave Oxnard CA 93033,NA,NA,NA,not tested,Oxnard,Ventura County,34.163043,-119.159316
+Oxnard Union High,Frontier High,545 Airport Way Camarillo CA 93010-8581,NA,NA,NA,not tested,Camarillo,Ventura County,34.2084425714286,-119.076395632653
+Oxnard Union High,Hueneme High,500 West Bard Road Oxnard CA 93033-6306,NA,NA,FALSE,tested,Oxnard,Ventura County,34.15909655,-119.182326349802
+Oxnard Union High,Oxnard High,3400 West Gonzales Road Oxnard CA 93036-7768,NA,NA,NA,not tested,Oxnard,Ventura County,34.2193665,-119.1985987
+Oxnard Union High,Pacifica High,600 East Gonzales Road Oxnard CA 93036-8266,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2180988,-119.170997047798
+Oxnard Union High,Rancho Campana High,4235 Mar Vista Drive Camarillo CA 93010,NA,NA,NA,not tested,Camarillo,Ventura County,34.2445857,-119.0143205

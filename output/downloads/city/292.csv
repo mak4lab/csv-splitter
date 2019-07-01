@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Scotts Valley Unified,Scotts Valley High,555 Glenwood Drive Scotts Valley CA 95066-3262,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.0710452945762,-122.004828641007
+Scotts Valley Unified,Scotts Valley Middle,8 Bean Creek Road Scotts Valley CA 95066-4109,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.062215,-122.017835

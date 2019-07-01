@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redlands Unified,Bryn Mawr Elementary,11680 Whittier Avenue Loma Linda CA 92354-4154,NA,NA,NA,not tested,Loma Linda,San Bernardino County,34.04305,-117.230581
+Redlands Unified,Victoria Elementary,9963 Richardson Street San Bernardino CA 92408-2965,5.65,ppb,TRUE,tested,Loma Linda,San Bernardino County,34.049327,-117.258735

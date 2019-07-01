@@ -1,0 +1,29 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ventura Unified,Academy of Technology & Leadership at Saticoy,760 Jazmin Avenue Ventura CA 93004-1826,NA,NA,FALSE,tested,Ventura,Ventura County,34.2849339,-119.1591522427
+Ventura Unified,Anacapa Middle,100 South Mills Road Ventura CA 93003-3434,NA,NA,FALSE,tested,Ventura,Ventura County,34.2717437619048,-119.247357222222
+Ventura Unified,Balboa Middle,247 Hill Road Ventura CA 93003-4401,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ventura Unified,Blanche Reynolds Elementary,450 Valmore Ave. Ventura CA 93003-4799,NA,NA,NA,not tested,Ventura,Ventura County,34.265665755102,-119.254244102041
+Ventura Unified,Buena High,5670 Telegraph Road Ventura CA 93003-4204,NA,NA,FALSE,tested,Ventura,Ventura County,34.2774926451613,-119.217528129032
+Ventura Unified,Cabrillo Middle,1426 East Santa Clara Street Ventura CA 93001-3211,NA,NA,FALSE,tested,Ventura,Ventura County,34.2795793793103,-119.279871172414
+Ventura Unified,Citrus Glen Elementary,9655 Darling Road Ventura CA 93004-3778,NA,NA,FALSE,tested,Ventura,Ventura County,34.2770715882353,-119.171627941176
+Ventura Unified,De Anza Academy of Technology and the Arts,2060 Cameron St Ventura CA 93001-1425,NA,NA,FALSE,tested,Ventura,Ventura County,34.301139,-119.292444428571
+Ventura Unified,E. P. Foster Elementary,20 Pleasant Place Ventura CA 93001-1326,NA,NA,NA,not tested,Ventura,Ventura County,34.2966535,-119.2965199375
+Ventura Unified,El Camino High,61 Day Road Ventura CA 93023-2037,NA,NA,FALSE,tested,Ventura,Ventura County,34.2773801853837,-119.226808116754
+Ventura Unified,Elmhurst Elementary,5080 Elmhurst Street Ventura CA 93003-3999,NA,NA,NA,not tested,Ventura,Ventura County,34.2723879306931,-119.226309019802
+Ventura Unified,Foothill Technology High,100 Day Road Ventura CA 93003-2040,NA,NA,FALSE,tested,Ventura,Ventura County,34.27902685,-119.225875983562
+Ventura Unified,Juanamaria Elementary,100 South Crocker Avenue Ventura CA 93004-1535,NA,NA,FALSE,tested,Ventura,Ventura County,34.280363,-119.1901315
+Ventura Unified,Junipero Serra Elementary,8880 Halifax Street Ventura CA 93004-2623,NA,NA,FALSE,tested,Ventura,Ventura County,34.2679902244898,-119.173990755102
+Ventura Unified,Lincoln Elementary,1107 East Santa Clara Street Ventura CA 93001-3125,7,ppb,TRUE,tested,Ventura,Ventura County,34.2796371836735,-119.283704
+Ventura Unified,Loma Vista Elementary,300 Lynn Drive Ventura CA 93003-1036,NA,NA,FALSE,tested,Ventura,Ventura County,34.279425,-119.250434
+Ventura Unified,Montalvo Elementary,2050 Grand Avenue Ventura CA 93003-6729,NA,NA,NA,not tested,Ventura,Ventura County,34.2556775384615,-119.207628769231
+Ventura Unified,Mound Elementary,455 South Hill Road Ventura CA 93003-4402,NA,NA,FALSE,tested,Ventura,Ventura County,34.27321876,-119.207951153333
+Ventura Unified,Pacific High,501 College Drive Ventura CA 93003-3413,8.85,ppb,TRUE,tested,Ventura,Ventura County,34.2681645895522,-119.241886552239
+Ventura Unified,Pierpont Elementary,1254 Marthas Vineyard Court Ventura CA 93001-4014,NA,NA,FALSE,tested,Ventura,Ventura County,34.2583547681264,-119.271251067591
+Ventura Unified,Poinsettia Elementary,350 North Victoria Avenue Ventura CA 93003-2344,NA,NA,NA,not tested,Ventura,Ventura County,34.284395,-119.215866
+Ventura Unified,Portola Elementary,6700 Eagle Street Ventura CA 93003-0599,NA,NA,FALSE,tested,Ventura,Ventura County,34.265119,-119.203026
+Ventura Unified,Sheridan Way Elementary,573 Sheridan Way Ventura CA 93001-1852,NA,NA,FALSE,tested,Ventura,Ventura County,34.2893050140843,-119.304470057
+Ventura Unified,Sunset Elementary,400 Sunset Avenue Oak View CA 93022-9742,NA,NA,NA,not tested,NA,Ventura County,34.391013,-119.304973
+Ventura Unified,Ventura High,2 North Catalina Street Ventura CA 93001-3503,NA,NA,FALSE,tested,Ventura,Ventura County,34.278823,-119.268626
+Ventura Unified,Vista Real Public Charter High,5100 Telegraph Rd Ventura CA 93003,NA,NA,NA,not tested,Ventura,Ventura County,34.2765767039106,-119.223742351955
+Ventura Unified,Vista Real Public Charter High,300 E Santa Clara St Ventura CA 93001,NA,NA,NA,not tested,Ventura,Ventura County,34.279434,-119.296031
+Ventura Unified,Will Rogers Elementary,316 Howard Street Ventura CA 93003-4531,NA,NA,FALSE,tested,Ventura,Ventura County,34.2712312173913,-119.263358985507

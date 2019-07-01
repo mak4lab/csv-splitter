@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sonora Elementary,Gold Ridge Education Center,12784 Justice Center Dr Sonora CA 95370,NA,NA,NA,not tested,NA,NA,NA,NA
+Sonora Elementary,Sonora Elementary,830 Greenley Road Sonora CA 95370-5203,NA,NA,NA,not tested,Sonora,Tuolumne County,37.9802783,-120.370060482688
+Sonora Elementary,Spring Field Community Day,22540 Parrotts Ferry Rd Columbia CA 95310-9757,NA,NA,NA,not tested,NA,Tuolumne County,38.038544,-120.404493
+Sonora Elementary,Tuolumne Learning Center (TLC),610 South Washington St Sonora CA 95370,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.9767534,-120.3804592

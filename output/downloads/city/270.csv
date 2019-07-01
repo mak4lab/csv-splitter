@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oak Grove Elementary,Christopher Elementary,565 Coyote Road San Jose CA 95111-2599,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2793966972699,-121.816712104481
+Oak Grove Elementary,Del Roble Elementary,5345 Avenida Almendros San Jose CA 95123-1405,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565760220769,-121.835311231134
+Union Elementary,Enlighten Chinese Preschool,1921 Clarinda Wy San Jose CA 95124,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2450273183297,-121.924233977881
+East Side Union High,"Escuela Popular/Center for Training and Careers, Family Learning",149 North White Road San Jose CA 95127-1612,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3658911,-121.8280622
+San Jose Unified,Hester Site SCCOE,1460 The Alameda San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3338130412903,-121.914578757434
+Cupertino Union,John Muir Elementary,6560 Hanover Drive San Jose CA 95129-3832,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3003259672616,-122.019391156042
+Private,Legacy Christian School,420 Allegan Circle San Jose CA 95123,5.3,ppb,TRUE,tested,San Jose,Santa Clara County,37.2346994751695,-121.815226388245
+Oak Grove Elementary,Parkview Elementary,330 Bluefield Drive San Jose CA 95136-2100,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.271116933603,-121.847532952658
+Private,Pine Hill School Second Start Learning D,1325 Bouret Drive San Jose CA 95118,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565604434284,-121.886681700061
+Oak Grove Elementary,Sakamoto Elementary,6280 Shadelands Drive San Jose CA 95123-4645,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.231077534351,-121.8392948431
+East Side Union High,San Jose Conservation Corps Charter,1560 Berger Drive San Jose CA 95112-2703,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3726410493757,-121.896915279599
+East Side Union High,San Jose Conservation Corps Charter School – Senter Rd,2650 Senter Rd.  San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2941603,-121.8340908
+Private,Seven Trees Site,300 El Cajon Dr San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.28295355,-121.830520226661
+Metro Education,Silicon Valley Career Technical Education Center,760 Hillsdale Avenue San Jose CA 95136-1106,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.27655,-121.865919352845
+Private,Snell Site,3550 Snell Avenue San Jose CA 95136,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2805827272727,-121.848015060606
+Private,Sunol Site,258 Sunol Street San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3248359104486,-121.906009869403

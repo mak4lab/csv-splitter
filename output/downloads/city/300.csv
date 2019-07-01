@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Long Beach Unified,Alvarado Elementary,1900 East 21st Street Signal Hill CA 90755-5858,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.7952026949175,-118.168325253102
+Long Beach Unified,Browning High School,2180 Obispo Avenue Long Beach CA 90804,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.796921,-118.154466
+Long Beach Unified,Jessie Nelson Academy,1951 Cherry Avenue Signal Hill CA 90755-5823,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.7927401555459,-118.167717480561
+Long Beach Unified,John Burroughs Elementary,1260 E. 33rd St. Signal Hill CA 90755,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.817018,-118.1761203125
+Long Beach Unified,Signal Hill Elementary,2285 Walnut Avenue Signal Hill CA 90755-3619,NA,NA,FALSE,tested,Signal Hill,Los Angeles County,33.7985680116851,-118.172109874326

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Richland Union Elementary,Golden Oak Elementary,190 South Wall Shafter CA 93263,NA,NA,FALSE,tested,NA,NA,NA,NA
+Richland Union Elementary,Redwood Elementary,331 North Shafter Avenue Shafter CA 93263-1967,NA,NA,FALSE,tested,NA,Kern County,35.5024912653061,-119.27838077551
+Richland Union Elementary,Richland Junior High,331 Shafter Avenue Shafter CA 93263-1967,NA,NA,FALSE,tested,NA,Kern County,35.529151,-119.277852
+Richland Union Elementary,Sequoia Elementary,500 East Fresno Avenue Shafter CA 93263-9404,NA,NA,FALSE,tested,NA,Kern County,35.51442,-119.30478600000001

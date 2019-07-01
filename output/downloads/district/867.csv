@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Westside Union Elementary,Anaverde Hills,2902 Greenbrier Street Palmdale CA 93551-5518,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.5639602,-118.1772931
+Westside Union Elementary,Cottonwood Elementary,2740 West Avenue P-8 Palmdale CA 93551-1543,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.594311,-118.181659
+Westside Union Elementary,Esperanza Elementary,40521 35th Street West Palmdale CA 93551-5647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.6179449610288,-118.194530062307
+Westside Union Elementary,Gregg Anderson Academy,5151 West Avenue N8 Palmdale CA 93551,NA,NA,NA,not tested,NA,NA,NA,NA
+Westside Union Elementary,Hillview Middle,40525 Peonza Lane Palmdale CA 93551-2647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.6194652221161,-118.20968677705
+Westside Union Elementary,Joe Walker Middle,5632 West Avenue L8 Lancaster CA 93536-3713,5.5,ppb,TRUE,tested,NA,NA,NA,NA
+Westside Union Elementary,Leona Valley Elementary,9063 West Leona Avenue Leona Valley CA 93551-7330,NA,NA,NA,not tested,NA,NA,NA,NA
+Westside Union Elementary,Quartz Hill Elementary,41820 North 50th Street West Quartz Hill CA 93536-2961,7.6,ppb,TRUE,tested,Palmdale,Los Angeles County,34.6430916295668,-118.218336893353
+Westside Union Elementary,Rancho Vista Elementary,40641 Peonza Lane Palmdale CA 93551-2648,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.6200545541754,-118.209297524281
+Westside Union Elementary,Sundown Elementary,6151 West Avenue J8 Lancaster CA 93536-4540,NA,NA,FALSE,tested,NA,NA,NA,NA
+Westside Union Elementary,Valley View Elementary,3310 West Avenue L-8 Lancaster CA 93536-3409,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.65284,-118.191966760962

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fairfield-Suisun Unified,Crescent Elementary,1001 Anderson Drive Suisun CA 94585,NA,NA,FALSE,tested,Suisun City,Solano County,38.2415598,-122.014976886835
+Fairfield-Suisun Unified,Crystal Middle,400 Whispering Bay Lane Suisun City CA 94585-2862,NA,NA,FALSE,tested,Suisun City,Solano County,38.24007285,-122.03282555526
+Fairfield-Suisun Unified,Dan O. Root Elementary,820 Harrier Drive Suisun City CA 94585-3064,8.7,ppb,TRUE,tested,Suisun City,Solano County,38.2501838,-121.996099095955
+Fairfield-Suisun Unified,Suisun Elementary,725 Golden Eye Way Suisun City CA 94585-2029,10,ppb,TRUE,tested,Suisun City,Solano County,38.24858835,-122.011406409112

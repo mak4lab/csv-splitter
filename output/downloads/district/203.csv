@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Durham Unified,Durham Elementary,9421 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460649795918,-121.803129489796
+Durham Unified,Durham High,9455 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.646250244898,-121.803188122449
+Durham Unified,Durham Intermediate,9416 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460821836735,-121.802915591837

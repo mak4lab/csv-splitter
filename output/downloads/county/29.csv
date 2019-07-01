@@ -1,0 +1,25 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tahoe-Truckee Unified,Alder Creek Middle,10931 Alder Drive Truckee CA 96161-2812,NA,NA,NA,not tested,NA,Nevada County,39.345211,-120.177548951168
+Grass Valley Elementary,Bell Hill Academy,342 South School Street Grass Valley CA 95945-6632,NA,NA,NA,not tested,NA,Nevada County,39.2150774666667,-121.067757133333
+Tahoe-Truckee Unified,Cold Stream Alternative,11661 Donner Pass Road Truckee CA 96161-4953,NA,NA,NA,not tested,NA,Nevada County,39.3243023,-120.2258084
+Nevada City Elementary,Deer Creek Elementary,805 Lindley Avenue Nevada City CA 95959-2911,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2509198267205,-121.028264640826
+Nevada City Elementary,Earle Jamieson Educational Options,112 Nevada City Highway Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2448275,-121.0306945
+Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,NA,NA,NA,not tested,Nevada City,Nevada County,39.255202,-121.023546
+Tahoe-Truckee Unified,Glenshire Elementary,10990 Dorchester Drive Truckee CA 96161-1537,NA,NA,NA,not tested,NA,Nevada County,39.363155,-120.09939214784
+Grass Valley Elementary,Grass Valley Charter,225 South Auburn Street Grass Valley CA 95945-7229,NA,NA,NA,not tested,NA,Nevada County,39.2153645598861,-121.061572328718
+Nevada City Elementary,Nevada City Charter,750 Hoover Lane Nevada City CA 95959-2910,NA,NA,NA,not tested,Nevada City,Nevada County,39.2553951395225,-121.031433290716
+Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,NA,NA,NA,not tested,Nevada City,Nevada County,39.253893,-121.031605
+Penn Valley Union Elementary,Ready Springs Elementary,10862 Spenceville Road Penn Valley CA 95946-9625,NA,NA,FALSE,tested,NA,Nevada County,39.134316,-121.236191
+Tahoe-Truckee Unified,Sierra Expeditionary Learning,11603 Donner Pass Road Truckee CA 96161-4953,NA,NA,NA,not tested,NA,Nevada County,39.3243023,-120.2258084
+Tahoe-Truckee Unified,Sierra High (Continuation),11661 Donner Pass Rd Truckee CA 96161-4953,NA,NA,NA,not tested,NA,Nevada County,39.3243023,-120.2258084
+Nevada Joint Union High,Silver Springs High (Continuation),130 Park Avenue Grass Valley CA 95945-7202,NA,NA,NA,not tested,NA,Nevada County,39.2108408381073,-121.062873578913
+Tahoe-Truckee Unified,Tahoe Truckee High,11725 Donner Pass Road Truckee CA 96161-4954,NA,NA,NA,not tested,NA,Nevada County,39.3243023,-120.2258084
+Tahoe-Truckee Unified,Tahoe-Truckee Community Adult,11603 Donner Pass Rd Truckee CA 96161-4953,NA,NA,NA,not tested,NA,Nevada County,39.3243023,-120.2258084
+Nevada City Elementary,Terence K. McAteer Center,400 Hoover Ln Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.253893,-121.031605
+Tahoe-Truckee Unified,Truckee Elementary,11911 Donner Pass Road Truckee CA 96161-4951,NA,NA,NA,not tested,NA,Nevada County,39.32508385,-120.22041345
+Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,NA,NA,NA,not tested,Nevada City,Nevada County,39.2482593663303,-121.016083471786
+Nevada City Elementary,Twin Ridges Home Study Charter Schol,111 New Mohawk Road Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2482593663303,-121.016083471786
+Union Hill Elementary,Union Hill Elementary,11638 Colfax Highway Grass Valley CA 95945-8805,5.1,ppb,TRUE,tested,NA,Nevada County,39.2151705,-121.0542348
+Union Hill Elementary,Union Hill Middle,11638 Colfax Hwy Grass Valley CA 94945-8805,NA,NA,NA,not tested,NA,Nevada County,39.2151705,-121.0542348
+Penn Valley Union Elementary,Vantage Point Charter,10862 Spenceville Rd Penn Valley CA 95946-9625,26,ppb,TRUE,tested,NA,Nevada County,39.134316,-121.236191
+Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,NA,NA,NA,not tested,Nevada City,Nevada County,39.2652902907306,-121.018759347602

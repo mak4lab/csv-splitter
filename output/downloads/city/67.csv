@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mt. Diablo Unified,Ayers Elementary,5120 Myrtle Drive Concord CA 94521-1522,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9659315,-121.959529
+Mt. Diablo Unified,Cambridge Elementary,1135 Lacey Lane Concord CA 94520-4297,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9543529,-122.0441519
+Contra Costa County Office of Education,Clayton Valley Charter High,1101 Alberta Way Concord CA 94521-3799,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9475621726425,-121.968367957269
+Mt. Diablo Unified,Concord High,4200 Concord Blvd. Concord CA 94521-1059,NA,NA,FALSE,tested,Concord,Contra Costa County,37.977161,-121.99117
+Mt. Diablo Unified,Diablo Community Day,1026 Mohr Lane Concord CA 94518-3833,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9444614025488,-122.044855725838
+Mt. Diablo Unified,El Dorado Middle,1750 West Street Concord CA 94521-1008,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9758196577457,-121.992782987093
+Mt. Diablo Unified,El Monte Elementary,1400 Dina Drive Concord CA 94518-1222,NA,NA,FALSE,tested,Concord,Contra Costa County,37.968859,-122.012002
+Contra Costa County Office of Education,Floyd I. Marchus,2900 Avon Avenue Concord CA 94520-5404,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9948482793415,-122.047667356809
+Mt. Diablo Unified,Highlands Elementary,1326 Pennsylvania Boulevard Concord CA 94521-4103,7.1,ppb,TRUE,tested,Concord,Contra Costa County,37.9438484963744,-121.954917382738
+Mt. Diablo Unified,Holbrook Language Academy,3333 Ronald Wy Concord CA 94519,8.9,ppb,TRUE,tested,Concord,Contra Costa County,37.9924035037948,-122.026668551626
+Mt. Diablo Unified,Loma Vista Adult Center,1266 San Carlos Avenue Concord CA 94518-1102,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9691896326531,-122.025979040816
+Mt. Diablo Unified,Meadow Homes Elementary,1371 Detroit Avenue Concord CA 94520-3521,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9654474437077,-122.038581319777
+Mt. Diablo Unified,Monte Gardens Elementary,3841 Larkspur Drive Concord CA 94519-1152,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9891701,-122.0042387
+Mt. Diablo Unified,Mountain View Elementary,1705 Thornwood Drive Concord CA 94521-1999,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9693077960796,-121.979021804433
+Mt. Diablo Unified,Mt. Diablo High,2455 Grant Street Concord CA 94520-2252,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9832236036122,-122.037231633391
+Mt. Diablo Unified,Olympic Continuation High,2730 Salvio Street Concord CA 94519-2599,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9807427857383,-122.027784693585
+Private,Queen of All Saints Elementary,2391 Grant Street Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9825249302782,-122.036801870927
+Private,Saint Agnes,3886 Chestnut Avenue Concord CA 94519,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9717346666667,-122.003774666667
+Private,"Seneca Family of Agencies, Olivera School",2351 Olivera Road Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9963710310755,-122.036165906897
+Mt. Diablo Unified,Shadelands Special Education,1860 Silverwood Dr Concord CA 94519-1351,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9856791904762,-122.002906666667
+Mt. Diablo Unified,Silverwood Elementary,1649 Claycord Avenue Concord CA 94521-2299,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9631395090494,-121.971184594523
+Mt. Diablo Unified,Summit High (Continuation),4200 Concord Boulevard Concord CA 94521-1059,NA,NA,NA,not tested,Concord,Contra Costa County,37.977161,-121.99117
+Mt. Diablo Unified,Sun Terrace Elementary,2448 Floyd Lane Concord CA 94520-1499,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9999907102049,-122.029861220635
+Mt. Diablo Unified,Sunrise (Special Education),1861 Silverwood Drive Concord CA 94519-1352,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9855691818182,-122.003061590909
+Mt. Diablo Unified,Westwood Elementary,1748 West Street Concord CA 94521-1008,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9757874189126,-121.992821924343
+Mt. Diablo Unified,Woodside Elementary,761 San Simeon Drive Concord CA 94518-2337,NA,NA,FALSE,tested,Concord,Contra Costa County,37.941282,-122.017875
+Mt. Diablo Unified,Wren Avenue Elementary,3339 Wren Avenue Concord CA 94519-2328,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9803032857143,-122.016178877551
+Mt. Diablo Unified,Ygnacio Valley Elementary,2217 Chalomar Road Concord CA 94518-2595,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9492644107057,-122.029658041694
+Mt. Diablo Unified,Ygnacio Valley High,755 Oak Grove Rd Concord CA 94518-2899,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9383033440043,-122.024822505839

@@ -1,0 +1,35 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Westminster,Ada Clegg Elementary,6311 Larchwood Dr Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.7470367020965,-118.020418395904
+Huntington Beach City Elementary,Agnes L. Smith Elementary,770 17th Street Huntington Beach CA 92648-3426,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.6701839462454,-118.006777112045
+Ocean View,Bright Star Academy,6621 Glen Dr. Huntington Beach CA 92647,7.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.734081,-118.013489
+Private,Carden Conservatory,5702 Clark Drive Huntington Beach CA 92649,6,ppb,TRUE,tested,Huntington Beach,Orange County,33.7268778010449,-118.029136378687
+Ocean View,Circle View Elementary,6261 Hooker Drive Huntington Beach CA 92647-2800,9.3,ppb,TRUE,tested,Huntington Beach,Orange County,33.7325498892647,-118.018931866847
+Huntington Beach Union High,Coast High,17231 Gothard Street Huntington Beach CA 92647-5421,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7123544,-118.000315062221
+Ocean View,College View Elementary,6582 Lennox Drive Huntington Beach CA 92647-3452,5.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.727508,-118.013745387755
+Huntington Beach Union High,Edison High,21400 Magnolia Huntington Beach CA 92646-6306,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.665035,-117.9712133
+Huntington Beach City Elementary,Ethel Dwyer Middle,1502 Palm Avenue Huntington Beach CA 92648-4007,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.6688725118787,-118.00558131663
+Ocean View,Golden View Elementary,17251 Golden View Lane Huntington Beach CA 92647-5664,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7115812844007,-118.010796669983
+Private,Grace Lutheran School,5172 McFadden Avenue Huntington Beach CA 92649,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.737048,-118.039707428571
+Ocean View,Harbour View Elementary,4343 Pickwick Circle Huntington Beach CA 92649-3108,5.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.7207120419337,-118.052196884011
+Westminster,Helen Stacey Middle,6311 Larchwood Drive Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.7470367020965,-118.020418395904
+Ocean View,Hope View Elementary,17622 Flintstone Lane Huntington Beach CA 92647-6413,5.2,ppb,TRUE,tested,Huntington Beach,Orange County,33.7062976556721,-118.019392077309
+Huntington Beach Union High,Huntington Beach High,1905 Main Street Huntington Beach CA 92648-2705,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.67535825,-118.001859
+Huntington Beach City Elementary,Huntington Seacliff Elementary,6701 Garfield Avenue Huntington Beach CA 92648-1510,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.686672,-118.011345240351
+Huntington Beach City Elementary,Isaac L. Sowers Middle,9300 Indianapolis Avenue Huntington Beach CA 92646-5900,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.664936,-117.966903
+Huntington Beach City Elementary,John H. Eader Elementary,9291 Banning Avenue Huntington Beach CA 92646-8302,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.6433457401304,-117.96525667342
+Huntington Beach City Elementary,John R. Peterson Elementary,20661 Farnsworth Lane Huntington Beach CA 92646-5511,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.6624673831491,-117.984244626915
+Huntington Beach City Elementary,Joseph R. Perry Elementary,19231 Harding Lane Huntington Beach CA 92646-2023,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.6831800825514,-117.982794731642
+Ocean View,Lake View Elementary,17451 Zeider Lane Huntington Beach CA 92647-6361,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7086979636754,-117.981511049322
+Private,LePort Schools - Huntington Harbor,16081 Waikiki Lane Huntington Beach CA 92649,7.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.7280723884481,-118.043924541574
+Huntington Beach Union High,Marina High,15871 Springdale Street Huntington Beach CA 92649-1727,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7307721277402,-118.024185132008
+Ocean View,Marine View Middle,5682 Tilburg Drive Huntington Beach CA 92649-4699,6.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.7102613383176,-118.029414832349
+Ocean View,Mesa View Middle,17601 Avilla Lane Huntington Beach CA 92647-6612,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7063175416667,-118.010711
+Ocean View,Oak View Elementary,17241 Oak Lane Huntington Beach CA 92647-5895,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.712282,-117.993629
+Huntington Beach Union High,Ocean View High,17071 Gothard Street Huntington Beach CA 92647-5417,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.7140192773475,-118.000171543539
+Fountain Valley Elementary,Oka (Isojiro) Elementary,9800 Yorktown Avenue Huntington Beach CA 92646-2841,NA,NA,NA,not tested,Huntington Beach,Orange County,33.679528,-117.957143
+Huntington Beach City Elementary,Ralph E. Hawes Elementary,9682 Yellowstone Drive Huntington Beach CA 92646-4857,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.668658,-117.959342
+Westminster,Schroeder Elementary,15151 Columbia Lane Huntington Beach CA 92647-2507,NA,NA,NA,not tested,Huntington Beach,Orange County,33.7418741837128,-118.017902933107
+Ocean View,Spring View Middle,16662 Trudy Lane Huntington Beach CA 92647-4261,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7200244485157,-118.019596814682
+Ocean View,Sun View Elementary,7721 Juliette Low Drive Huntington Beach CA 92647-4181,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.7249095527706,-117.994301449397
+Fountain Valley Elementary,Talbert (Samuel E.) Middle,9101 Brabham Drive Huntington Beach CA 92646-2764,NA,NA,NA,not tested,Huntington Beach,Orange County,33.680802,-117.969194372639
+Ocean View,Village View Elementary,5361 Sisson Drive Huntington Beach CA 92649-2442,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.7268028577019,-118.035427115221

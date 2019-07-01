@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fullerton Elementary,Acacia Elementary,1200 North Acacia Avenue Fullerton CA 92831-2102,NA,NA,FALSE,tested,Fullerton,Orange County,33.881564,-117.898333
+Fullerton Elementary,Beechwood Elementary,780 Beechwood Avenue Fullerton CA 92835-2777,NA,NA,FALSE,tested,Fullerton,Orange County,33.9012240204082,-117.913868673469
+Fullerton Elementary,Commonwealth Elementary,2200 East Commonwealth Avenue Fullerton CA 92831-4212,NA,NA,FALSE,tested,Fullerton,Orange County,33.870458,-117.893322
+Fullerton Elementary,D. Russell Parks Junior High,1710 Rosecrans Avenue Fullerton CA 92833-1912,NA,NA,FALSE,tested,Fullerton,Orange County,33.8925870164,-117.95252320676
+Fullerton Elementary,Fern Drive Elementary,1400 West Fern Drive Fullerton CA 92833-2331,NA,NA,FALSE,tested,Fullerton,Orange County,33.879717,-117.950959
+Fullerton Elementary,Golden Hill Elementary,732 Barris Drive Fullerton CA 92832-1002,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fullerton Elementary,Hermosa Drive Elementary,400 East Hermosa Drive Fullerton CA 92835-1654,NA,NA,FALSE,tested,Fullerton,Orange County,33.910129,-117.925059
+Fullerton Elementary,Ladera Vista Junior High School of the Arts,1700 East Wilshire Drive Fullerton CA 92831-4115,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fullerton Elementary,Laguna Road Elementary,300 West Laguna Road Fullerton CA 92835-2504,NA,NA,FALSE,tested,Fullerton,Orange County,33.8969291507875,-117.93255654227
+Fullerton Elementary,Maple Elementary,244 East Valencia Drive Fullerton CA 92832-2440,NA,NA,FALSE,tested,Fullerton,Orange County,33.8661560659077,-117.921086986941
+Fullerton Elementary,Nicolas Junior High,1100 West Olive Avenue Fullerton CA 92833-4132,NA,NA,FALSE,tested,Fullerton,Orange County,33.862841,-117.946982
+Fullerton Elementary,Orangethorpe Elementary,1400 South Brookhurst Road Fullerton CA 92833-4493,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fullerton Elementary,Pacific Drive Elementary,1501 West Valencia Drive Fullerton CA 92833-3940,NA,NA,FALSE,tested,Fullerton,Orange County,33.86722235,-117.953194516065
+Fullerton Elementary,Raymond Elementary,517 North Raymond Avenue Fullerton CA 92831-3310,NA,NA,FALSE,tested,Fullerton,Orange County,33.874404,-117.907112
+Fullerton Elementary,Richman Elementary,700 South Richman Avenue Fullerton CA 92832-2724,NA,NA,FALSE,tested,Fullerton,Orange County,33.86483,-117.93297
+Fullerton Elementary,Robert C. Fisler Elementary,1350 Starbuck Street Fullerton CA 92833-5668,NA,NA,FALSE,tested,Fullerton,Orange County,33.8859353990466,-117.962455762968
+Fullerton Elementary,Rolling Hills Elementary,1460 East Rolling Hills Drive Fullerton CA 92835-2008,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fullerton Elementary,Sunset Lane Elementary,2030 Sunset Lane Fullerton CA 92833-1852,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fullerton Elementary,Valencia Park Elementary,3441 West Valencia Drive Fullerton CA 92833-3131,6.5,ppb,TRUE,tested,Fullerton,Orange County,33.8664844480449,-117.975626491358
+Fullerton Elementary,Woodcrest Elementary,455 West Baker Avenue Fullerton CA 92832-3269,NA,NA,FALSE,tested,Fullerton,Orange County,33.8569155,-117.9450043

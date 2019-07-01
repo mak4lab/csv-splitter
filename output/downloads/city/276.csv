@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Marcos Unified,Alvin M. Dunn Elementary,3697 La Mirada Drive San Marcos CA 92078-2312,NA,NA,NA,not tested,San Marcos,San Diego County,33.1439377850954,-117.204279024211
+San Marcos Unified,Discovery Elementary,730 Applewilde Drive San Marcos CA 92078-4969,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1287692958176,-117.189883328064
+San Marcos Unified,Double Peak K8 School,111 San Elijo Road San Marcos CA 92078,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1056914,-117.166995784126
+San Marcos Unified,Knob Hill Elementary,1825 Knob Hill Road San Marcos CA 92069-3301,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1387588566379,-117.117799498691
+San Marcos Unified,Mission Hills High,1 Mission Hills Court San Marcos CA 92069-1965,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1433095,-117.14101556847
+San Marcos Unified,Paloma Elementary,660 Camino Magnifico San Marcos CA 92069-7323,NA,NA,FALSE,tested,San Marcos,San Diego County,33.15940595,-117.185678532199
+San Marcos Unified,Richland Elementary,910 Borden Road San Marcos CA 92069-2199,NA,NA,NA,not tested,San Marcos,San Diego County,33.1542748367347,-117.140917979592
+San Marcos Unified,San Elijo Elementary,1615 Schoolhouse Way San Marcos CA 92078-1080,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1008966,-117.1972816
+San Marcos Unified,San Elijo Middle,1600 Schoolhouse Way San Marcos CA 92078-1079,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1008966,-117.1972816
+San Marcos Unified,San Marcos Elementary,1 Tiger Way San Marcos CA 92069-2703,NA,NA,FALSE,tested,San Marcos,San Diego County,33.141439,-117.168688920135
+San Marcos Unified,San Marcos Middle,650 West Mission Road San Marcos CA 92069-1555,NA,NA,NA,not tested,San Marcos,San Diego County,33.1457738893039,-117.175407065988
+San Marcos Unified,Twin Oaks Elementary,1 Cassou Road San Marcos CA 92069-9831,NA,NA,FALSE,tested,San Marcos,San Diego County,33.179125,-117.157396
+San Marcos Unified,Twin Oaks High,158 Cassou Road San Marcos CA 92069-9702,15,ppb,TRUE,tested,San Marcos,San Diego County,33.180768,-117.158628
+San Marcos Unified,Woodland Park Middle,1270 Rock Springs Road San Marcos CA 92069-3220,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1468804,-117.137713

@@ -1,0 +1,28 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Montebello Unified,Applied Technology Center,1200 West Mines Avenue Montebello CA 90640-5538,NA,NA,NA,not tested,Montebello,Los Angeles County,34.00464465,-118.116344372461
+Montebello Unified,Bandini Elementary,2318 Couts Avenue City Of Commerce CA 90040-1102,NA,NA,NA,not tested,NA,NA,NA,NA
+Montebello Unified,Bell Gardens Elementary,5620 Quinn Street Bell Gardens CA 90201-5421,NA,NA,NA,not tested,NA,Los Angeles County,33.959537,-118.16848
+Montebello Unified,Bell Gardens High,6119 Agra Street Bell Gardens CA 90201-1705,NA,NA,FALSE,tested,NA,Los Angeles County,33.9756640838736,-118.154227464878
+Montebello Unified,Bell Gardens Intermediate,5841 Live Oak Street Bell Gardens CA 90201-4616,NA,NA,NA,not tested,NA,Los Angeles County,33.966403,-118.1620146
+Montebello Unified,Cesar E. Chavez Elementary,6139 Loveland Street Bell Gardens CA 90201-1738,NA,NA,NA,not tested,NA,Los Angeles County,33.97388985,-118.154192237736
+Montebello Unified,Eastmont Intermediate,400 North Bradshawe Avenue Montebello CA 90640-1562,NA,NA,NA,not tested,Montebello,Los Angeles County,34.019875,-118.1435241
+Montebello Unified,Ford Park Community Adult,7800 Scout Avenue Bell Gardens CA 90201-5630,NA,NA,NA,not tested,NA,Los Angeles County,33.960252,-118.148614
+Montebello Unified,Fremont Elementary,200 West Madison Avenue Montebello CA 90640-4431,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.012437,-118.100836
+Montebello Unified,Greenwood Elementary,900 South Greenwood Avenue Montebello CA 90640-5816,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9971617751051,-118.118002201722
+Montebello Unified,Joseph A. Gascon Elementary,630 South Leonard Street Los Angeles CA 90022-3508,NA,NA,NA,not tested,NA,NA,NA,NA
+Montebello Unified,La Merced Elementary,724 North Poplar Avenue Montebello CA 90640-2760,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0210993902439,-118.095904609756
+Montebello Unified,La Merced Intermediate,215 East Avenida de la Merced Montebello CA 90640-2799,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0231085725887,-118.098185276372
+Montebello Unified,Laguna Nueva,6360 South Garfield Avenue City Of Commerce CA 90040-3615,NA,NA,NA,not tested,NA,NA,NA,NA
+Montebello Unified,Macy Intermediate,2101 South Lupine Avenue Monterey Park CA 91755-6616,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0402787,-118.1245438
+Montebello Unified,Montebello High,2100 West Cleveland Ave Montebello CA 90640-4032,11,ppb,TRUE,tested,Montebello,Los Angeles County,34.015256,-118.123038
+Montebello Unified,Montebello Intermediate,1600 Whittier Boulevard Montebello CA 90640-4003,6,ppb,TRUE,tested,Montebello,Los Angeles County,34.012121,-118.117798
+Montebello Unified,Montebello Park Elementary,6300 Northside Drive Los Angeles CA 90022-4619,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.013991,-118.135957
+Montebello Unified,Potrero Heights Elementary,8026 East Hill Drive South San Gabriel CA 91770-4127,NA,NA,NA,not tested,NA,NA,NA,NA
+Montebello Unified,Rosewood Park,2353 Commerce Way City of Commerce CA 90040-1407,NA,NA,NA,not tested,NA,NA,NA,NA
+Montebello Unified,Schurr Community Adult,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
+Montebello Unified,Schurr High,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,NA,not tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
+Montebello Unified,Suva Elementary,6740 East Suva Street Bell Gardens CA 90201-1936,9.8,ppb,TRUE,tested,NA,Los Angeles County,33.9678198686132,-118.141934378085
+Montebello Unified,Suva Intermediate,6660 East Suva Street Bell Gardens CA 90201-1943,7.05,ppb,TRUE,tested,NA,Los Angeles County,33.9692016605442,-118.143981552225
+Montebello Unified,Vail High (Continuation),1230 South Vail Avenue Montebello CA 90640-6312,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9937499591837,-118.129349795918
+Montebello Unified,Washington Elementary,1400 West Madison Avenue Montebello CA 90640-4132,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.015243,-118.114038
+Montebello Unified,Winter Gardens Elementary,1277 South Clela Avenue Los Angeles CA 90022-4903,NA,NA,NA,not tested,NA,Los Angeles County,34.0151944506342,-118.162285205715

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Martinez Unified,Alhambra Senior High,150 E Street Martinez CA 94553-3139,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.0025240722836,-122.133945031246
+Martinez Unified,Briones (Alternative),614 F St Martinez CA 94553-3212,NA,NA,NA,not tested,Martinez,Contra Costa County,38.000812,-122.130703
+Martinez Unified,John Muir Elementary,205 Vista Way Martinez CA 94553-4029,NA,NA,FALSE,tested,Martinez,Contra Costa County,37.9991689295021,-122.119580267247
+Martinez Unified,John Swett Elementary,4955 Alhambra Valley Road Martinez CA 94553-5707,NA,NA,FALSE,tested,Martinez,Contra Costa County,37.963766,-122.188155
+Martinez Unified,Las Juntas Elementary,4105 Pacheco Boulevard Martinez CA 94553-2225,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.0134589,-122.1234745
+Martinez Unified,Martinez Early Intervention Preschool Program (MEIPP),921 Susana Street Martinez CA 94553-1848,NA,NA,NA,not tested,Martinez,Contra Costa County,38.014592698972,-122.132625771714
+Martinez Unified,Martinez Junior High,1600 Court Street Martinez CA 94553-1846,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.0174187,-122.1333364
+Martinez Unified,Morello Park Elementary,1200 Morello Park Drive Martinez CA 94553-3524,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.0006864564689,-122.100599610675
+Martinez Unified,Vicente Martinez High,614 F Street Martinez CA 94553-3212,NA,NA,NA,not tested,Martinez,Contra Costa County,38.000812,-122.130703

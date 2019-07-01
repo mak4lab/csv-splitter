@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5905413,-120.9483146
+Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591274,-120.968615
+Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5987818,-120.9461486
+Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.602541,-120.956885
+Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.579742382917,-120.957015046061
+Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5963941919192,-120.956808383838
+Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7,ppb,TRUE,tested,Ceres,Stanislaus County,37.5944288,-120.9267669
+Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.582869,-120.953424
+Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5769851272163,-120.957052456063
+Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5944288,-120.9267669
+Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.597625,-120.943283
+Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.5667974578313,-120.957168012048
+Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,TRUE,tested,Ceres,Stanislaus County,37.6020381,-120.9232051
+Modesto City Elementary,Tuolumne Elementary,707 Herndon Road Modesto CA 95351-4210,NA,NA,NA,not tested,Ceres,Stanislaus County,37.6197205909091,-120.975423

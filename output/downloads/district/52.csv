@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bayshore Elementary,Bayshore Elementary,1 Martin Street Daly City CA 94014-1530,NA,NA,FALSE,tested,Daly City,San Mateo County,37.700851,-122.414089
+Bayshore Elementary,Garnet J. Robertson Intermediate,1 Martin Street B Daly City CA 94014-1603,NA,NA,NA,not tested,Daly City,San Mateo County,37.700851,-122.414089

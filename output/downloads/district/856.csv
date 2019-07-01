@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Waugh Elementary,Corona Creek Elementary,1851 Hartman Lane Petaluma CA 94954-2535,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.273786845894,-122.647664291435
+Waugh Elementary,Meadow Elementary,880 Maria Drive Petaluma CA 94954-6837,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2651141908102,-122.644128875935

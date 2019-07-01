@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Placentia-Yorba Linda Unified,Bernardo Yorba Middle,5350 Fairmont Boulevard Yorba Linda CA 92886-4446,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.888733,-117.79044
+Placentia-Yorba Linda Unified,Bryant Ranch Elementary,24695 Paseo de Toronto Yorba Linda CA 92887-5116,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.878688,-117.718458
+Placentia-Yorba Linda Unified,Fairmont Elementary,5241 Fairmont Boulevard Yorba Linda CA 92886-4400,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.88745,-117.79038
+Placentia-Yorba Linda Unified,La Entrada High,"4999 Casa Loma Ave Yorba Linda, CA CA 92886-3398",NA,NA,NA,not tested,Yorba Linda,Orange County,33.895311,-117.824427
+Placentia-Yorba Linda Unified,Lakeview Elementary,17510 Lakeview Avenue Yorba Linda CA 92886-2381,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8860078,-117.8131998
+Placentia-Yorba Linda Unified,Mabel M. Paine Elementary,4444 Plumosa Drive Yorba Linda CA 92886-2399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8968331278564,-117.815812234666
+Placentia-Yorba Linda Unified,Rose Drive Elementary,4700 Rose Drive Yorba Linda CA 92886-2096,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.890667,-117.841691
+Placentia-Yorba Linda Unified,Travis Ranch,5200 Via de la Escuela Yorba Linda CA 92887-2556,5.9,ppb,TRUE,tested,Yorba Linda,Orange County,33.885404,-117.761069
+Placentia-Yorba Linda Unified,Van Buren Elementary,1245 North Van Buren Street Placentia CA 92870-4024,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8840213971788,-117.83161421996
+Placentia-Yorba Linda Unified,Yorba Linda High,19900 Bastanchury Road Yorba Linda CA 92886-8417,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.8997731,-117.8103675
+Placentia-Yorba Linda Unified,Yorba Linda Middle,4777 Casa Loma Avenue Yorba Linda CA 92886-3399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.891485,-117.824211

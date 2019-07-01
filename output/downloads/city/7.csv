@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Napa Valley Unified,American Canyon High,3000 Newell Drive American Canyon CA 94503-1279,NA,NA,FALSE,tested,American Canyon,Napa County,38.173897,-122.2426785
+Napa Valley Unified,American Canyon Middle,300 Benton Way American Canyon CA 94589-4254,NA,NA,FALSE,tested,American Canyon,Napa County,38.169874,-122.267233
+Napa Valley Unified,Canyon Oaks Elementary,475 Silver Oak Trail American Canyon CA 94503-3190,NA,NA,FALSE,tested,American Canyon,Napa County,38.1683389387755,-122.244565163265
+Napa Valley Unified,Donaldson Way Elementary,430 Donaldson Way American Canyon CA 94589-1130,NA,NA,FALSE,tested,American Canyon,Napa County,38.172532,-122.2633551
+Napa Valley Unified,Napa Junction Elementary,300 Napa Junction Road American Canyon CA 94589-1223,NA,NA,FALSE,tested,American Canyon,Napa County,38.184992,-122.257822

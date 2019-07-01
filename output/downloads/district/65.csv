@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Berryessa Union Elementary,Berryessa Union Elementary,1376 Piedmont Road San Jose CA 95132-2498,NA,NA,NA,not tested,San José,Santa Clara County,37.4038865686333,-121.848857562656
+Berryessa Union Elementary,Brooktree Elementary,1781 Olivetree Drive San Jose CA 95131-1933,NA,NA,FALSE,tested,San José,Santa Clara County,37.3981488309419,-121.87952144545
+Berryessa Union Elementary,Cherrywood Elementary,2550 Greengate Drive San Jose CA 95132-2699,NA,NA,FALSE,tested,San José,Santa Clara County,37.3945498945124,-121.865487866766
+Berryessa Union Elementary,Laneview Elementary,2095 Warmwood Lane San Jose CA 95132-1251,NA,NA,FALSE,tested,San José,Santa Clara County,37.4147862677546,-121.871069161996
+Berryessa Union Elementary,Majestic Way Elementary,1855 Majestic Way San Jose CA 95132-1940,NA,NA,FALSE,tested,San José,Santa Clara County,37.410621,-121.857291
+Berryessa Union Elementary,Morrill Middle,1970 Morrill Avenue San Jose CA 95132-1637,6,ppb,TRUE,tested,San José,Santa Clara County,37.4103443480929,-121.871074217822
+Berryessa Union Elementary,Noble Elementary,3466 Grossmont Drive San Jose CA 95132-3119,NA,NA,FALSE,tested,San José,Santa Clara County,37.39473525,-121.839507285802
+Berryessa Union Elementary,Northwood Elementary,2760 East Trimble Road San Jose CA 95132-1055,NA,NA,FALSE,tested,San José,Santa Clara County,37.3935813,-121.9194668
+Berryessa Union Elementary,Piedmont Middle,955 Piedmont Road San Jose CA 95132-2820,14,ppb,TRUE,tested,San José,Santa Clara County,37.39235425,-121.845639734138
+Berryessa Union Elementary,Ruskin Elementary,1401 Turlock Lane San Jose CA 95132-2347,NA,NA,FALSE,tested,San José,Santa Clara County,37.3999750471741,-121.855860117541
+Berryessa Union Elementary,Sierramont Middle,3155 Kimlee Drive San Jose CA 95132-3605,NA,NA,FALSE,tested,San José,Santa Clara County,37.40418645,-121.857058190189
+Berryessa Union Elementary,Summerdale Elementary,1100 Summerdale Drive San Jose CA 95132-2934,NA,NA,FALSE,tested,San José,Santa Clara County,37.39021535,-121.850836941873
+Berryessa Union Elementary,Toyon Elementary,995 Bard Street San Jose CA 95127-1103,NA,NA,FALSE,tested,San José,Santa Clara County,37.39026945,-121.838926427921
+Berryessa Union Elementary,Vinci Park Elementary,1311 Vinci Park Way San Jose CA 95131-2792,NA,NA,FALSE,tested,San José,Santa Clara County,37.3811918187553,-121.872889268528

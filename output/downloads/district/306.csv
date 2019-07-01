@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Healdsburg Unified,Fitch Mountain Elementary,565 Sanns Ln Healdsburg CA 95448-3521,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6231391990745,-122.862652061756
+Healdsburg Unified,Healdsburg Charter,400 First St. Healdsburg CA 95448-3939,NA,NA,NA,not tested,NA,NA,NA,NA
+Healdsburg Unified,Healdsburg Elementary,400 First Street Healdsburg CA 95448-3939,NA,NA,FALSE,tested,NA,NA,NA,NA
+Healdsburg Unified,Healdsburg High,1024 Prince Street Healdsburg CA 95448-3449,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6175697,-122.8684352
+Healdsburg Unified,Healdsburg Junior High,315 Grant Street Healdsburg CA 95448-3921,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6159210881968,-122.866086429635
+Healdsburg Unified,Marce Becerra Academy,1024 Prince St Healdsburg CA 95448-3449,NA,NA,NA,not tested,Healdsburg,Sonoma County,38.6175697,-122.8684352

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain Valley Unified,Alta Vista High School,1325 Bryant Ave. Mountain View CA 94040,NA,NA,NA,not tested,Mountain View,Santa Clara County,37.3604236,-122.063647948218
+Mountain Valley Unified,Hayfork Elementary,6930 State Highway 3 Hayfork CA 96041-0070,10.365,ppb,TRUE,tested,NA,NA,NA,NA
+Mountain Valley Unified,Hayfork High,231 Oak Street Hayfork CA 96041-0010,NA,NA,FALSE,tested,NA,NA,NA,NA

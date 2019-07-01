@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Antelope Elementary,Antelope Elementary,22630 Antelope Blvd Red Bluff CA 96080-8871,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1858278032787,-122.195512442623
+Red Bluff Union Elementary,Bidwell Elementary,1256 Walnut Street Red Bluff CA 96080-3603,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1730252222222,-122.246483777778
+Red Bluff Union Elementary,Jackson Heights Elementary,225 South Jackson Street Red Bluff CA 96080-3917,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1674529534884,-122.237722860465
+Tehama County Department of Education,Lincoln Street,1125 Lincoln Street Red Bluff CA 96080,NA,NA,NA,not tested,Red Bluff,Tehama County,40.177894030303,-122.244565090909
+Red Bluff Union Elementary,Red Bluff Community Day K-5,695 Kimball Rd Red Bluff CA 96080-4447,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672
+Red Bluff Joint Union High,Red Bluff High,1260 Union Street Red Bluff CA 96080-3121,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.180248,-122.239456
+Red Bluff Joint Union High,Salisbury High (Continuation),1050 Kimball Rd Red Bluff CA 96080-2502,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1574053695484,-122.240512772708
+Tehama County ROP,Tehama County ROP,1135 Lincoln Street Red Bluff CA 96080-3125,NA,NA,NA,not tested,Red Bluff,Tehama County,40.1779286262626,-122.244595545455
+Tehama County Department of Education,Tehama County Special Education,900 Palm Street Red Bluff CA 96080-2626,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.181789,-122.249249
+Red Bluff Union Elementary,Vista Preparatory Academy,1770 South Jackson Street Red Bluff CA 96080-4505,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.157302,-122.237908
+Red Bluff Union Elementary,William M. Metteer Elementary,695 Kimball Road Red Bluff CA 96080-4901,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672

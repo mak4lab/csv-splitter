@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Plumas Unified,Chester Elementary,158 Aspen Street Chester CA 96020-0826,NA,NA,NA,not tested,NA,Plumas County,40.3063913693963,-121.231155217572
+Plumas Unified,Greenville Junior/Senior High,117 Grand Street Greenville CA 95947-9630,NA,NA,FALSE,tested,NA,Plumas County,40.1396623402172,-120.945768903102
+Plumas Unified,Indian Valley Elementary,225 Grand Street Greenville CA 95947,NA,NA,FALSE,tested,NA,Plumas County,40.1406206834719,-120.945950218856
+Plumas Unified,Quincy Elementary,246 Alder Street Quincy CA 95971-9405,NA,NA,NA,not tested,NA,Plumas County,39.933397935216,-120.945912338304
+Plumas Unified,Quincy Junior/Senior High,6 Quincy Junction Road Quincy CA 95971-9112,NA,NA,NA,not tested,NA,Plumas County,39.9389602880096,-120.937698662952

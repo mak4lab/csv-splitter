@@ -1,0 +1,34 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Capistrano Unified,Bathgate Elementary,27642 Napoli Way Mission Viejo CA 92692-5276,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.577091547462,-117.644908960537
+Capistrano Unified,Carl Hankey Elementary,27252 Nubles Street Mission Viejo CA 92692-3433,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.570952175113,-117.655077662961
+Capistrano Unified,Castille Elementary,24042 Via la Coruna Mission Viejo CA 92691-3529,11,ppb,TRUE,tested,Mission Viejo,Orange County,33.6143,-117.659028
+Saddleback Valley Unified,Cordillera Elem,"25952 Cordillera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
+Saddleback Valley Unified,Cordillera Elementary,25952 Cordillera Drive Mission Viejo CA 92691-4099,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
+Saddleback Valley Unified,De Portola Elem.,"27031 Preciados Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.601471,-117.659954
+Saddleback Valley Unified,De Portola Elementary,27031 Preciados Drive Mission Viejo CA 92691-5214,NA,NA,NA,not tested,Mission Viejo,Orange County,33.601471,-117.659954
+Saddleback Valley Unified,Del Cerro Elementary,24382 Regina Street Mission Viejo CA 92691-4735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6084173908379,-117.681349507824
+Saddleback Valley Unified School Distict,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6084173908379,-117.681349507824
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,Del Lago Elementary,27181 Entidad Street Mission Viejo CA 92691-1029,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,Esperanza,25121 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597054,-117.667657
+Saddleback Valley Unified,Esperanza Sp. Educ.,"25121 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597054,-117.667657
+Saddleback Valley Unified,Glen Yermo Elementary,26400 Trabuco Road Mission Viejo CA 92691-1999,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
+Saddleback Valley Unified,Glen Yermo.,"26400 Trabuco Rd, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
+Saddleback Valley Unified,La Paz Inter.,"25151 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
+Saddleback Valley Unified,La Paz Intermediate,25151 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
+Saddleback Valley Unified,La Tierra Early Childhood Center,24150 Lindley Street Mission Viejo CA 92691-3719,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6115813348237,-117.691371562216
+Saddleback Valley Unified School Distict,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6115813348237,-117.691371562216
+Saddleback Valley Unified,Linda Vista Elem.,"25222 Pericia Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5964418124717,-117.666714603857
+Saddleback Valley Unified,Los Alisos Intermediate,25171 Moor Avenue Mission Viejo CA 92691-3099,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.615852,-117.691308
+Saddleback Valley Unified School Distict,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.615852,-117.691308
+Saddleback Valley Unified,Mission Viejo High,25025 Chrisanta Drive Mission Viejo CA 92691-5326,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5994021,-117.67185979999999
+Saddleback Valley Unified,Mission Viejo HS,"25025 Chrisanta Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5994021,-117.67185979999999
+Saddleback Valley Unified,Montevideo Elem.,"24071 Carrillo, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
+Saddleback Valley Unified,Montevideo Elementary,24071 Carrillo Drive Mission Viejo CA 92691-4222,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
+Capistrano Unified,Newhart Middle,25001 Veterans Way Mission Viejo CA 92692-2735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.60101,-117.65098
+Capistrano Unified,Oxford Preparatory Academy - South Orange County,23000 Via Santa Maria Mission Viejo CA 92692-1827,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.628112,-117.65983
+Saddleback Valley Unified,Silverado Cont. HS,"25632 Peter A Hartman Way, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6209966339304,-117.68340302806
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
+Capistrano Unified,Viejo Elementary,26782 Via Grande Mission Viejo CA 92691-6133,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.5715429823452,-117.668816326834

@@ -1,0 +1,20 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Mateo-Foster City,Abbott Middle,600 36th Avenue San Mateo CA 94403-4101,NA,NA,NA,not tested,San Mateo,San Mateo County,37.529614,-122.308837
+San Mateo-Foster City,Bayside S.T.E.M. ACADEMY,2025 Kehoe Avenue San Mateo CA 94403-1061,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5654690942308,-122.295894165394
+San Mateo-Foster City,Beresford Elementary,300 28th Avenue San Mateo CA 94403-2405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.539123,-122.309286
+San Mateo-Foster City,Borel Middle,425 Barneson Avenue San Mateo CA 94402-3405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5503207843887,-122.322242562957
+Private,Compass High School,2040 Pioneer Court San Mateo CA 94440,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5470418901249,-122.312151291915
+San Mateo-Foster City,Fiesta Gardens International Elementary,1001 Bermuda Drive San Mateo CA 94403-1508,NA,NA,NA,not tested,San Mateo,San Mateo County,37.551273,-122.2994
+San Mateo County Office of Education,Gateway Center,35 Tower Road San Mateo CA 94402-4000,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5156188,-122.3341154
+San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.5322051997906,-122.315061292243
+Private,Junipero Serra High School,451 West 20th Avenue San Mateo CA 94403,5.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5469005,-122.3152434
+San Mateo-Foster City,Laurel Elementary,316 36th Avenue San Mateo CA 94403-4204,NA,NA,NA,not tested,San Mateo,San Mateo County,37.531728940968,-122.303705527655
+San Mateo-Foster City,LEAD Elementary,949 Ocean View Avenue San Mateo CA 94401-3462,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5704009323959,-122.303584289886
+San Mateo-Foster City,Meadow Heights Elementary,2619 Dolores Street San Mateo CA 94403-2644,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5390059042014,-122.317126387828
+San Mateo-Foster City,North Shoreview Montessori Elementary,1301 Cypress Avenue San Mateo CA 94401-2007,NA,NA,NA,not tested,San Mateo,San Mateo County,37.574523,-122.316377
+San Mateo-Foster City,Parkside Elementary,1685 Eisenhower Street San Mateo CA 94402-1045,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5603261939917,-122.296829824551
+San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5760917529282,-122.329722844373
+San Mateo-Foster City,San Mateo Park Elementary,161 Clark Drive San Mateo CA 94402-1002,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5698423554974,-122.342617942306
+Private,St. Timothy School,1515 Dolan Avenue San Mateo CA 94401,9.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5753090109283,-122.31054286979
+San Mateo-Foster City,Sunnybrae Elementary,1031 South Delaware Street San Mateo CA 94402-1855,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5482289,-122.3047813
+Private,The Carey School,2101 Alameda de las Pulgas San Mateo CA 94403,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5351825,-122.3104198

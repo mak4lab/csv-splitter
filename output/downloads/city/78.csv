@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Capistrano Unified,Palisades Elementary,26462 Via Sacramento Capistrano Beach CA 92624-1399,NA,NA,FALSE,tested,Dana Point,Orange County,33.4611535527427,-117.667986394321
+Capistrano Unified,Richard Henry Dana Elementary,24242 La Cresta Dr Dana Point CA 92629-2561,NA,NA,FALSE,tested,Dana Point,Orange County,33.4691136897333,-117.706106334554
+Capistrano Unified,Richard Henry Dana Exceptional Needs,24242 La Cresta Drive Dana Point CA 92629-2561,8.5,ppb,TRUE,tested,Dana Point,Orange County,33.4691136897333,-117.706106334554

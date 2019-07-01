@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South Bay Union Elementary,Imperial Beach Charter School West Campus,525 3rd Street Imperial Beach CA 91932,6.6,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5867241822015,-117.127307529124
+South Bay Union Elementary,Pine Hill Elementary,5230 Vance Avenue Eureka CA 95503-6351,NA,NA,FALSE,tested,NA,NA,NA,NA
+South Bay Union Elementary,South Bay Elementary,6077 Loma Avenue Eureka CA 95503-6869,NA,NA,FALSE,tested,NA,NA,NA,NA

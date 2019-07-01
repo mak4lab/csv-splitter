@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain View-Los Altos Union High,Alta Vista High,1325 Bryant Avenue Mountain View CA 94040-4527,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.3604236,-122.063647948218
+Mountain View-Los Altos Union High,Los Altos High,201 Almond Avenue Los Altos CA 94022-2206,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385071,-122.109264
+Mountain View-Los Altos Union High,Mountain View High,3535 Truman Avenue Mountain View CA 94040-4559,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.3586027,-122.06715676878

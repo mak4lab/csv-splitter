@@ -1,0 +1,31 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Berkeley Unified,Berkeley Adult,1701 San Pablo Avenue Berkeley CA 94702-1709,NA,NA,NA,not tested,Berkeley,Alameda County,37.8646775,-122.2907955
+Berkeley Unified,Berkeley Arts Magnet at Whittier,1645 Milvia Street Berkeley CA 94709-2073,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8768906771218,-122.271214400953
+Berkeley Unified,Berkeley High,1980 Allston Way Berkeley CA 94704-1463,6.75,ppb,TRUE,tested,Berkeley,Alameda County,37.8689254380936,-122.270983757155
+Berkeley Unified,Children's Community Center,1140 Walnut Street Berkeley CA 94707,NA,NA,NA,not tested,Berkeley,Alameda County,37.8872174167537,-122.269240453274
+Albany City Unified,Cornell Elementary,920 Talbot Avenue Albany CA 94706-2020,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8897097992548,-122.295256152722
+Berkeley Unified,Cragmont Elementary,830 Regal Road Berkeley CA 94708-1308,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8941866670428,-122.267814654912
+Private,Ecole Bilingue De Berkeley,1009 Heinz Avenue Berkeley CA 94710,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8540756077075,-122.289470655439
+Berkeley Unified,Emerson Elementary,2800 Forest Avenue Berkeley CA 94705-1309,NA,NA,FALSE,tested,Berkeley,Alameda County,37.861439,-122.251019
+Berkeley Unified,Franklin Preschool,1460 Eighth Street Berkeley  CA 94710,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8763716406494,-122.298230934903
+Berkeley Unified,Hopkins Preschool,1810 Hopkins Street Berkeley  CA 94707,5.550000000000001,ppb,TRUE,tested,Berkeley,Alameda County,37.8842734,-122.276239
+Berkeley Unified,Jefferson Elementary,1400 Ada Street Berkeley CA 94702-1217,6.65,ppb,TRUE,tested,Berkeley,Alameda County,37.878906,-122.285146
+Berkeley Unified,John Muir Elementary,2955 Claremont Avenue Berkeley CA 94705-2449,8.1,ppb,TRUE,tested,Berkeley,Alameda County,37.857296,-122.245898
+Berkeley Unified,King Child Development,1939 Ward Street Berkeley CA 94703,6.2,ppb,TRUE,tested,Berkeley,Alameda County,37.8590402906214,-122.270700705245
+Berkeley Unified,Leconte Elementary,2241 Russell Street Berkeley CA 94705-1029,5.7,ppb,TRUE,tested,Berkeley,Alameda County,37.8573674146861,-122.262402670742
+Berkeley Unified,Longfellow Arts and Technology Middle,1500 Derby Street Berkeley CA 94703-1817,7.1,ppb,TRUE,tested,Berkeley,Alameda County,37.85865,-122.280211
+Berkeley Unified,Malcolm X Elementary,1731 Prince Street Berkeley CA 94703-2464,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8522196772718,-122.273709375348
+Berkeley Unified,Martin Luther King Middle,1781 Rose Street Berkeley CA 94703-1048,NA,NA,FALSE,tested,Berkeley,Alameda County,37.88241675,-122.27770699029
+Berkeley Unified,Oxford Elementary,1130 Oxford Street Berkeley CA 94707-2624,NA,NA,FALSE,tested,Berkeley,Alameda County,37.887679,-122.26825
+Berkeley Unified,REALM Charter High,2023 Eighth St Berkeley CA 94710-2026,NA,NA,NA,not tested,Berkeley,Alameda County,37.8680668909916,-122.295318764572
+Berkeley Unified,REALM Charter Middle,2023 Eighth Street Berkeley CA 94710-2026,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8680668909916,-122.295318764572
+Berkeley Unified,Rosa Parks Environmental Science Magnet,920 Allston Way Berkeley CA 94710-2389,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8651487,-122.29501608554
+Private,School of the Madeleine,1225 Milvia Street Berkeley CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8848195322467,-122.272102574175
+Private,The Academy,2722 Benvenue Avenue Berkeley CA 94705,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8612697323162,-122.254836636882
+Private,The Berkeley School,1310 University Avenue Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.86937235,-122.286245724457
+Private,The Berkeley School Early Childhood Campus,2030 Francisco St. Berkeley  CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.87537435,-122.269468170856
+Private,The Crowden School,1475 Rose Street Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8791667,-122.283581358633
+Berkeley Unified,Thousand Oaks Elementary,840 Colusa Avenue Berkeley CA 94707-1858,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8930067433931,-122.280269627218
+Berkeley Unified,Torins School,2164 Oregon Street Berkeley CA 94705,NA,NA,NA,not tested,Berkeley,Alameda County,37.8578092964849,-122.264866445229
+Berkeley Unified,University Child Education Center,2100 Browning St Berkeley CA 94702,NA,NA,NA,not tested,Berkeley,Alameda County,37.8686549,-122.28892205732
+Berkeley Unified,Willard Middle,2425 Stuart Street Berkeley CA 94705-1209,7.25,ppb,TRUE,tested,Berkeley,Alameda County,37.8597077218746,-122.258590090367

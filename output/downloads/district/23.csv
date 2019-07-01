@@ -1,0 +1,20 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Anaheim Union High,Anaheim High,811 West Lincoln Avenue Anaheim CA 92805-2499,5.9,ppb,TRUE,tested,Anaheim,Orange County,33.83503095,-117.925578408594
+Anaheim Union High,Ball Junior High,1500 West Ball Road Anaheim CA 92802-1626,6.6,ppb,TRUE,tested,Anaheim,Orange County,33.817915,-117.933481
+Anaheim Union High,Brookhurst Junior High,601 North Brookhurst Avenue Anaheim CA 92801-3879,NA,NA,FALSE,tested,NA,NA,NA,NA
+Anaheim Union High,Cypress High,9801 Valley View Street Cypress CA 90630-3994,6,ppb,TRUE,tested,Cypress,Orange County,33.819547,-118.028229
+Anaheim Union High,Dale Junior High,900 South Dale Street Anaheim CA 92804-4097,NA,NA,FALSE,tested,NA,NA,NA,NA
+Anaheim Union High,Gilbert High (Continuation),1800 Ball Road Anaheim CA 92804-5516,NA,NA,FALSE,tested,Anaheim,Orange County,33.8176576,-117.9682551
+Anaheim Union High,Hope,7901 Knott Avenue Buena Park CA 90620-2469,7.3,ppb,TRUE,tested,Buena Park,Orange County,33.8614003,-118.0111968
+Anaheim Union High,John F. Kennedy High,8281 Walker Street La Palma CA 90623-2126,NA,NA,FALSE,tested,La Palma,Orange County,33.8420971136099,-118.037233469291
+Anaheim Union High,Katella High,2200 East Wagner Avenue Anaheim CA 92806-4999,NA,NA,FALSE,tested,Anaheim,Orange County,33.825305,-117.889128166667
+Anaheim Union High,Lexington Junior High,4351 Orange Avenue Cypress CA 90630-2799,NA,NA,FALSE,tested,Cypress,Orange County,33.8242268826335,-118.057046037223
+Anaheim Union High,Loara High,1765 West Cerritos Avenue Anaheim CA 92804-6198,NA,NA,FALSE,tested,Anaheim,Orange County,33.8101086,-117.9071353
+Anaheim Union High,Magnolia High,2450 West Ball Road Anaheim CA 92804-5298,NA,NA,FALSE,tested,Anaheim,Orange County,33.8177234223457,-117.970431713139
+Anaheim Union High,Orangeview Junior High,3715 West Orange Avenue Anaheim CA 92804-2899,5.2,ppb,TRUE,tested,Anaheim,Orange County,33.82644715,-118.013899235258
+Anaheim Union High,Oxford Academy,5172 Orange Avenue Cypress CA 90630-2921,NA,NA,FALSE,tested,Cypress,Orange County,33.82227465,-118.04254195929
+Anaheim Union High,Savanna High,301 North Gilbert Street Anaheim CA 92801-5099,NA,NA,FALSE,tested,Anaheim,Orange County,33.835376,-117.967782
+Anaheim Union High,South Junior High,2320 East South Street Anaheim CA 92806-4599,NA,NA,FALSE,tested,Anaheim,Orange County,33.8325773891954,-117.884507487358
+Anaheim Union High,Sycamore Junior High,1801 East Sycamore Street Anaheim CA 92805-3486,NA,NA,FALSE,tested,Anaheim,Orange County,33.84600545,-117.893652800385
+Anaheim Union High,Walker Junior High,8132 Walker Street La Palma CA 90623-2097,9.9,ppb,TRUE,tested,La Palma,Orange County,33.8430906752175,-118.037044573147
+Anaheim Union High,Western High,501 South Western Avenue Anaheim CA 92804-1699,11,ppb,TRUE,tested,Anaheim,Orange County,33.824514,-118.002234

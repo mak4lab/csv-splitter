@@ -1,0 +1,50 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Clovis Unified,Alta Sierra Intermediate,380 West Teague Avenue Clovis CA 93611-8332,NA,NA,FALSE,tested,Clovis,Fresno County,36.8599167337821,-119.718405204131
+Clovis Unified,Buchanan High,1560 North Minnewawa Avenue Clovis CA 93611-7698,NA,NA,FALSE,tested,Clovis,Fresno County,36.8468604,-119.7110909
+Clovis Unified,Bud Rank Elementary,3650 Powers Avenue Clovis CA 93619-5900,NA,NA,FALSE,tested,Clovis,Fresno County,36.8627185948239,-119.641996679759
+Clovis Unified,Cedarwood Elementary,2851 Palo Alto Avenue Clovis CA 93611-6831,NA,NA,FALSE,tested,Clovis,Fresno County,36.8342590538382,-119.66218458364
+Clovis Unified,Center for Advanced Research & Technology,2555 Clovis Ave. Clovis CA 93612,NA,NA,FALSE,tested,Clovis,Fresno County,36.8039640439698,-119.700176251805
+Clovis Unified,Century Elementary,965 North Sunnyside Avenue Clovis CA 93611-8171,NA,NA,FALSE,tested,Clovis,Fresno County,36.8181449504339,-119.690814953157
+Clovis Unified,Clark Intermediate,902 Fifth Street Clovis CA 93612-1311,NA,NA,FALSE,tested,NA,NA,NA,NA
+Clovis Unified,Clovis Community Day Elementary,1665 David East Cook Way Clovis CA 93611-0581,NA,NA,FALSE,tested,Clovis,Fresno County,36.8364409489826,-119.687772299436
+Clovis Unified,Clovis Community Day Secondary,1655 David East Cook Way Clovis CA 93611-0581,NA,NA,FALSE,tested,Clovis,Fresno County,36.8364393403843,-119.687887098431
+Clovis Unified,Clovis East High,2940 Leonard Avenue Clovis CA 93611-8474,NA,NA,FALSE,tested,NA,NA,NA,NA
+Clovis Unified,Clovis Elementary,1100 Armstrong Avenue Clovis CA 93611-7428,NA,NA,FALSE,tested,Clovis,Fresno County,36.817968,-119.673061
+Clovis Unified,Clovis High,1055 Fowler Avenue Clovis CA 93611-2062,9.7,ppb,TRUE,tested,Clovis,Fresno County,36.817204785116,-119.68205848564
+Clovis Unified,Clovis North High,2770 East International Avenue Fresno CA 93730-5400,NA,NA,FALSE,tested,Fresno,Fresno County,36.8896283,-119.7329452
+Clovis Unified,Clovis Online Charter,1655 David E Cook Way Clovis CA 93611-0581,7.9,ppb,TRUE,tested,Clovis,Fresno County,36.8364393403843,-119.687887098431
+Clovis Unified,Clovis West High,1070 East Teague Avenue Fresno CA 93720-1899,13,ppb,TRUE,tested,Clovis,Fresno County,36.8591244619029,-119.764895850876
+Clovis Unified,Cole Elementary,615 West Stuart Avenue Clovis CA 93612-0710,5.2,ppb,TRUE,tested,Clovis,Fresno County,36.824746667385,-119.723032500362
+Clovis Unified,Copper Hills Elementary,1881 East Plymouth Avenue Fresno CA 93720-4269,NA,NA,FALSE,tested,Fresno,Fresno County,36.8780008,-119.7467437
+Clovis Unified,Cox Elementary,2191 Sierra Avenue Clovis CA 93611-0659,NA,NA,FALSE,tested,Clovis,Fresno County,36.8303251816787,-119.673789819789
+Clovis Unified,Dry Creek Elementary,1273 North Armstrong Avenue Clovis CA 93619-4203,12,ppb,TRUE,tested,Clovis,Fresno County,36.8475696,-119.6750759
+Clovis Unified,Enterprise Alternative,1550 Herndon Avenue Clovis CA 93611-0569,NA,NA,NA,not tested,Clovis,Fresno County,36.8373882941176,-119.687550333333
+Clovis Unified,Fancher Creek Elementary,5948 East Tulare Avenue Fresno CA 93727-3575,NA,NA,FALSE,tested,Fresno,Fresno County,36.7434734897959,-119.683403979592
+Clovis Unified,Fort Washington Elementary,960 East Teague Avenue Fresno CA 93720-1704,NA,NA,FALSE,tested,Fresno,Fresno County,36.8592761211935,-119.766602724588
+Clovis Unified,Freedom Elementary,2955 Gettysburg Avenue Clovis CA 93611-3954,NA,NA,FALSE,tested,Clovis,Fresno County,36.8012385,-119.6979257
+Clovis Unified,Garfield Elementary,1315 North Peach Avenue Clovis CA 93611-8342,NA,NA,FALSE,tested,Clovis,Fresno County,36.8147242084486,-119.718747993772
+Clovis Unified,Gateway High (Continuation),1550 Herndon Ave. Clovis CA 93611-0598,NA,NA,FALSE,tested,Clovis,Fresno County,36.8373882941176,-119.687550333333
+Clovis Unified,Gettysburg Elementary,2100 Gettysburg Avenue Clovis CA 93611-5254,NA,NA,FALSE,tested,Clovis,Fresno County,36.801137,-119.675715
+Clovis Unified,Granite Ridge Intermediate,2770 East International Ave Fresno CA 93730-5400,NA,NA,FALSE,tested,Fresno,Fresno County,36.8896283,-119.7329452
+Clovis Unified,James S. Fugman Elementary,10825 N Cedar Ave Fresno CA 93730-3586,NA,NA,FALSE,tested,Fresno,Fresno County,36.8924450612245,-119.756516040816
+Clovis Unified,Jefferson Elementary,1880 Fowler Avenue Clovis CA 93611-3069,NA,NA,FALSE,tested,Clovis,Fresno County,36.8106966,-119.6820498
+Clovis Unified,Kastner Intermediate,7676 North First Street Fresno CA 93720-0953,NA,NA,FALSE,tested,Fresno,Fresno County,36.8461871,-119.7746833
+Clovis Unified,Liberty Elementary,1250 East Liberty Hill Drive Fresno CA 93720-4046,NA,NA,FALSE,tested,NA,NA,NA,NA
+Clovis Unified,Lincoln Elementary,774 East Alluvial Avenue Fresno CA 93720-2525,NA,NA,FALSE,tested,Fresno,Fresno County,36.8447861587595,-119.770801285685
+Clovis Unified,Maple Creek Elementary,2025 East Teague Avenue Fresno CA 93720-3942,NA,NA,FALSE,tested,Clovis,Fresno County,36.859260711901,-119.747032506563
+Clovis Unified,Miramonte Elementary,1590 Bellaire Avenue Clovis CA 93611-5103,8.9,ppb,TRUE,tested,Clovis,Fresno County,36.791243,-119.688150306122
+Clovis Unified,Mountain View Elementary,2002 East Alluvial Avenue Fresno CA 93720-0100,NA,NA,FALSE,tested,Fresno,Fresno County,36.8448839779841,-119.74757513254
+Clovis Unified,Nelson Elementary,1336 West Spruce Avenue Pinedale CA 93650-1037,NA,NA,NA,not tested,NA,NA,NA,NA
+Clovis Unified,Pinedale Elementary,7171 Sugar Pine Avenue Pinedale CA 93650-1223,NA,NA,NA,not tested,NA,NA,NA,NA
+Clovis Unified,Reagan Elementary,3701 Ashlan Avenue Clovis CA 93619-5227,NA,NA,FALSE,tested,Clovis,Fresno County,36.7938739,-119.6730864
+Clovis Unified,Red Bank Elementary,1454 Locan Avenue Clovis CA 93611-6901,7.5,ppb,TRUE,tested,Clovis,Fresno County,36.8011332,-119.6550367
+Clovis Unified,Reyburn Intermediate,2901 DeWolf Avenue Clovis CA 93611-5226,NA,NA,FALSE,tested,Clovis,Fresno County,36.8133294,-119.6460266
+Clovis Unified,Riverview Elementary,2491 East Behymer Avenue Fresno CA 93720-5419,NA,NA,FALSE,tested,Fresno,Fresno County,36.8811868,-119.7476329
+Clovis Unified,Roger S. Oraze Elementary,3468 North Armstrong Avenue Fresno CA 93727-1456,NA,NA,FALSE,tested,Fresno,Fresno County,36.7449032,-119.6730608
+Clovis Unified,Sierra Vista Elementary,510 Barstow Avenue Clovis CA 93612-2228,NA,NA,FALSE,tested,Clovis,Fresno County,36.8156729417296,-119.703716151842
+Clovis Unified,Tarpey Elementary,2700 Minnewawa Avenue Clovis CA 93612-4306,NA,NA,FALSE,tested,Clovis,Fresno County,36.8023965665322,-119.709257835603
+Clovis Unified,Temperance-Kutner Elementary,1448 North Armstrong Avenue Fresno CA 93727-2803,NA,NA,FALSE,tested,Fresno,Fresno County,36.7566404091477,-119.672949452456
+Clovis Unified,Valley Oak Elementary,465 East Chaplain Drive Fresno CA 93720-1273,NA,NA,FALSE,tested,NA,NA,NA,NA
+Clovis Unified,Virginia R. Borris Elementary,7071 E. Clinton Avenue Fresno CA 93727,NA,NA,FALSE,tested,Fresno,Fresno County,36.772051,-119.662944185907
+Clovis Unified,Weldon Elementary,150 DeWitt Avenue Clovis CA 93612-1048,NA,NA,FALSE,tested,Clovis,Fresno County,36.827765,-119.704539
+Clovis Unified,Woods (Harold L.) Elementary,700 Teague Avenue Clovis CA 93619-7544,NA,NA,FALSE,tested,Clovis,Fresno County,36.861206,-119.705015

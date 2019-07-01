@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Middletown Unified,Alphabet Soup Co op Preschool,21075 Bush St Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7540158547084,-122.61544250535
+Konocti Unified,Burns Valley,3620 Pine Street Clearlake CA 95422-6420,NA,NA,FALSE,tested,Clearlake,Lake County,38.960481,-122.645291
+Konocti Unified,Carle (William C.) High (Continuation),9345 Winchester Street Lower Lake CA 95457-0309,NA,NA,FALSE,tested,NA,Lake County,38.9149917774496,-122.603967835763
+Lakeport Unified,Clear Lake High,350 Lange Street Lakeport CA 95453-3247,NA,NA,FALSE,tested,Lakeport,Lake County,39.05933906124,-122.915309792594
+Lake County Office of Education,Clearlake Creativity,6945 Old Highway 53 Clearlake CA 95422-9381,5.5,ppb,TRUE,tested,Clearlake,Lake County,38.932341122058,-122.623898975444
+Middletown Unified,Early Connection Preschool,15846 Wardlaw ST Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156
+Konocti Unified,East Lake,13050 High Valley Road Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,NA,Lake County,39.028546,-122.67223
+Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,NA,NA,FALSE,tested,,Lake County,38.9756315770184,-122.829873880134
+Konocti Unified,Highlands Academy,13050 High Valley Rd Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,NA,Lake County,39.028546,-122.67223
+Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747317351595,-122.8188799155
+Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,NA,NA,FALSE,tested,,Lake County,38.975451,-122.831847
+Middletown Unified,Lake County International Charter,15850 Armstrong Street Middletown CA 95461,NA,NA,FALSE,tested,NA,Lake County,38.751383,-122.614553571429
+Lake County ROP,Lake County ROP,1152 South Main Street Lakeport CA 95453-5517,NA,NA,NA,not tested,Lakeport,Lake County,39.0345046486486,-122.915593972973
+Lakeport Unified,Lakeport Alternative (Home School),100 Lange Street Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Lakeport Unified,Lakeport Community Day,100 Lange Street B Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Lakeport Unified,Lakeport Elementary,150 Lange Street Lakeport CA 95453-3297,NA,NA,FALSE,tested,Lakeport,Lake County,39.0593453294016,-122.915729956463
+Konocti Unified,Lower Lake Elementary,9240 Lake Street Lower Lake CA 95457-0719,NA,NA,FALSE,tested,NA,Lake County,38.918346,-122.610154
+Lucerne Elementary,Lucerne Elementary,3351 Country Club Drive Lucerne CA 95458-1083,NA,NA,NA,not tested,NA,Lake County,39.0832956116681,-122.789107802658
+Middletown Unified,Middletown High,20932 Big Canyon Road B Middletown CA 95461-0338,NA,NA,FALSE,tested,,Lake County,38.7599979694006,-122.61521278122
+Middletown Unified,Minnie Cannon Elementary,15846 Wardlaw St. Middletown CA 95461-0338,NA,NA,FALSE,tested,NA,Lake County,38.7550966756973,-122.615924081156
+Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747340666694,-122.819469060212
+Lakeport Unified,Natural High (Continuation),100 Lange Street C Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,NA,NA,NA,not tested,Clearlake,Lake County,38.9720438600123,-122.6498879428
+Lakeport Unified,Terrace Middle,250 Lange Street Lakeport CA 95453-3230,NA,NA,FALSE,tested,Lakeport,Lake County,39.0593458391171,-122.915519807476
+Upper Lake Unified,Upper Lake Middle,725 Old Lucerne Road Upper Lake CA 95485-0036,8.4,ppb,TRUE,tested,NA,Lake County,39.1639360279534,-122.898101752077

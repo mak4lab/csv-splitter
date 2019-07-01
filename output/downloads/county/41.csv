@@ -1,0 +1,102 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Barbara Unified,Adams Elementary,2701 Las Positas Road Santa Barbara CA 93105-3739,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.432635,-119.734456
+Santa Barbara Unified,Adams Elementary School,"2701 Las Positas Rd, Santa Barbara, CA 93105",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.432635,-119.734456
+Santa Barbara Unified,Adelante Charter,1102 East Yanonali Street Santa Barbara CA 93103-3167,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4253495,-119.6793705
+Orcutt Union Elementary,Alice Shaw Elementary,759 Dahlia Place Santa Maria CA 93455-2931,NA,NA,FALSE,tested,NA,Santa Barbara County,34.8889583596503,-120.426051057142
+Carpinteria Unified,Aliso Elementary,4545 Carpinteria Avenue Carpinteria CA 93013-1811,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.401226,-119.526644
+Santa Barbara Unified,Alta Vista Alternative High,215 East Ortega St Santa Barbara CA 93101-1661,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4210731428571,-119.695609571429
+Santa Maria-Bonita,Alvin Elementary,301 East Alvin Avenue Santa Maria CA 93454-3703,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9610525,-120.43294599857
+Santa Maria-Bonita,Arellanes (Don Juan Bautista) Elementary,1890 Sandalwood Drive Santa Maria CA 93455-2846,NA,NA,FALSE,tested,NA,Santa Barbara County,34.8951542438499,-120.48073551832
+Santa Maria-Bonita,Arellanes Junior High,1890 Sandalwood Drive Santa Maria CA 93455-2846,NA,NA,NA,not tested,NA,Santa Barbara County,34.8951542438499,-120.48073551832
+Lompoc Unified,Arthur Hapgood Elementary,324 South A Street Lompoc CA 93438-8000,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634507377551,-120.449225010204
+Santa Maria-Bonita,Battles (Washington) Elementary,605 East Battles Road Santa Maria CA 93454-7211,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9314820612155,-120.428629003864
+Blochman Union Elementary,Benjamin Foxen Elementary,4949 Foxen Canyon Rd. Santa Maria CA 93454-9666,NA,NA,FALSE,tested,NA,Santa Barbara County,34.923294,-120.365326
+Goleta Union Elementary,Brandon Elementary,195 Brandon Drive Goleta CA 93117-1036,NA,NA,FALSE,tested,NA,Santa Barbara County,34.438716,-119.893538
+Santa Maria-Bonita,Bruce (Robert) Elementary,601 West Alvin Avenue Santa Maria CA 93458-3012,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9614031,-120.442883903974
+Carpinteria Unified,Canalino Elementary,1480 Linden Ave. Carpinteria CA 93013-1414,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.4045892608696,-119.515742043478
+Carpinteria Unified,Carpinteria Family,1480 Linden Avenue Carpinteria CA 93013-1414,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.4045892608696,-119.515742043478
+Carpinteria Unified,Carpinteria Middle,5351 Carpinteria Avenue Carpinteria CA 93013-2101,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.396138,-119.515725
+Carpinteria Unified,Carpinteria Senior High,4810 Foothill Road Carpinteria CA 93013-3084,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.411245,-119.516852
+Lompoc Unified,Clarence Ruth Elementary,501 North W Street Lompoc CA 93436-5006,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.64702,-120.476586
+Santa Barbara Unified,Cleveland Elementary,123 Alameda Padre Serra Santa Barbara CA 93103-2899,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.428944,-119.671896
+Santa Barbara Unified,Cleveland Elementary School,"123 Alameda Padre Serra, Santa Barbara, CA 93103",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.428944,-119.671896
+Cold Spring Elementary,Cold Spring Elementary,2243 Sycamore Canyon Road Santa Barbara CA 93108-1909,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4415776892734,-119.663065228753
+College Elementary,College Elementary,3525 Pine St. Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,NA,Santa Barbara County,34.615702,-120.08251475
+Santa Barbara Unified,Dos Pueblos High School,"7266 Alameda Ave, Goleta, CA 93117",NA,NA,NA,exempt,NA,Santa Barbara County,34.4387449,-119.877513717822
+Santa Barbara Unified,Dos Pueblos Senior High,7266 Alameda Avenue Goleta CA 93117-1351,NA,NA,NA,not tested,NA,Santa Barbara County,34.4387449,-119.877513717822
+Santa Barbara County Office of Education,Dos Puertas School Juvenile Court School Santa Maria,4263 California Blvd Santa Maria CA 93455,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.8809298401803,-120.445778352663
+Lompoc Unified,El Camino Adult Education,320 North J Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6434506122449,-120.460331673469
+Goleta Union Elementary,El Camino Elementary,5020 San Simeon Drive Santa Barbara CA 93111-2129,NA,NA,FALSE,tested,NA,Santa Barbara County,34.440285,-119.796526
+Goleta Union Elementary,Ellwood Elementary,7686 Hollister Avenue Goleta CA 93117-2439,7.6,ppb,TRUE,tested,NA,Santa Barbara County,34.4306371,-119.896176139368
+Santa Maria Joint Union High,Ernest Righetti High,941 East Foster Road Santa Maria CA 93455-3318,NA,NA,NA,not tested,NA,Santa Barbara County,34.8831976,-120.421168
+Santa Maria-Bonita,Fesler (Isaac) Junior High,1100 East Fesler Street Santa Maria CA 93454-4611,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.956393,-120.418817
+Goleta Union Elementary,Foothill Elementary,711 Ribera Drive Santa Barbara CA 93111-1808,6.1,ppb,TRUE,tested,NA,Santa Barbara County,34.450589,-119.801037
+Santa Barbara Unified,Franklin Elementary,1111 East Mason Street Santa Barbara CA 93103-2723,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4252841,-119.6775134
+Santa Barbara Unified,Franklin Elementary School,"1111 E Mason St, Santa Barbara, CA 93103",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.4252841,-119.6775134
+Santa Barbara Unified,Goleta Valley Jr.High School,"6100 Stow Canyon Rd, Goleta, CA 93117",NA,NA,NA,exempt,NA,Santa Barbara County,34.450138,-119.835207
+Santa Barbara Unified,Goleta Valley Junior High,6100 Stow Canyon Rd Goleta CA 93117-1705,NA,NA,NA,not tested,NA,Santa Barbara County,34.450138,-119.835207
+Santa Barbara Unified,Harding Elementary School,"1625 Robbins St, Santa Barbara, CA 93101",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.416601,-119.721585
+Santa Barbara Unified,Harding University Partnership,1625 Robbins Street Santa Barbara CA 93101-4734,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.416601,-119.721585
+Goleta Union Elementary,Hollister Elementary,4950 Anita Lane Santa Barbara CA 93111-2704,7.8,ppb,TRUE,tested,NA,Santa Barbara County,34.432662,-119.794596
+Hope Elementary,Hope Elementary,3970-A La Colina Road Santa Barbara CA 93110-2597,NA,NA,FALSE,tested,Santa Barbara,Santa Barbara County,34.444618,-119.753927
+Santa Maria-Bonita,Jimenez Roberto and Dr Francisco Elementary School,1970 South Biscayne Street Santa Maria CA 93458,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9278579,-120.4524001
+Orcutt Union Elementary,Joe Nightingale Elementary,255 Winter Road Santa Maria CA 93455-2643,NA,NA,FALSE,tested,NA,Santa Barbara County,34.8982571111111,-120.435101555556
+Buellton Union Elementary,Jonata Middle,301 Second Street Buellton CA 93427-9476,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.618494,-120.200751
+Guadalupe Union Elementary,Kermit McKenzie Junior High,4710 West Main Street Guadalupe CA 93434-1788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9575929,-120.5772923
+Santa Maria-Bonita,Kunst (Tommie) Junior High,930 Hidden Pines Way Santa Maria CA 93458-1419,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.98597,-120.444016
+Lompoc Unified,La Canada Elementary,621 West North Avenue Lompoc CA 93436-4009,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6544388,-120.464849955139
+Santa Barbara Unified,La Colina Jr.High School,"4025 Foothill Rd, Santa Barbara, CA 93110",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.450109,-119.755705
+Santa Barbara Unified,La Colina Junior High,4025 Foothill Road Santa Barbara CA 93110-1298,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.450109,-119.755705
+Santa Barbara Unified,La Colina Junior High School,4025 Foothill Rd. Santa Barbara CA 93110,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.450109,-119.755705
+Santa Barbara Unified,La Cuesta Continuation High,710 Santa Barbara Street Santa Barbara CA 93101-2232,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.416837,-119.690343
+Santa Barbara Unified,La Cuesta Continuation High School,"710 Santa Barbara St, Santa Barbara, CA 93101",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.416837,-119.690343
+Santa Barbara Unified,La Cuesta Continuation High School,"710 Santa Barbara St, Santa Barbara, CA 93101",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.416837,-119.690343
+Santa Barbara Unified,La Cumbre Jr. High School,"2255 Modoc Rd, Santa Barbara, CA 93101",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.4247253877551,-119.725941857143
+Santa Barbara Unified,La Cumbre Junior High,2255 Modoc Road Santa Barbara CA 93101-3935,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4247253877551,-119.725941857143
+Lompoc Unified,La Honda STEAM Academy,1213 North A Street Lompoc CA 93436-3514,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6575864925971,-120.449069587279
+Goleta Union Elementary,La Patera Elementary,555 North La Patera Lane Goleta CA 93117-1507,NA,NA,FALSE,tested,NA,Santa Barbara County,34.447293,-119.84779
+Orcutt Union Elementary,Lakeview Junior High,3700 Orcutt Road Santa Maria CA 93455-2602,NA,NA,FALSE,tested,NA,Santa Barbara County,34.8923682272005,-120.436117048506
+Goleta Union Elementary,Learning Tree Preschool,401 North Fairview Avenue Goleta CA 93117-1732,NA,NA,NA,not tested,NA,Santa Barbara County,34.447178,-119.832137
+Lompoc Unified,Leonora Fillmore Elementary,1211 East Pine Avenue Lompoc CA 93436-4238,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6501380816327,-120.443602061224
+Lompoc Unified,Lompoc High,515 West College Avenue Lompoc CA 93436-4401,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6469522346939,-120.463328642857
+Lompoc Unified,Lompoc Valley Middle,234 South N Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.636766244898,-120.46544455102
+Los Olivos Elementary,Los Olivos Elementary,2540 Alamo Pintado Avenue Los Olivos CA 93441-0208,NA,NA,FALSE,tested,NA,Santa Barbara County,34.6653992882718,-120.111406421539
+Lompoc Unified,Maple High,4010 Jupiter Ave Lompoc CA 93436-1819,NA,NA,FALSE,tested,NA,Santa Barbara County,34.692937755102,-120.466706102041
+Guadalupe Union Elementary,Mary Buren Elementary,1050 Peralta Street Guadalupe CA 93434-0788,NA,NA,FALSE,tested,Guadalupe,Santa Barbara County,34.9703051632653,-120.567548897959
+Santa Barbara Unified,McKinley Elementary,350 Loma Alta Drive Santa Barbara CA 93109-2359,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.407539,-119.702844
+Santa Barbara Unified,McKinley Elementary School,"350 Loma Alta Dr, Santa Barbara, CA 93109",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.407539,-119.702844
+Lompoc Unified,Miguelito Elementary,1600 West Olive Avenue Lompoc CA 93436-6312,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634204,-120.479375
+Lompoc Unified,Mission Valley,1301 North A Street Lompoc CA 93436-3516,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6562208455715,-120.449069915881
+Santa Barbara Unified,Monroe Elementary,431 Flora Vista Drive Santa Barbara CA 93109-1101,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.404893,-119.731216
+Santa Barbara Unified,Monroe Elementary School,"431 Flora Vista Dr, Santa Barbara, CA 93109",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.404893,-119.731216
+Hope Elementary,Monte Vista Elementary,730 North Hope Avenue Santa Barbara CA 93110-1599,NA,NA,FALSE,tested,Santa Barbara,Santa Barbara County,34.450702,-119.745436
+Montecito Union Elementary,Montecito Union,385 San Ysidro Road Santa Barbara CA 93108-2131,NA,NA,NA,not tested,NA,Santa Barbara County,34.43281235,-119.632562336665
+Buellton Union Elementary,Oak Valley Elementary,595 Second Street Buellton CA 93427-6801,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.6208900408163,-120.207637857143
+Orcutt Union Elementary,Olga L. Reed Elementary,480 Centennial Street Los Alamos CA 93440-0318,NA,NA,FALSE,tested,NA,Santa Barbara County,34.7409009591837,-120.279663959184
+Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,930 West Rancho Verde Santa Maria CA 93458-8224,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.977159,-120.448125
+Santa Barbara Unified,Open Alternative,4025 Foothill Road B Santa Barbara CA 93110-1209,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.450109,-119.755705
+Santa Barbara Unified,Open Alternative School,4025 Foothill Rd. Santa Barbara CA 93110,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.450109,-119.755705
+Orcutt Union Elementary,Orcutt Academy Charter,500 Dyer Street Orcutt CA 93455-5300,NA,NA,FALSE,tested,NA,Santa Barbara County,34.862219,-120.442117
+Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9114784,-120.4348852
+Santa Barbara Unified,Peabody Charter,3018 Calle Noguera Santa Barbara CA 93105-2848,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.442284,-119.727802
+Santa Barbara Unified,Peabody Charter School,"3018 Calle Noguera, Santa Barbara, CA 93105",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.442284,-119.727802
+Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.960991,-120.400264
+Carpinteria Unified,Rincon High (Continuation),4698 Foothill Rd. Carpinteria CA 93013-3084,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.415962,-119.540284
+Santa Barbara Unified,Roosevelt Elementary,1990 Laguna Street Santa Barbara CA 93101-1098,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.436357,-119.709988
+Santa Barbara Unified,Roosevelt Elementary School,"1990 Laguna St, Santa Barbara, CA 93101",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.436357,-119.709988
+Santa Barbara Unified,San Marcos High School,"4750 Hollister Ave, Santa Barbara, CA 93110",NA,NA,NA,exempt,NA,Santa Barbara County,34.439121,-119.787276
+Santa Barbara Unified,San Marcos Senior High,4750 Hollister Avenue Santa Barbara CA 93110-1921,NA,NA,NA,not tested,NA,Santa Barbara County,34.439121,-119.787276
+Santa Barbara Unified,Santa Barbara Charter,6100 Stow Canyon Road Goleta CA 93117-1705,NA,NA,NA,not tested,NA,Santa Barbara County,34.450138,-119.835207
+Santa Barbara Unified,Santa Barbara Community Academy,850 Portesuello Avenue Santa Barbara CA 93101-2971,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.4216547397501,-119.729615480608
+Santa Barbara Unified,Santa Barbara High School,"700 E Anapamu St, Santa Barbara, CA 93103",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.42886025,-119.694634125377
+Santa Barbara Unified,Santa Barbara Jr.High School,"721 E Cota St, Santa Barbara, CA 93103",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.426904,-119.689267
+Santa Barbara Unified,Santa Barbara Junior High,721 East Cota Street Santa Barbara CA 93103-3184,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.426904,-119.689267
+Santa Barbara Unified,Santa Barbara Senior High,700 East Anapamu Street Santa Barbara CA 93103-2384,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.42886025,-119.694634125377
+Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9418775,-120.435834102041
+College Elementary,Santa Ynez Elementary,3325 Pine Street Santa Ynez CA 93460-0188,6.1,ppb,TRUE,tested,NA,Santa Barbara County,34.6158834397782,-120.088232020381
+College Elementary,Santa Ynez Valley Charter,3525 Pine Street Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,NA,Santa Barbara County,34.615702,-120.08251475
+Solvang Elementary,Solvang Elementary,565 Atterdag Road Solvang CA 93463-2690,NA,NA,NA,not tested,Solvang,Santa Barbara County,34.5968781388889,-120.141716888889
+Blochman Union Elementary,Trivium Charter,4949 Foxen Canyon Road Santa Maria CA 93454-9145,NA,NA,NA,not tested,NA,Santa Barbara County,34.923294,-120.365326
+Hope Elementary,Vieja Valley Elementary,434 Nogal Drive Santa Barbara CA 93110-2211,6.35,ppb,TRUE,tested,NA,Santa Barbara County,34.4353098154407,-119.769932855343
+Santa Barbara Unified,Washington Elementary,290 Lighthouse Road Santa Barbara CA 93109-1905,NA,NA,NA,not tested,Santa Barbara,Santa Barbara County,34.398019,-119.72089
+Santa Barbara Unified,Washington Elementary School,"290 Lighthouse Rd, Santa Barbara, CA 93109",NA,NA,NA,exempt,Santa Barbara,Santa Barbara County,34.398019,-119.72089

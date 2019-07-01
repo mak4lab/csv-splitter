@@ -1,0 +1,47 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Calexico Unified,Aurora High (Continuation),641 Rockwood Avenue Calexico CA 92231-2700,NA,NA,FALSE,tested,Calexico,Imperial County,32.6713362618608,-115.496373768096
+El Centro Elementary,Ballington Academy for the Arts and Sciences,1525 West Main Street El Centro CA 92243-2211,NA,NA,NA,not tested,El Centro,Imperial County,32.7927569663914,-115.571547780969
+Brawley Elementary,Barbara Worth Junior High,385 D Street Brawley CA 92227-1912,NA,NA,NA,not tested,Brawley,Imperial County,32.9809591710361,-115.53583500378
+Imperial Unified,Ben Hulse Elementary,303 South D Street Imperial CA 92251-1433,NA,NA,FALSE,tested,Imperial,Imperial County,32.8445602644213,-115.576181193624
+Calipatria Unified,Bill E. Young Jr. Middle,220 South International Boulevard Calipatria CA 92233-9724,NA,NA,FALSE,tested,Calipatria,Imperial County,33.1238961484056,-115.518987651003
+Calexico Unified,Blanche Charles Elementary,1201 Kloke Road Calexico CA 92231-3491,NA,NA,FALSE,tested,Calexico,Imperial County,32.682481,-115.516172
+Brawley Union High,Brawley High,480 North Imperial Avenue Brawley CA 92227-1625,NA,NA,NA,not tested,Brawley,Imperial County,32.9827985914802,-115.534860618547
+Calexico Unified,Calexico High,1030 Encinas Avenue Calexico CA 92231-2560,NA,NA,FALSE,tested,Calexico,Imperial County,32.6783359820348,-115.488417119769
+Calexico Unified,Calexico High School 9th Grade Campus,824 Blair Ave. Calexico CA 92231,NA,NA,FALSE,tested,Calexico,Imperial County,32.6732745714286,-115.490809357143
+Calipatria Unified,Calipatria High,601 West Main Street Calipatria CA 92233-9787,NA,NA,FALSE,tested,Calipatria,Imperial County,33.12568,-115.525085
+Central Union High,Central Union High School District Office,351 W Ross Ave El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7814068979592,-115.551371591837
+Calexico Unified,Cesar Chavez Elementary,1251 East Zapata Street Calexico CA 92231-9677,NA,NA,FALSE,tested,Calexico,Imperial County,32.689875549999996,-115.475886115476
+El Centro Elementary,De Anza Magnet,1530 South Waterman Avenue El Centro CA 92243-4142,NA,NA,FALSE,tested,El Centro,Imperial County,32.7784806,-115.575131392135
+Brawley Union High,Desert Valley High (Continuation),104 West Magnolia Street Brawley CA 92227-1583,NA,NA,NA,not tested,Brawley,Imperial County,32.9847237,-115.5506178
+Calexico Unified,Dool Elementary,800 Encinas Avenue Calexico CA 92231-2559,17,ppb,TRUE,tested,Calexico,Imperial County,32.67362625,-115.487217710714
+Calexico Unified,Enrique Camarena Jr. High,800 East Rivera Avenue Calexico CA 92231-3387,7.5,ppb,TRUE,tested,Calexico,Imperial County,32.6733258,-115.4740878
+Private,Faith Academy,320 South J Street Imperial CA 92251,NA,NA,FALSE,tested,Imperial,Imperial County,32.8446978379987,-115.56863012474
+Imperial Unified,Frank M. Wright Middle,885 North Imperial Avenue Imperial CA 92251-1105,NA,NA,FALSE,tested,El Centro,Imperial County,32.8003449653167,-115.569821002093
+Calipatria Unified,Fremont Primary,401 West Main Street Calipatria CA 92233-9787,NA,NA,FALSE,tested,Calipatria,Imperial County,33.1257743,-115.5190104
+Heber Elementary,Heber Elementary,1052 Heber Avenue Heber CA 92249-9759,NA,NA,FALSE,tested,NA,Imperial County,32.7270928129263,-115.530128866119
+El Centro Elementary,Hedrick Elementary School,550 South Waterman Avenue El Centro CA 92243-3139,NA,NA,NA,not tested,El Centro,Imperial County,32.787992,-115.575492739455
+Holtville Unified,Holtville High,755 Olive Avenue Holtville CA 92250-1015,NA,NA,NA,not tested,Holtville,Imperial County,32.8156992438655,-115.38525772049
+Holtville Unified,Holtville Junior High,800 Beale Avenue Holtville CA 92250-1404,NA,NA,NA,not tested,Holtville,Imperial County,32.816697,-115.370178
+El Centro Elementary,Home School Science Center,2370 W Main St El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7929361598722,-115.582206349858
+El Centro Elementary,Imagine Schools at Imperial Valley,1150 North Imperial Avenue El Centro CA 92243-1740,NA,NA,NA,not tested,El Centro,Imperial County,32.8031178227687,-115.569767647473
+Imperial Unified,Imperial Ave. Holbrook High,322 North Imperial Avenue Imperial CA 92251-1267,NA,NA,FALSE,tested,Imperial,Imperial County,32.8498214503752,-115.56987315097
+Private,Imperial County Office of Education,1398 Sperber RD El Centro CA 92243,NA,NA,NA,not tested,NA,Imperial County,32.751406,-115.564513
+Imperial Unified,Imperial High,517 West Barioni Boulevard Imperial CA 92251-1452,NA,NA,NA,not tested,Imperial,Imperial County,32.8474022142857,-115.575154928571
+Brawley Elementary,J. W. Oakley Elementary,1401 B Street Brawley CA 92227-1912,NA,NA,NA,not tested,Brawley,Imperial County,32.9829812287151,-115.518811385989
+Calexico Unified,Kennedy Gardens Elementary,2300 Rockwood Avenue Calexico CA 92231-1726,NA,NA,FALSE,tested,Calexico,Imperial County,32.69368,-115.496166
+El Centro Elementary,Margaret Hedrick Elementary,550 South Waterman Avenue El Centro CA 92243,NA,NA,FALSE,tested,El Centro,Imperial County,32.787992,-115.575492739455
+El Centro Elementary,Martin Luther King Jr. Elementary,1950 Villa Avenue El Centro CA 92243-1268,NA,NA,FALSE,tested,El Centro,Imperial County,32.8048954,-115.57745426228
+McCabe Union Elementary,McCabe Elementary,701 West McCabe Road El Centro CA 92243-9507,NA,NA,NA,not tested,NA,Imperial County,32.7525621080984,-115.595157938775
+Meadows Union Elementary,Meadows Elementary,2059 Bowker Road El Centro CA 92243-9724,NA,NA,NA,not tested,NA,Imperial County,32.8013865868958,-115.473866461193
+Brawley Elementary,Miguel Hidalgo Elementary,615 South Cesar Chavez Street Brawley CA 92227-1912,NA,NA,NA,not tested,Brawley,Imperial County,32.97280675,-115.526471
+Brawley Elementary,Myron D. Witter Elementary,150 K Street Brawley CA 92227-1912,NA,NA,NA,not tested,Brawley,Imperial County,32.9730349183673,-115.54052873469401
+Brawley Elementary,Phil D. Swing Elementary,245 West A Street Brawley CA 92227-1912,NA,NA,NA,not tested,Brawley,Imperial County,32.9842481020408,-115.544759285714
+Calexico Unified,Rockwood Elementary,1000 Rockwood Avenue Calexico CA 92231-2333,NA,NA,FALSE,tested,Calexico,Imperial County,32.677662,-115.496169
+Coachella Valley Unified,Sea View Elementary,2467 Sea Shore Avenue Salton City CA 92275,NA,NA,NA,not tested,NA,Imperial County,33.3071886812094,-115.957387934219
+Seeley Union Elementary,Seeley Elementary,1812 West Rio Vista Street Seeley CA 92273-0868,NA,NA,NA,not tested,NA,Imperial County,32.7945505536268,-115.693277303164
+Central Union High,Southwest High,2001 Ocotillo Drive El Centro CA 92243-9451,NA,NA,FALSE,tested,El Centro,Imperial County,32.777308,-115.578517
+Imperial Unified,T. L. Waggoner Elementary,627 Joshua Tree Street Imperial CA 92251-8917,NA,NA,FALSE,tested,Imperial,Imperial County,32.8221548753354,-115.591876095691
+Coachella Valley Unified,West Shores High,2381 Shore Hawk Avenue Salton City CA 92275,NA,NA,NA,not tested,NA,Imperial County,33.2995623037787,-115.956855300912
+Westmorland Union Elementary,Westmorland Elementary,200 South C Street Westmorland CA 92281-0088,NA,NA,NA,not tested,Westmorland,Imperial County,33.0351102,-115.6187034
+Calexico Unified,William Moreno Junior High,1202 Kloke Road Calexico CA 92231-3490,NA,NA,FALSE,tested,Calexico,Imperial County,32.6824727653061,-115.516171316327
+El Centro Elementary,Wilson Jr. High,600 South Wilson El Centro CA 92243-2799,16.5,ppb,TRUE,tested,El Centro,Imperial County,32.786875,-115.566859

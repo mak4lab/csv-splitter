@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Menlo Park City Elementary,Alto International School,475 Pope St. Menlo Park CA 94025,NA,NA,NA,not tested,NA,San Mateo County,37.4613707,-122.15711015
+Menlo Park City Elementary,Encinal Elementary,195 Encinal Avenue Atherton CA 94027-3102,NA,NA,NA,not tested,NA,San Mateo County,37.4649533219983,-122.185051324703
+Menlo Park City Elementary,Hillview Middle,1100 Elder Avenue Menlo Park CA 94025-5503,NA,NA,NA,not tested,NA,San Mateo County,37.439495,-122.197192
+Menlo Park City Elementary,Laurel Elementary,95 Edge Road Atherton CA 94027-2254,NA,NA,NA,not tested,NA,NA,NA,NA
+Menlo Park City Elementary,Laurel School Upper Campus,275 Elliott Dr. Menlo Park CA 94025,NA,NA,FALSE,tested,,San Mateo County,37.4598733,-122.149140530534
+Menlo Park City Elementary,Oak Knoll Elementary,1895 Oak Knoll Lane Menlo Park CA 94025-6120,NA,NA,NA,not tested,NA,San Mateo County,37.431257,-122.1929686

@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Lorenzo Unified,Arroyo High,15701 Lorenzo Avenue San Lorenzo CA 94580-1407,8.4,ppb,TRUE,tested,NA,Alameda County,37.6808071911724,-122.138406091486
+San Lorenzo Unified,Bay Elementary,2001 Bockman Road San Lorenzo CA 94580-1903,NA,NA,FALSE,tested,NA,Alameda County,37.6725764,-122.146889028229
+San Lorenzo Unified,Bohannon Middle,800 Bockman Road San Lorenzo CA 94580-2906,10,ppb,TRUE,tested,NA,Alameda County,37.669577,-122.12528529648
+San Lorenzo Unified,Colonial Acres Elementary,17115 Meekland Avenue Hayward CA 94541-1304,6.2,ppb,TRUE,tested,Hayward,Alameda County,37.6667862,-122.098816
+San Lorenzo Unified,Corvallis Elementary,14790 Corvallis Street San Leandro CA 94579-1174,7.9,ppb,TRUE,tested,San Leandro,Alameda County,37.6962579765223,-122.151655495355
+San Lorenzo Unified,Dayton Elementary,1500 Dayton Avenue San Leandro CA 94579-1528,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6879118,-122.157208539503
+San Lorenzo Unified,Del Rey Elementary,1510 Via Sonya San Lorenzo CA 94580-2760,9.2,ppb,TRUE,tested,NA,Alameda County,37.6686036938776,-122.136619591837
+San Lorenzo Unified,East Bay Arts High,20450 Royal Ave Hayward CA 94541-4712,13,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+San Lorenzo Unified,Edendale Middle,16160 Ashland Avenue San Lorenzo CA 94580-1116,NA,NA,FALSE,tested,NA,Alameda County,37.6867438,-122.1190571
+San Lorenzo Unified,Grant Elementary,879 Grant Avenue San Lorenzo CA 94580-1403,NA,NA,FALSE,tested,NA,Alameda County,37.6806104242424,-122.134784757576
+San Lorenzo Unified,Hesperian Elementary,620 Drew Street San Lorenzo CA 94580-1046,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6939872409369,-122.125209013431
+San Lorenzo Unified,Hillside Elementary,15980 Marcella Street San Leandro CA 94578-2122,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Unified,KIPP King Collegiate High,2005 Via Barrett San Lorenzo CA 94580-1315,NA,NA,FALSE,tested,NA,Alameda County,37.6743136695458,-122.149903615786
+San Lorenzo Unified,KIPP Summit Academy,2005 Via Barret  San Lorenzo CA 94580-1315,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Unified,Lorenzo Manor Elementary,18250 Bengal Street Hayward CA 94541-2202,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Unified,Royal Sunset (Continuation),20450 Royal Avenue Hayward CA 94541-4712,7,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+San Lorenzo Unified,San Lorenzo Adult,820 Bockman Road San Lorenzo CA 94580-2906,NA,NA,FALSE,tested,NA,Alameda County,37.669577,-122.127338394331
+San Lorenzo Unified,San Lorenzo High,50 East Lewelling Boulevard San Lorenzo CA 94580-1732,NA,NA,FALSE,tested,NA,Alameda County,37.6868072977121,-122.12211761055
+San Lorenzo Unified,San Lorenzo Unified Preschool,20450 Royal Hayward CA 94541-4712,NA,NA,FALSE,tested,Hayward,Alameda County,37.669376,-122.1146863
+San Lorenzo Unified,San Lorenzo Unified School District Central Kitchen,15510 Usher St San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6883928193278,-122.128644700144
+San Lorenzo Unified,Washington Manor Middle,1170 Fargo Avenue San Leandro CA 94579-1633,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6888269727242,-122.149191747777
+San Lorenzo Unified,Woodroe Woods,750  Fargo Ave San Leandro CA 94579,8.1,ppb,TRUE,tested,San Leandro,Alameda County,37.6878945519066,-122.141565700354

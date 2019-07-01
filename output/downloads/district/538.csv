@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ojai Unified,A Place to Grow,414 East Ojai Avenue Ojai CA 93023-2819,NA,NA,FALSE,tested,Ojai,Ventura County,34.4481193822162,-119.242814703966
+Ojai Unified,Chaparral High,114 North Montgomery Ojai CA 93023-2742,7.4,ppb,TRUE,tested,Ojai,Ventura County,34.4482304285714,-119.242924571429
+Ojai Unified,Matilija Junior High,703 El Paseo Road Ojai CA 93023-2499,NA,NA,FALSE,tested,Ojai,Ventura County,34.4459467916047,-119.255441241503
+Ojai Unified,Meiners Oaks Elementary,400 South Lomita Avenue Ojai CA 93023-2221,20.4,ppb,TRUE,tested,NA,NA,NA,NA
+Ojai Unified,Mira Monte Elementary,1216 Loma Drive Ojai CA 93023-3825,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ojai Unified,Nordhoff High,1401 Maricopa Highway Ojai CA 93023-3132,NA,NA,FALSE,tested,Ojai,Ventura County,34.44295,-119.267628
+Ojai Unified,San Antonio Elementary,650 Carne Road Ojai CA 93023-9375,11.2,ppb,TRUE,tested,NA,NA,NA,NA
+Ojai Unified,Summit Elementary,12525 Ojai/Santa Paula Road Ojai CA 93023-9396,NA,NA,NA,not tested,NA,Ventura County,34.4366534499561,-119.139278045839
+Ojai Unified,Topa Topa Elementary,916 Mountain View Avenue Ojai CA 93023-2032,NA,NA,FALSE,tested,Ojai,Ventura County,34.4575673061224,-119.236103040816

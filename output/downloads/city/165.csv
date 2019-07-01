@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lodi Unified,Beckman Elementary,2201 Scarborough Drive Lodi CA 95240-6600,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1056388499254,-121.280987619087
+Lodi Unified,Clyde W. Needham Elementary,420 South Pleasant Avenue Lodi CA 95240-4033,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1288469464714,-121.276654061615
+Lodi Unified,Erma B. Reese Elementary,1800 West Elm Street Lodi CA 95242-2917,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.136127,-121.295418
+Lodi Unified,George Washington Elementary,831 West Lockeford Street Lodi CA 95240-1633,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.13831125,-121.283615125
+Lodi Unified,Heritage Elementary,509 Eden Street Lodi CA 95240-4207,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.127998039986,-121.262547320238
+Lodi Unified,Joe Serna Jr. Charter,19 South Central Avenue Lodi CA 95240-3148,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.133635125,-121.265516875
+Lodi Unified,Lakewood Elementary,1100 North Ham Lane Lodi CA 95242-2322,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.14629,-121.288535
+Lodi Unified,Lawrence Elementary,721 Calaveras Street Lodi CA 95240-0628,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1428914630402,-121.265755981826
+Lodi Unified,Leroy Nichols Elementary,1301 South Crescent Avenue Lodi CA 95240-6001,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.117095,-121.2828063
+Lodi Unified,Liberty High,660 West Walnut Street Lodi CA 95240-3437,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1312522244898,-121.281446734694
+Lodi Unified,Lodi Adult,542 East Pine Street Lodi CA 95240-3034,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1340783877551,-121.262313316327
+Lodi Unified,Lodi High,3 South Pacific Avenue Lodi CA 95242-3020,8.8,ppb,TRUE,tested,Lodi,San Joaquin County,38.13305705,-121.292012344811
+Lodi Unified,Lodi Middle,945 South Ham Lane Lodi CA 95242-3822,5.6,ppb,TRUE,tested,Lodi,San Joaquin County,38.1221529543308,-121.288364551076
+Lodi Unified,Lois E. Borchardt Elementary,375 Culbertson Drive Lodi CA 95240-8873,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1033436003618,-121.264988911595
+Lodi Unified,Millswood Middle,233 North Mills Ave Lodi CA 95242-2954,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1379181973684,-121.297431157895
+Lodi Unified,Vinewood Elementary,1600 West Tokay Street Lodi CA 95242-3435,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.126334,-121.29345000000001
+Lodi Unified,Woodbridge,1290 Lilac Street Lodi CA 95242-9127,NA,NA,FALSE,tested,Lodi,San Joaquin County,38.1503371389826,-121.304734639655

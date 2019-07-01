@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,NA,NA,FALSE,tested,Lincoln,Placer County,38.9011082224863,-121.28363154388
+Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,NA,NA,NA,not tested,Lincoln,Placer County,38.9068283,-121.3175385
+Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,NA,NA,FALSE,tested,Lincoln,Placer County,38.8890128571168,-121.299255
+Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,NA,NA,FALSE,tested,Lincoln,Placer County,38.8782131355809,-121.304988705639
+Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,NA,NA,FALSE,tested,Lincoln,Placer County,38.8946961123375,-121.296516
+Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.8962611428571,-121.296731857143
+Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,NA,NA,FALSE,tested,Lincoln,Placer County,38.8462993609775,-121.268643319438
+Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,NA,NA,FALSE,tested,Lincoln,Placer County,38.8428995,-121.2856328

@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South Bay Union,Bayside Elementary,490 Emory Street Imperial Beach CA 91932-1524,7.3,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5882451702128,-117.113152
+South Bay Union,Central Elementary,1290 Ebony Avenue Imperial Beach CA 91932-2920,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.577586,-117.107706959184
+South Bay Union,Emory Elementary,1915 Coronado Avenue San Diego CA 92154-2021,NA,NA,FALSE,tested,San Diego,San Diego County,32.575662,-117.091608
+South Bay Union,Friendship School,601 Elm Ave Imperial Beach CA 91932,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.58003555,-117.120155137868
+South Bay Union,George Nicoloff Elementary,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,FALSE,tested,San Diego,San Diego County,32.5659912,-117.0667302
+South Bay Union,George Nicoloff North,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
+South Bay Union,George Nicoloff South,1777 Howard Ave San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
+South Bay Union,Godfrey G. Berry Elementary,2001 Rimbey Street San Diego CA 92154-3032,7.7,ppb,TRUE,tested,NA,NA,NA,NA
+South Bay Union,Howard Pence Elementary,877 Via Tonga Court San Diego CA 92154-2256,NA,NA,FALSE,tested,San Diego,San Diego County,32.578412,-117.062334
+South Bay Union,Imperial Beach Charter,650 Imperial Beach Boulevard Imperial Beach CA 91932-2706,12,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5764918727355,-117.119371152329
+South Bay Union,Nestor Language Academy Charter,1455 Hollister Street San Diego CA 92154-4063,7.3500000000000005,ppb,TRUE,tested,San Diego,San Diego County,32.570376,-117.08274
+South Bay Union,Oneonta Elementary,1311 Tenth Street Imperial Beach CA 91932-3403,NA,NA,FALSE,tested,NA,NA,NA,NA
+South Bay Union,Sunnyslope Elementary,2500 Elm Avenue San Diego CA 92154-1498,NA,NA,FALSE,tested,San Diego,San Diego County,32.581216,-117.079739
+South Bay Union,Teofilo Mendoza,2050 Coronado Avenue San Diego CA 92154-2034,NA,NA,FALSE,tested,San Diego,San Diego County,32.57814735,-117.089612872277
+South Bay Union,VIP Village Preschool,1001 Fern Avenue Imperial Beach CA 91932-3353,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5746400979038,-117.112139657091

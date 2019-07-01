@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Arcadia Unified,Arcadia Adult,150 South Third Ave. Arcadia CA 91006-3703,NA,NA,FALSE,tested,NA,NA,NA,NA
+Arcadia Unified,Arcadia High,180 Campus Drive Arcadia CA 91007-6958,6.3,ppb,TRUE,tested,Arcadia,Los Angeles County,34.1306772364865,-118.037144891892
+Arcadia Unified,Baldwin Stocker Elementary,422 West Lemon Avenue Arcadia CA 91007-6902,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.1181864736842,-118.046447052632
+Arcadia Unified,Camino Grove Elementary,700 Camino Grove Avenue Arcadia CA 91007-6902,NA,NA,FALSE,tested,NA,NA,NA,NA
+Arcadia Unified,First Avenue Middle,301 South First Avenue Arcadia CA 91006-3802,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.145538,-118.0284521
+Arcadia Unified,Foothills Middle,171 East Sycamore Avenue Arcadia CA 91006-2452,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.152928,-118.026811285714
+Arcadia Unified,Highland Oaks Elementary,10 Virginia Drive Arcadia CA 91006-1899,NA,NA,FALSE,tested,NA,NA,NA,NA
+Arcadia Unified,Holly Avenue Elementary,360 West Duarte Road Arcadia CA 91007-3097,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.1275154411765,-118.044394823529
+Arcadia Unified,Hugo Reid Elementary,1000 Hugo Reid Drive Arcadia CA 91007-6179,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.138056,-118.062791
+Arcadia Unified,Longley Way Elementary,2601 Longley Way Arcadia CA 91007-5099,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.109195,-118.041087
+Arcadia Unified,Rancho Learning Center (Alternative),150 South Third Avenue Arcadia CA 91006-3703,NA,NA,NA,not tested,NA,NA,NA,NA
+Arcadia Unified,Richard Henry Dana Middle,1401 South First Avenue Arcadia CA 91006-4134,NA,NA,FALSE,tested,NA,NA,NA,NA

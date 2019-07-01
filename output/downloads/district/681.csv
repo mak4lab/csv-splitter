@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Luis Coastal Unified,Baywood Elementary,1330 Ninth Street Los Osos CA 93402-1350,NA,NA,NA,not tested,NA,NA,NA,NA
+San Luis Coastal Unified,Bellevue-Santa Fe Charter,1401 San Luis Bay Drive San Luis Obispo CA 93405-8003,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Luis Coastal Unified,Bishop's Peak Elementary,451 Jaycee Drive San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.29709775,-120.68569548204
+San Luis Coastal Unified,Del Mar Elementary,501 Sequoia Street Morro Bay CA 93442-1436,NA,NA,FALSE,tested,Morro Bay,San Luis Obispo County,35.3970943,-120.858448530622
+San Luis Coastal Unified,Hawthorne Elementary,2125 Story Street San Luis Obispo CA 93401-5232,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2703166,-120.6589758
+San Luis Coastal Unified,Laguna Middle,11050 Los Osos Valley Road San Luis Obispo CA 93405-6200,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Luis Coastal Unified,Los Osos Middle,1555 El Moro Street Los Osos CA 93402-1910,NA,NA,NA,not tested,NA,NA,NA,NA
+San Luis Coastal Unified,Los Ranchos Elementary,5785 Los Ranchos Road San Luis Obispo CA 93401-8247,NA,NA,NA,not tested,NA,NA,NA,NA
+San Luis Coastal Unified,Monarch Grove Elementary,348 Los Osos Valley Road Los Osos CA 93402-3120,NA,NA,NA,not tested,NA,NA,NA,NA
+San Luis Coastal Unified,Morro Bay High,235 Atascadero Road Morro Bay CA 93442-1516,5.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.3815231,-120.8577301
+San Luis Coastal Unified,Pacheco Elementary,261 Cuesta Drive San Luis Obispo CA 93405-1184,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2962466,-120.675065608807
+San Luis Coastal Unified,Pacific Beach High,11950 Los Osos Valley Road San Luis Obispo CA 93405-6861,7.1,ppb,TRUE,tested,NA,NA,NA,NA
+San Luis Coastal Unified,PEEP - de'Groot - Prepare,1500 Lizzie St. San Luis Obispo CA 93401-3062,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2798667,-120.6490713
+San Luis Coastal Unified,Sinsheimer Elementary,2755 Augusta Street San Luis Obispo CA 93401-5307,7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.2679673,-120.6435211
+San Luis Coastal Unified,Smith (C. L.) Elementary,1375 Balboa Street San Luis Obispo CA 93405-4935,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.26136725,-120.6895472388
+San Luis Coastal Unified,Teach Elementary,165 Grand Avenue San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2952364,-120.6534884

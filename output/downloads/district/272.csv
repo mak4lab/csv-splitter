@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Gateway Unified,Buckeye School of the Arts,3407 Hiatt Drive Redding CA 96003-1204,NA,NA,FALSE,tested,Redding,Shasta County,40.6309307532641,-122.403425454187
+Gateway Unified,Central Valley High,4066 La Mesa Avenue Shasta Lake CA 96019-9243,NA,NA,FALSE,tested,Shasta Lake,Shasta County,40.677732,-122.373345
+Gateway Unified,Gateway Educational Options,3500 Tamarack Dr. Redding CA 96003-1747,6.66,ppb,TRUE,tested,Redding,Shasta County,40.618402,-122.400966
+Gateway Unified,Grand Oaks Elementary,5309 Grand Avenue Shasta Lake CA 96019-9707,NA,NA,FALSE,tested,Shasta Lake,Shasta County,40.6825948609749,-122.352668939546
+Gateway Unified,Mountain Lakes High,17752 Shasta Dam Boulevard Shasta Lake CA 96019-8401,6.78,ppb,TRUE,tested,Shasta Lake,Shasta County,40.6803493,-122.3591706
+Gateway Unified,Shasta Lake,4620 Vallecito Street Shasta Lake CA 96019-9348,5.87,ppb,TRUE,tested,Shasta Lake,Shasta County,40.6745818787879,-122.363684242424

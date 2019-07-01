@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Coachella Valley Unified,Bobby Duke Middle,85-358 Bagdad Avenue Coachella CA 92236-1853,NA,NA,FALSE,tested,NA,Riverside County,33.6747115,-116.1794579
+Coachella Valley Unified,Cahuilla Desert Academy Junior High,82-489 Avenue 52 Coachella CA 92236-9718,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Cesar Chavez Elementary,49-601 Avenida de Oro Coachella CA 92236-1326,NA,NA,FALSE,tested,,Riverside County,33.6874418,-116.1859655
+Coachella Valley Unified,Coachella Valley Adult,1099 Orchard Avenue Coachella CA 92236,NA,NA,NA,not tested,NA,Riverside County,33.677268,-116.175319
+Coachella Valley Unified,Coachella Valley High,83-800 Airport Boulevard Thermal CA 92274-9367,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,Coral Mountain Academy,51 375 Van Buren Street Coachella CA 92236-9751,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,Desert Mirage High,86-150 Ave 66 Thermal CA 92274,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,John Kelley Elementary,87-163 Center Street Thermal CA 92274-8753,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,La Familia Continuation High,56 615 Olive Street Thermal CA 92274,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Las Palmitas Elementary,86-150 Ave. 66 Thermal CA 92274,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Mecca Elementary,65250 Cahuilla Street Mecca CA 92254-6602,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Mountain Vista Elementary,49-750 Hjorth Street Indio CA 92201-6417,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,NOVA Academy - Coachella,52 780 Frederick Street Coachella CA 92236-7319,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Oasis Elementary,88175 74th Avenue Thermal CA 92274-9618,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Palm View Elementary,1390 Seventh Street Coachella CA 92236-1722,NA,NA,FALSE,tested,NA,Riverside County,33.6771572,-116.176802106882
+Coachella Valley Unified,Peter Pendleton Elementary,84-750 Calle Rojo Coachella CA 92236-2837,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,Saul Martinez Elementary,65 705 Johnson Street Mecca CA 92254-9367,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,Sea View Elementary,2467 Sea Shore Avenue Salton City CA 92275,NA,NA,NA,not tested,NA,Imperial County,33.3071886812094,-115.957387934219
+Coachella Valley Unified,Toro Canyon Middle,86-150 Avenue 66 Thermal CA 92274,NA,NA,NA,not tested,NA,NA,NA,NA
+Coachella Valley Unified,Valle del Sol Elementary,51 433 Education Way Coachella CA 92236-3737,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,Valley View Elementary,85-270 Valley Road Coachella CA 92236-3038,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coachella Valley Unified,West Shores High,2381 Shore Hawk Avenue Salton City CA 92275,NA,NA,NA,not tested,NA,Imperial County,33.2995623037787,-115.956855300912

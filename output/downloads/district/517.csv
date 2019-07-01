@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newcastle Elementary,Creekside Charter,1916 Chamonix Place Olympic Valley CA 96146,NA,NA,NA,not tested,NA,NA,NA,NA
+Newcastle Elementary,Harvest Ridge Cooperative Charter/Placer Academy,9050 Old State Highway Newcastle CA 95658-9515,NA,NA,NA,not tested,NA,Placer County,38.87394,-121.135731
+Newcastle Elementary,Newcastle Charter,8951 Valley View Drive Newcastle CA 95658-9723,NA,NA,NA,not tested,NA,Placer County,38.8718218477375,-121.135698743114
+Newcastle Elementary,Newcastle Elementary,8951 Valley View Drive Newcastle CA 95658-9723,NA,NA,NA,not tested,NA,Placer County,38.8718218477375,-121.135698743114
+Newcastle Elementary,Onorato Educational Center,925 Kentucky Greens Way Newcastle CA 95658,NA,NA,NA,not tested,NA,Placer County,38.8682233,-121.1388107
+Newcastle Elementary,Rocklin Academy Gateway,6550 Lonetree Boulevard Rocklin CA 95765-5874,NA,NA,FALSE,tested,Rocklin,Placer County,38.8040556563923,-121.293696807282

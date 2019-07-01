@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oro Grande Elementary,Mojave River Academy,16519 Victor Street Suite 404 Victorville CA 92395-3968,NA,NA,NA,not tested,NA,NA,NA,NA
+Oro Grande Elementary,Oro Grande Elementary,19175 Third Street Oro Grande CA 92368-0386,NA,NA,FALSE,tested,NA,NA,NA,NA
+Oro Grande Elementary,Riverside Preparatory,19900 National Trial HWY Oro Grande CA 92368,NA,NA,FALSE,tested,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+West Sonoma County Union High,Analy High,6950 Analy Avenue Sebastopol CA 95472-3401,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4067712244898,-122.826113673469
+Sebastopol Union Elementary,Brook Haven Elementary,7905 Valentine Avenue Sebastopol CA 95472-3214,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4021725478519,-122.83698985169
+West Sonoma County Union High,Laguna High,445 Taft Street Sebastopol CA 95472-3443,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4059964908907,-122.823829237059
+Sebastopol Union Elementary,Park Side Elementary,7450 Bodega Avenue Sebastopol CA 95472-3651,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4006825233585,-122.827837436438
+Twin Hills Union Elementary,Sunridge Charter,7285 Hayden Avenue Sebastopol CA 95472-4359,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.3938234896429,-122.82203828057
+West Sonoma County Union High,West Sonoma County Consortium,462 Johnson Street Sebastopol CA 95472-3431,11,ppb,TRUE,tested,Sebastopol,Sonoma County,38.4066542524854,-122.822328373757

@@ -1,0 +1,65 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Garden Grove Unified,A. J. Cook Elementary,9802 Woodbury Avenue Garden Grove CA 92844-2819,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7635388372228,-117.958166468337
+Garden Grove Unified,Adult Education,11262 Garden Grove Boulevard Garden Grove CA 92843,NA,NA,NA,not tested,Garden Grove,Orange County,33.7741234368683,-117.93703969362
+Garden Grove Unified,Agnes Ware Stanley Elementary,12201 Elmwood Avenue Garden Grove CA 92840-3439,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Alamitos Intermediate,12381 Dale Street Garden Grove CA 92841-3219,NA,NA,FALSE,tested,Stanton,Orange County,33.7827457238682,-117.984160142385
+Garden Grove Unified,Bolsa Grande High,9401 Westminster Avenue Garden Grove CA 92844-2901,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7594173,-117.9622591
+Garden Grove Unified,Brookhurst Elementary,9821 William Dalton Way Garden Grove CA 92841-3841,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7835251,-117.9607952
+Garden Grove Unified,Bryant Elementary,8371 Orangewood Avenue Garden Grove CA 92841-1517,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7955549,-118.0075841
+Garden Grove Unified,C. C. Violette Elementary,12091 Lampson Avenue Garden Grove CA 92840-5643,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7816999074832,-117.922910714707
+Garden Grove Unified,Clinton Elementary,13641 Clinton Street Garden Grove CA 92843-4110,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7648607899131,-117.911513805922
+Garden Grove Unified,Donald S. Jordan Intermediate,9821 Woodbury Road Garden Grove CA 92844-2835,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7636586,-117.9395078
+Garden Grove Unified,Dr. Walter C. Ralston Intermediate,10851 East Lampson Avenue Garden Grove CA 92840-5134,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Dwight D. Eisenhower Elementary,13221 Lilly Street Garden Grove CA 92843-2156,NA,NA,FALSE,tested,Garden Grove,Orange County,33.770614,-117.906954333333
+Garden Grove Unified,Earl Warren Elementary,12871 Estock Drive Garden Grove CA 92840-4205,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7854208585859,-117.909193969697
+Garden Grove Unified,Edward Russell Elementary,600 South Jackson Street Santa Ana CA 92704-1457,NA,NA,NA,not tested,Santa Ana,Orange County,33.739862,-117.915791
+Garden Grove Unified,Enders Elementary,12302 Springdale Street Garden Grove CA 92845-2239,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7850533333333,-118.019717111111
+Garden Grove Unified,Ernest O. Lawrence Elementary,12521 Monroe Garden Grove CA 92841-4422,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Ethan B. Allen Elementary,16200 Bushard Street Fountain Valley CA 92708-1505,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.7159692,-117.9631968
+Garden Grove Unified,Ethel M. Evans Elementary,12281 Nelson Street Garden Grove CA 92840-3205,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7857875899629,-117.945610116982
+Garden Grove Unified,Excelsior Elementary,10421 Woodbury Road Garden Grove CA 92843-3277,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7636869123974,-117.947920338877
+Garden Grove Unified,Faylane Elementary,11731 Morrie Lane Garden Grove CA 92840-1906,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7918196355452,-117.952812327811
+Garden Grove Unified,Garden Grove High,11271 Stanford Avenue Garden Grove CA 92840-5317,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7779362651609,-117.935582651969
+Garden Grove Unified,Garden Park Elementary,6562 Stanford Avenue Garden Grove CA 92845-2243,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7776448185713,-118.018249925685
+Garden Grove Unified,Genevieve M. Crosby Elementary,12181 West Street Garden Grove CA 92840-3803,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7861133837181,-117.923795051995
+Garden Grove Unified,Gilbert Elementary,9551 Orangewood Avenue Garden Grove CA 92841-1737,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7958918133839,-117.966574849275
+Garden Grove Unified,Hilton D. Bell Intermediate,12345 Springdale Street Garden Grove CA 92845-2238,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7855487538783,-118.019911123454
+Garden Grove Unified,Izaak Walton Intermediate,12181 Buaro Street Garden Grove CA 92840-3924,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7869450600895,-117.919315424282
+Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,NA,NA,FALSE,tested,Orange,Orange County,33.7522246968183,-117.94529726889
+Garden Grove Unified,James Monroe Elementary,16225 Newhope Street Fountain Valley CA 92708-1703,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.7278651807164,-117.928670751468
+Garden Grove Unified,John Marshall Elementary,15791 Bushard Street Westminster CA 92683-7455,NA,NA,FALSE,tested,Orange,Orange County,33.7332599509502,-117.963511821514
+Garden Grove Unified,John Murdy Elementary,14851 Donegal Drive Garden Grove CA 92844-3237,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7469279998885,-117.961290775861
+Garden Grove Unified,Jordan Secondary Learning Center,9915 Woodbury Avenue Garden Grove CA 92844-2838,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7635039055933,-117.95691605495
+Garden Grove Unified,La Quinta High,10372 McFadden Street Westminster CA 92683-7098,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Lake Intermediate School,10801 Orangewood Avenue Garden Grove CA 92840-1644,NA,NA,FALSE,tested,Garden Grove,Orange County,33.795816206475,-117.942432286192
+Garden Grove Unified,Leo Carrillo Elementary,15270 Bushard Street Westminster CA 92683-6502,NA,NA,FALSE,tested,Orange,Orange County,33.7407810978571,-117.963413246607
+Garden Grove Unified,Leroy L. Doig Intermediate,12752 Trask Avenue Garden Grove CA 92843-3041,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7670096,-117.9243492
+Garden Grove Unified,Linton T. Simmons Elementary,11602 Steele Drive Garden Grove CA 92841-2121,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7935907623792,-117.945072626098
+Garden Grove Unified,Los Amigos High,16566 Newhope Street Fountain Valley CA 92708-2403,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.7218606,-117.926289549639
+Garden Grove Unified,Louis G. Zeyen Elementary,12081 South Magnolia Street Garden Grove CA 92841-3314,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Loyal Barker Elementary,12565 Springdale Street Garden Grove CA 92845-2841,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7801720067345,-118.020041512548
+Garden Grove Unified,Mamie L. Northcutt Elementary,11303 Sandstone Street Fountain Valley CA 92708-3025,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Marie L. Hare High,12012 Magnolia Street Garden Grove CA 92841-1644,14.3,ppb,TRUE,tested,Garden Grove,Orange County,33.7881700248238,-117.97533155439
+Garden Grove Unified,Mark Twain Special Center,11802 Loara Street Garden Grove CA 92840-2324,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7910455854435,-117.93676938058
+Garden Grove Unified,Merton E. Hill Elementary,9681 11th Street Garden Grove CA 92844-3101,NA,NA,FALSE,tested,Garden Grove,Orange County,33.754099438121,-117.960116867223
+Garden Grove Unified,Mitchell Elementary,13451 Taft Avenue Garden Grove CA 92843-2444,6.89,ppb,TRUE,tested,NA,Merced County,37.233675,-120.25771
+Garden Grove Unified,Morningside Elementary,10521 Morningside Drive Garden Grove CA 92843-4810,NA,NA,FALSE,tested,Garden Grove,Orange County,33.75649,-117.946398
+Garden Grove Unified,Newhope Elementary,4419 West Regent Drive Santa Ana CA 92704-2245,NA,NA,NA,not tested,Santa Ana,Orange County,33.7321954,-117.9271515
+Garden Grove Unified,Ocia A. Peters Elementary,13162 Newhope Street Garden Grove CA 92843-1416,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7715591107859,-117.929012332174
+Garden Grove Unified,Pacifica High,6851 Lampson Avenue Garden Grove CA 92845-2211,NA,NA,FALSE,tested,Garden Grove,Orange County,33.781087,-118.014389608877
+Garden Grove Unified,Parkview Elementary,12272 Wilken Way Garden Grove CA 92840-2699,NA,NA,FALSE,tested,Garden Grove,Orange County,33.793744,-117.92298
+Garden Grove Unified,Patton Elementary,6861 Santa Rita Avenue Garden Grove CA 92845-1443,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7893700230446,-118.01320974847
+Garden Grove Unified,Post Elementary,14641 Ward Street Westminster CA 92683-5830,NA,NA,FALSE,tested,Westminster,Orange County,33.739583,-117.9460985
+Garden Grove Unified,R. F. Hazard Elementary,4218 West Hazard Avenue Santa Ana CA 92703-2610,NA,NA,NA,not tested,NA,NA,NA,NA
+Garden Grove Unified,Rancho Alamitos High,11351 Dale Street Garden Grove CA 92841-1598,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7979085882353,-117.984512509804
+Garden Grove Unified,Riverdale Elementary,13222 Lewis Street Garden Grove CA 92843-2229,10.2,ppb,TRUE,tested,Garden Grove,Orange County,33.771243,-117.89701
+Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,NA,NA,NA,not tested,Orange,Orange County,33.7523471277701,-117.932063132633
+Garden Grove Unified,Santiago High,12342 Trask Avenue Garden Grove CA 92843-2812,5.46,ppb,TRUE,tested,Garden Grove,Orange County,33.7670096,-117.9243492
+Garden Grove Unified,Sarah McGarvin Intermediate,9802 Bishop Place Westminster CA 92683-6605,NA,NA,FALSE,tested,Westminster,Orange County,33.741198,-117.959598
+Garden Grove Unified,Stanford Elementary,12721 Magnolia Avenue Garden Grove CA 92841-4739,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Stephen R. Fitz Intermediate,4600 West McFadden Avenue Santa Ana CA 92704-1142,NA,NA,NA,not tested,NA,NA,NA,NA
+Garden Grove Unified,Sunnyside Elementary,9972 East Russell Avenue Garden Grove CA 92844-2431,NA,NA,FALSE,tested,NA,NA,NA,NA
+Garden Grove Unified,Susan B. Anthony Elementary,15320 Pickford Street Westminster CA 92683-7015,NA,NA,FALSE,tested,Westminster,Orange County,33.7407562857143,-117.951335857143
+Garden Grove Unified,Thomas Paine Elementary,15792 Ward Street Garden Grove CA 92843-5348,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7343140212766,-117.945909946809
+Garden Grove Unified,Wakeham Elementary,7772 Chapman Avenue Garden Grove CA 92841-3003,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7884363,-117.9799303
+Garden Grove Unified,Woodbury Elementary,11362 Woodbury Road Garden Grove CA 92843-3599,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7636662259868,-117.931233333559

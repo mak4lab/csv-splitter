@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Nevada City Elementary,Deer Creek Elementary,805 Lindley Avenue Nevada City CA 95959-2911,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2509198267205,-121.028264640826
+Nevada City Elementary,Earle Jamieson Educational Options,112 Nevada City Highway Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2448275,-121.0306945
+Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,NA,NA,NA,not tested,Nevada City,Nevada County,39.255202,-121.023546
+Nevada City Elementary,Nevada City Charter,750 Hoover Lane Nevada City CA 95959-2910,NA,NA,NA,not tested,Nevada City,Nevada County,39.2553951395225,-121.031433290716
+Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,NA,NA,NA,not tested,Nevada City,Nevada County,39.253893,-121.031605
+Nevada City Elementary,Terence K. McAteer Center,400 Hoover Ln Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.253893,-121.031605
+Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,NA,NA,NA,not tested,Nevada City,Nevada County,39.2482593663303,-121.016083471786
+Nevada City Elementary,Twin Ridges Home Study Charter Schol,111 New Mohawk Road Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.2482593663303,-121.016083471786
+Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,NA,NA,NA,not tested,Nevada City,Nevada County,39.2652902907306,-121.018759347602

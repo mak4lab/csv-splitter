@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Capistrano Unified,Arroyo Vista Elementary,23371 Arroyo Vista Rancho Santa Margarita CA 92688-4906,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6235588138892,-117.612334146104
+Saddleback Valley Unified,Cielo Vista Elementary,21811 Avenida De Los Fundadores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Capistrano Unified,Las Flores Elementary,25862 Antonio Parkway Rancho Santa Margarita CA 92688-5541,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6289202,-117.6021242
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,21001 Rancho Trabuco Rancho Santa Margarita CA 92688-3444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,21931 Alma Aldea Rancho Santa Margarita CA 92688-2342,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Capistrano Unified,Tijeras Creek Elementary,23072 Avenida Empresa Rancho Santa Margarita CA 92688-8533,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6282755,-117.6042272
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Saddleback Valley Unified,Trabuco Elementary,31052 Trabuco Canyon Road Trabuco Canyon CA 92678-0277,NA,NA,NA,not tested,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572

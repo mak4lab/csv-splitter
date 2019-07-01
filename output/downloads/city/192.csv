@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Moorpark Unified,Arroyo West Elementary,4117 Country Hill Road Moorpark CA 93021-2798,NA,NA,FALSE,tested,Moorpark,Ventura County,34.2670170297086,-118.904861308349
+Moorpark Unified,Campus Canyon Elementary,15300 Monroe Avenue Moorpark CA 93021-3200,NA,NA,FALSE,tested,Moorpark,Ventura County,34.300625260559,-118.844487431753
+Moorpark Unified,Community High,4500 Tierra Rejada Rd. Moorpark CA 93021-1852,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091015,-118.897498480988
+Moorpark Unified,Flory Academy of Sciences and Technology,240 Flory Avenue Moorpark CA 93021-1863,NA,NA,FALSE,tested,Moorpark,Ventura County,34.2799795365327,-118.880896186037
+Moorpark Unified,Mesa Verde Middle,14000 Peach Hill Road Moorpark CA 93021-3554,NA,NA,FALSE,tested,Moorpark,Ventura County,34.2709385195755,-118.86702161348
+Moorpark Unified,Moorpark Adult Education,4500 Tierra Rejada Road B Moorpark CA 93021-9772,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091015,-118.897498480988
+Moorpark Unified,Moorpark High,4500 Tierra Rejada Road Moorpark CA 93021-9772,NA,NA,FALSE,tested,Moorpark,Ventura County,34.27091015,-118.897498480988
+Moorpark Unified,Mountain Meadows Elementary,4200 Mountain Meadow Drive Moorpark CA 93021-2700,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266085,-118.901181
+Moorpark Unified,Peach Hill Academy,13400 Christian Barrett Drive Moorpark CA 93021-2817,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266544,-118.874525
+Moorpark Unified,The High School at Moorpark College,7075 Campus Road Moorpark CA 93021-1605,NA,NA,NA,not tested,Moorpark,Ventura County,34.2975593469388,-118.835900428571
+Moorpark Unified,Walnut Canyon Elementary,280 Casey Road Moorpark CA 93021-1131,NA,NA,FALSE,tested,Moorpark,Ventura County,34.2878919,-118.8852743

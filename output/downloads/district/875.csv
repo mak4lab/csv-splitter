@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Williams Unified,Williams Junior/Senior High,222 11th Street Williams CA 95987,NA,NA,NA,not tested,Williams,Colusa County,39.1566452696629,-122.15605794382
+Williams Unified,Williams Primary Elementary,1404 E Street Williams CA 95987-0007,NA,NA,NA,not tested,Williams,Colusa County,39.152548515625,-122.15708334375
+Williams Unified,Williams Upper Elementary,300 Eleventh Street Williams CA 95987,NA,NA,FALSE,tested,NA,NA,NA,NA

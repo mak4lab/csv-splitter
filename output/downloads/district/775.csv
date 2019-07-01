@@ -1,0 +1,68 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Stockton Unified,Adams Elementary,6402 Inglewood Avenue Stockton CA 95207-3829,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.00923405,-121.3156258
+Stockton Unified,Alexander Hamilton Elementary,2245 East 11th Street Stockton CA 95206-3606,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Aspire APEX Academy,444 North American Street Stockton CA 95202-2129,9.5,ppb,TRUE,tested,Stockton,San Joaquin County,37.9583124489796,-121.284386244898
+Stockton Unified,Aspire Langston Hughes Academy,2050 West Lane Stockton CA 95205-3358,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9753154771185,-121.280097982333
+Stockton Unified,Aspire Port City Academy,2040 West Lane Stockton CA 95205-2129,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9752194342165,-121.280058874305
+Stockton Unified,Aspire Rosa Parks Academy,1930 South D Street Stockton CA 95206-2489,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.93895915,-121.252331220985
+Stockton Unified,August Elementary,2101 Sutro Avenue Stockton CA 95205-2833,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Business Leadership Academy,401 North San Joaquin Street Stockton CA 95202,NA,NA,NA,not tested,Stockton,San Joaquin County,37.95752055,-121.28890432739
+Stockton Unified,Business Learning Academy,401 North San Joaquin Street Stockton CA 95202,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.95752055,-121.28890432739
+Stockton Unified,Cesar Chavez High,2929 Windflower Lane Stockton CA 95212-2732,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Cleveland Elementary,20 East Fulton Street Stockton CA 95204-3339,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.98234225,-121.302170252037
+Stockton Unified,Commodore Stockton Skills,2725 Michigan Avenue Stockton CA 95204-2636,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,District Special Education,1800 South Sutter Stockton CA 95206-2004,NA,NA,NA,not tested,Stockton,San Joaquin County,37.934458,-121.280625
+Stockton Unified,Dolores Huerta Elementary,1644 South Lincoln Stockton CA 95206-1946,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Dr. Lewis Dolphin Stallworth Sr. Charter,1610 East Main Street Stockton CA 95205-5521,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9556848281388,-121.27004897378
+Stockton Unified,Edison High,100 W Dr Martin Luther King Blv Stockton CA 95206-2016,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Edward C. Merlo Institute of Environmental Studies,1670 East Sixth Street Stockton CA 95206-2352,8.7,ppb,TRUE,tested,NA,NA,NA,NA
+Stockton Unified,El Dorado Elementary,1540 North Lincoln Street Stockton CA 95204-5617,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.967066,-121.300836059311
+Stockton Unified,Elmwood Elementary,840 South Cardinal Avenue Stockton CA 95215-6026,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Fillmore Elementary,2644 East Poplar Street Stockton CA 95205-4349,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9692206130163,-121.25617102686
+Stockton Unified,Franklin High,300 North Gertrude Street Stockton CA 95215-4820,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,George W. Bush Elementary,5420 Fred Russo Drive Stockton CA 95212-2862,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.009674,-121.277429
+Stockton Unified,George Washington Elementary,1735 West Sonora Stockton CA 95203-3054,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Grunsky Elementary,1550 North School Street Stockton CA 95205-3420,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9713869667162,-121.274369226746
+Stockton Unified,Harrison Elementary,3203 Sanguinetti Lane Stockton CA 95209-2517,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9864555230769,-121.272629261538
+Stockton Unified,Hazelton Elementary,535 West Jefferson Stockton CA 95206-1242,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Health Careers Academy,931 East Magnolia Street Stockton CA 95203-2243,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9644608,-121.2875379
+Stockton Unified,Hoover Elementary,2900 Kirk Avenue Stockton CA 95204-2629,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Jane Frederick High,1141 East Weber Avenue Stockton CA 95205-4916,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9561408,-121.276388633333
+Stockton Unified,John C. Fremont Elementary,2021 East Flora Street Stockton CA 95205-4307,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9654229802496,-121.267554943417
+Stockton Unified,John Marshall Elementary,1141 Lever Boulevard Stockton CA 95206-2855,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9242758,-121.303564631902
+Stockton Unified,Kennedy Elementary,630 West Ponce de Leon Drive Stockton CA 95210-1821,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,King Elementary,2640 East Lafayette Street Stockton CA 95205-5713,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9584957727273,-121.251233613636
+Stockton Unified,Kohl Open Elementary,4115 North Crown Stockton CA 95207-2846,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Madison Elementary,2939 Mission Road Stockton CA 95204-4150,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9709455,-121.325127004135
+Stockton Unified,Maxine Hong Kingston Elementary,6324 North Alturas Avenue Stockton CA 95207-2846,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,McKinley Elementary,30 West Ninth Street Stockton CA 95206-3102,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Monroe Elementary,2236 East 11th Street Stockton CA 95206-3607,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Montezuma Elementary,2843 Farmington Road Stockton CA 95206-7845,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9384733021944,-121.242515020831
+Stockton Unified,Nightingale Charter,1721 Carpenter Road Stockton CA 95206-3809,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.919154,-121.252937
+Stockton Unified,Pacific Law Academy,1621 Brookside Road Stockton CA 95207-7804,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9821033035082,-121.324112923148
+Stockton Unified,Pittman Charter,701 East Park Street Stockton CA 95202-2207,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9610447647059,-121.284064411765
+Stockton Unified,Preschool Autism and Assessment Center,2455 Country Club Blvd. Stockton CA 95204,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9649334782351,-121.333549234943
+Stockton Unified,Primary Years Academy,1540 N Lincoln Street Stockton CA 95204-2636,NA,NA,NA,not tested,Stockton,San Joaquin County,37.967066,-121.300836059311
+Stockton Unified,Pulliam Elementary,230 Presidio Way Stockton CA 95207-2110,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0195224196218,-121.310814034948
+Stockton Unified,Rio Calaveras Elementary,1819 East Bianchi Road Stockton CA 95210-6166,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.00037255,-121.285380793745
+Stockton Unified,Roosevelt Elementary,776 South Broadway Avenue Stockton CA 95205-6616,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,San Joaquin Elementary,2020 South Fresno Avenue Stockton CA 95206-4633,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9287304545455,-121.312026961039
+Stockton Unified,School for Adults,1525 Pacific Ave. Stockton CA 95204,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0000922,-121.3162746
+Stockton Unified,Spanos (Alex G.) Elementary,536 South California Street Stockton CA 95203-3704,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9483984,-121.282639033869
+Stockton Unified,Special Education Department,1800 S. Sutter St. Stockton CA 95206,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9340832,-121.280264040416
+Stockton Unified,Stagg Senior High,1621 Brookside Rd. Stockton CA 95207-7804,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9821033035082,-121.324112923148
+Stockton Unified,Stockton Collegiate International Elementary,321 East Weber Avenue Stockton CA 95202-2707,NA,NA,NA,not tested,Stockton,San Joaquin County,37.95456945,-121.286867206203
+Stockton Unified,Stockton Collegiate International Secondary,One North Sutter Stockton CA 95202-2906,NA,NA,NA,not tested,NA,NA,NA,NA
+Stockton Unified,Stockton High,22 South Van Buren Street Stockton CA 95202-3118,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9513283333333,-121.296093333333
+Stockton Unified,Stockton Unified Early College Academy,349 East Vine Street Stockton CA 95202-1107,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9661582653061,-121.290045693878
+Stockton Unified,Taft Elementary,419 Downing Avenue Stockton CA 95206-3743,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9139460967742,-121.284198612903
+Stockton Unified,Taylor Leadership Academy,1101 Lever Boulevard Stockton CA 95206-2855,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9236994,-121.301282738623
+Stockton Unified,TEAM Charter,600 East Main Street Stockton CA 95202-3029,NA,NA,NA,not tested,Stockton,San Joaquin County,37.953748,-121.283094
+Stockton Unified,Tyler Skills Elementary,3830 Webster Avenue Stockton CA 95204-1548,NA,NA,FALSE,tested,San Diego,San Diego County,32.704426,-117.121887
+Stockton Unified,Valentine Peyton Elementary,2525 Gold Brook Dr Stockton CA 95212-2825,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0013813,-121.2722688464
+Stockton Unified,Van Buren Elementary,1628 East Tenth Street Stockton CA 95206-3345,9.9,ppb,TRUE,tested,NA,NA,NA,NA
+Stockton Unified,Victory Elementary,1838 West Rose Street Stockton CA 95203-1406,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.95956305,-121.320352736876
+Stockton Unified,Walton Development Center,4131 North Crown Avenue Stockton CA 95207-6909,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Weber Institute,302 West Weber Avenue Stockton CA 95203-3124,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9527490382889,-121.295209142036
+Stockton Unified,Wilhelmina Henry Elementary,1107 South Wagner Avenue Stockton CA 95215-6835,NA,NA,FALSE,tested,NA,NA,NA,NA
+Stockton Unified,Wilson Elementary,150 East Mendocino Avenue Stockton CA 95204-3400,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.978805244898,-121.29802122449

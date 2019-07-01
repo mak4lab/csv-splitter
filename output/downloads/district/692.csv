@@ -1,0 +1,41 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Ramon Valley Unified,Alamo Elementary,100 Wilson Road Alamo CA 94507-1253,NA,NA,FALSE,tested,NA,Contra Costa County,37.8664100853309,-122.030623253148
+San Ramon Valley Unified,Bella Vista Elementary,1050 Trumpet Vine Lane San Ramon CA 94582,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Ramon Valley Unified,Blue Dot Academy,12998 Hawkins Dr San Ramon CA 94583,NA,NA,NA,not tested,NA,Contra Costa County,37.748875,-121.961584
+San Ramon Valley Unified,Bollinger Canyon Elementary,2300 Talavera Drive San Ramon CA 94583-2200,NA,NA,FALSE,tested,NA,Contra Costa County,37.760484,-121.97037
+San Ramon Valley Unified,California High,9870 Broadmoor Drive San Ramon CA 94583-2942,NA,NA,FALSE,tested,NA,Contra Costa County,37.7461278827772,-121.947352142523
+San Ramon Valley Unified,Charlotte Wood Middle,600 El Capitan Drive Danville CA 94526-5000,NA,NA,FALSE,tested,NA,Contra Costa County,37.8001796,-121.9861037
+San Ramon Valley Unified,Country Club Elementary,7534 Blue Fox Way San Ramon CA 94583-3721,NA,NA,FALSE,tested,NA,Contra Costa County,37.7279528258743,-121.940515079617
+San Ramon Valley Unified,Coyote Creek Elementary,8700 North Gale Ridge Road San Ramon CA 94582-5081,NA,NA,FALSE,tested,NA,Contra Costa County,37.7723808,-121.9442362
+San Ramon Valley Unified,Creekside Elementary,6011 Massara Street Danville CA 94506-5004,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Ramon Valley Unified,Del Amigo High (Continuation),189 Del Amigo Road Danville CA 94526-2399,NA,NA,FALSE,tested,NA,Contra Costa County,37.826492438684,-122.011362949543
+San Ramon Valley Unified,Diablo Vista Middle,4100 Camino Tassajara Danville CA 94506-4700,NA,NA,FALSE,tested,NA,Contra Costa County,37.799644,-121.89773
+San Ramon Valley Unified,Dougherty Valley High,10550 Albion Road San Ramon CA 94582-2901,NA,NA,FALSE,tested,NA,Contra Costa County,37.767625,-121.902625244898
+San Ramon Valley Unified,Ed Center,699 Old Orchard Dr Danville CA 93526-4331,NA,NA,FALSE,tested,NA,Contra Costa County,37.812463,-121.977188
+San Ramon Valley Unified,Gale Ranch Middle,6400 Main Branch Road San Ramon CA 94582-5825,NA,NA,FALSE,tested,NA,Contra Costa County,37.7658251,-121.912947
+San Ramon Valley Unified,Golden View Elementary,5025 Canyon Crest Drive San Ramon CA 94582-4848,7.5,ppb,TRUE,tested,NA,Contra Costa County,37.78533,-121.9432935
+San Ramon Valley Unified,Green Valley Elementary,1001 Diablo Road Danville CA 94526-1923,6.1,ppb,TRUE,tested,NA,Contra Costa County,37.83473130845,-121.978838700865
+San Ramon Valley Unified,Greenbrook Elementary,1475 Harlan Drive Danville CA 94526-5248,NA,NA,FALSE,tested,NA,Contra Costa County,37.7922491211863,-121.974112038159
+San Ramon Valley Unified,Hidden Hills Elementary,12995 Harcourt Way San Ramon CA 94582-2803,NA,NA,FALSE,tested,NA,Contra Costa County,37.76400025,-121.893224560933
+San Ramon Valley Unified,Iron Horse Middle,12601 Alcosta Boulevard San Ramon CA 94583-9025,NA,NA,FALSE,tested,NA,Contra Costa County,37.770467,-121.956629
+San Ramon Valley Unified,John Baldwin Elementary,741 Brookside Drive Danville CA 94526-4201,NA,NA,FALSE,tested,NA,Contra Costa County,37.8073739945663,-121.984350509837
+San Ramon Valley Unified,Lerner Academy,143 Clover Hill Court Danville CA 94526,NA,NA,NA,not tested,NA,Contra Costa County,37.8137576709602,-121.983043528768
+San Ramon Valley Unified,Live Oak Elementary,5151 Sherwood Way San Ramon CA 94582-5961,5.9,ppb,TRUE,tested,NA,Contra Costa County,37.7546697978111,-121.895028937651
+San Ramon Valley Unified,Los Cerros Middle,968 Blemer Road Danville CA 94526-1502,NA,NA,FALSE,tested,NA,Contra Costa County,37.83774901535,-121.981317892823
+San Ramon Valley Unified,Montair Elementary,300 Quinterra Lane Danville CA 94526-3239,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Ramon Valley Unified,Monte Vista High,3131 Stone Valley Road Danville CA 94526-1129,11,ppb,TRUE,tested,NA,Contra Costa County,37.8426148,-121.9823065985
+San Ramon Valley Unified,Montevideo Elementary,13000 Broadmoor Drive San Ramon CA 94583-2555,11.3,ppb,TRUE,tested,NA,Contra Costa County,37.754667,-121.950761
+San Ramon Valley Unified,Neil A. Armstrong Elementary,2849 Calais Drive San Ramon CA 94583-3116,NA,NA,FALSE,tested,NA,Contra Costa County,37.7408670325542,-121.947778863512
+San Ramon Valley Unified,Pine Valley Middle,3000 Pine Valley Road San Ramon CA 94583-3324,NA,NA,FALSE,tested,NA,Contra Costa County,37.7378808,-121.942621080549
+San Ramon Valley Unified,Quail Run Elementary,4000 Goldenbay Avenue San Ramon CA 94582-5814,NA,NA,FALSE,tested,NA,Contra Costa County,37.761633,-121.9144763
+San Ramon Valley Unified,Rancho Romero Elementary,180 Hemme Avenue Alamo CA 94507-2144,NA,NA,FALSE,tested,NA,Contra Costa County,37.8399072234078,-122.027971968718
+San Ramon Valley Unified,San Ramon Valley High,501 Danville Boulevard Danville CA 94526-2404,11,ppb,TRUE,tested,NA,Contra Costa County,37.8258254,-122.006627962087
+San Ramon Valley Unified,Service Center,3280 East Crow Canyon Rd San Ramon CA 94583,NA,NA,FALSE,tested,NA,Contra Costa County,37.7803297013866,-121.96747441537
+San Ramon Valley Unified,Stone Valley Middle,3001 Miranda Avenue Alamo CA 94507-1646,NA,NA,FALSE,tested,NA,Contra Costa County,37.8585245043521,-122.020534324397
+San Ramon Valley Unified,Sycamore Valley Elementary,2200 Holbrook Drive Danville CA 94506-4413,NA,NA,FALSE,tested,NA,Contra Costa County,37.8068888,-121.9446342
+San Ramon Valley Unified,Tassajara Hills Elementary,4675 Camino Tassajara Road Danville CA 94506-5901,9.1,ppb,TRUE,tested,NA,Contra Costa County,37.8096716,-121.9532499
+San Ramon Valley Unified,Twin Creeks Elementary,2785 Marsh Drive San Ramon CA 94583-2049,NA,NA,FALSE,tested,NA,Contra Costa County,37.766876007949,-121.986567306306
+San Ramon Valley Unified,Venture (Alternative),10540 Albion Road San Ramon CA 94582-2901,NA,NA,FALSE,tested,NA,Contra Costa County,37.7676,-121.902707795918
+San Ramon Valley Unified,Vista Grande Elementary,667 Diablo Road Danville CA 94526-2801,NA,NA,FALSE,tested,NA,Contra Costa County,37.8251923486575,-121.987210879783
+San Ramon Valley Unified,Walt Disney Elementary,3250 Pine Valley Road San Ramon CA 94583-3651,NA,NA,FALSE,tested,NA,Contra Costa County,37.7414374944365,-121.935212707201
+San Ramon Valley Unified,Windemere Ranch Middle,11611 East Branch Parkway San Ramon CA 94582-5805,NA,NA,FALSE,tested,NA,Contra Costa County,37.7518577,-121.906795435871

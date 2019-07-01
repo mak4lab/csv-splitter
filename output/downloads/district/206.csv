@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+East Whittier City Elementary,Ceres Elementary,10601 South Ceres Avenue Whittier CA 90604-1655,12,ppb,TRUE,tested,NA,Los Angeles County,33.934221,-118.028939
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.9391171,-117.9447152
+East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.9632923731076,-118.041670627856
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9233967356266,-118.002488053892
+East Whittier City Elementary,Hillview Middle,10931 South Stamy Road Whittier CA 90604-2225,NA,NA,FALSE,tested,NA,Los Angeles County,33.9329415243902,-118.00617
+East Whittier City Elementary,La Colima Elementary,11225 Miller Road Whittier CA 90604-1952,NA,NA,FALSE,tested,NA,Los Angeles County,33.9299154705882,-118.020485764706
+East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
+East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9465699334663,-117.98781436306
+East Whittier City Elementary,Ocean View Elementary,14359 East Second Street Whittier CA 90605-1115,NA,NA,FALSE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,TRUE,tested,NA,NA,NA,NA
+East Whittier City Elementary,Scott Avenue Elementary,11701 Scott Avenue Whittier CA 90604-3245,NA,NA,FALSE,tested,NA,Los Angeles County,33.9275362634952,-118.000397229553

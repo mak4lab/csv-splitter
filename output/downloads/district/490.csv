@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Morgan Hill Unified,Ann Sobrato High,401 Burnett Avenue Morgan Hill CA 95037-2641,NA,NA,FALSE,tested,NA,NA,NA,NA
+Morgan Hill Unified,Barrett Elementary,895 Barrett Avenue Morgan Hill CA 95037-5206,NA,NA,FALSE,tested,NA,Santa Clara County,37.1222199377841,-121.63199983136
+Morgan Hill Unified,Central High (Continuation),85 Tilton Avenue Morgan Hill CA 95037-2504,NA,NA,FALSE,tested,NA,NA,NA,NA
+Morgan Hill Unified,Charter School of Morgan Hill,9530 Monterey Road Morgan Hill CA 95037-9356,NA,NA,FALSE,tested,San José,Santa Clara County,37.1955426479103,-121.717580728963
+Morgan Hill Unified,Community Adult,17940 Monterey Street Morgan Hill CA 95037-3660,7.1,ppb,TRUE,tested,NA,Santa Clara County,37.128057,-121.6524137
+Morgan Hill Unified,El Toro Elementary,455 East Main Avenue Morgan Hill CA 95037-3745,NA,NA,FALSE,tested,NA,Santa Clara County,37.1351678256052,-121.648451819422
+Morgan Hill Unified,Jackson Academy of Music and Math (JAMM),2700 Fountain Oaks Drive Morgan Hill CA 95037-3907,NA,NA,FALSE,tested,NA,Santa Clara County,37.13756265,-121.605364049751
+Morgan Hill Unified,Lewis H. Britton Middle,80 West Central Avenue Morgan Hill CA 95037-4302,NA,NA,FALSE,tested,NA,Santa Clara County,37.1316230267878,-121.658066902932
+Morgan Hill Unified,Live Oak High,1505 East Main Avenue Morgan Hill CA 95037-3217,10,ppb,TRUE,tested,NA,Santa Clara County,37.1482013540416,-121.632013359537
+Morgan Hill Unified,Los Paseos Elementary,121 Avenida Grande San Jose CA 95139-1107,NA,NA,FALSE,tested,San José,Santa Clara County,37.227451,-121.76885
+Morgan Hill Unified,Martin Murphy Middle,141 Avenida Espana San Jose CA 95139-1164,NA,NA,FALSE,tested,San José,Santa Clara County,37.2264016555883,-121.766733931478
+Morgan Hill Unified,Nordstrom Elementary,1425 East Dunne Avenue Morgan Hill CA 95037-7029,NA,NA,FALSE,tested,NA,Santa Clara County,37.1360030916979,-121.621844701032
+Morgan Hill Unified,P. A. Walsh STEAM Academy,353 West Main Avenue Morgan Hill CA 95037-4530,33,ppb,TRUE,tested,NA,Santa Clara County,37.1267384623531,-121.661151859814
+Morgan Hill Unified,Paradise Valley/Machado Elementary,1400 La Crosse Drive Morgan Hill CA 95037-5675,21,ppb,TRUE,tested,NA,Santa Clara County,37.1070914,-121.647088116906
+Morgan Hill Unified,San Martin Gwinn Environmental Science Academy,100 North Street San Martin CA 95046-9517,NA,NA,FALSE,tested,NA,Santa Clara County,37.0884375,-121.6115415

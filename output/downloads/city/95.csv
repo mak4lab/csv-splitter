@@ -1,0 +1,34 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Alan Rowe Prep-College,9424 Big Horn Blvd Elk Grove  CA 95758,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4162526882579,-121.406999180387
+Elk Grove Unified,Arlene Hein Elementary,6820 Bellaterra Drive Elk Grove CA 95757-3083,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.398999,-121.431115
+Elk Grove Unified,Arthur C. Butler Elementary,9180 Brown Road Elk Grove CA 95624-3916,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4486106209096,-121.360149382042
+Elk Grove Unified,Carroll Elementary,10325 Stathos Drive Elk Grove CA 95757-1608,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.3827614664435,-121.431520993813
+Elk Grove Unified,Cosumnes Oaks High,8350 Lotz Parkway Elk Grove CA 95757,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4015046,-121.3948843
+Elk Grove Unified,Edna Batey Elementary,9421 Stonebrook Drive Elk Grove CA 95624-6089,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4144641943764,-121.344276302922
+Elk Grove Unified,"Edward Harris, Jr. Middle",8691 Power Inn Road Elk Grove CA 95624-3467,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4383397830014,-121.392049447686
+Elk Grove Unified,Elitha Donner Elementary,9461 Soaring Oaks Drive Elk Grove CA 95758-1075,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4161360982139,-121.412785121429
+Elk Grove Unified,Elizabeth Pinkerton Middle,8365 Whitelock Parkway Elk Grove CA 95757-5930,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.395457,-121.396896
+Elk Grove Unified,Elk Grove Charter,10065 Atkins Drive Elk Grove CA 95757-4309,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.391627,-121.437669
+Elk Grove Unified,Elk Grove Elementary,9373 Crowell Drive Elk Grove CA 95624-3562,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4177238090166,-121.363040670921
+Elk Grove Unified,Ellen Feickert Elementary,9351 Feickert Drive Elk Grove CA 95624-2800,9.3,ppb,TRUE,tested,Elk Grove,Sacramento County,38.4174741153009,-121.387769492265
+Elk Grove Unified,Elliott Ranch Elementary,10000 East Taron Drive Elk Grove CA 95757-8194,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.397992,-121.46893
+Elk Grove Unified,Florence Markofer Elementary,9759 Tralee Way Elk Grove CA 95624-2678,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4003970414889,-121.369594104904
+Elk Grove Unified,Foulks Ranch Elementary,6211 Laguna Park Drive Elk Grove CA 95758-4852,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4179512864583,-121.431381182292
+Elk Grove Unified,Franklin High,6400 Whitelock Parkway Elk Grove CA 95757-5928,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.3944119,-121.3980243
+Elk Grove Unified,Harriet G. Eddy Middle,9329 Soaring Oaks Drive Elk Grove CA 95758-6586,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4188134162088,-121.416392653451
+Elk Grove Unified,Helen Carr Castello Elementary,9850 Fire Poppy Drive Elk Grove CA 95757-2851,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.407329,-121.440852
+Elk Grove Unified,James A. McKee Elementary,8701 Halverson Drive Elk Grove CA 95624-1628,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.419564,-121.378969
+Elk Grove Unified,Jessie Baker,8850 Southside Avenue Elk Grove CA 95624-2231,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.40632595,-121.373792308657
+Elk Grove Unified,John Ehrhardt Elementary,8900 Old Creek Drive Elk Grove CA 95758-6150,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.43017,-121.434185
+Elk Grove Unified,Joseph Kerr Middle,8865 Elk Grove Boulevard Elk Grove CA 95624-1828,NA,NA,NA,not tested,Elk Grove,Sacramento County,38.409071,-121.375314020408
+Elk Grove Unified,Joseph Sims Elementary,3033 Buckminster Drive Elk Grove CA 95758-7631,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4199455142958,-121.471048807447
+Elk Grove Unified,Katherine L. Albiani Middle,9140 Bradshaw Road Elk Grove CA 95624-5055,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4254348686869,-121.33479340404
+Elk Grove Unified,Laguna Creek High,9050 Vicino Drive Elk Grove CA 95758-5859,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4274359476695,-121.426703787057
+Elk Grove Unified,Marion Mix Elementary,4730 Laguna Park Drive Elk Grove CA 95758,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4285699435725,-121.44960679615
+Elk Grove Unified,Monterey Trail High,8661 Power Inn Road Elk Grove CA 95624-3467,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4390401212619,-121.392036832652
+Elk Grove Unified,Pleasant Grove High,9531 Bond Road Elk Grove CA 95624-1440,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.423709267765,-121.342424761267
+Elk Grove Unified,Raymond Case Elementary,8565 Shasta Lily Drive Elk Grove CA 95624-3883,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.44331025,-121.385318451607
+Elk Grove Unified,Roy Herburger Elementary,8670 Maranello Drive Elk Grove CA 95624-4511,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.441936,-121.392787285714
+Elk Grove Unified,Stone Lake Elementary,9673 Lakepoint Drive Elk Grove CA 95758-3615,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4098488982086,-121.465025713504
+Elk Grove Unified,Toby Johnson Middle,10099 Franklin High Road Elk Grove CA 95757-5951,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.391054,-121.433183
+Elk Grove Unified,Zehnder Ranch Elementary,9880 Denali Circle  Elk Grove CA 95757,6.4,ppb,TRUE,tested,Elk Grove,Sacramento County,38.39951245,-121.406549096565

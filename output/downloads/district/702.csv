@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Cruz City High,Alternative Family Education,840 North Branciforte Avenue Santa Cruz CA 95062-1028,6.6,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City High,Ark Independent Studies,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City High,Branciforte Middle,315 Poplar Street Santa Cruz CA 95062-1131,NA,NA,NA,not tested,NA,Santa Cruz County,36.9778627,-121.9185237
+Santa Cruz City High,Costanoa Continuation High,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City High,Delta Charter,6500 Soquel Drive Building 1190 Aptos CA 95003-3119,NA,NA,NA,not tested,NA,NA,NA,NA
+Santa Cruz City High,Harbor High,300 La Fonda Avenue Santa Cruz CA 95062-1431,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9868692033249,-121.994696977229
+Santa Cruz City High,Mission Hill Middle,425 King Street Santa Cruz CA 95060-3411,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9748363675906,-122.036134679082
+Santa Cruz City High,Santa Cruz Adult,319 La Fonda Avenue Santa Cruz CA 95062,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9870641022628,-121.994643618961
+Santa Cruz City High,Santa Cruz High,415 Walnut Avenue Santa Cruz CA 95060-3633,24,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.9718398566945,-122.033340386652
+Santa Cruz City High,Soquel High,401 Old San Jose Road Soquel CA 95073-2213,NA,NA,FALSE,tested,NA,Santa Cruz County,36.992659,-121.957341

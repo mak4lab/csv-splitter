@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fullerton Elementary,Acacia Elementary,1200 North Acacia Avenue Fullerton CA 92831-2102,NA,NA,FALSE,tested,Fullerton,Orange County,33.881564,-117.898333
+Fullerton Elementary,Beechwood Elementary,780 Beechwood Avenue Fullerton CA 92835-2777,NA,NA,FALSE,tested,Fullerton,Orange County,33.9012240204082,-117.913868673469
+Fullerton Elementary,Commonwealth Elementary,2200 East Commonwealth Avenue Fullerton CA 92831-4212,NA,NA,FALSE,tested,Fullerton,Orange County,33.870458,-117.893322
+Fullerton Elementary,D. Russell Parks Junior High,1710 Rosecrans Avenue Fullerton CA 92833-1912,NA,NA,FALSE,tested,Fullerton,Orange County,33.8925870164,-117.95252320676
+Fullerton Elementary,Fern Drive Elementary,1400 West Fern Drive Fullerton CA 92833-2331,NA,NA,FALSE,tested,Fullerton,Orange County,33.879717,-117.950959
+Fullerton Joint Union High,Fullerton School District Nutrition Center,389 W Truslow Fullerton CA 92832,12,ppb,TRUE,tested,Fullerton,Orange County,33.8673635073837,-117.930633052243
+Fullerton Joint Union High,Fullerton Union High,201 East Chapman Avenue Fullerton CA 92832-1925,NA,NA,FALSE,tested,Fullerton,Orange County,33.874068,-117.921946
+Fullerton Elementary,Hermosa Drive Elementary,400 East Hermosa Drive Fullerton CA 92835-1654,NA,NA,FALSE,tested,Fullerton,Orange County,33.910129,-117.925059
+Fullerton Joint Union High,La Sierra High (Alternative),951 North State College Boulevard Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8865595974957,-117.889753901115
+Fullerton Joint Union High,La Vista High (Continuation),909 North State College Boulevard Fullerton CA 92831-3013,NA,NA,FALSE,tested,Fullerton,Orange County,33.8780295882353,-117.889768235294
+Fullerton Elementary,Laguna Road Elementary,300 West Laguna Road Fullerton CA 92835-2504,NA,NA,FALSE,tested,Fullerton,Orange County,33.8969291507875,-117.93255654227
+Fullerton Elementary,Maple Elementary,244 East Valencia Drive Fullerton CA 92832-2440,NA,NA,FALSE,tested,Fullerton,Orange County,33.8661560659077,-117.921086986941
+Fullerton Elementary,Nicolas Junior High,1100 West Olive Avenue Fullerton CA 92833-4132,NA,NA,FALSE,tested,Fullerton,Orange County,33.862841,-117.946982
+Fullerton Elementary,Pacific Drive Elementary,1501 West Valencia Drive Fullerton CA 92833-3940,NA,NA,FALSE,tested,Fullerton,Orange County,33.86722235,-117.953194516065
+Fullerton Elementary,Raymond Elementary,517 North Raymond Avenue Fullerton CA 92831-3310,NA,NA,FALSE,tested,Fullerton,Orange County,33.874404,-117.907112
+Fullerton Elementary,Richman Elementary,700 South Richman Avenue Fullerton CA 92832-2724,NA,NA,FALSE,tested,Fullerton,Orange County,33.86483,-117.93297
+Fullerton Elementary,Robert C. Fisler Elementary,1350 Starbuck Street Fullerton CA 92833-5668,NA,NA,FALSE,tested,Fullerton,Orange County,33.8859353990466,-117.962455762968
+Private,Rosary Academy,1340 North Acacia Avenue Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8871689981004,-117.898416464745
+Fullerton Joint Union High,Sunny Hills High,1801 Warburton Way Fullerton CA 92833-2235,NA,NA,FALSE,tested,Fullerton,Orange County,33.8843344,-117.952649971511
+Placentia-Yorba Linda Unified,Topaz Elementary,3232 Topaz Lane Fullerton CA 92831-2609,NA,NA,FALSE,tested,Fullerton,Orange County,33.8860414440503,-117.870068041354
+Fullerton Joint Union High,Troy High,2200 East Dorothy Lane Fullerton CA 92831-3036,NA,NA,FALSE,tested,Fullerton,Orange County,33.881375,-117.895006
+Fullerton Elementary,Valencia Park Elementary,3441 West Valencia Drive Fullerton CA 92833-3131,6.5,ppb,TRUE,tested,Fullerton,Orange County,33.8664844480449,-117.975626491358
+Fullerton Elementary,Woodcrest Elementary,455 West Baker Avenue Fullerton CA 92832-3269,NA,NA,FALSE,tested,Fullerton,Orange County,33.8569155,-117.9450043

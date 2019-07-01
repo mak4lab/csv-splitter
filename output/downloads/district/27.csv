@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Antelope Valley Union High,Antelope Valley Adult/Independent Study,45110 Third Street East Lancaster CA 93535-2502,NA,NA,NA,not tested,NA,NA,NA,NA
+Antelope Valley Union High,Antelope Valley High,44900 North Division Street Lancaster CA 93535-2538,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6986502630857,-118.13031687393
+Antelope Valley Union High,Desert Pathways,6300 West Avenue L Quartz Hill CA 93536,11,ppb,TRUE,tested,Lancaster,Los Angeles County,34.6600908291511,-118.241410492059
+Antelope Valley Union High,Desert Winds Continuation High,415 East Kettering Street Lancaster CA 93535-2503,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.700494231872,-118.123380731851
+Antelope Valley Union High,Eastside High,3200 East Avenue J-8 Lancaster CA 93535-5827,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6824136827309,-118.073302686747
+Antelope Valley Union High,Highland High,39055 25th Street West Palmdale CA 93551-4164,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.594272,-118.174222
+Antelope Valley Union High,Knight Prep Academy,37423 70th Street East Palmdale CA 93552-4800,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.6753153,-118.005198
+Antelope Valley Union High,Lancaster High,44701 32nd Street West Lancaster CA 93536-7023,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.69433735,-118.190410053602
+Antelope Valley Union High,Littlerock High,10833 East Avenue R Littlerock CA 93543-4106,NA,NA,FALSE,tested,NA,NA,NA,NA
+Antelope Valley Union High,Palmdale High,2137 East Avenue R Palmdale CA 93550-5415,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.572799,-118.091635
+Antelope Valley Union High,Palmdale Preparatory Academy,2270 East Avenue Q Palmdale CA 93550-4141,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5873661016949,-118.086688254237
+Antelope Valley Union High,Phoenix High Community Day,"228 East Ave, H8 Lancaster CA 93536",NA,NA,NA,not tested,NA,NA,NA,NA
+Antelope Valley Union High,Quartz Hill High,6040 West Avenue L Quartz Hill CA 93536-4501,5.4,ppb,TRUE,tested,Lancaster,Los Angeles County,34.6601004236177,-118.238030011816
+Antelope Valley Union High,R. Rex Parris High,38801 Clock Tower Plaza Drive Palmdale CA 93550-3346,NA,NA,FALSE,tested,NA,NA,NA,NA
+Antelope Valley Union High,SOAR High (Students On Academic Rise),3041 West Avenue K Lancaster CA 93536-5426,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6749239638333,-118.18717311757
+Antelope Valley Union High,SOAR Prep Academy,6300 West Ave. L Quartz Hill CA 93536,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6600908291511,-118.241410492059
+Antelope Valley Union High,William J. (Pete) Knight High,37423 70th Street East Palmdale CA 93552-4800,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.6753153,-118.005198

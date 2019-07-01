@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oakdale Joint Unified,East Stanislaus High,250 Hinkley Avenue Oakdale CA 95361-3609,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7606538571429,-120.856927265306
+Oakdale Joint Unified,Fair Oaks Elementary,151 North Lee Avenue Oakdale CA 95361-3314,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7640617635466,-120.865788871715
+Oakdale Joint Unified,Magnolia Elementary,739 Magnolia Street Oakdale CA 95361-9625,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7671983892618,-120.855988194631
+Oakdale Joint Unified,Oakdale Charter,1235 East D Street Oakdale CA 95361-3223,7.7,ppb,TRUE,tested,Oakdale,Stanislaus County,37.7728705157102,-120.839108300171
+Oakdale Joint Unified,Oakdale High,739 West G Street Oakdale CA 95361-3739,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.761504,-120.856099
+Oakdale Joint Unified,Sierra View Elementary,1323 East J Street Oakdale CA 95361-8860,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.7646037272727,-120.833025590909

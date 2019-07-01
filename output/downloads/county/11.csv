@@ -1,0 +1,47 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Southern Humboldt Joint Unified,Agnes J. Johnson  Elementary,73 School Road Weott CA 95571-0280,NA,NA,FALSE,tested,NA,Humboldt County,40.3213620934115,-123.925004105459
+Eureka City Schools,Alice Birney Elementary,717 South Avenue Eureka CA 95503-5041,NA,NA,FALSE,tested,Eureka,Humboldt County,40.777503,-124.17910989899
+Private,Arcata Christian,1700 Union Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8740094,-124.0752953
+Arcata Elementary,Arcata Elementary,2400 Baldwin Street Arcata CA 95521-5168,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8823865,-124.0863315
+Northern Humboldt Union High,Arcata High,1720 M Street Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Eureka City Schools,Catherine L. Zane Middle,2155 S Street Eureka CA 95501-3140,NA,NA,FALSE,tested,Eureka,Humboldt County,40.7878168888889,-124.148956444444
+Arcata Elementary,Coastal Grove Charter,1897 S Street Arcata CA 95521-5474,NA,NA,FALSE,tested,Arcata,Humboldt County,40.87696624,-124.0986303
+Cutten Elementary,Cutten Elementary,4182 Walnut Drive Eureka CA 95503-6223,NA,NA,FALSE,tested,Eureka,Humboldt County,40.7665108181818,-124.143080454545
+McKinleyville Union Elementary,Dow's Prairie Elementary,3940 Dows Prairie Road McKinleyville CA 95519-9444,NA,NA,NA,not tested,NA,Humboldt County,40.9769053559819,-124.095948618975
+Rio Dell Elementary,Eagle Prairie Elementary,95 Center Street Rio Dell CA 95562-1323,NA,NA,NA,not tested,Rio Dell,Humboldt County,40.501647902439,-124.105873341463
+Humboldt County Office of Education,Eel River Community,2292 Newburg Road Fortuna CA 95540-2814,NA,NA,NA,not tested,NA,Humboldt County,40.5894231136172,-124.142015966124
+Eureka City Schools,Eureka Senior High,1915 J Street Eureka CA 95501-3052,NA,NA,FALSE,tested,Eureka,Humboldt County,40.78977,-124.158785857143
+Ferndale Unified,Ferndale Elementary,164 Shaw Avenue Ferndale CA 95536-9781,NA,NA,FALSE,tested,Ferndale,Humboldt County,40.5779584444444,-124.26670559596
+Ferndale Unified,Ferndale High,1231 Main Street Ferndale CA 95536-9416,NA,NA,FALSE,tested,Ferndale,Humboldt County,40.584493,-124.25977
+Fortuna Union High,Fortuna Adult Education,379 12th Street Fortuna CA 95540-2357,NA,NA,NA,not tested,NA,Humboldt County,40.5943979387755,-124.15437522449
+Fortuna Elementary,Fortuna Middle,843 L Street Fortuna CA 95540-1921,NA,NA,NA,not tested,NA,Humboldt County,40.5970815714286,-124.158300142857
+Fortuna Union High,Fortuna Union High,379 12th Street Fortuna CA 95540-2398,NA,NA,NA,not tested,NA,Humboldt County,40.5943979387755,-124.15437522449
+Arcata Elementary,Fuente Nueva Charter,1730 Janes Road Arcata CA 95521-9623,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8805074341721,-124.100576169265
+Garfield Elementary,Garfield Elementary,2200 Freshwater Road Eureka CA 95503-9562,NA,NA,FALSE,tested,NA,Humboldt County,40.7615187,-124.0617242
+Eureka City Schools,Grant Elementary,3901 G Street Eureka CA 95503-6009,NA,NA,FALSE,tested,Eureka,Humboldt County,40.771025,-124.16239
+Hydesville Elementary,Hydesville Elementary,3050 Johnson Road Hydesville CA 95547-0551,7.5,ppb,TRUE,tested,NA,Humboldt County,40.5496789795918,-124.09262355102
+Jacoby Creek Elementary,Jacoby Creek,1617 Old Arcata Road Bayside CA 95524-9301,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8469191428571,-124.067021285714
+Northern Humboldt Union High,Laurel Tree Charter,4555 Valley West Boulevard Arcata CA 95521-4683,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8987099034491,-124.081544090188
+Loleta Union Elementary,Loleta Elementary,700 Loleta Drive Loleta CA 95551-0547,5.6,ppb,TRUE,tested,NA,Humboldt County,40.641844,-124.210253
+Northern Humboldt Union High,McKinleyville High,1300 Murray Road McKinleyville CA 95519-3503,NA,NA,NA,not tested,NA,Humboldt County,40.956315,-124.1066375
+McKinleyville Union Elementary,McKinleyville Middle,2285 Central Avenue McKinleyville CA 95519-3685,NA,NA,NA,not tested,NA,Humboldt County,40.9516707,-124.1009355
+Rio Dell Elementary,Monument Middle,95 Center Street Rio Dell CA 95562-1323,NA,NA,NA,not tested,Rio Dell,Humboldt County,40.501647902439,-124.105873341463
+McKinleyville Union Elementary,Morris Elementary,2395 McKinleyville Avenue McKinleyville CA 95519-3479,NA,NA,NA,not tested,NA,Humboldt County,40.948753613209,-124.11049195771
+Fortuna Elementary,Norman G. Ambrosini Elementary,3850 Rohnerville Road Fortuna CA 95540-3122,NA,NA,NA,not tested,NA,Humboldt County,40.58049095,-124.132674275242
+Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8560315269896,-124.071069330447
+Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8727448163265,-124.096423183673
+Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8736820601532,-124.082910176173
+Northern Humboldt Union High,Pacific Coast High (Continuation),1720 M Street B Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Pacific Union Elementary,Pacific Union Elementary,3001 Janes Road Arcata CA 95521-4701,NA,NA,FALSE,tested,Arcata,Humboldt County,40.89470695,-124.092477612123
+Southern Humboldt Joint Unified,Redway Elementary,344 Humboldt Avenue Redway CA 95560-0369,NA,NA,NA,not tested,NA,Humboldt County,40.120006,-123.825261
+Fortuna Elementary,Redwood Preparatory Charter,1355 Ross Hill Road Fortuna CA 95540-3463,NA,NA,NA,not tested,NA,Humboldt County,40.5762540691637,-124.145723205651
+Northern Humboldt Union High,Six Rivers Charter High,1720 M St. Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Private,Six Rivers Montessori,1222 Hallen Drive Arcata CA 95521,5.9,ppb,TRUE,tested,Arcata,Humboldt County,40.9007461942767,-124.079820392045
+Fortuna Elementary,South Fortuna Elementary,2089 Newburg Road Fortuna CA 95540-2706,NA,NA,NA,not tested,NA,Humboldt County,40.5886909183673,-124.145488612245
+Arcata Elementary,Sunny Brae Middle,1430 Buttermilk Lane Arcata CA 95521-6910,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8574316666667,-124.066796833333
+Fortuna Elementary,Toddy Thomas Elementary,2800 Thomas Street Fortuna CA 95540-3539,NA,NA,NA,not tested,NA,Humboldt County,40.5685251,-124.136316392655
+Pacific Union Elementary,Trillium Charter,1464 Spear Avenue Arcata CA 95521-4882,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8901111702905,-124.086857837534
+Trinidad Union Elementary,Trinidad Elementary,300 Trinity Street Trinidad CA 95570-3030,7.199999999999999,ppb,TRUE,tested,Trinidad,Humboldt County,41.060979,-124.143269
+Arcata Elementary,Union Street Charter,470 Union Street Arcata CA 95521-6429,5.4,ppb,TRUE,tested,Arcata,Humboldt County,40.862904104894,-124.076941706909
+Eureka City Schools,Washington Elementary,3322 Dolbeer Street Eureka CA 95503-5633,NA,NA,FALSE,tested,Eureka,Humboldt County,40.7782134324324,-124.142129324324
+Eureka City Schools,Zoe Barnum High,216 West Harris Street Eureka CA 95501-4074,NA,NA,FALSE,tested,Eureka,Humboldt County,40.780565,-124.173279

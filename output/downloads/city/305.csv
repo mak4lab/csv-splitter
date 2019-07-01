@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sonoma Valley Unified,Adele Harrison Middle,1150 Broadway Sonoma CA 95476-7578,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2811779459459,-122.459415324324
+Sonoma Valley Unified,Creekside High,950 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2838804596685,-122.458983748333
+Sonoma Valley Unified,Flowery Elementary,17600 Sonoma Highway Sonoma CA 95476-3699,NA,NA,FALSE,tested,Sonoma,Sonoma County,38.2966388,-122.4755041
+Sonoma Valley Unified,Prestwood Elementary,343 East MacArthur Street Sonoma CA 95476-7617,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2840679673219,-122.452840758
+Sonoma Valley Unified,Sonoma Valley High,20000 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2831778,-122.457826582208

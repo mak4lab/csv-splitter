@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Loomis Union Elementary,Franklin Elementary,7050 Franklin School Road Loomis CA 95650-8952,NA,NA,FALSE,tested,NA,NA,NA,NA
+Loomis Union Elementary,H. Clarke Powers Elementary,3296 Humphrey Road Loomis CA 95650-9043,NA,NA,FALSE,tested,NA,Placer County,38.8300614778688,-121.201147225758
+Loomis Union Elementary,Loomis Basin Charter School,5438 Laird Road Loomis CA 95650,NA,NA,FALSE,tested,NA,Placer County,38.7893919477022,-121.170069684684
+Loomis Union Elementary,Loomis Elementary,3505 Taylor Road Loomis CA 95650-9501,NA,NA,FALSE,tested,NA,Placer County,38.8237344853227,-121.1917907162
+Loomis Union Elementary,Penryn Elementary,6885 English Colony Way Penryn CA 95663-9531,NA,NA,NA,not tested,NA,Placer County,38.854735,-121.176193149474
+Loomis Union Elementary,Placer Elementary,8650 Horseshoe Bar Road Loomis CA 95650-9777,NA,NA,FALSE,tested,NA,Placer County,38.8094739329986,-121.142649807005

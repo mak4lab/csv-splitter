@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Saint Helena Unified,Robert Louis Stevenson Intermediate,1316 Hillview Place St. Helena CA 94574-1720,NA,NA,FALSE,tested,St. Helena,Napa County,38.506773244898,-122.47569955102
+Saint Helena Unified,Saint Helena Elementary,1325 Adams Street St. Helena CA 94574-1937,NA,NA,FALSE,tested,St. Helena,Napa County,38.5042629081633,-122.471408285714
+Saint Helena Unified,Saint Helena High,1401 Grayson Avenue St. Helena CA 94574-2128,NA,NA,FALSE,tested,St. Helena,Napa County,38.4971311,-122.4627577
+Saint Helena Unified,Saint Helena Primary,1701 Grayson Avenue St. Helena CA 94574-2106,NA,NA,FALSE,tested,St. Helena,Napa County,38.4945047859532,-122.466913625418

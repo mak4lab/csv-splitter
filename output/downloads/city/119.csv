@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0353581122449,-117.321012857143
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0427279618655,-117.308629244568

@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newport-Mesa Unified,Corona del Mar High,2101 Eastbluff Drive Newport Beach CA 92660-4530,NA,NA,FALSE,tested,Newport Beach,Orange County,33.631196,-117.874638
+Newport-Mesa Unified,Eastbluff Elementary,2627 Vista del Oro Newport Beach CA 92660-3548,5.3,ppb,TRUE,tested,Newport Beach,Orange County,33.639713,-117.882194
+Newport-Mesa Unified,Harbor View Elementary,900 Goldenrod Avenue Corona Del Mar CA 92625-1503,NA,NA,FALSE,tested,Newport Beach,Orange County,33.6037281682096,-117.869954441113
+Newport-Mesa Unified,Horace Ensign Intermediate,2000 Cliff Drive Newport Beach CA 92663-5223,NA,NA,FALSE,tested,Newport Beach,Orange County,33.61934485,-117.915891711664
+Imperial Valley ROP,Imperial Valley ROP,687 State Street El Centro CA 92243-2943,NA,NA,NA,not tested,Newport Beach,Orange County,33.6112144782609,-117.914600826087
+Newport-Mesa Unified,Mariners Elementary,2100 Mariners Drive Newport Beach CA 92660-4633,NA,NA,FALSE,tested,Newport Beach,Orange County,33.630623,-117.904865
+Newport-Mesa Unified,Newport Coast Elementary,6655 Ridge Park Road Newport Beach CA 92657-1232,NA,NA,FALSE,tested,Newport Beach,Orange County,33.6068513,-117.8293217
+Newport-Mesa Unified,Newport Elementary,1327 West Balboa Boulevard Newport Beach CA 92661-1043,NA,NA,FALSE,tested,Newport Beach,Orange County,33.6065849851541,-117.918037474381
+Newport-Mesa Unified,Newport Harbor High,600 Irvine Avenue Newport Beach CA 92663-5412,NA,NA,FALSE,tested,Newport Beach,Orange County,33.622894,-117.914068
+Newport-Mesa Unified,Newport Heights Elementary,300 East 15th Street Newport Beach CA 92663-4840,6.15,ppb,TRUE,tested,Newport Beach,Orange County,33.626182,-117.918875
+El Centro Elementary,Sunflower Elementary,2450 Main Street El Centro CA 92243-3577,NA,NA,FALSE,tested,Newport Beach,Orange County,33.614761,-117.9220856

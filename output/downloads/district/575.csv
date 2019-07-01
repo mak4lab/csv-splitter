@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Penn Valley Union Elementary,Ready Springs Elementary,10862 Spenceville Road Penn Valley CA 95946-9625,NA,NA,FALSE,tested,NA,Nevada County,39.134316,-121.236191
+Penn Valley Union Elementary,Vantage Point Charter,10862 Spenceville Rd Penn Valley CA 95946-9625,26,ppb,TRUE,tested,NA,Nevada County,39.134316,-121.236191
+Penn Valley Union Elementary,Williams Ranch Elementary,14804 Pleasant Valley Road Penn Valley CA 95946-9722,NA,NA,FALSE,tested,NA,NA,NA,NA

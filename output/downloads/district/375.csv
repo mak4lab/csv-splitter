@@ -1,0 +1,27 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Elsinore Unified,Canyon Lake Middle,33005 Canyon Hills Road Lake Elsinore CA 92532-2534,NA,NA,FALSE,tested,NA,Riverside County,33.6688272,-117.2314129
+Lake Elsinore Unified,Cottonwood Canyon Elementary,32100 Lost Road Lake Elsinore CA 92532-2502,NA,NA,FALSE,tested,NA,Riverside County,33.6498025,-117.2591443
+Lake Elsinore Unified,David A. Brown Middle,21861 Grand Avenue Wildomar CA 92595-9632,NA,NA,FALSE,tested,NA,Riverside County,33.595297663811,-117.27427420879
+Lake Elsinore Unified,Donald Graham Elementary,35450 Frederick Street Wildomar CA 92595-9686,NA,NA,FALSE,tested,NA,Riverside County,33.6054082345838,-117.258091433303
+Lake Elsinore Unified,Earl Warren Elementary,41221 Rosetta Canyon Road Lake Elsinore CA 92532-1648,6.5,ppb,TRUE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Elsinore Elementary,512 West Sumner Avenue Lake Elsinore CA 92530-3648,NA,NA,NA,not tested,NA,Riverside County,33.6729683747226,-117.331476465211
+Lake Elsinore Unified,Elsinore High,21800 Canyon Drive Wildomar CA 92595-9181,NA,NA,FALSE,tested,NA,Riverside County,33.623364,-117.275562
+Lake Elsinore Unified,Elsinore Middle,1203 West Graham Avenue Lake Elsinore CA 92530-3318,NA,NA,NA,not tested,NA,Riverside County,33.6714516433056,-117.339460225229
+Lake Elsinore Unified,Heald Academy Child Development Center,601 W Heald Ave Lake Elsinore CA 92530,6,ppb,TRUE,tested,NA,Riverside County,33.671638,-117.333134
+Lake Elsinore Unified,Jeannette Ellis Center,411 W Heald Ave Lake Elsinore CA 92530,NA,NA,FALSE,tested,NA,Riverside County,33.6710495605186,-117.330973097325
+Lake Elsinore Unified,Keith McCarthy Academy,4305 Education Way Lake Elsinore CA 92530-2711,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Lakeland Village,18730 Grand Avenue Lake Elsinore CA 92530-6256,NA,NA,FALSE,tested,NA,Riverside County,33.6588395,-117.376661
+Lake Elsinore Unified,Lakeside High,32593 Riverside Drive Lake Elsinore CA 92530-7802,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Luiseno,13500 Mountain Road Corona CA 92883-6227,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Machado Elementary,15150 Joy Street Lake Elsinore CA 92530-7912,NA,NA,FALSE,tested,NA,Riverside County,33.6810878334508,-117.372475751384
+Lake Elsinore Unified,Ortega High,520 Chaney Street Building 100 Lake Elsinore CA 92530-1230,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Railroad Canyon Elementary,1300 Mill Street Lake Elsinore CA 92530-4377,NA,NA,FALSE,tested,NA,Riverside County,33.665164,-117.310756
+Lake Elsinore Unified,Rice Canyon Elementary,29535 Westwind Drive Lake Elsinore CA 92530-1242,6,ppb,TRUE,tested,NA,Riverside County,33.6964514,-117.4016088
+Lake Elsinore Unified,Ronald Reagan Elementary,35445 Porras Road Wildomar CA 92595-7683,NA,NA,FALSE,tested,NA,Riverside County,33.6073973,-117.2407122
+Lake Elsinore Unified,Sycamore Academy of Science and Cultural Arts,23151 Palomar Street Wildomar CA 92595-7317,NA,NA,NA,not tested,Murrieta,Riverside County,33.58750777545,-117.249563602886
+Lake Elsinore Unified,Temescal Canyon High,28755 El Toro Road Lake Elsinore CA 92532-1912,NA,NA,FALSE,tested,NA,Riverside County,33.7417341,-117.3364178
+Lake Elsinore Unified,Terra Cotta Middle,29291 Lake Street Lake Elsinore CA 92530-1801,NA,NA,FALSE,tested,NA,Riverside County,33.697963080857,-117.390146875343
+Lake Elsinore Unified,Tuscany Hills Elementary,23 Ponte Russo Lake Elsinore CA 92532-0500,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Wildomar Elementary,21575 Palomar Road Wildomar CA 92595-7441,8.1,ppb,TRUE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,William Collier Elementary,20150 Mayhall Drive Wildomar CA 92595-8272,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lake Elsinore Unified,Withrow Elementary,30100 Audelo Street Lake Elsinore CA 92530-7300,NA,NA,FALSE,tested,NA,Riverside County,33.6821342080537,-117.394233389262

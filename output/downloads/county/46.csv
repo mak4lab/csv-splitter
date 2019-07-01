@@ -1,0 +1,60 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Enterprise Elementary,Alta Mesa Elementary,2301 Saturn Skyway Redding CA 96002-2813,NA,NA,FALSE,tested,NA,Shasta County,40.5559803527103,-122.326746000565
+Cascade Union Elementary,Anderson Heights Elementary,1530 Spruce Street Anderson CA 96007-4369,NA,NA,NA,not tested,Anderson,Shasta County,40.4367842317335,-122.293100981361
+Anderson Union High,Anderson High,1471 Ferry Street Anderson CA 96007-3313,NA,NA,NA,not tested,Anderson,Shasta County,40.4443678585859,-122.305756252525
+Anderson Union High,Anderson New Technology High,2098 North Street Anderson CA 96007-3477,NA,NA,NA,not tested,Anderson,Shasta County,40.451721125,-122.299701325
+Private,Bethel Christian School,933 College View Drive Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.60984615,-122.358455704845
+Redding Elementary,Bonny View Elementary,5080 Bidwell Road Redding CA 96001-4255,6.9,ppb,TRUE,tested,Redding,Shasta County,40.5438584395135,-122.378373758234
+Enterprise Elementary,Boulder Creek Elementary,505 Springer Drive Redding CA 96003-4592,7.01,ppb,TRUE,tested,Redding,Shasta County,40.5994144757057,-122.343140717477
+Gateway Unified,Buckeye School of the Arts,3407 Hiatt Drive Redding CA 96003-1204,NA,NA,FALSE,tested,Redding,Shasta County,40.6309307532641,-122.403425454187
+Fall River Joint Unified,Burney Community Day,20375 Tamarack  Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.8787465380667,-121.672734811471
+Fall River Joint Unified,Burney Elementary Community Day,20375 Tamarack Ave Burney CA 96013-4054,NA,NA,NA,not tested,NA,Shasta County,40.8787465380667,-121.672734811471
+Fall River Joint Unified,Burney Junior-Senior High,37571 Mountain View Road Burney CA 96013-4350,NA,NA,FALSE,tested,NA,Shasta County,40.8848454285714,-121.64847
+Castle Rock Union Elementary,Castle Rock Elementary,29373 Main Street Castella CA 96017-0180,NA,NA,NA,not tested,NA,Shasta County,41.1400869628481,-122.318069922601
+Gateway Unified,Central Valley High,4066 La Mesa Avenue Shasta Lake CA 96019-9243,NA,NA,FALSE,tested,Shasta Lake,Shasta County,40.677732,-122.373345
+Columbia Elementary,Columbia Elementary,10142 Old Oregon Trail Redding CA 96003-7995,NA,NA,FALSE,tested,Redding,Shasta County,40.5240506,-122.2907727
+Private,Country Christian School,873 Canby Road Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.594023,-122.353392
+Redding Elementary,Cypress Elementary,2150 Civic Center Drive Redding CA 96001-2704,NA,NA,FALSE,tested,Redding,Shasta County,40.5759093484848,-122.380326565657
+Shasta Union High,Enterprise High,3411 Churn Creek Road Redding CA 96002-2798,NA,NA,FALSE,tested,Redding,Shasta County,40.5582849,-122.350733639744
+Fall River Joint Unified,Fall River Community Day,44144 A Street McArthur CA 96056-8556,NA,NA,FALSE,tested,NA,Shasta County,41.0512483061224,-121.402249836735
+Fall River Joint Unified,Fall River Elementary,24977 Curve Street Fall River Mills CA 96028-9798,NA,NA,FALSE,tested,NA,Shasta County,41.0065364923503,-121.440878997258
+Fall River Joint Unified,Fall River Junior-Senior High,44215 Walnut Street McArthur CA 96056-8555,NA,NA,FALSE,tested,NA,Shasta County,41.0465915743602,-121.399831008865
+Shasta Union High,Foothill High,9733 Deschutes Road Palo Cedro CA 96073-8644,NA,NA,FALSE,tested,NA,Shasta County,40.573534,-122.238647
+Shasta Union High,Freedom High Mary Community Day,590 Mary Street Redding CA 96001,NA,NA,NA,not tested,Redding,Shasta County,40.5912902487258,-122.408959492598
+French Gulch-Whiskeytown Elementary,French Gulch-Whiskeytown Elementary,11442 Cline Gulch Road French Gulch CA 96033-0368,NA,NA,NA,not tested,NA,Shasta County,40.707583061501,-122.634859569962
+Gateway Unified,Gateway Educational Options,3500 Tamarack Dr. Redding CA 96003-1747,6.66,ppb,TRUE,tested,Redding,Shasta County,40.618402,-122.400966
+Gateway Unified,Grand Oaks Elementary,5309 Grand Avenue Shasta Lake CA 96019-9707,NA,NA,FALSE,tested,Shasta Lake,Shasta County,40.6825948609749,-122.352668939546
+Grant Elementary,Grant Elementary,8835 Swasey Drive Redding CA 96001-9722,10,ppb,TRUE,tested,NA,Shasta County,40.576363,-122.479356
+Redding Elementary,Juniper,375 Ellis Street Redding CA 96001-3644,NA,NA,FALSE,tested,Redding,Shasta County,40.5634444285714,-122.381893142857
+Enterprise Elementary,Lassen View Elementary,705 Loma Vista Drive Redding CA 96002-3113,NA,NA,FALSE,tested,Redding,Shasta County,40.5493019210526,-122.358782199248
+Redding Elementary,Manzanita Elementary,1240 Manzanita Hills Avenue Redding CA 96001-1348,7.3,ppb,TRUE,tested,Redding,Shasta County,40.5816960657577,-122.411980248561
+Cascade Union Elementary,Meadow Lane Elementary,2770 Balls Ferry Road Anderson CA 96007-3537,NA,NA,NA,not tested,Anderson,Shasta County,40.4530315,-122.2705466
+Enterprise Elementary,Mistletoe Elementary,1225 Mistletoe Lane Redding CA 96002-0720,NA,NA,FALSE,tested,Redding,Shasta County,40.5783060765931,-122.348893119759
+Private,Montessori Children's House of Shady Oaks,1410 Victor Avenue Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.5873746,-122.3389049
+Gateway Unified,Mountain Lakes High,17752 Shasta Dam Boulevard Shasta Lake CA 96019-8401,6.78,ppb,TRUE,tested,Shasta Lake,Shasta County,40.6803493,-122.3591706
+Fall River Joint Unified,Mountain View High (Continuation),20375 Tamarack Avenue Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.8787465380667,-121.672734811471
+Columbia Elementary,Mountain View Middle,675 Shasta View Drive Redding CA 96003-8287,NA,NA,FALSE,tested,Redding,Shasta County,40.59577985,-122.324990729285
+Fall River Joint Unified,Mt. Burney Special Education Center,37577 Mountain View Road Burney CA 96013,NA,NA,FALSE,tested,NA,Shasta County,40.8848275510204,-121.648369285714
+North Cow Creek Elementary,North Cow Creek Elementary,10619 Swede Creek Road Palo Cedro CA 96073-9742,NA,NA,FALSE,tested,NA,Shasta County,40.5928576530612,-122.231770244898
+Anderson Union High,North Valley High,20083 Olinda Road Anderson CA 96007-8291,NA,NA,NA,not tested,Anderson,Shasta County,40.4413888926646,-122.323959428724
+Private,"North Valley School, Redding",855 Canyon Road Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.488719,-122.393509
+Enterprise Elementary,PACE Academy,3200 Adams Lane Redding CA 96002-2813,NA,NA,FALSE,tested,Redding,Shasta County,40.56009,-122.355513
+Enterprise Elementary,Parsons Junior High,750 Hartnell Avenue Redding CA 96002-2120,9.8,ppb,TRUE,tested,Redding,Shasta County,40.5653095,-122.357405289473
+Private,Redding Adventist Academy,1356 East Cypress Avenue Redding CA 96002,15,ppb,TRUE,tested,Redding,Shasta County,40.5708972708333,-122.346220020833
+Private,Redding Christian School,21945 Old 44 Drive Palo Cedro CA 96073,5.29,ppb,TRUE,tested,NA,Shasta County,40.5636822653061,-122.240202265306
+Enterprise Elementary,Redding Collegiate Academy,3200 Adams Ln Redding CA 96002-2523,NA,NA,NA,not tested,Redding,Shasta County,40.56009,-122.355513
+Shasta County Office of Education,Redding STEM Academy,3711 Oasis Rd. B Redding CA 96003-0397,NA,NA,NA,not tested,Redding,Shasta County,40.6311187755102,-122.397704520408
+Enterprise Elementary,Rother Elementary,795 Hartnell Avenue Redding CA 96002-2121,13.1,ppb,TRUE,tested,Redding,Shasta County,40.5639006434295,-122.356517867247
+Redding Elementary,Sequoia Middle,1805 Sequoia Street Redding CA 96001-1247,NA,NA,FALSE,tested,Redding,Shasta County,40.5832735612245,-122.381207204082
+Shasta Union High,Shasta Adult Education,590 Mary Street Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.5912902487258,-122.408959492598
+Shasta County Office of Education,Shasta County Special Education,3711 Oasis Road Redding CA 96003-0397,NA,NA,NA,not tested,Redding,Shasta County,40.6311187755102,-122.397704520408
+Shasta Union Elementary,Shasta Elementary,10446 Red Bluff Road Shasta CA 96087-3473,NA,NA,FALSE,tested,NA,Shasta County,40.5913227142857,-122.487364357143
+Shasta Union High,Shasta High,2500 Eureka Way Redding CA 96001-0335,NA,NA,FALSE,tested,Redding,Shasta County,40.5882274,-122.410526312513
+Gateway Unified,Shasta Lake,4620 Vallecito Street Shasta Lake CA 96019-9348,5.87,ppb,TRUE,tested,Shasta Lake,Shasta County,40.6745818787879,-122.363684242424
+Enterprise Elementary,Shasta Meadows Elementary,2825 Yana Avenue Redding CA 96002-1493,NA,NA,FALSE,tested,Redding,Shasta County,40.5663341176471,-122.33697176470601
+Shasta-Trinity ROP,Shasta-Trinity ROP,4659 Eastside Road Redding CA 96001-4254,NA,NA,FALSE,tested,Redding,Shasta County,40.546766122449,-122.385867020408
+Private,St. Joseph,2460 Gold Street Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.5767000816327,-122.403394265306
+Redding Elementary,Stellar Charter,5885 E Bonnyview Road Redding CA 96001-4535,NA,NA,FALSE,tested,Redding,Shasta County,40.5317690555556,-122.374369166667
+Redding Elementary,Sycamore Elementary,1926 Sycamore Drive Redding CA 96001-4870,NA,NA,FALSE,tested,Redding,Shasta County,40.5234710801089,-122.388783442501
+Redding Elementary,Turtle Bay,1330 Arboretum Drive Redding CA 96003-3603,NA,NA,FALSE,tested,Redding,Shasta County,40.59745225,-122.383724981363
+Shasta Union High,University Preparatory,2200 Eureka Way Redding CA 96001-0337,6.7,ppb,TRUE,tested,Redding,Shasta County,40.5875051,-122.406434172333

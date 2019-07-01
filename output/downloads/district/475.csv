@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mojave Unified,Douglas (East Kern Community School),3200 Pat Avenue Mojave CA 93501-1344,NA,NA,FALSE,tested,NA,Kern County,35.049989,-118.189802
+Mojave Unified,Mojave Elementary,"15800 ""O"" Street Mojave CA 93501-1344",NA,NA,FALSE,tested,NA,Kern County,35.0532516100629,-118.167166528302
+Mojave Unified,Mojave Jr./Sr. High,15732 O Street Mojave CA 93501-1751,5.4,ppb,TRUE,tested,NA,Kern County,35.0530112578616,-118.167162037736

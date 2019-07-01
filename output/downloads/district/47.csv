@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Banning Unified,Banning Adult,1151 West Wilson Street Banning CA 92220-5529,NA,NA,FALSE,tested,NA,NA,NA,NA
+Banning Unified,Banning Headstart Preschool,671 North Florida St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Banning Unified,Banning High,100 West Westward Banning CA 92220-4922,NA,NA,FALSE,tested,Banning,Riverside County,33.917996,-116.882912
+Banning Unified,Banning Independent Study,1151 West Wilson St Banning CA 92220-5529,NA,NA,FALSE,tested,NA,NA,NA,NA
+Banning Unified,Cabazon Elementary,50575 Carmen Avenue Cabazon CA 92230-4101,NA,NA,NA,not tested,NA,Riverside County,33.910593,-116.782737
+Banning Unified,Central Elementary,295 North San Gorgonio Avenue Banning CA 92220-5519,8.3,ppb,TRUE,tested,Banning,Riverside County,33.9452437,-116.876906
+Banning Unified,Florida Street Discovery Center,671 North Florida Street Banning CA 92220-5678,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Banning Unified,Hemmerling Elementary,1928 West Nicolet Street Banning CA 92220-4032,NA,NA,FALSE,tested,Banning,Riverside County,33.9288128005828,-116.897940719835
+Banning Unified,Hoffer Elementary,1115 East Hoffer Street Banning CA 92220-2723,NA,NA,FALSE,tested,Banning,Riverside County,33.9345168027913,-116.863363952972
+Banning Unified,Milo P Johnson Center for Learning,671 N Florida St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Banning Unified,New Horizon High,1151 West Wilson Street B Banning CA 92220-4378,NA,NA,FALSE,tested,NA,NA,NA,NA
+Banning Unified,Nicolet Middle,101 East Nicolet Street Banning CA 92220-5551,NA,NA,FALSE,tested,Banning,Riverside County,33.92899,-116.875522
+Banning Unified,Renu Hope Preschool,771 West Williams Banning CA 92220-4758,NA,NA,FALSE,tested,NA,NA,NA,NA
+Banning Unified,Susan B Coombs Intermediate School,1151 W Wilson St Banning CA 92220,NA,NA,FALSE,tested,NA,NA,NA,NA

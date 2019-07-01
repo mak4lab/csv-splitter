@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Saddleback Valley Unified,Laguna Hills High,25401 Paseo de Valencia Laguna Hills CA 92653-5395,NA,NA,NA,not tested,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Laguna Hills HS,"25401 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Lomarena Elem.,"25100 Earhart Rd, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.595578,-117.691131
+Saddleback Valley Unified,Lomarena Elementary,25100 Earhart Road Laguna Hills CA 92653-5257,NA,NA,NA,not tested,Laguna Hills,Orange County,33.595578,-117.691131
+Saddleback Valley Unified,San Joaquin Elementary,22182 Barbera Laguna Hills CA 92653-1899,NA,NA,FALSE,tested,Laguna Hills,Orange County,33.6178583627239,-117.742621126621
+Saddleback Valley Unified School Distict,San Joaquin Elementary School,"22182 Barbera, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.6178583627239,-117.742621126621
+Saddleback Valley Unified,Valencia Elem.,"25661 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Valencia Elementary,25661 Paseo de Valencia Laguna Hills CA 92653-5308,NA,NA,NA,not tested,Laguna Hills,Orange County,33.6058601,-117.705084

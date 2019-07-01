@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Corona-Norco Unified,Corona Ranch Elementary,785 Village Loop Drive Corona CA 92879-8835,NA,NA,FALSE,tested,Norco,Riverside County,33.893413,-117.543037
+Corona-Norco Unified,Highland Elementary,2301 Alhambra Street Norco CA 92860-1109,88.5,ppb,TRUE,tested,Norco,Riverside County,33.93992545,-117.564793040822
+Corona-Norco Unified,Norco Elementary,1700 Temescal Avenue Norco CA 92860-3038,NA,NA,FALSE,tested,Norco,Riverside County,33.907246,-117.548396
+Corona-Norco Unified,Norco High,2065 Temescal Avenue Norco CA 92860-2726,NA,NA,FALSE,tested,Norco,Riverside County,33.911905333597,-117.54819486163
+Corona-Norco Unified,Norco Intermediate,2711 Temescal Avenue Norco CA 92860-2392,13,ppb,TRUE,tested,Norco,Riverside County,33.9179093213372,-117.547190084725
+Corona-Norco Unified,Riverview Elementary,4600 Pedley Avenue Norco CA 92860-1533,NA,NA,FALSE,tested,Norco,Riverside County,33.9488401,-117.5329456
+Corona-Norco Unified,Sierra Vista Elementary,3560 Corona Avenue Norco CA 92860-1407,9,ppb,TRUE,tested,Norco,Riverside County,33.9332610319174,-117.5455939772

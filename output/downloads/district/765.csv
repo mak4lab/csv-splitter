@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South Whittier Elementary,Carmela Elementary,13300 Lakeland Road Whittier CA 90605-3241,NA,NA,NA,not tested,Santa Fe Springs,Los Angeles County,33.931657,-118.04867
+South Whittier Elementary,Howard J. McKibben Elementary,10550 Mills Avenue Whittier CA 90604-2439,NA,NA,FALSE,tested,NA,Los Angeles County,33.9376929997263,-118.038911723764
+South Whittier Elementary,Lake Marie Elementary,10001 Carmenita Road Whittier CA 90605-3206,NA,NA,FALSE,tested,NA,Los Angeles County,33.943997,-118.046528
+South Whittier Elementary,Loma Vista Elementary,13463 East Meyer Road Whittier CA 90605-3943,NA,NA,NA,not tested,NA,NA,NA,NA
+South Whittier Elementary,Monte Vista Middle,12000 Loma Drive Whittier CA 90604-2643,9.3,ppb,TRUE,tested,NA,Los Angeles County,33.9212276,-118.0323947
+South Whittier Elementary,Richard L. Graves Middle,13243 East Los Nietos Road Whittier CA 90605-3295,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.943927,-118.051698

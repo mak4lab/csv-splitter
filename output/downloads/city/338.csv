@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+National Elementary,El Toyon Elementary,2000 East Division Street National City CA 91950-1823,6,ppb,TRUE,tested,Weed,Siskiyou County,41.425149,-122.383445
+National Elementary,Rancho de la Nacion,1830 East Division Street National City CA 91950-1850,NA,NA,FALSE,tested,Weed,Siskiyou County,41.425149,-122.383445
+Weed Union Elementary,Weed Elementary,575 White Avenue Weed CA 96094-2431,NA,NA,FALSE,tested,Weed,Siskiyou County,41.429103972475,-122.382240158113
+Siskiyou Union High,Weed High,909 Hillside Weed CA 96094-2415,NA,NA,FALSE,tested,Weed,Siskiyou County,41.4279257177985,-122.374967673917

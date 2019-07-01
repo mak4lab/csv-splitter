@@ -1,0 +1,58 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cielo Vista Elementary,21811 Avenida De Los Fundadores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64626355,-117.586352611219
+Saddleback Valley Unified,Cordillera Elem,"25952 Cordillera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
+Saddleback Valley Unified,Cordillera Elementary,25952 Cordillera Drive Mission Viejo CA 92691-4099,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6101003599328,-117.677676068773
+Saddleback Valley Unified,De Portola Elem.,"27031 Preciados Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.601471,-117.659954
+Saddleback Valley Unified,De Portola Elementary,27031 Preciados Drive Mission Viejo CA 92691-5214,NA,NA,NA,not tested,Mission Viejo,Orange County,33.601471,-117.659954
+Saddleback Valley Unified,Del Cerro Elementary,24382 Regina Street Mission Viejo CA 92691-4735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6084173908379,-117.681349507824
+Saddleback Valley Unified,Del Lago Elementary,27181 Entidad Street Mission Viejo CA 92691-1029,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473003721403,-117.656947590292
+Saddleback Valley Unified,El Toro High,25255 Toledo Way Lake Forest CA 92630-4203,NA,NA,NA,not tested,Lake Forest,Orange County,33.63697335,-117.687751708537
+Saddleback Valley Unified,Esperanza,25121 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597054,-117.667657
+Saddleback Valley Unified,Esperanza Sp. Educ.,"25121 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597054,-117.667657
+Saddleback Valley Unified,Foothill Ranch Elementary,1 Torino Drive Foothill Ranch CA 92691-3142,NA,NA,NA,not tested,Lake Forest,Orange County,33.6820524,-117.661726288885
+Saddleback Valley Unified,Glen Yermo Elementary,26400 Trabuco Road Mission Viejo CA 92691-1999,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
+Saddleback Valley Unified,Glen Yermo.,"26400 Trabuco Rd, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6132533289115,-117.656854970504
+Saddleback Valley Unified,La Madera Elementary,25350 Serrano Road Lake Forest CA 92630-3599,NA,NA,NA,not tested,Lake Forest,Orange County,33.63992475,-117.68908864679
+Saddleback Valley Unified,La Paz Inter.,"25151 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
+Saddleback Valley Unified,La Paz Intermediate,25151 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5976179985451,-117.666497108615
+Saddleback Valley Unified,La Tierra Early Childhood Center,24150 Lindley Street Mission Viejo CA 92691-3719,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6115813348237,-117.691371562216
+Saddleback Valley Unified,Laguna Hills High,25401 Paseo de Valencia Laguna Hills CA 92653-5395,NA,NA,NA,not tested,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Laguna Hills HS,"25401 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Lake Forest Elementary,21801 Pittsford Drive Lake Forest CA 92630-7518,NA,NA,NA,not tested,Lake Forest,Orange County,33.6449791,-117.671364820804
+Saddleback Valley Unified,Linda Vista Elem.,"25222 Pericia Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5964418124717,-117.666714603857
+Saddleback Valley Unified,Lomarena Elem.,"25100 Earhart Rd, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.595578,-117.691131
+Saddleback Valley Unified,Lomarena Elementary,25100 Earhart Road Laguna Hills CA 92653-5257,NA,NA,NA,not tested,Laguna Hills,Orange County,33.595578,-117.691131
+Saddleback Valley Unified,Los Alisos Intermediate,25171 Moor Avenue Mission Viejo CA 92691-3099,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.615852,-117.691308
+Saddleback Valley Unified,Melinda Heights Elementary,21001 Rancho Trabuco Rancho Santa Margarita CA 92688-3444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6559196,-117.6145843
+Saddleback Valley Unified,Mission Viejo High,25025 Chrisanta Drive Mission Viejo CA 92691-5326,NA,NA,NA,not tested,Mission Viejo,Orange County,33.5994021,-117.67185979999999
+Saddleback Valley Unified,Mission Viejo HS,"25025 Chrisanta Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.5994021,-117.67185979999999
+Saddleback Valley Unified,Montevideo Elem.,"24071 Carrillo, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
+Saddleback Valley Unified,Montevideo Elementary,24071 Carrillo Drive Mission Viejo CA 92691-4222,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6131661981555,-117.667381143771
+Saddleback Valley Unified,Olivewood Elementary,23391 Dune Mear Road Lake Forest CA 92630-3819,NA,NA,FALSE,tested,Lake Forest,Orange County,33.6234642,-117.705787163826
+Saddleback Valley Unified,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.6234642,-117.705787163826
+Saddleback Valley Unified,Oxford Preparatory Academy,22882 Loumont Dr. Lake Forest CA 92630,NA,NA,NA,not tested,Lake Forest,Orange County,33.6298543218975,-117.700718107491
+Saddleback Valley Unified,Portola Hills Elementary,19422 Saddleback Ranch Road Trabuco Canyon CA 92679-1177,NA,NA,NA,not tested,NA,NA,NA,NA
+Saddleback Valley Unified,Ralph A. Gates Elementary,23882 Landisview Avenue Lake Forest CA 92630-5152,NA,NA,FALSE,tested,Lake Forest,Orange County,33.61558515,-117.69740528328
+Saddleback Valley Unified,Rancho Canada Elementary,21801 Winding Way Lake Forest CA 92630-2599,NA,NA,NA,not tested,Lake Forest,Orange County,33.6462578,-117.69197000992
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,21931 Alma Aldea Rancho Santa Margarita CA 92688-2342,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.64402395,-117.589584272246
+Saddleback Valley Unified,Robinson Elementary,21400 Lindsay Drive Trabuco Canyon CA 92679-3213,NA,NA,NA,not tested,NA,NA,NA,NA
+Saddleback Valley Unified,San Joaquin Elementary,22182 Barbera Laguna Hills CA 92653-1899,NA,NA,FALSE,tested,Laguna Hills,Orange County,33.6178583627239,-117.742621126621
+Saddleback Valley Unified,Serrano Intermediate,24642 Jeronimo Road Lake Forest CA 92630-3112,NA,NA,NA,not tested,Lake Forest,Orange County,33.632614,-117.69681
+Saddleback Valley Unified,Silverado Cont. HS,"25632 Peter A Hartman Way, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6209966339304,-117.68340302806
+Saddleback Valley Unified,Trabuco Elementary,31052 Trabuco Canyon Road Trabuco Canyon CA 92678-0277,NA,NA,NA,not tested,Rancho Santa Margarita,Orange County,33.657461,-117.5797164
+Saddleback Valley Unified,Trabuco Hills High,27501 Cordova Road Mission Viejo CA 92691-1027,NA,NA,FALSE,tested,NA,NA,NA,NA
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6529333307929,-117.650590952775
+Saddleback Valley Unified,Trabuco Mesa Elementary,21301 Avenida de los Flores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,NA,NA,NA,NA
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.6531852,-117.580081131572
+Saddleback Valley Unified,Valencia Elem.,"25661 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.6058601,-117.705084
+Saddleback Valley Unified,Valencia Elementary,25661 Paseo de Valencia Laguna Hills CA 92653-5308,NA,NA,NA,not tested,Laguna Hills,Orange County,33.6058601,-117.705084

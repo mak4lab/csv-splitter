@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alta Loma Elementary,Alta Loma Elementary,7085 Amethyst Street Alta Loma CA 91701-5007,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1187053,-117.5979296
+Alta Loma Elementary,Alta Loma Junior High,9000 Lemon Avenue Alta Loma CA 91701-3357,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.14097215,-117.609595874884
+Alta Loma Elementary,Banyan Elementary,10900 Mirador Drive Alta Loma CA 91737-6993,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.142013,-117.56798
+Alta Loma Elementary,Carnelian Elementary,7105 Carnelian Street Alta Loma CA 91701-0370,9.8,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.12502005,-117.614811434854
+Alta Loma Elementary,Deer Canyon Elementary,10225 Hamilton Alta Loma CA 91701-0370,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.13031445,-117.581541988228
+Alta Loma Elementary,Floyd M. Stork Elementary,5646 Jasper Street Alta Loma CA 91701-1924,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1522903741176,-117.620452734103
+Alta Loma Elementary,Hermosa Elementary,10133 Wilson Avenue Alta Loma CA 91737-2315,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1506398657238,-117.583508470967
+Alta Loma Elementary,Jasper Elementary,6881 Jasper Street Alta Loma CA 91701-4521,6.7,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.12979955,-117.619504359259
+Alta Loma Elementary,Victoria Groves Elementary,10950 Emerson Alta Loma CA 91701-7539,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.129476,-117.5649844503
+Alta Loma Elementary,Vineyard Junior High,6440 Mayberry Alta Loma CA 91737-4338,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1368344,-117.582589760904

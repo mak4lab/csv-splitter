@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Kings Canyon Joint Unified,A. L. Conner Elementary,222 Fourth Street Orange Cove CA 93646-2111,NA,NA,NA,not tested,NA,NA,NA,NA
+Kings Canyon Joint Unified,Citrus Middle,1400 Anchor Avenue Orange Cove CA 93646-2111,NA,NA,NA,not tested,Orange Cove,Fresno County,36.624646,-119.3226594
+Kings Canyon Joint Unified,General Grant Middle,360 North East Avenue Reedley CA 93654-2510,NA,NA,FALSE,tested,Reedley,Fresno County,36.5996659354572,-119.444151999958
+Kings Canyon Joint Unified,Jefferson Elementary,1037 East Duff Avenue Reedley CA 93654-3505,NA,NA,FALSE,tested,Reedley,Fresno County,36.5932020984581,-119.438632233799
+Kings Canyon Joint Unified,KC KIDS Pre-School,1220 East Washington Avenue Reedley CA 93654-3595,NA,NA,FALSE,tested,Reedley,Fresno County,36.591369149497,-119.436285996175
+Kings Canyon Joint Unified,Lincoln Elementary,374 East North Avenue Reedley CA 93654-2535,NA,NA,FALSE,tested,Reedley,Fresno County,36.6004714121262,-119.445268746011
+Kings Canyon Joint Unified,McCord Elementary,333 Center Street Orange Cove CA 93646-2056,NA,NA,NA,not tested,Orange Cove,Fresno County,36.62836665784,-119.31379264069
+Kings Canyon Joint Unified,Mountain View (Alternative),877 E. North Avenue Reedley CA 93654-2426,NA,NA,FALSE,tested,Reedley,Fresno County,36.6005437,-119.4471451
+Kings Canyon Joint Unified,Orange Cove High,1700 Anchor Avenue Orange Cove CA 93646-2374,NA,NA,NA,not tested,Orange Cove,Fresno County,36.624646,-119.3226594
+Kings Canyon Joint Unified,Reedley High,740 West North Avenue Reedley CA 93654-2418,8.2,ppb,TRUE,tested,Reedley,Fresno County,36.6006838140704,-119.456315452261
+Kings Canyon Joint Unified,Reedley Middle College High,995 North Reed Avenue Reedley CA 93654-2017,NA,NA,NA,not tested,Reedley,Fresno County,36.6058319145343,-119.457776
+Kings Canyon Joint Unified,Sheridan Elementary,1001 Ninth Street Orange Cove CA 93646-2311,NA,NA,NA,not tested,NA,NA,NA,NA
+Kings Canyon Joint Unified,Silas Bartsch,2225 East North Avenue Reedley CA 93654-9473,14,ppb,TRUE,tested,Reedley,Fresno County,36.6005437,-119.4471451
+Kings Canyon Joint Unified,Thomas Law Reed Elementary,1400 North Frankwood Avenue Reedley CA 93654-2269,NA,NA,FALSE,tested,Reedley,Fresno County,36.6069007,-119.4487235
+Kings Canyon Joint Unified,Washington Elementary,1250 K Street Reedley CA 93654-3331,7.3,ppb,TRUE,tested,Reedley,Fresno County,36.5920114620762,-119.45346877911

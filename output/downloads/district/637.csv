@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Robla Elementary,Bell Avenue Elementary,1900 Bell Avenue Sacramento CA 95838-3009,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.647179,-121.422078
+Robla Elementary,Glenwood Elementary,201 Jessie Avenue Sacramento CA 95838-2500,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6440358461538,-121.463664846154
+Robla Elementary,Main Avenue Elementary,1400 Main Avenue Sacramento CA 95838-2406,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6545747537688,-121.433755482412
+Robla Elementary,Paseo Grande Charter,2444 Marconi Avenue Sacramento CA 95821-4808,NA,NA,NA,not tested,NA,Sacramento County,38.61792525,-121.40399675
+Robla Elementary,Robla Elementary,5200 Marysville Boulevard Sacramento CA 95838-1600,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.662147,-121.447549
+Robla Elementary,Taylor Street Elementary,4350 Taylor Street Sacramento CA 95838-2622,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6468921836735,-121.452179959184

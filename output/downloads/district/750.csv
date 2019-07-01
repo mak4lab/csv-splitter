@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Solano County Office of Education,Golden Hills Education Center,2460 Clay Bank Road Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.2735795882353,-122.006436558824
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3333769740071,-121.977052131863
+Solano County Office of Education,TC McDaniel School,1895 Woolner Avenue  Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.245275,-122.062508

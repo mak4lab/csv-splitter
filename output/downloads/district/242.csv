@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ferndale Unified,Ferndale Elementary,164 Shaw Avenue Ferndale CA 95536-9781,NA,NA,FALSE,tested,Ferndale,Humboldt County,40.5779584444444,-124.26670559596
+Ferndale Unified,Ferndale High,1231 Main Street Ferndale CA 95536-9416,NA,NA,FALSE,tested,Ferndale,Humboldt County,40.584493,-124.25977

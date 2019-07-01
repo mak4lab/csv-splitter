@@ -1,0 +1,379 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Beaumont Unified,21st Century Learning Institute,939 Michigan Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9346554068949,-116.968961624863
+Temecula Valley Unified,Abby Reinke Elementary,43799 Sunny Meadows Drive Temecula CA 92592-4337,NA,NA,FALSE,tested,Temecula,Riverside County,33.491678,-117.086232
+Riverside Unified,Abraham Lincoln Continuation,4341 Victoria Avenue Riverside CA 92507-5009,7.6,ppb,TRUE,tested,Riverside,Riverside County,33.9711747608038,-117.366039862634
+Hemet Unified,Acacia Middle,1200 East Acacia Avenue Hemet CA 92543-4521,NA,NA,NA,not tested,Hemet,Riverside County,33.7440669397583,-116.959752768862
+Riverside Unified,Adams Elementary,8362 Colorado Avenue Riverside CA 92504-2305,NA,NA,FALSE,tested,Riverside,Riverside County,33.9447229911932,-117.435559424907
+Temecula Valley Unified,Alamos Elementary,38200 Pacific Park Drive Murrieta CA 92563-3242,NA,NA,FALSE,tested,NA,Riverside County,33.5644407,-117.1111157
+Riverside Unified,Alcott Elementary,2433 Central Avenue Riverside CA 92506-3408,5.55,ppb,TRUE,tested,Riverside,Riverside County,33.9538404702934,-117.364638214195
+Moreno Valley Unified,Alessandro,23311 Dracaea Avenue Moreno Valley CA 92553-3201,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9280652980104,-117.25603508089
+Hemet Unified,Alessandro High,831 East Devonshire Avenue Hemet CA 92543-3052,NA,NA,NA,not tested,Hemet,Riverside County,33.7508535,-116.9639127
+Alvord Unified,Allan Orrenmaa Elementary,3350 Fillmore Street Riverside CA 92503-5135,NA,NA,FALSE,tested,Riverside,Riverside County,33.892855,-117.4782525
+Murrieta Valley Unified,Alta Murrieta Elementary,39475 Whitewood Road Murrieta CA 92563-6512,11,ppb,TRUE,tested,Murrieta,Riverside County,33.568703,-117.167169
+Alvord Unified,Alvord Adult Education,3606 Pierce St. Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.8916330162289,-117.488358149996
+Alvord Unified,Alvord Alternative Continuation High,10368 Campbell Avenue Riverside CA 92505-1308,NA,NA,FALSE,tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Alvord Unified,Alvord Continuation High,3606 Pierce Street Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.8916330162289,-117.488358149996
+Riverside Unified,Amelia Earhart Middle,20202 Aptos Street Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.8894611428571,-117.311529
+Beaumont Unified,Anna Hause Elementary,1015 Carnation Lane Beaumont CA 92223-7827,NA,NA,NA,not tested,Beaumont,Riverside County,33.9349467,-116.9597142
+Murrieta Valley Unified,Antelope Hills Elementary,36105 Murrieta Oaks Avenue Murrieta CA 92562-2311,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5918111,-117.1819844
+Alvord Unified,Arizona Middle,11045 Arizona Avenue Riverside CA 92503-5903,NA,NA,FALSE,tested,Riverside,Riverside County,33.891354,-117.465702
+Alvord Unified,Arlanza Elementary,5891 Rutland Avenue Riverside CA 92503-1741,9,ppb,TRUE,tested,Riverside,Riverside County,33.9416756298441,-117.468641780354
+Riverside Unified,Arlington High,2951 Jackson Street Riverside CA 92503-5732,10.25,ppb,TRUE,tested,Riverside,Riverside County,33.9143557750435,-117.430640420035
+Hemet Unified,Aspire Community Day,26866 San Jacinto Street Hemet CA 92544-7293,NA,NA,FALSE,tested,Hemet,Riverside County,33.7485123,-116.9586504
+Corona-Norco Unified,Auburndale Intermediate,1255 River Road Corona CA 92880-1350,5.2,ppb,TRUE,tested,Corona,Riverside County,33.907414,-117.581623
+Val Verde Unified,Avalon Elementary,1815 East Rider Street Perris CA 92571-7700,NA,NA,FALSE,tested,Perris,Riverside County,33.8303512860363,-117.241401770156
+Moreno Valley Unified,Badger Springs Middle,24750 Delphinium Avenue Moreno Valley CA 92553-5812,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.906509,-117.232249392525
+Banning Unified,Banning Headstart Preschool,671 North Florida St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Banning Unified,Banning High,100 West Westward Banning CA 92220-4922,NA,NA,FALSE,tested,Banning,Riverside County,33.917996,-116.882912
+Hemet Unified,Bautista Creek Elementary,441 Lake Street Hemet CA 92544-3314,NA,NA,FALSE,tested,Hemet,Riverside County,33.7541330817063,-116.915024729564
+SBE - Baypoint Preparatory Academy,Baypoint Preparatory Academy,26089 Girard Street Hemet CA 92544-8701,NA,NA,FALSE,tested,NA,Riverside County,33.7424658053488,-116.954375348937
+Moreno Valley Unified,Bayside Community Day,24501 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.909958,-117.23486
+Moreno Valley Unified,Bear Valley Elementary,26125 Fir Avenue Moreno Valley CA 92553-2203,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.935397,-117.206726584316
+Beaumont Unified,Beaumont Adult,1575 Cherry Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9371046,-116.9643932
+Beaumont Unified,Beaumont Senior High,39139 Cherry Valley Blvd Beaumont CA 92223-4484,NA,NA,NA,not tested,Calimesa,Riverside County,33.9616698,-117.0367235
+Beaumont Unified,Beaumont USD Preschool,715 Wellwood Avenue Beaumont CA 92223-2122,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317162352801,-116.982870215277
+Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9814462,-116.512132
+Temecula Valley Unified,Bella Vista Middle,31650 Browning Street Murrieta CA 92563-3243,NA,NA,FALSE,tested,NA,Riverside County,33.5620794,-117.107258
+Corona-Norco Unified,Benjamin Franklin Elementary,2650 Oak Avenue Corona CA 92882-7569,NA,NA,FALSE,tested,Corona,Riverside County,33.852428600934,-117.592773007347
+Riverside Unified,Benjamin Franklin Elementary,19661 Orange Terrace Parkway Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.8947627203154,-117.321872042381
+Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8017859,-116.9677295
+Coachella Valley Unified,Bobby Duke Middle,85-358 Bagdad Avenue Coachella CA 92236-1853,NA,NA,FALSE,tested,NA,Riverside County,33.6747115,-116.1794579
+Moreno Valley Unified,Box Springs Elementary,11900 Athens Drive Moreno Valley CA 92557-5934,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.948739,-117.276343
+Beaumont Unified,Brookside Elementary,38755 Brookside Avenue Beaumont CA 92223-4244,NA,NA,NA,not tested,Calimesa,Riverside County,33.9613746802713,-116.985504000376
+Riverside Unified,Bryant Elementary,4324 Third Street Riverside CA 92501-2699,NA,NA,FALSE,tested,NA,Riverside County,33.6809343,-116.1783887
+Moreno Valley Unified,Butterfield Elementary,13400 Kitching Street Moreno Valley CA 92553-6807,5.93,ppb,TRUE,tested,Moreno Valley,Riverside County,33.9260334116174,-117.217536
+Banning Unified,Cabazon Elementary,50575 Carmen Avenue Cabazon CA 92230-4101,NA,NA,NA,not tested,NA,Riverside County,33.910593,-116.782737
+Palm Springs Unified,Cahuilla Elementary,833 East Mesquite Avenue Palm Springs CA 92264-8414,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.8085403370492,-116.538707999661
+Perris Union High,California Military Institute,755 North A Street Perris CA 92570-1958,NA,NA,FALSE,tested,Perris,Riverside County,33.7933597329832,-117.234713640829
+California School for the Deaf-Riverside (State Special Schl),California School for the Deaf-Riverside,3044 Horace Street Riverside CA 92506-4498,NA,NA,NA,not tested,Riverside,Riverside County,33.9429065870294,-117.378231725244
+Menifee Union Elementary,Callie Kirkpatrick Elementary,28800 Reviere Drive Menifee CA 92584-8972,NA,NA,NA,not tested,Menifee,Riverside County,33.681817,-117.155472
+Menifee Union Elementary,Callie Kirkpatrick Elementary,"28800 Reviere Drive, Menifee 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.681817,-117.155472
+Jurupa Unified,Camino Real Elementary,4655 Camino Real Jurupa Valley CA 92509-5419,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9805535,-117.4522634
+Lake Elsinore Unified,Canyon Lake Middle,33005 Canyon Hills Road Lake Elsinore CA 92532-2534,NA,NA,FALSE,tested,NA,Riverside County,33.6688272,-117.2314129
+Moreno Valley Unified,Canyon Springs High,23100 Cougar Canyon Drive Moreno Valley CA 92557-3801,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.961199,-117.260701
+Private,Casa Blanca Head Start,7711 Casa Blanca St Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9317374131098,-117.407610373911
+Riverside Unified,Casa Blanca Pre School / Elem. School,3020 Madison St. Riverside CA 92503,NA,NA,NA,not tested,Riverside,Riverside County,33.9307524210526,-117.400805842105
+Riverside Unified,Castle View Elementary,6201 Shaker Drive Riverside CA 92506-4716,9.5,ppb,TRUE,tested,Riverside,Riverside County,33.937949,-117.343137
+Palm Springs Unified,Cathedral City Elementary,69300 Converse Road Cathedral City CA 92234-7040,NA,NA,NA,not tested,NA,Riverside County,33.7906751564995,-116.453292243711
+Palm Springs Unified,Cathedral City High,69250 Dinah Shore Drive Cathedral City CA 92234-4713,NA,NA,NA,not tested,NA,Riverside County,33.8015564650582,-116.453113894325
+Hemet Unified,Cawston Elementary,4000 West Menlo Avenue Hemet CA 92545-6320,NA,NA,FALSE,tested,Hemet,Riverside County,33.7584026,-116.9804775
+Corona-Norco Unified,Centennial High,1820 Rimpau Avenue Corona CA 92881-3228,NA,NA,FALSE,tested,Corona,Riverside County,33.8359452,-117.5489876
+Banning Unified,Central Elementary,295 North San Gorgonio Avenue Banning CA 92220-5519,8.3,ppb,TRUE,tested,Banning,Riverside County,33.9452437,-116.876906
+Riverside Unified,Central Middle,4795 Magnolia Avenue Riverside CA 92506-0155,NA,NA,FALSE,tested,Riverside,Riverside County,33.971338,-117.384937
+Corona-Norco Unified,Cesar Chavez Academy,1150 Paseo Grande Corona CA 92882-6440,NA,NA,FALSE,tested,Corona,Riverside County,33.8705839998871,-117.608589133454
+Coachella Valley Unified,Cesar Chavez Elementary,49-601 Avenida de Oro Coachella CA 92236-1326,NA,NA,FALSE,tested,,Riverside County,33.6874418,-116.1859655
+Temecula Valley Unified,Chaparral High,27215 Nicolas Road Temecula CA 92591-7348,NA,NA,FALSE,tested,Temecula,Riverside County,33.5384035143941,-117.141216522034
+Moreno Valley Unified,Chaparral Hills Elementary,24850 Delphinium  Avenue Moreno Valley CA 92553-5876,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9065089061442,-117.229221695143
+Riverside Unified,Chemawa Middle,8830 Magnolia Avenue Riverside CA 92503-4414,9.8,ppb,TRUE,tested,Riverside,Riverside County,33.9258306,-117.432877482545
+Menifee Union Elementary,Chester W. Morrison Elementary,30250 Bradley Road Menifee CA 92584-9257,NA,NA,NA,not tested,Menifee,Riverside County,33.6838565190089,-117.188503579137
+Menifee Union Elementary,Chester W. Morrison Elementary,"30250 Bradley Road, Menifee 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.6838565190089,-117.188503579137
+Palm Springs Unified,Cielo Vista Charter,650 South Paseo Dorotea Palm Springs CA 92264-1406,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.811948755102,-116.501736959184
+Corona-Norco Unified,Citrus Hills Intermediate,3211 South Main Street Corona CA 92882-6313,NA,NA,FALSE,tested,Corona,Riverside County,33.837766,-117.57211
+Corona-Norco Unified,Clara Barton Elementary,7437 Corona Valley Avenue Eastvale CA 92880-8700,NA,NA,FALSE,tested,,Riverside County,33.9521099,-117.588235626233
+San Jacinto Unified,"Clayton A. Record, Jr., Elementary",1600 Malaga Drive San Jacinto CA 92583-2369,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.8063585,-116.9756553
+Perris Elementary,Clearwater Elementary,1640 Murrieta Road Perris CA 92571,NA,NA,NA,not tested,Perris,Riverside County,33.8027219,-117.2089922
+Moreno Valley Unified,Cloverdale Elementary,12050 Kitching Street Moreno Valley CA 92557-7623,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9454967749618,-117.217577452375
+Coachella Valley Unified,Coachella Valley Adult,1099 Orchard Avenue Coachella CA 92236,NA,NA,NA,not tested,NA,Riverside County,33.677268,-116.175319
+Alvord Unified,Collett Elementary,10850 Collett Avenue Riverside CA 92505-2926,NA,NA,FALSE,tested,Riverside,Riverside County,33.913945475398,-117.479154211693
+Val Verde Unified,Columbia Elementary,21350 Rider Street Perris CA 92570-8879,NA,NA,FALSE,tested,Perris,Riverside County,33.8302525,-117.2347892
+Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Moreno Valley Unified,Cornerstone Fellowship Academy,12407 Yuma Court Moreno Valley CA 92557,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.940687019113,-117.214142110088
+Corona-Norco Unified,Corona Fundamental Intermediate,1230 South Main Street Corona CA 92882-4464,9.1,ppb,TRUE,tested,Corona,Riverside County,33.8423671,-117.5738191
+Corona-Norco Unified,Corona Ranch Elementary,785 Village Loop Drive Corona CA 92879-8835,NA,NA,FALSE,tested,Norco,Riverside County,33.893413,-117.543037
+Corona-Norco Unified,Corona-Norco Adult,300  Buena Vista Avenue Corona CA 92882-1937,NA,NA,NA,not tested,Corona,Riverside County,33.8503648,-117.5816805
+Corona-Norco Unified,Corona-Norco Alternative,185 Magnolia Avenue Corona CA 92879-3329,NA,NA,NA,not tested,Corona,Riverside County,33.8634921,-117.5466156
+Corona-Norco Unified,Coronita Elementary,1757 Via Del Rio Corona CA 92882-3741,NA,NA,FALSE,tested,Corona,Riverside County,33.8738145099617,-117.603807983912
+Lake Elsinore Unified,Cottonwood Canyon Elementary,32100 Lost Road Lake Elsinore CA 92532-2502,NA,NA,FALSE,tested,NA,Riverside County,33.6498025,-117.2591443
+Moreno Valley Unified,Creekside Elementary,13563 Heacock Street Moreno Valley CA 92553-3300,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.9236220885223,-117.243841537787
+Temecula Valley Unified,Crowne Hill Elementary,33535 Old Kent Road Temecula CA 92592-7129,NA,NA,FALSE,tested,Temecula,Riverside County,33.4977679,-117.0768514
+Murrieta Valley Unified,Daniel N. Buchanan Elementary,40121 Torrey Pines Road Murrieta CA 92563-6384,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5449907628262,-117.161977857664
+Lake Elsinore Unified,David A. Brown Middle,21861 Grand Avenue Wildomar CA 92595-9632,NA,NA,FALSE,tested,NA,Riverside County,33.595297663811,-117.27427420879
+Hemet Unified,Diamond Valley Middle,291 West Chambers Street Hemet CA 92543-9658,NA,NA,FALSE,tested,Hemet,Riverside County,33.7220492,-116.9817556
+Lake Elsinore Unified,Donald Graham Elementary,35450 Frederick Street Wildomar CA 92595-9686,NA,NA,FALSE,tested,NA,Riverside County,33.6054082345838,-117.258091433303
+Murrieta Valley Unified,Dorothy McElhinney Middle,35185 Briggs Rd. Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.6264795714286,-117.136837
+Corona-Norco Unified,Dr. Augustine Ramirez Intermediate,6905 Harrison Avenue Eastvale CA 92880-9324,NA,NA,FALSE,tested,,Riverside County,33.96295215,-117.586157351838
+Corona-Norco Unified,Dwight D. Eisenhower Elementary,3355 Mountain Gate Drive Corona CA 92882-8858,NA,NA,FALSE,tested,Corona,Riverside County,33.838566,-117.5846149
+Murrieta Valley Unified,E. Hale Curran Elementary,40855 Chaco Canyon Road Murrieta CA 92562-1903,9.3,ppb,TRUE,tested,Murrieta,Riverside County,33.577492,-117.216586
+Corona-Norco Unified,Eastvale Elementary,13031 Orange Street Eastvale CA 92880-9743,NA,NA,FALSE,tested,,Riverside County,33.95913,-117.567408522727
+Moreno Valley Unified,Edgemont Elementary,21790 Eucalyptus Avenue Moreno Valley CA 92553-8141,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.9314721244289,-117.282664892038
+Riverside Unified,Educational Options Center State Preschool,6401 Lincoln Ave Riverside CA 92506-4424,NA,NA,FALSE,tested,Riverside,Riverside County,33.9406504713854,-117.378956292147
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Corona-Norco Unified,El Cerrito Middle,7610 El Cerrito Road Corona CA 92881-4296,NA,NA,FALSE,tested,Corona,Riverside County,33.8299308,-117.5343507
+Corona-Norco Unified,Eleanor Roosevelt High,7447 Scholar Way Eastvale CA 92880-9750,NA,NA,FALSE,tested,,Riverside County,33.9545060034915,-117.567067394099
+Lake Elsinore Unified,Elsinore Elementary,512 West Sumner Avenue Lake Elsinore CA 92530-3648,NA,NA,NA,not tested,NA,Riverside County,33.6729683747226,-117.331476465211
+Lake Elsinore Unified,Elsinore High,21800 Canyon Drive Wildomar CA 92595-9181,NA,NA,FALSE,tested,NA,Riverside County,33.623364,-117.275562
+Lake Elsinore Unified,Elsinore Middle,1203 West Graham Avenue Lake Elsinore CA 92530-3318,NA,NA,NA,not tested,NA,Riverside County,33.6714516433056,-117.339460225229
+Riverside Unified,Emerson Elementary,4660 Ottawa Avenue Riverside CA 92507-5823,6.65,ppb,TRUE,tested,Riverside,Riverside County,33.9658564213923,-117.352765754668
+Perris Elementary,Enchanted Hills Elementary,1357 Mount Baldy Street Perris CA 92570-1884,NA,NA,FALSE,tested,Perris,Riverside County,33.7846827619849,-117.256481262396
+Riverside Unified,Encore High School for the Arts - Riverside,3460 Orange Street Riverside CA 92501-2864,NA,NA,NA,not tested,Riverside,Riverside County,33.9847106580451,-117.370950561303
+Temecula Valley Unified,Erle Stanley Gardner Middle,45125 Via Del Coronado Temecula CA 92592-4400,NA,NA,FALSE,tested,Temecula,Riverside County,33.4701061,-117.109012
+San Jacinto Unified,Estudillo Elementary,900 Las Rosas Drive San Jacinto CA 92583-4420,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7796345,-116.9417478
+Romoland Elementary,Ethan A Chase Middle,28100 Calm Horizon Drive Menifee CA 92585-9289,NA,NA,FALSE,tested,Menifee,Riverside County,33.713444296655,-117.142902970288
+Menifee Union Elementary,Evans Ranch Elementary,30465 Evans Road Menifee CA 92584-7342,NA,NA,NA,not tested,Menifee,Riverside County,33.67825595,-117.199272292794
+Menifee Union Elementary,Evans Ranch Elementary,"30465 Evans Road, Menifee 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.67825595,-117.199272292794
+Nuview Union,Excel Prep Charter - IE,25560 Alessandro Boulevard Moreno Valley CA 92583-3236,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.917422,-117.216386615385
+Perris Union High,Extended Learning Center,755 North A Street Perris CA 92570-1958,NA,NA,NA,not tested,Perris,Riverside County,33.7933597329832,-117.234713640829
+Hemet Unified,Family Tree Learning Center,26400 Dartmouth St Hemet CA 92544-6302,NA,NA,FALSE,tested,NA,Riverside County,33.7380823440101,-116.936750809041
+Banning Unified,Florida Street Discovery Center,671 North Florida Street Banning CA 92220-5678,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Alvord Unified,Foothill Elementary,8230 Wells Avenue Riverside CA 92503-2559,NA,NA,FALSE,tested,Riverside,Riverside County,33.9352594166063,-117.461943577599
+Corona-Norco Unified,Foothill Elementary,2601 South Buena Vista Avenue Corona CA 92882-7562,NA,NA,FALSE,tested,Corona,Riverside County,33.8533728331795,-117.581049412827
+Riverside Unified,Frank Augustus Miller Middle,17925 Krameria Avenue Riverside CA 92504-6022,NA,NA,FALSE,tested,Riverside,Riverside County,33.87985137517,-117.350160186935
+Menifee Union Elementary,Freedom Crest Elementary,"29282 Menifee Road, Menifee 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.6985335,-117.1545276
+Menifee Union Elementary,Freedom Crest Elementary,29282 Menifee Road Menifee CA 92584-7766,NA,NA,NA,not tested,Menifee,Riverside County,33.6985335,-117.1545276
+Riverside Unified,Fremont Elementary,1925 Orange Street Riverside CA 92501-1938,6.050000000000001,ppb,TRUE,tested,Riverside,Riverside County,33.9964618181818,-117.363195363636
+Corona-Norco Unified,Garretson Elementary,1650 Garretson Avenue Corona CA 92879-2428,NA,NA,FALSE,tested,Corona,Riverside County,33.8646372,-117.561551
+Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,NA,NA,NA,not tested,Riverside,Riverside County,33.9715852315892,-117.38456890132
+Jurupa Unified,Glen Avon Elementary,4352 Pyrite Street Jurupa Valley CA 92509-3338,NA,NA,NA,not tested,Jurupa Valley,Riverside County,34.0226502,-117.4600803
+Beaumont Unified,Glen View High,905 Michigan Avenue Beaumont CA 92223,NA,NA,NA,not tested,Beaumont,Riverside County,33.9342023058121,-116.96896371341
+Temecula Valley Unified,Great Oak High,32555 Deer Hollow Way Temecula CA 92592-1283,NA,NA,FALSE,tested,Temecula,Riverside County,33.4502128,-117.0960975
+Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,NA,NA,FALSE,tested,Riverside,Riverside County,33.9200675435201,-117.454501365536
+Menifee Union Elementary,Hans Christensen Middle,27625 Sherman Road Menifee 92586,NA,NA,NA,exempt,Menifee,Riverside County,33.6559945,-117.1800391
+Menifee Union Elementary,Hans Christensen Middle,27625 Sherman Road Menifee CA 92586-9291,NA,NA,NA,not tested,Menifee,Riverside County,33.6559945,-117.1800391
+Corona-Norco Unified,Harada Elementary,12884 Oakdale Street Eastvale CA 92880-8547,NA,NA,FALSE,tested,,Riverside County,33.9717909357778,-117.562783647734
+Riverside Unified,Harrison Elementary,2901 Harrison Street Riverside CA 92503-5505,7.8,ppb,TRUE,tested,Riverside,Riverside County,33.903712,-117.443665
+Romoland Elementary,Harvest Valley Elementary,29955 Watson Road Romoland CA 92585-9767,NA,NA,FALSE,tested,NA,Riverside County,33.7503348698259,-117.137597000958
+Riverside Unified,Hawthorne Elementary,2700 Irving Street Riverside CA 92503-5628,NA,NA,FALSE,tested,Riverside,Riverside County,33.91114,-117.422799
+Lake Elsinore Unified,Heald Academy Child Development Center,601 W Heald Ave Lake Elsinore CA 92530,6,ppb,TRUE,tested,NA,Riverside County,33.671638,-117.333134
+Temecula Valley Unified,Helen Hunt Jackson Elementary,32400 Camino San Dimas Temecula CA 92592-1259,NA,NA,FALSE,tested,Temecula,Riverside County,33.458703,-117.092407
+Hemet Unified,Hemet Elementary,633 E Kimball Ave Hemet CA 92543,NA,NA,NA,not tested,Hemet,Riverside County,33.7456634435876,-116.965812044901
+Hemet Unified,Hemet High,41701 Stetson Avenue Hemet CA 92544-7518,6.1,ppb,TRUE,tested,Hemet,Riverside County,33.7292292,-117.0326989
+Banning Unified,Hemmerling Elementary,1928 West Nicolet Street Banning CA 92220-4032,NA,NA,FALSE,tested,Banning,Riverside County,33.9288128005828,-116.897940719835
+Moreno Valley Unified,Hendrick Ranch Elementary,25570 Brodiaea Avenue Moreno Valley CA 92553-2902,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9137856523971,-117.216433715696
+Perris Union High,Heritage High,26000 Briggs Road Romoland CA 92585-3230,NA,NA,FALSE,tested,Menifee,Riverside County,33.7503788,-117.1365374
+Menifee Union Elementary,Herk Bouris Elementary,"34257 Kalanchoe Rd, Lake Elsinore, CA 92532",NA,NA,NA,exempt,NA,Riverside County,33.6624598,-117.2348915
+Menifee Union Elementary,Herk Bouris Elementary,34257 Kalanchoe Road Lake Elsinore CA 92532-2996,NA,NA,NA,not tested,NA,Riverside County,33.6624598,-117.2348915
+Moreno Valley Unified,Hidden Springs Elementary,9801 Hidden Springs Drive Moreno Valley CA 92557-1825,6.57,ppb,TRUE,tested,Moreno Valley,Riverside County,33.9768706224371,-117.266847242207
+Riverside Unified,Highgrove Elementary,690 Center Street Riverside CA 92507-1499,NA,NA,FALSE,tested,NA,Riverside County,34.015622,-117.326276293552
+Beaumont Unified,Highland Academy,715 Wellwood Avenue Beaumont CA 92223-7442,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317162352801,-116.982870215277
+Corona-Norco Unified,Highland Elementary,2301 Alhambra Street Norco CA 92860-1109,88.5,ppb,TRUE,tested,Norco,Riverside County,33.93992545,-117.564793040822
+Riverside Unified,Highland Elementary,700 Highlander Drive Riverside CA 92507-3064,NA,NA,FALSE,tested,Riverside,Riverside County,33.9848676181818,-117.326704109091
+Alvord Unified,Hillcrest High,11800 Indiana Avenue Riverside CA 92503-5172,NA,NA,FALSE,tested,Riverside,Riverside County,33.9135446,-117.4424541
+Banning Unified,Hoffer Elementary,1115 East Hoffer Street Banning CA 92220-2723,NA,NA,FALSE,tested,Banning,Riverside County,33.9345168027913,-116.863363952972
+Corona-Norco Unified,Home Gardens Academy,13550 Tolton Avenue Corona CA 92879-2059,NA,NA,FALSE,tested,,Riverside County,33.87606365,-117.52066673616
+Moreno Valley Unified,Honey Hollow Elementary,11765 Honey Hollow Drive Moreno Valley CA 92557-6104,7.755,ppb,TRUE,tested,Moreno Valley,Riverside County,33.949150639552,-117.255246264296
+Jurupa Unified,Indian Hills Elementary,7750 Linares Avenue Jurupa Valley CA 92509-0140,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9753221979177,-117.453709827192
+Perris Elementary,Innovative Horizons Charter,1461 North A Street Perris CA 92570-1968,7.2,ppb,TRUE,tested,Perris,Riverside County,33.7996613240727,-117.234696912734
+Riverside Unified,Jackson Elementary,4585 Jackson Street Riverside CA 92503-2758,6.3,ppb,TRUE,tested,Riverside,Riverside County,33.9366173,-117.447596903206
+Hemet Unified,Jacob Wiens Elementary,935 East Campus Way Hemet CA 92543-3121,NA,NA,NA,not tested,Hemet,Riverside County,33.7540256893816,-116.962522172935
+Lake Elsinore Unified,Jeannette Ellis Center,411 W Heald Ave Lake Elsinore CA 92530,NA,NA,FALSE,tested,NA,Riverside County,33.6710495605186,-117.330973097325
+Corona-Norco Unified,Jefferson Elementary,1040 South Vicentia Avenue Corona CA 92882-4124,NA,NA,FALSE,tested,Corona,Riverside County,33.8718253391245,-117.576037975301
+Riverside Unified,Jefferson Elementary,4285 Jefferson Street Riverside CA 92504-2423,6.65,ppb,TRUE,tested,Riverside,Riverside County,33.9446375493784,-117.422800159298
+Corona-Norco Unified,John Adams Elementary,2350 Border Avenue Corona CA 92882-5608,NA,NA,FALSE,tested,Corona,Riverside County,33.8579152190545,-117.604930394779
+Riverside Unified,John F. Kennedy Elementary,19125 Schoolhouse Lane Riverside CA 92508-7147,NA,NA,FALSE,tested,Riverside,Riverside County,33.8976246,-117.3301955
+Desert Sands Unified,John F. Kennedy Elementary,45-100 Clinton Street Indio CA 92201-3807,NA,NA,FALSE,tested,Indio,Riverside County,33.7109603,-116.2426149
+Corona-Norco Unified,John Stallings Elementary,1980 Fullerton Avenue Corona CA 92881-3105,NA,NA,FALSE,tested,Corona,Riverside County,33.8374777,-117.5579367
+Private,Julian Charter School,29141 Vallejo Ave Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.4830865456842,-117.139685601018
+Jurupa Unified,Jurupa Middle,8700 Galena Street Jurupa Valley CA 92509-3228,NA,NA,NA,not tested,Jurupa Valley,Riverside County,34.0045058,-117.5055504
+Jurupa Unified,Jurupa Valley High,10551 Bellegrave Avenue Jurupa Valley CA 91752-1800,NA,NA,NA,not tested,Eastvale,Riverside County,34.0022869575587,-117.515233477111
+Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.837531,-116.538991232314
+Alvord Unified,La Granada Elementary,10346 Keller Avenue Riverside CA 92505-1350,NA,NA,FALSE,tested,Riverside,Riverside County,33.9334716902627,-117.47924641728
+Alvord Unified,La Sierra High,4145 La Sierra Avenue Riverside CA 92505-2938,NA,NA,FALSE,tested,Riverside,Riverside County,33.9215372,-117.4901316
+Alvord Unified,Lake Hills Elementary,16346 Village Meadow Drive Riverside CA 92503-0229,NA,NA,FALSE,tested,NA,Riverside County,33.872064578726,-117.484022609896
+Riverside Unified,Lake Mathews Elementary,12252 Blackburn Road Riverside CA 92503-7083,NA,NA,FALSE,tested,Jurupa Valley,Riverside County,33.8626429926774,-117.453512935163
+Lake Elsinore Unified,Lakeland Village,18730 Grand Avenue Lake Elsinore CA 92530-6256,NA,NA,FALSE,tested,NA,Riverside County,33.6588395,-117.376661
+Val Verde Unified,Lakeside Middle,27720 Walnut Street Perris CA 92571-7520,NA,NA,FALSE,tested,Perris,Riverside County,33.8265696,-117.2295554
+Palm Springs Unified,Landau Elementary,30310 Landau Boulevard Cathedral City CA 92234-5200,NA,NA,NA,not tested,NA,Riverside County,33.8287757897738,-116.47549257102
+Moreno Valley Unified,Landmark Middle,15261 Legendary Drive Moreno Valley CA 92555-5801,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8990003,-117.1810426
+Val Verde Unified,Lasselle Elementary,26446 Krameria Avenue Moreno Valley CA 92555,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.881101,-117.2264005
+Corona-Norco Unified,Lee V. Pollard High,185 Magnolia Ave Corona CA 92879-3329,NA,NA,FALSE,tested,Corona,Riverside County,33.8634921,-117.5466156
+Riverside Unified,Liberty Elementary,9631 Hayes Street Riverside CA 92503-3660,NA,NA,FALSE,tested,Riverside,Riverside County,33.9203016573513,-117.45083644171
+Corona-Norco Unified,Lincoln Alternative Elementary,1041 Fullerton Avenue Corona CA 92879-2518,5.1,ppb,TRUE,tested,Corona,Riverside County,33.8696562533786,-117.556962673312
+Murrieta Valley Unified,Lisa J. Mails Elementary,35185 Briggs Road Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.6264795714286,-117.136837
+Alvord Unified,Loma Vista Middle,11050 Arlington Avenue Riverside CA 92505-2204,NA,NA,FALSE,tested,Riverside,Riverside County,33.94474329687,-117.499920402602
+Riverside Unified,Longfellow Elementary,3610 Eucalyptus Avenue Riverside CA 92507-4161,7.8,ppb,TRUE,tested,Riverside,Riverside County,33.9783411052363,-117.359545334096
+Lake Elsinore Unified,Machado Elementary,15150 Joy Street Lake Elsinore CA 92530-7912,NA,NA,FALSE,tested,NA,Riverside County,33.6810878334508,-117.372475751384
+Riverside Unified,Madison Elementary,3635 Madison Street Riverside CA 92504-3718,6.6,ppb,TRUE,tested,Riverside,Riverside County,33.9385717445057,-117.407209569008
+Riverside Unified,Magnolia Elementary,3975 Maplewood Place Riverside CA 92506-1848,NA,NA,FALSE,tested,Riverside,Riverside County,33.962336,-117.392991
+Val Verde Unified,March Middle,15800 Indian Avenue Moreno Valley CA 92551-7307,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9516859,-117.2352401
+Moreno Valley Unified,March Mountain High,24551 Dracaea Avenue Moreno Valley CA 92553-3745,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9281143320467,-117.234000593209
+Moreno Valley Unified,March Valley,24551 Dracaea Ave Moreno Valley CA 92553-3745,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9281143320467,-117.234000593209
+Palo Verde Unified,Margaret White Elementary,610 North Broadway Blythe CA 92225-1331,NA,NA,NA,not tested,NA,Riverside County,33.6203439088998,-114.596903686089
+Temecula Valley Unified,Margarita Middle,30600 Margarita Road Temecula CA 92591-1528,NA,NA,FALSE,tested,Temecula,Riverside County,33.5143122,-117.1351481
+Riverside Unified,Mark Twain Elementary,19411 Krameria Avenue Riverside CA 92508-9602,NA,NA,FALSE,tested,Riverside,Riverside County,33.880075,-117.325151
+Riverside Unified,Martin Luther King Jr. High,9301 Wood Road Riverside CA 92508-9459,NA,NA,FALSE,tested,Riverside,Riverside County,33.8816760454545,-117.331244863636
+Riverside Unified,Matthew Gage Middle,6400 Lincoln Avenue Riverside CA 92506-4423,NA,NA,FALSE,tested,Riverside,Riverside County,33.9405134735042,-117.378846053957
+Val Verde Unified,May Ranch Elementary,900 East Morgan Perris CA 92571-7815,NA,NA,FALSE,tested,Perris,Riverside County,33.837803,-117.243969
+Val Verde Unified,Mead Valley Elementary,21 100 Oleander Avenue Perris CA 92570-9415,5.44,ppb,TRUE,tested,Perris,Riverside County,33.8621135,-117.2551369
+Menifee Union Elementary,Menifee Preschool,26350 La Piedra Road Menifee CA 92584-7368,NA,NA,FALSE,tested,Menifee,Riverside County,33.6772787,-117.1999823
+Menifee Union Elementary,Menifee Valley Middle,26255 Garbani Road Menifee CA 92584-9197,NA,NA,NA,not tested,Menifee,Riverside County,33.6559187766757,-117.20252850451
+Menifee Union Elementary,Menifee Valley Middle,"26255 Garbani Road, Menifee 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.6559187766757,-117.20252850451
+Romoland Elementary,Mesa View Elementary,27227 Heritage Lake Drive Romoland CA 92585-2628,NA,NA,FALSE,tested,Menifee,Riverside County,33.7120462,-117.1401052
+Yucaipa-Calimesa Joint Unified,Mesa View Middle,800 Mustang Way Calimesa CA 92399-1080,NA,NA,FALSE,tested,Calimesa,Riverside County,33.9974099,-117.069558
+Moreno Valley Unified,Midland Elementary,11440 Davis Street Moreno Valley CA 92557-5524,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9562965101883,-117.23947939306
+Banning Unified,Milo P Johnson Center for Learning,671 N Florida St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9314729190434,-116.870251158474
+Jurupa Unified,Mira Loma Middle,5051 Steve Street Jurupa Valley CA 92509-3548,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9791373,-117.5015384
+Jurupa Unified,Mission Bell Elementary,4020 Conning Street Jurupa Valley CA 92509-2599,NA,NA,NA,not tested,Jurupa Valley,Riverside County,34.0164204870635,-117.502660320746
+Riverside Unified,Monroe Elementary,8535 Garfield Avenue Riverside CA 92504-2906,5.5,ppb,TRUE,tested,NA,Riverside County,34.0129996,-117.326543
+Murrieta Valley Unified,Monte Vista Elementary,37420 Via Mira Mosa Murrieta CA 92563-2753,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5785935,-117.1424449
+San Jacinto Unified,Monte Vista Middle,181 North Ramona Boulevard San Jacinto CA 92583-3324,9.3,ppb,TRUE,tested,San Jacinto,Riverside County,33.788302,-116.964041
+Moreno Valley Unified,Moreno Elementary,26700 Cottonwood Avenue Moreno Valley CA 92555-3802,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9247100918703,-117.196766403195
+Moreno Valley Unified,Moreno Valley Adult Education,24551 Dracaea Moreno Valley CA 92553-3745,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.9281143320467,-117.234000593209
+Moreno Valley Unified,Moreno Valley Community Learning Center,24511 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9099594991044,-117.234719084184
+Moreno Valley Unified,Moreno Valley High,23300 Cottonwood Avenue Moreno Valley CA 92553-3437,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.924617,-117.25548
+Moreno Valley Unified,Moreno Valley Online Academy,24521 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9099607461946,-117.234578166025
+San Jacinto Unified,Mountain Heights Academy,1000 Ramona Boulevard San Jacinto CA 92582-2552,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797636,-116.975642
+Nuview Union,Mountain Shadows Middle,30401 Reservoir Avenue Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
+Riverside Unified,Mountain View Elementary,6180 Streeter Avenue Riverside CA 92504-1253,NA,NA,FALSE,tested,Riverside,Riverside County,33.9595228809695,-117.418720762553
+Moreno Valley Unified,Mountain View Middle,13130 Morrison Street Moreno Valley CA 92555-3700,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.930569,-117.200139
+Palm Springs Unified,Mt. San Jacinto High,30800 Landau Boulevard Cathedral City CA 92234-5159,NA,NA,NA,not tested,NA,Riverside County,33.826060767076,-116.475497882147
+Murrieta Valley Unified,Murrieta Canyon Academy,24150 Hayes Ave Murrieta CA 92563-9461,NA,NA,NA,not tested,Murrieta,Riverside County,33.5587213551459,-117.231392444535
+Murrieta Valley Unified,Murrieta Mesa High,24801 Monroe Avenue Murrieta CA 92562-9018,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5657417,-117.2000442
+Murrieta Valley Unified,Murrieta Valley High,42200 Nighthawk Way Murrieta CA 92562-6235,NA,NA,FALSE,tested,Murrieta,Riverside County,33.56464,-117.2320841
+Alvord Unified,Myra Linn Elementary,10435 Branigan Way Riverside CA 92505-1515,NA,NA,FALSE,tested,Riverside,Riverside County,33.9195308940622,-117.472273017014
+Banning Unified,Nicolet Middle,101 East Nicolet Street Banning CA 92220-5551,NA,NA,FALSE,tested,Banning,Riverside County,33.92899,-116.875522
+Corona-Norco Unified,Norco Elementary,1700 Temescal Avenue Norco CA 92860-3038,NA,NA,FALSE,tested,Norco,Riverside County,33.907246,-117.548396
+Corona-Norco Unified,Norco High,2065 Temescal Avenue Norco CA 92860-2726,NA,NA,FALSE,tested,Norco,Riverside County,33.911905333597,-117.54819486163
+Corona-Norco Unified,Norco Intermediate,2711 Temescal Avenue Norco CA 92860-2392,13,ppb,TRUE,tested,Norco,Riverside County,33.9179093213372,-117.547190084725
+Alvord Unified,Norte Vista High,6585 Crest Avenue Riverside CA 92503-1102,NA,NA,FALSE,tested,Riverside,Riverside County,33.9500096090836,-117.47253046998
+Moreno Valley Unified,North Ridge Elementary,25101 Kalmia Avenue Moreno Valley CA 92557-5731,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9538944731149,-117.224513477535
+Jurupa Unified,Nueva Vista Continuation High,6836 34th Street Jurupa Valley CA 92509-1301,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9980566,-117.3985137
+Nuview Union,Nuview Bridge Early College High,30401 Reservoir Ave Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
+Nuview Union,Nuview Elementary,29680 Lakeview Avenue Nuevo CA 92567-9140,NA,NA,NA,not tested,NA,Riverside County,33.8193473680546,-117.131310041958
+Private,Oak Grove Center / Jack Weaver,24275 Jefferson Avenue Murrieta CA 92562,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5674690872268,-117.217461241317
+Menifee Union Elementary,Oak Meadows Elementary,28600 Poinsettia Street Murrieta CA 92563-7429,NA,NA,NA,not tested,Murrieta,Riverside County,33.6296433,-117.1646185
+Riverside Unified,Opportunity Program,6401 Lincoln Avenue A Riverside CA 92506-4424,NA,NA,NA,not tested,Riverside,Riverside County,33.9406504713854,-117.378956292147
+Corona-Norco Unified,Orange Elementary,1350 Valencia Road Corona CA 92881-0739,NA,NA,FALSE,tested,Corona,Riverside County,33.8351064,-117.563219
+Corona-Norco Unified,Orange Grove High,300 Buena Vista Avenue Corona CA 92882-1937,NA,NA,FALSE,tested,Corona,Riverside County,33.8516063,-117.5814851
+Riverside Unified,Pachappa Elementary,6200 Riverside Avenue Riverside CA 92506-2147,NA,NA,FALSE,tested,Riverside,Riverside County,33.956475,-117.387824
+Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9828029,-116.5214391
+Beaumont Unified,Palm Elementary,751 Palm Avenue Beaumont CA 92223-0187,NA,NA,NA,not tested,Beaumont,Riverside County,33.9317319785393,-116.97172186779
+Moreno Valley Unified,Palm Middle,11900 Slawson Avenue Moreno Valley CA 92557-6642,5.58,ppb,TRUE,tested,Moreno Valley,Riverside County,33.953813,-117.21324
+Private,Palm Springs Community School,1800 E. Vista Chino Palm Springs CA 92262,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844939,-116.526885
+Palm Springs Unified,Palm Springs High,2401 East Baristo Road Palm Springs CA 92262-7217,6.1,ppb,TRUE,tested,Palm Springs,Riverside County,33.8194837868853,-116.520867098361
+Coachella Valley Unified,Palm View Elementary,1390 Seventh Street Coachella CA 92236-1722,NA,NA,FALSE,tested,NA,Riverside County,33.6771572,-116.176802106882
+Perris Elementary,Palms Elementary,255 East Jarvis Perris CA 92571-2825,NA,NA,FALSE,tested,Perris,Riverside County,33.7919512036784,-117.225516055531
+Palo Verde Unified,Palo Verde High,667 North Lovekin Boulevard Blythe CA 92225-1136,NA,NA,NA,not tested,NA,Riverside County,33.6211123908072,-114.605657762276
+Temecula Valley Unified,Paloma Elementary,42940 Via Rami Temecula CA 92592-3648,NA,NA,FALSE,tested,Temecula,Riverside County,33.501102,-117.106676
+Perris Union High,Paloma Valley High,31375 Bradley Road Menifee CA 92584-9368,NA,NA,FALSE,tested,Menifee,Riverside County,33.66505645,-117.192035578967
+San Jacinto Unified,Park Hill Elementary,1157 East Commonwealth Avenue San Jacinto CA 92583-6842,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.7694634416906,-116.942276585749
+Corona-Norco Unified,Parkridge Elementary,750 Corona Avenue Corona CA 92879-1074,NA,NA,FALSE,tested,Corona,Riverside County,33.89247075,-117.5581195
+Jurupa Unified,Patriot High,4355 Camino Real Jurupa Valley CA 92509-3455,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9805535,-117.4522634
+Temecula Valley Unified,Pauba Valley Elementary,33125 Regina Drive Temecula CA 92592-1473,NA,NA,FALSE,tested,Temecula,Riverside County,33.472561,-117.08466
+Jurupa Unified,Pedley Elementary,5871 Hudson Street Jurupa Valley CA 92509-5012,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9815337156839,-117.479859890782
+Jurupa Unified,Peralta Elementary,6450 Peralta Place Jurupa Valley CA 92509-6352,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9764830976589,-117.430799341915
+Perris Elementary,Perris Elementary,500 A Street Perris CA 92571-1956,5.2,ppb,TRUE,tested,Perris,Riverside County,33.78144,-117.234862
+Perris Union High,Perris High,175 East Nuevo Road Perris CA 92571-2910,NA,NA,NA,not tested,Perris,Riverside County,33.8010345859902,-117.224950306042
+Perris Union High,Perris Lake High (Continuation),418 West Ellis Perris CA 92570-4544,6,ppb,TRUE,tested,NA,Riverside County,33.771964,-117.2192027
+Alvord Unified,Phillip M. Stokoe Elementary,4501 Ambs Drive Riverside CA 92505-3758,NA,NA,FALSE,tested,Riverside,Riverside County,33.907105890625,-117.500237
+Riverside Unified,Polytechnic High,5450 Victoria Avenue Riverside CA 92506-3362,NA,NA,FALSE,tested,Riverside,Riverside County,33.95191015,-117.368111949197
+Corona-Norco Unified,Prado View Elementary,2800 Ridgeline Drive Corona CA 92882-8734,NA,NA,FALSE,tested,Corona,Riverside County,33.877874,-117.638136
+Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Alvord Unified,Promenade Elementary,550 Hamilton Drive Corona CA 91719-5851,NA,NA,FALSE,tested,Corona,Riverside County,33.89451045,-117.51453392666
+Menifee Union Elementary,Quail Valley Elementary,"23757 Canyon Heights Drive, Menifee 92587",NA,NA,NA,exempt,Menifee,Riverside County,33.6981234,-117.2432455
+Menifee Union Elementary,Quail Valley Elementary,23757 Canyon Heights Drive Quail Valley CA 92587-7267,NA,NA,NA,not tested,Menifee,Riverside County,33.6981234,-117.2432455
+Murrieta Valley Unified,Rail Ranch Elementary,25030 Via Santee Road Murrieta CA 92563-5020,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5780519853948,-117.173707623494
+Lake Elsinore Unified,Railroad Canyon Elementary,1300 Mill Street Lake Elsinore CA 92530-4377,NA,NA,FALSE,tested,NA,Riverside County,33.665164,-117.310756
+Perris Elementary,Railway Elementary,555 Alpine Drive Perris CA 92570-6216,NA,NA,FALSE,tested,Perris,Riverside County,33.7611424,-117.2338364
+Val Verde Unified,Rainbow Ridge Elementary,15950 Indian Avenue Moreno Valley CA 92551-7302,7.11,ppb,TRUE,tested,Moreno Valley,Riverside County,33.9516859,-117.2352401
+Moreno Valley Unified,Rainbow Springs,23990 Eucalyptus Avenue Moreno Valley CA 92553-5504,7.71,ppb,TRUE,tested,Moreno Valley,Riverside County,33.9318725372389,-117.244056918701
+Riverside Unified,Raincross High (Continuation),6401 Lincoln Avenue Riverside CA 92506-4424,NA,NA,NA,not tested,Riverside,Riverside County,33.9406504713854,-117.378956292147
+Hemet Unified,Ramona Elementary,41051 Whittier Avenue Hemet CA 92544-6312,NA,NA,FALSE,tested,Hemet,Riverside County,33.736739853512,-116.944651159569
+Moreno Valley Unified,Ramona Elementary,24801 Bay Avenue Moreno Valley CA 92553-3861,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.920865,-117.230038
+Riverside Unified,Ramona High,7675 Magnolia Avenue Riverside CA 92504-3627,NA,NA,FALSE,tested,Riverside,Riverside County,33.9395906545783,-117.412932676371
+Temecula Valley Unified,Rancho Elementary,31530 La Serena Way Temecula CA 92591-5080,NA,NA,FALSE,tested,Temecula,Riverside County,33.5184794637424,-117.121875446374
+Palm Springs Unified,Rancho Mirage High,31001 Rattler Road Rancho Mirage CA 92270-2702,NA,NA,NA,not tested,NA,Riverside County,33.8261659,-116.4321599
+Val Verde Unified,Rancho Verde High,17750 Lasselle Street Moreno Valley CA 92551-6300,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8626143,-117.2074554
+Hemet Unified,Rancho Viejo Middle,985 North Cawston Avenue Hemet CA 92545-1551,NA,NA,FALSE,tested,Hemet,Riverside County,33.7526942820513,-117.015408707692
+Temecula Valley Unified,Rancho Vista High,32225 Pio Pico Road Temecula CA 92592-6200,NA,NA,FALSE,tested,Temecula,Riverside County,33.4906488361965,-117.103688266431
+Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.5019535
+Riverside Unified,REACH Leadership STEAM Academy,4850 Jurupa Avenue Riverside CA 92504-1709,NA,NA,NA,not tested,Riverside,Riverside County,33.9614101117878,-117.408950618213
+Temecula Valley Unified,Red Hawk Elementary,32045 Camino San Jose Temecula CA 92592-1025,NA,NA,FALSE,tested,Temecula,Riverside County,33.4693324776939,-117.099184105194
+Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9459831587846,-117.440818240048
+Lake Elsinore Unified,Rice Canyon Elementary,29535 Westwind Drive Lake Elsinore CA 92530-1242,6,ppb,TRUE,tested,NA,Riverside County,33.6964514,-117.4016088
+Menifee Union Elementary,Ridgemoor Elementary,"25455 Ridgemoor Road, Menifee CA 92586",NA,NA,NA,exempt,Menifee,Riverside County,33.6990532,-117.215317590929
+Menifee Union Elementary,Ridgemoor Elementary,25455 Ridgemoor Road Sun City CA 92586-2790,NA,NA,NA,not tested,Menifee,Riverside County,33.6990532,-117.215317590929
+Corona-Norco Unified,River Heights Intermediate,7227 Scholar Way Eastvale CA 92880-4018,NA,NA,FALSE,tested,,Riverside County,33.957497912725,-117.567049221571
+Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,NA,NA,NA,not tested,Temecula,Riverside County,33.4978094084434,-117.161589671652
+Riverside Unified,Riverside Adult,6735 Magnolia Avenue Riverside CA 92506-2910,10,ppb,TRUE,tested,Riverside,Riverside County,33.9515059298515,-117.39782975696
+Private,Riverside Community College Early Childhood Center,4800 Magnolia Ave. Riverside CA 92506,NA,NA,NA,not tested,Riverside,Riverside County,33.9715852315892,-117.38456890132
+Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Education Academy,13730 Perris Boulevard Moreno Valley CA 92553-4302,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9217549878181,-117.226298
+Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.9785465214527,-117.380547194579
+Riverside Unified,Riverside STEM Academy,4466 Mount Vernon Avenue Riverside CA 92507-4864,5.1,ppb,TRUE,tested,Riverside,Riverside County,33.9684240103132,-117.313696139745
+Corona-Norco Unified,Riverview Elementary,4600 Pedley Avenue Norco CA 92860-1533,NA,NA,FALSE,tested,Norco,Riverside County,33.9488401,-117.5329456
+Romoland Elementary,Romoland Elementary,25890 Antelope Road Romoland CA 92585-9660,NA,NA,FALSE,tested,NA,Riverside County,33.747039,-117.17167
+Lake Elsinore Unified,Ronald Reagan Elementary,35445 Porras Road Wildomar CA 92595-7683,NA,NA,FALSE,tested,NA,Riverside County,33.6073973,-117.2407122
+Corona-Norco Unified,Ronald Reagan Elementary,8300 Fieldmaster Street Eastvale CA 92880,NA,NA,FALSE,tested,,Riverside County,33.9427436,-117.5936088
+Alvord Unified,Rosemary Kennedy Elementary,6411 Mitchell Avenue Riverside CA 92505-2055,NA,NA,FALSE,tested,Riverside,Riverside County,33.9449635620621,-117.491446771831
+Alvord Unified,S. Christa McAuliffe Elementary,4100 Golden Avenue Riverside CA 92505-3403,NA,NA,FALSE,tested,Riverside,Riverside County,33.9057058465756,-117.484800985479
+Beaumont Unified,San Gorgonio Middle,1591 Cherry Ave Beaumont CA 92223-5121,NA,NA,NA,not tested,Beaumont,Riverside County,33.9371046,-116.9643932
+San Jacinto Unified,San Jacinto Elementary,136  North Ramona Boulevard San Jacinto CA 92583-3325,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.787541,-116.963349
+San Jacinto Unified,San Jacinto High,500 Idyllwild Drive San Jacinto CA 92583-2615,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.797116,-116.968881
+San Jacinto Unified,San Jacinto Leadership Academy - Magnet,1599 Malaga Drive San Jacinto CA 92583-2369,NA,NA,NA,not tested,San Jacinto,Riverside County,33.8063585,-116.9756553
+Menifee Union Elementary,Santa Rosa Academy,27587 La Piedra Road Menifee CA 92584-8376,NA,NA,NA,not tested,Menifee,Riverside County,33.67762513718,-117.176665156192
+Moreno Valley Unified,Seneca Elementary,11615 Wordsworth Road Moreno Valley CA 92557-8451,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9526807240433,-117.294901525758
+Moreno Valley Unified,Serrano Elementary,24100 Delphinium Avenue Moreno Valley CA 92553-3521,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.906496,-117.242039
+Murrieta Valley Unified,Shivela Middle,24515 Lincoln Avenue Murrieta CA 92562-5807,NA,NA,FALSE,tested,Murrieta,Riverside County,33.571618,-117.197748
+Riverside Unified,Sierra Middle,4950 Central Avenue Riverside CA 92504-1819,NA,NA,FALSE,tested,Riverside,Riverside County,33.9533539093297,-117.411219693849
+Val Verde Unified,Sierra Vista Elementary,20300 Sherman Road Perris CA 92571-7522,NA,NA,FALSE,tested,Perris,Riverside County,33.8302801,-117.1825725
+Corona-Norco Unified,Sierra Vista Elementary,3560 Corona Avenue Norco CA 92860-1407,9,ppb,TRUE,tested,Norco,Riverside County,33.9332610319174,-117.5455939772
+Perris Elementary,Sky View Elementary,625 Mildred Street Perris CA 92570-3930,NA,NA,FALSE,tested,Perris,Riverside County,33.7956387,-117.2216817
+Menifee Union Elementary,Southshore Elementary,"30975 Southshore Drive, Menifee  CA 92584",NA,NA,NA,exempt,Menifee,Riverside County,33.6725284,-117.1453831
+Menifee Union Elementary,Southshore Elementary,30975 Southshore Drive Menifee CA 92584-7377,NA,NA,NA,not tested,Menifee,Riverside County,33.6725284,-117.1453831
+Private,Springs Charter Schools,43040 Margarita Road Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.4977920705788,-117.11542848505201
+Private,Springs Charter Schools Lyndie Lane Campus,42145 Lyndie Lane Temecula CA 92591,NA,NA,FALSE,tested,Temecula,Riverside County,33.5073617361518,-117.142848952625
+Moreno Valley Unified,Sugar Hill Elementary,24455 Old Country Road Moreno Valley CA 92557-4011,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9654748442847,-117.236972263604
+Alvord Unified,Summit Elementary,10368 Campbell Ave Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Alvord Unified,Summit Secondary,10368 Campbell Ave B Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Riverside Unified,Summit View Independent Study,6401 Lincoln Avenue B Riverside CA 92506-4413,NA,NA,NA,not tested,Riverside,Riverside County,33.9406504713854,-117.378956292147
+Moreno Valley Unified,Sunnymead Elementary,24050 Dracaea Avenue Moreno Valley CA 92553-2813,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.9282635144224,-117.242429529924
+Moreno Valley Unified,Sunnymead Middle,23996 Eucalyptus Ave Moreno Valley CA 92553-5509,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.9318728843097,-117.243948979675
+Moreno Valley Unified,Sunnymeadows Elementary,23200 Eucalyptus Avenue Moreno Valley CA 92553-5937,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.931687,-117.258683
+Riverside Unified,Sunshine Special Education,9390 California Avenue Riverside CA 92503-3217,6.5,ppb,TRUE,tested,Riverside,Riverside County,33.9277824298563,-117.449391406777
+Corona-Norco Unified,Susan B. Anthony Elementary,2665 Gilbert Avenue Corona CA 92881-8677,NA,NA,FALSE,tested,Corona,Riverside County,33.842842,-117.550653
+Temecula Valley Unified,Susan H. Nelson,32225 Pio Pico Rd Temecula CA 92592-2772,NA,NA,FALSE,tested,Temecula,Riverside County,33.4906488361965,-117.103688266431
+Lake Elsinore Unified,Sycamore Academy of Science and Cultural Arts,23151 Palomar Street Wildomar CA 92595-7317,NA,NA,NA,not tested,Murrieta,Riverside County,33.58750777545,-117.249563602886
+Temecula Valley Unified,Temecula Elementary,41951 Moraga Road Temecula CA 92591-4789,NA,NA,FALSE,tested,Temecula,Riverside County,33.510020872297,-117.140871487865
+Temecula Valley Unified,Temecula Middle,42075 Meadows Parkway Temecula CA 92592-3800,NA,NA,FALSE,tested,Temecula,Riverside County,33.506148,-117.096197
+Temecula Valley Unified,Temecula Valley Adult,43000 Margarita Road Temecula CA 92591,NA,NA,NA,not tested,Temecula,Riverside County,33.5143122,-117.1351481
+Temecula Valley Unified,Temecula Valley High,31555 Rancho Vista Road Temecula CA 92592-3516,5.9,ppb,TRUE,tested,Temecula,Riverside County,33.5049915552358,-117.110203957279
+Lake Elsinore Unified,Temescal Canyon High,28755 El Toro Road Lake Elsinore CA 92532-1912,NA,NA,FALSE,tested,NA,Riverside County,33.7417341,-117.3364178
+Lake Elsinore Unified,Terra Cotta Middle,29291 Lake Street Lake Elsinore CA 92530-1801,NA,NA,FALSE,tested,NA,Riverside County,33.697963080857,-117.390146875343
+Alvord Unified,Terrace Elementary,6601 Rutland Street Riverside CA 92503-1299,11,ppb,TRUE,tested,Indio,Riverside County,33.7773062,-116.2684003
+Desert Sands Unified,Thomas Jefferson Middle,83-089 Highway 111 Indio CA 92201-5643,NA,NA,NA,not tested,Indio,Riverside County,33.7147904,-116.2267487
+Riverside Unified,Tomas Rivera Elementary,20440 Red Poppy Lane Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.8880917959184,-117.304884010204
+Beaumont Unified,Tournament Hills Elementary,36611 Champions Drive Beaumont CA 92223-9712,NA,NA,NA,not tested,Calimesa,Riverside County,33.954064,-117.0262317
+Murrieta Valley Unified,Tovashal Elementary,23801 Via Santee Murrieta CA 92563,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578233,-117.1740911
+Moreno Valley Unified,TownGate Elementary,22480 Dracaea Avenue Moreno Valley CA 92553-6992,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9285306326531,-117.273812653061
+Val Verde Unified,Triple Crown Elementary,530 Orange Avenue Perris CA 92571-4027,NA,NA,FALSE,tested,Perris,Riverside County,33.8157158706071,-117.214281551913
+Jurupa Unified,Troth Street Elementary,5565 Troth Street Jurupa Valley CA 91752-2204,NA,NA,NA,not tested,Eastvale,Riverside County,33.9849833,-117.515029
+Palo Verde Unified,Twin Palms Continuation,811 West Chanslor Way Blythe CA 92225-1118,NA,NA,NA,not tested,NA,Riverside County,33.61753,-114.607705
+Alvord Unified,Twinhill Elementary,11000 Campbell Avenue Riverside CA 92505-2499,NA,NA,FALSE,tested,Riverside,Riverside County,33.9329113043478,-117.493799086957
+Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9454593893263,-116.510049375221
+Riverside Unified,University Heights Middle,1155 Massachusetts Avenue Riverside CA 92507-2897,NA,NA,FALSE,tested,Riverside,Riverside County,33.9867384858684,-117.336239818921
+Temecula Valley Unified,Vail Elementary,29835 Mira Loma Drive Temecula CA 92592-2228,NA,NA,FALSE,tested,Temecula,Riverside County,33.5032340603047,-117.135826443017
+Temecula Valley Unified,Vail Ranch Middle,33340 Camino Piedra Rojo Temecula CA 92592-1184,NA,NA,FALSE,tested,Temecula,Riverside County,33.4809398541515,-117.077421371277
+Val Verde Unified,Val Verde Academy,25100 Red Maple Lane Moreno Valley CA 92551-1120,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.884729,-117.2262894
+Val Verde Unified,Val Verde Elementary,2656 Indian Avenue Perris CA 92571-3210,NA,NA,FALSE,tested,Perris,Riverside County,33.8194248,-117.2347713
+Val Verde Unified,Val Verde High,972 West Morgan Street Perris CA 92571-3103,NA,NA,FALSE,tested,Perris,Riverside County,33.8376318571429,-117.247715132653
+Riverside County Office Of Education ROP,Val Verde RLC,3010 Webster Avenue Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.8444774,-117.2438266
+Val Verde Unified,Val Verde Student Success Academy,25100 Red Maple Ln Moreno Valley CA 92551-1120,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.884729,-117.2262894
+Nuview Union,Valley View Elementary,21220 Maurice Street Nuevo CA 92567-9010,NA,NA,FALSE,tested,NA,Riverside County,33.8103141644973,-117.109440201404
+Alvord Unified,Valley View Elementary,11750 Gramercy Place Riverside CA 92505-3128,NA,NA,FALSE,tested,Riverside,Riverside County,33.9218039,-117.5058722
+Moreno Valley Unified,Valley View High,13135 Nason Street Moreno Valley CA 92555-4504,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9300411076049,-117.191619264493
+Jurupa Unified,Van Buren Elementary,9501 Jurupa Road Jurupa Valley CA 92509-3513,NA,NA,NA,not tested,Eastvale,Riverside County,33.992729,-117.513909
+Corona-Norco Unified,Vicentia Elementary,2005 South Vicentia Avenue Corona CA 92882-4261,NA,NA,FALSE,tested,Corona,Riverside County,33.859848,-117.577235
+Riverside Unified,Victoria Elementary,2910 Arlington Avenue Riverside CA 92506-4449,NA,NA,FALSE,tested,Riverside,Riverside County,33.9463448662557,-117.375123475199
+Val Verde Unified,Victoriano Elementary,25650 Los Cabos Drive Moreno Valley CA 92551-1912,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8892746767686,-117.212025806061
+Moreno Valley Unified,Vista del Lago High,15150 Lasselle Street Moreno Valley CA 92551-1460,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8795304,-117.2093327
+Moreno Valley Unified,Vista Heights Middle,23049 Old Lake Drive Moreno Valley CA 92557-2710,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9680747129761,-117.25975318952
+Murrieta Valley Unified,Vista Murrieta High,28251 Clinton Keith Road Murrieta CA 92563-2465,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5987144,-117.1779199
+Murrieta Valley Unified,Warm Springs Middle,39245 Calle de Fortuna Murrieta CA 92563-8002,NA,NA,FALSE,tested,Murrieta,Riverside County,33.553367,-117.1495889
+Riverside Unified,Washington Elementary,2760 Jane Street Riverside CA 92506-4301,NA,NA,FALSE,tested,Riverside,Riverside County,33.9350484285714,-117.382608142857
+Alvord Unified,Wells Middle,10000 Wells Avenue Riverside CA 92503-2373,NA,NA,FALSE,tested,Riverside,Riverside County,33.9326940676497,-117.469922830876
+Jurupa Unified,West Riverside Elementary,3972 Riverview Drive Jurupa Valley CA 92509-6611,NA,NA,NA,not tested,Jurupa Valley,Riverside County,33.9985012736081,-117.414587334655
+Hemet Unified,West Valley High,3401 Mustang Way Hemet CA 92545-9257,NA,NA,FALSE,tested,Hemet,Riverside County,33.71786665,-117.010266791477
+Hemet Unified,Western Center Academy,2345 Searl Parkway Hemet CA 92543-9706,NA,NA,FALSE,tested,Hemet,Riverside County,33.7065965,-116.992957567124
+Hemet Unified,Whittier Elementary,400 West Whittier Avenue Hemet CA 92543-5940,NA,NA,NA,not tested,Hemet,Riverside County,33.7367263182672,-116.97511476311
+Riverside Unified,William Howard Taft Elementary,959 Mission Grove Parkway North Riverside CA 92506-6226,NA,NA,FALSE,tested,Riverside,Riverside County,33.9249845,-117.3242729
+Corona-Norco Unified,William McKinley Elementary,2050 Aztec Lane Corona CA 92879-7858,NA,NA,FALSE,tested,Corona,Riverside County,33.903448,-117.532394
+Hemet Unified,Winchester Elementary,28751 Winchester Road Winchester CA 92596-9570,NA,NA,FALSE,tested,NA,Riverside County,33.7028464534488,-117.084997310108
+Lake Elsinore Unified,Withrow Elementary,30100 Audelo Street Lake Elsinore CA 92530-7300,NA,NA,FALSE,tested,NA,Riverside County,33.6821342080537,-117.394233389262
+Riverside Unified,Woodcrest Elementary,16940 Krameria Avenue Riverside CA 92504-6119,NA,NA,NA,not tested,Riverside,Riverside County,33.879968263093,-117.36709102295
+Corona-Norco Unified,Woodrow Wilson Elementary,1750 Spyglass Drive Corona CA 92883-0696,NA,NA,FALSE,tested,Corona,Riverside County,33.8142590848156,-117.539225707417
+Private,Young Scholar Education Center,4029 W George St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9305585714286,-116.921030142857
+Temecula Valley Unified,Ysabel Barnett Elementary,39925 Harveston Drive Temecula CA 92591-4586,NA,NA,FALSE,tested,Temecula,Riverside County,33.5394726,-117.1529887
+Alvord Unified,Ysmael Villegas Middle,3754 Harvill Lane Riverside CA 92503-4680,NA,NA,FALSE,tested,NA,Riverside County,33.8845662832395,-117.507175816254

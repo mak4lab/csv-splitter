@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Konocti Unified,Burns Valley,3620 Pine Street Clearlake CA 95422-6420,NA,NA,FALSE,tested,Clearlake,Lake County,38.960481,-122.645291
+Lake County Office of Education,Clearlake Creativity,6945 Old Highway 53 Clearlake CA 95422-9381,5.5,ppb,TRUE,tested,Clearlake,Lake County,38.932341122058,-122.623898975444
+Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,NA,NA,NA,not tested,Clearlake,Lake County,38.9720438600123,-122.6498879428

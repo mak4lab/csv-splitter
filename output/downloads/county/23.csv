@@ -1,0 +1,71 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Merced City Elementary,Ada Givens Elementary,2900 Green Street Merced CA 95340-3253,NA,NA,FALSE,tested,Merced,Merced County,37.3047306756406,-120.453666124913
+Merced City Elementary,Alicia Reyes Elementary,123 South N Street Merced CA 95340,6.6,ppb,TRUE,tested,Merced,Merced County,37.2863487959184,-120.494914408163
+Merced City Elementary,Allan Peterson Elementary,848 East Donna Drive Merced CA 95340-0600,NA,NA,FALSE,tested,Merced,Merced County,37.3275574,-120.461281787081
+Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,NA,NA,NA,not tested,Atwater,Merced County,37.36825045,-120.61656785643
+Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,NA,NA,NA,not tested,Atwater,Merced County,37.355554,-120.612664
+Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Dos Palos Oro Loma Joint Unified,Bernhard Marks Elementary,1717 Valeria Street Dos Palos CA 93620-2648,NA,NA,NA,not tested,NA,Merced County,36.9816838163265,-120.624523163265
+Merced Union High,Buhach Colony High,1800 Buhach Road Atwater CA 95301-4592,NA,NA,NA,not tested,NA,Merced County,37.3363289,-120.5818606
+Livingston Union,Campus Park Elementary,1845 H Street Livingston CA 95334-1799,NA,NA,NA,not tested,Livingston,Merced County,37.38073045,-120.717630464449
+Merced City Elementary,Charles Wright Elementary,900 East 20th Street Merced CA 95340-4052,NA,NA,FALSE,tested,Merced,Merced County,37.2968196,-120.463116725752
+Hilmar Unified,Colony Basic Skills Alternative High,20384 Geer Avenue Hilmar CA 95324-9722,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335
+Los Banos Unified,Creekside Junior High School,1401 Prairie Springs Dr Los Banos CA 93635,NA,NA,FALSE,tested,NA,Merced County,37.0519106,-120.8832494
+Delhi Unified,Delhi High,16881 West Schendel Ave. Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.4268208550725,-120.794683782609
+Delhi Unified,Delhi Middle,16881 West Schendel Avenue Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.4268208550725,-120.794683782609
+Merced City Elementary,Don Stowell Elementary,251 East 11th Street Merced CA 95340-6228,NA,NA,FALSE,tested,Merced,Merced County,37.2912606326531,-120.476056959184
+Merced City Elementary,Donn B. Chenoweth Elementary,3200 Parsons Avenue Merced CA 95340-1624,11,ppb,TRUE,tested,Merced,Merced County,37.32141665,-120.449956599545
+Dos Palos Oro Loma Joint Unified,Dos Palos Elementary,2149 Almond Street Dos Palos CA 93620-2305,NA,NA,NA,not tested,NA,Merced County,36.9847925714286,-120.63001655102
+Dos Palos Oro Loma Joint Unified,Dos Palos High,1701 East Blossom Street Dos Palos CA 93620-2706,NA,NA,NA,not tested,NA,Merced County,36.9864510918367,-120.62381555102
+Merced Union High,El Capitan High,100 West Farmland Merced CA 95348-8632,NA,NA,FALSE,tested,Merced,Merced County,37.3683983,-120.4701616
+Hilmar Unified,Elim Elementary,7677 North Lander Avenue Hilmar CA 95324-9338,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.8497894
+Weaver Union,Farmdale Elementary,100 Winder Avenue Merced CA 95341-8855,NA,NA,FALSE,tested,Merced,Merced County,37.2771639,-120.4778991
+Merced City Elementary,Franklin Elementary,2936 Franklin Road Merced CA 95348-9436,6.1,ppb,TRUE,tested,NA,Merced County,37.3307303333333,-120.540743933333
+Merced Union High,Golden Valley High,2121 East Childs Avenue Merced CA 95344-0188,NA,NA,FALSE,tested,NA,Merced County,37.2877479166667,-120.449756458333
+Los Banos Unified,Green Valley Charter,1149 East B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,,Merced County,37.066742,-120.837844862069
+Gustine Unified,Gustine High,501 North Ave Gustine CA 95322-1116,NA,NA,NA,not tested,NA,Merced County,37.26182465,-121.001952349978
+Gustine Unified,Gustine Middle,28075 Sullivan Road Gustine CA 95322-9516,NA,NA,NA,not tested,NA,Merced County,37.24395265,-120.995661406025
+Delhi Unified,Harmony Elementary,16464 West August Avenue Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.419640122449,-120.78539877551
+Los Banos Unified,Henry Miller Elementary,545 West L Street Los Banos CA 93635-3943,NA,NA,FALSE,tested,NA,Merced County,37.05864125,-120.859903063364
+Merced City Elementary,Herbert H. Cruickshank Middle,601 Mercy Avenue Merced CA 95340-8334,NA,NA,FALSE,tested,Merced,Merced County,37.3400909,-120.4651899
+Merced City Elementary,Herbert Hoover Middle,800 East 26th Street Merced CA 95340-3108,NA,NA,FALSE,tested,Merced,Merced County,37.3033405,-120.463389943972
+Hilmar Unified,Hilmar High,7807 North Lander Avenue Hilmar CA 95324-9398,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.8497894
+Hilmar Unified,Hilmar Middle,7528 North Scholar Way Hilmar CA 95324-9655,NA,NA,FALSE,tested,NA,Merced County,37.3970826,-120.8592634
+Hilmar Unified,Irwin High (Continuation),20384 Geer Ave Hilmar CA 95324-9398,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335
+Merced City Elementary,Joe Stefani,2768 Ranchero Lane Merced CA 95348-3503,NA,NA,FALSE,tested,NA,Merced County,37.3294812,-120.535156338903
+Merced City Elementary,John C. Fremont Elementary,1120 West 22nd Street Merced CA 95340-3540,NA,NA,FALSE,tested,Merced,Merced County,37.3090294,-120.490851988822
+Merced City Elementary,John Muir Elementary,300 West 26th Street Merced CA 95340-2912,NA,NA,FALSE,tested,Merced,Merced County,37.30881225,-120.475454464213
+Merced City Elementary,Leontine Gracey Elementary,945 West Avenue Merced CA 95340-5666,NA,NA,FALSE,tested,NA,Merced County,37.2507266666667,-121.003569444444
+Merced Union High,Livingston High,1617 Main Street Livingston CA 95334-1250,NA,NA,FALSE,tested,Livingston,Merced County,37.3769706510067,-120.723355308725
+Livingston Union,Livingston Middle,101 F Street Livingston CA 95334-9588,NA,NA,NA,not tested,Livingston,Merced County,37.382359,-120.739839
+Los Banos Unified,Lorena Falasco Elementary,310 Overland Avenue Los Banos CA 93635-9708,NA,NA,FALSE,tested,NA,Merced County,37.0749776,-120.849306408268
+Los Banos Unified,Los Banos Junior High,1750 San Luis Street Los Banos CA 93635-3866,NA,NA,FALSE,tested,NA,Merced County,37.06493225,-120.827724647045
+Merced City Elementary,Luther Burbank Elementary,609 East Alexander Avenue Merced CA 95340-2214,NA,NA,FALSE,tested,Merced,Merced County,37.3153464375,-120.46408125
+Merced Union High,Merced High,205 West Olive Avenue Merced CA 95348-3100,NA,NA,FALSE,tested,Merced,Merced County,37.3189843248799,-120.473001871416
+Los Banos Unified,Mercey Springs Elementary,1900 South Mercey Springs Rd Los Banos CA 93635-4800,NA,NA,FALSE,tested,NA,Merced County,37.047846,-120.835436
+Garden Grove Unified,Mitchell Elementary,13451 Taft Avenue Garden Grove CA 92843-2444,6.89,ppb,TRUE,tested,NA,Merced County,37.233675,-120.25771
+Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,NA,NA,FALSE,tested,Atwater,Merced County,37.3529532,-120.6112958
+Private,Our Lady of Mercy,1400 East 27th Street Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.3042673944074,-120.457737040943
+Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,NA,NA,FALSE,tested,Atwater,Merced County,37.37076395,-120.593810259422
+Weaver Union,Pioneer Elementary,2950 Gerard Avenue Merced CA 95341-5433,NA,NA,FALSE,tested,NA,Merced County,37.3881272,-120.6141235
+Gustine Unified,Pioneer Headstart,1500 Meredith Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.24891915,-121.01117717525
+Gustine Unified,Pioneer High (Continuation),501 North Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.26182465,-121.001952349978
+Private,Providence Christian School,2142 East Yosemite Avenue Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.3322097113402,-120.446534463918
+Los Banos Unified,R. M. Miano Elementary,1129 B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,Los Banos,Merced County,37.0592253,-120.8505342
+Merced City Elementary,Rudolph Rivera Elementary,945 Buena Vista Drive Merced CA 95348-2302,NA,NA,FALSE,tested,Merced,Merced County,37.32739925,-120.483948823864
+Merced City Elementary,Rudolph Rivera Middle,801 Buena Vista Drive Merced CA 95348-2302,9.1,ppb,TRUE,tested,Merced,Merced County,37.326361,-120.482592
+Delhi Unified,Schendel Elementary,16114 Schendel Avenue Delhi CA 95315-0338,NA,NA,FALSE,tested,NA,Merced County,37.4279563,-120.7791673
+Livingston Union,Selma Herndon Elementary,714 Prusso Street Livingston CA 95334-1199,NA,NA,NA,not tested,Livingston,Merced County,37.3848152,-120.727833183557
+Merced Union High,Sequoia High,1900 G St Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.300512,-120.474283232149
+Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,NA,NA,FALSE,tested,Atwater,Merced County,37.3468276,-120.597518052191
+Winton,Sybil N. Crookham Elementary,7160 West Walnut Avenue Winton CA 95388-0130,NA,NA,NA,not tested,NA,Merced County,37.39021265,-120.616214552015
+Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,NA,NA,FALSE,tested,Atwater,Merced County,37.3546807,-120.59685909387
+Merced County Office of Education,Valley Los Banos Community,715 West H Street Los Banos CA 93635-8540,NA,NA,NA,not tested,NA,Merced County,37.069601,-120.8636244
+Merced County Office of Education,Valley Merced Community,1850 Wardrobe Ave Merced CA 95341-6407,NA,NA,FALSE,tested,Merced,Merced County,37.2955230408163,-120.50729622449
+Weaver Union,Weaver Middle,3076 East Childs Avenue Merced CA 95341-9583,NA,NA,FALSE,tested,Merced,Merced County,37.28977295,-120.431239694122
+Los Banos Unified,Westside Union Elementary,659 K Street Los Banos CA 93635-4225,13,ppb,TRUE,tested,NA,Merced County,37.0586492653061,-120.848589142857
+Winton,Winfield Elementary,6981 Chestnut Lane Winton CA 95388,NA,NA,NA,not tested,NA,Merced County,37.3890719324324,-120.604448135135
+Private,Wolfe Education,632 W 13th St Merced CA 95341,NA,NA,FALSE,tested,Merced,Merced County,37.2978091428571,-120.487899979592
+Livingston Union,Yamato Colony Elementary,800 North Main Street Livingston CA 95334-9304,NA,NA,NA,not tested,Livingston,Merced County,37.382401,-120.723446
+Merced Union High,Yosemite High (Continuation),1900 G Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.3029568,-120.4843269

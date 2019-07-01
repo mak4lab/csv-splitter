@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lucia Mar Unified,Arroyo Grande High,495 Valley Road Arroyo Grande CA 93420-3928,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1145959988087,-120.581171998152
+Lucia Mar Unified,Dana Elementary,920 West Tefft Street Nipomo CA 93444-9624,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0351192,-120.4877845
+Lucia Mar Unified,Fairgrove Elementary,2101 The Pike Grover Beach CA 93433-3228,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.1072932,-120.605358441702
+Lucia Mar Unified,Grover Beach Elementary,365 South 10th Street Grover Beach CA 93433-2418,NA,NA,FALSE,tested,Grover Beach,San Luis Obispo County,35.1186115,-120.6186902
+Lucia Mar Unified,Grover Heights Elementary,770 North Eighth Street and Ritchie Road Grover Beach CA 93433,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lucia Mar Unified,Harloe Elementary,901 Fair Oaks Avenue Arroyo Grande CA 93420-3827,9.7,ppb,TRUE,tested,Arroyo Grande,San Luis Obispo County,35.112625800000004,-120.5924731
+Lucia Mar Unified,Judkins Middle,680 Wadsworth Street Pismo Beach CA 93449-2359,NA,NA,FALSE,tested,Pismo Beach,San Luis Obispo County,35.1467869461654,-120.638990163986
+Lucia Mar Unified,Lange (Dorothea) Elementary,1661 Via Alta Mesa Nipomo CA 93444-9344,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0162928,-120.516101
+Lucia Mar Unified,Lopez Continuation High,1055 Mesa View Drive Arroyo Grande CA 93420-3311,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lucia Mar Unified,Mesa Middle,2555 Halcyon Road Arroyo Grande CA 93420-6539,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lucia Mar Unified,Nipomo Elementary,190 East Price Street Nipomo CA 93444-9099,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0429877,-120.4717687
+Lucia Mar Unified,Nipomo High,525 North Thompson Ave Nipomo CA 93444-9086,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0518997,-120.4860715
+Lucia Mar Unified,Ocean View Elementary,1208 Linda Drive Arroyo Grande CA 93420-2466,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.12351015,-120.598377720738
+Lucia Mar Unified,Oceano Elementary,1551 17th Street Oceano CA 93445-9303,6.2,ppb,TRUE,tested,NA,San Luis Obispo County,35.1032872,-120.6121756
+Lucia Mar Unified,Paulding Middle,600 Crown Hill Street Arroyo Grande CA 93420-2869,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1265051,-120.5718258
+Lucia Mar Unified,Shell Beach Elementary,2100 Shell Beach Road Pismo Beach CA 93449-1800,NA,NA,FALSE,tested,Pismo Beach,San Luis Obispo County,35.15921105,-120.678901425697

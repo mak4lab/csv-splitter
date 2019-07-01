@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rita Union Elementary,Abraham Lincoln Elementary,"850 W 9th St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4415496630226,-122.736069224231
+Santa Rita Union Elementary,Albert F. Biella Elementary,"2140 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
+Santa Rita Union Elementary,Bolsa Knolls Middle,1031 Rogge Road Salinas CA 93906-1305,13,ppb,TRUE,tested,NA,NA,NA,NA
+Santa Rita Union Elementary,Brook Hill Elementary,"1850 Vallejo St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
+Santa Rita Union Elementary,Gavilan View Middle,18250 Vab Buren Salinas CA 93906-4300,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Rita Union Elementary,Helen Lehman Elementary,"1700 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rita Union Elementary,Herbert Slater Middle School,"3500 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rita Union Elementary,Hidden Valley Elementary,"3435 Bonita Vista Dr, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
+Santa Rita Union Elementary,Hilliard Comstock Middle School,"2750 W Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rita Union Elementary,James Monroe Elementary,"2567 Marlow Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Santa Rita Union Elementary,La Joya Elementary,55 Rogge Road Salinas CA 93906-1301,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Rita Union Elementary,Lawrence Cook Middle School,"2480 Sebastopol Rd, Santa Rosa, CA 95407",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Santa Rita Union Elementary,Luther Burbank Elementary,"203 A St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4420427,-122.719497
+Santa Rita Union Elementary,McKinnon,2100 McKinnon Salinas CA 93906-5700,NA,NA,FALSE,tested,Salinas,Monterey County,36.7172769393939,-121.643541121212
+Santa Rita Union Elementary,Montgomery High School,"1250 Hahman Dr, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.441091,-122.685192
+Santa Rita Union Elementary,New Republic Elementary,636 Arcadia Way Salinas CA 93906-5422,NA,NA,FALSE,tested,Salinas,Monterey County,36.7137202295474,-121.628195397438
+Santa Rita Union Elementary,Piner High School,"1700 Fulton Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rita Union Elementary,Proctor Terrace Elementary,"1711 Bryden Ln, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Santa Rita Union Elementary,Rincon Valley Middle School,"4650 Badger Rd, Santa Rosa, CA 95409",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rita Union Elementary,Santa Rita Elementary,2014 South Santa Rita Street Salinas CA 93906-1912,NA,NA,FALSE,tested,Salinas,Monterey County,36.724483,-121.653558
+Santa Rita Union Elementary,Santa Rosa Charter School for the Arts,"756 Humboldt St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4468142000657,-122.714596839273
+Santa Rita Union Elementary,Santa Rosa French-American Charter School,"1350 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rita Union Elementary,Santa Rosa High School,"1235 Mendocino Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rita Union Elementary,Santa Rosa Middle School,"500 E St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
+Santa Rita Union Elementary,Steele Lane Elementary,"301 Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.460548,-122.720485

@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Norris Elementary,Norris Elementary,7110 Old Farm Road Bakersfield CA 93312-9005,NA,NA,FALSE,tested,Bakersfield,Kern County,35.42525,-119.13658
+Norris Elementary,Norris Middle,6940 Calloway Drive Bakersfield CA 93312-9005,NA,NA,FALSE,tested,Bakersfield,Kern County,35.4234422857143,-119.109875756303
+Norris Elementary,Olive Drive Elementary,7800 Darrin Avenue Bakersfield CA 93308-7226,NA,NA,FALSE,tested,NA,Kern County,35.414197,-119.0889015
+Norris Elementary,Veterans Elementary,6301 Old Farm Road Bakersfield CA 93312-5470,NA,NA,FALSE,tested,Bakersfield,Kern County,35.4171886582279,-119.136711303797
+Norris Elementary,William B. Bimat Elementary,8600 Northshore Drive Bakersfield CA 93312-1947,NA,NA,FALSE,tested,Bakersfield,Kern County,35.410197,-119.098159

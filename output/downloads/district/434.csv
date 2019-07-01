@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Magnolia Elementary,Dr. Albert Schweitzer,229 South Dale Avenue Anaheim CA 92804-2006,NA,NA,FALSE,tested,Anaheim,Orange County,33.829522,-117.984805
+Magnolia Elementary,Dr. Peter Marshall,2627 Crescent Avenue Anaheim CA 92801-4902,5.3,ppb,TRUE,tested,Anaheim,Orange County,33.8396043224785,-117.978602115288
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA  92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.8055338666667,-117.973384866667
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA 92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.8055338666667,-117.973384866667
+Magnolia Elementary,Jonas E. Salk,1411 South Gilbert Street Anaheim CA 92804-5230,NA,NA,FALSE,tested,NA,Orange County,33.8124359795918,-117.967695
+Magnolia Elementary,Juliette Low,215 North Ventura Anaheim CA 92801-5167,NA,NA,FALSE,tested,Anaheim,Orange County,33.8338122660007,-117.9633717645
+Magnolia Elementary,Lord Baden-Powell,2911 Stonybrook Drive Anaheim CA 92804-3931,NA,NA,FALSE,tested,Anaheim,Orange County,33.8231172,-118.0015672
+Magnolia Elementary,Mattie Lou Maxwell,2613 West Orange Avenue Anaheim CA 92804-3201,NA,NA,FALSE,tested,Anaheim,Orange County,33.82624495,-117.977028402163
+Magnolia Elementary,Robert M. Pyles,10411 South Dale Street Stanton CA 90680-2505,NA,NA,FALSE,tested,NA,NA,NA,NA
+Magnolia Elementary,Walt Disney,2323 West Orange Avenue Anaheim CA 92804-3474,NA,NA,FALSE,tested,Anaheim,Orange County,33.825075308995,-117.96466159995

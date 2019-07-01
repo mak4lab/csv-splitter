@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Denair Unified,Denair Charter Academy,3460 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,,Stanislaus County,37.5272988,-120.8021511
+Denair Unified,Denair Elementary Charter Academy,3773 Madera Ave. Denair CA 95316-9428,5.47,ppb,TRUE,tested,,Stanislaus County,37.5263401428571,-120.799775693878
+Denair Unified,Denair High,3431 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,,Stanislaus County,37.5258727460317,-120.803226396825
+Denair Unified,Denair Middle,3701 Lester Road Denair CA 95316,5.35,ppb,TRUE,tested,,Stanislaus County,37.5233943174603,-120.803290253968

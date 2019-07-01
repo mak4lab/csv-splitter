@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+West Sonoma County Union High,Analy High,6950 Analy Avenue Sebastopol CA 95472-3401,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4067712244898,-122.826113673469
+West Sonoma County Union High,El Molino High,7050 Covey Road Forestville CA 95436-9642,NA,NA,FALSE,tested,NA,Sonoma County,38.4818413264561,-122.890240848549
+West Sonoma County Union High,Laguna High,445 Taft Street Sebastopol CA 95472-3443,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4059964908907,-122.823829237059
+West Sonoma County Union High,West County Charter Middle,6321 State Highway 116 Forestville CA 95436,NA,NA,FALSE,tested,NA,NA,NA,NA
+West Sonoma County Union High,West Sonoma County Consortium,462 Johnson Street Sebastopol CA 95472-3431,11,ppb,TRUE,tested,Sebastopol,Sonoma County,38.4066542524854,-122.822328373757

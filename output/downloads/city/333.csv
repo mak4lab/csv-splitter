@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Visalia Unified,Annie R. Mitchell,2121 East Laura Avenue Visalia CA 93292-1407,NA,NA,FALSE,tested,Visalia,Tulare County,36.3100941,-119.268252273931
+Visalia Unified,Charter Home School Academy,211 West Tulare Avenue Visalia CA 93277-4813,NA,NA,FALSE,tested,Visalia,Tulare County,36.3200420877193,-119.294200596491
+Visalia Unified,Cottonwood Creek Elementary,4222 South Dans Street Visalia CA 93277-7964,NA,NA,FALSE,tested,Visalia,Tulare County,36.2925929,-119.324794199659
+Visalia Unified,Crestwood Elementary,3001 West Whitendale Avenue Visalia CA 93277-6077,NA,NA,FALSE,tested,Visalia,Tulare County,36.3033359,-119.323839802329
+Visalia Unified,El Diamante High,5100 West Whitendale Avenue Visalia CA 93277-5604,NA,NA,FALSE,tested,Visalia,Tulare County,36.3070186,-119.347191830454
+Visalia Unified,Four Creeks Elementary,1844 North Burke Street Visalia CA 93291-2217,NA,NA,FALSE,tested,Visalia,Tulare County,36.34599975,-119.281957542248
+Visalia Unified,Golden Oak Elementary,1700 North Lovers Lane Visalia CA 93292-8013,NA,NA,FALSE,tested,Visalia,Tulare County,36.3435965,-119.259799776723
+Visalia Unified,Golden West High,1717 North McAuliff Road Visalia CA 93292-9310,NA,NA,FALSE,tested,Visalia,Tulare County,36.3437598401952,-119.252105949529
+Visalia Unified,Green Acres Middle,1147 North Mooney Boulevard Visalia CA 93291-3224,NA,NA,FALSE,tested,Visalia,Tulare County,36.33937495,-119.315657558328
+Visalia Unified,Highland Elementary,701 North Stevenson Street Visalia CA 93291-4811,NA,NA,FALSE,tested,Visalia,Tulare County,36.3357188,-119.300741121964
+Visalia Unified,Houston Elementary,1200 North Giddings Street Visalia CA 93291-2851,NA,NA,FALSE,tested,Visalia,Tulare County,36.34089335,-119.304439575313
+Visalia Unified,Hurley Elementary,6600 West Hurley Avenue Visalia CA 93291-8812,NA,NA,FALSE,tested,Visalia,Tulare County,36.3355281,-119.364421854153
+Tulare County Office of Education,La Sierra Military Academy,1735 East Houston Avenue Visalia CA 93292-2349,NA,NA,FALSE,tested,Visalia,Tulare County,36.3417753315884,-119.273885512188
+Visalia Unified,Manuel F. Hernandez,2133 North Leila Street Visalia CA 93291-8453,NA,NA,FALSE,tested,Visalia,Tulare County,36.3482106,-119.329318042443
+Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.346116,-119.367812
+Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia  CA 93291,NA,NA,FALSE,tested,Visalia,Tulare County,36.346116,-119.367812
+Visalia Unified,Mineral King Elementary,3333 East Kaweah Avenue Visalia CA 93292-3313,NA,NA,FALSE,tested,Visalia,Tulare County,36.3251794,-119.25518512121
+Visalia Unified,Mt. Whitney High,900 South Conyer Street Visalia CA 93277-2535,NA,NA,FALSE,tested,Visalia,Tulare County,36.3222194,-119.29849980275
+Visalia Unified,Oak Grove Elementary,4445 West Ferguson Avenue Visalia CA 93291-9216,NA,NA,FALSE,tested,Visalia,Tulare County,36.3478779,-119.339688432666
+Visalia Unified,Pinkham Elementary,2200 East Tulare Avenue Visalia CA 93292-5288,NA,NA,FALSE,tested,Visalia,Tulare County,36.3205811,-119.267690519919
+Visalia Unified,Redwood High,1001 West Main Street Visalia CA 93291-5919,NA,NA,FALSE,tested,Visalia,Tulare County,36.3282767,-119.30327216429
+Visalia Unified,Ridgeview Middle,3315 North Akers Street Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.3385262,-119.3498458
+Visalia Unified,River Bend,1800 North Lovers Lane Visalia CA 93292-3198,NA,NA,NA,not tested,Visalia,Tulare County,36.3446124,-119.259978199024
+Visalia Unified,Sequoia High,901 North Mooney Boulevard Visalia CA 93291-3228,NA,NA,FALSE,tested,Visalia,Tulare County,36.33723605,-119.315618993709
+Visalia Unified,Shannon Ranch Elementary,3637 North Ranch Street Visalia CA 93291-8106,NA,NA,NA,not tested,Visalia,Tulare County,36.3618046,-119.320567368095
+Visalia Unified,Sierra Vista High School,200 S. Dollner St. Visalia CA 93291,NA,NA,FALSE,tested,Visalia,Tulare County,36.3288409,-119.3079569
+Tulare County Office of Education,Special Education,6200 South Mooney Blvd Visalia CA 93277,NA,NA,NA,not tested,Visalia,Tulare County,36.2802823,-119.3133915
+Visalia Unified,Sycamore Valley Academy,4230 West Tulare Avenue Visalia CA 93277-8300,NA,NA,NA,not tested,Visalia,Tulare County,36.3201367537688,-119.337717713568
+Tulare County Office of Education,Valley Life Charter,3737 West Walnut Avenue Visalia CA 93277-3947,NA,NA,FALSE,tested,Visalia,Tulare County,36.3127369842079,-119.332208366779
+Private,Valley Life Charter School Akers Campus,3737 S. Akers St. Visalia CA 93277,NA,NA,FALSE,tested,Visalia,Tulare County,36.2948854,-119.3494049
+Visalia Unified,Valley Oak Middle,2000 North Lovers Lane Visalia CA 93292-3104,NA,NA,FALSE,tested,Visalia,Tulare County,36.3457354,-119.259544715138
+Visalia Unified,Visalia Technical Early College,2245 South Linwood Visalia CA 93277-5753,NA,NA,FALSE,tested,Visalia,Tulare County,36.3489102,-119.340946

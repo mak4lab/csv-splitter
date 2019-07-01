@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alameda Unified,Alameda Community Learning Center,1900 3rd Street Alameda CA 94501-1851,NA,NA,NA,not tested,Livermore,Alameda County,37.679195,-121.771678
+Livermore Valley Joint Unified,Altamont Creek Elementary,6500 Garaventa Ranch Road Livermore CA 94551-8701,NA,NA,FALSE,tested,Livermore,Alameda County,37.72275,-121.719127
+Livermore Valley Joint Unified,Andrew N. Christensen Middle,5757 Haggin Oaks Avenue Livermore CA 94551-1100,8.5,ppb,TRUE,tested,Livermore,Alameda County,37.7264425364895,-121.72898030786
+Livermore Valley Joint Unified,Arroyo Mocho School,1040 Florence Rd Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6696284236321,-121.775205444749
+Livermore Valley Joint Unified,Arroyo Seco Elementary,5280 Irene Way Livermore CA 94550-3508,NA,NA,FALSE,tested,Livermore,Alameda County,37.683854,-121.728769
+Livermore Valley Joint Unified,East Avenue Middle,3951 East Avenue Livermore CA 94550-4830,NA,NA,FALSE,tested,Livermore,Alameda County,37.67834605,-121.750481266647
+Livermore Valley Joint Unified,Emma C. Smith Elementary,391 Ontario Drive Livermore CA 94550-5249,NA,NA,FALSE,tested,Livermore,Alameda County,37.6659318957745,-121.796448621577
+Livermore Valley Joint Unified,Granada High,400 Wall Street Livermore CA 94550-4066,NA,NA,FALSE,tested,Livermore,Alameda County,37.67506785,-121.78796688858
+Livermore Valley Joint Unified,Jackson Avenue Elementary,554 Jackson Avenue Livermore CA 94550-3434,NA,NA,FALSE,tested,Livermore,Alameda County,37.68497945,-121.741209216416
+Livermore Valley Joint Unified,Joe Michell,1001 Elaine Avenue Livermore CA 94550-5414,NA,NA,FALSE,tested,Livermore,Alameda County,37.6695242594422,-121.783491806532
+Livermore Valley Joint Unified,Junction K-8,298 Junction Avenue Livermore CA 94551-5903,NA,NA,FALSE,tested,Livermore,Alameda County,37.6879208,-121.765169079566
+Livermore Valley Joint Unified,Lawrence Elementary School,2451 Portola Avenue Livermore CA 94551,NA,NA,FALSE,tested,Livermore,Alameda County,37.6900872,-121.770633
+Livermore Valley Joint Unified,Leo R. Croce Elementary,5650 Scenic Avenue Livermore CA 94551-1224,NA,NA,FALSE,tested,Livermore,Alameda County,37.71778855,-121.728446526091
+Livermore Valley Joint Unified,Livermore High,600 Maple Street Livermore CA 94550-3298,NA,NA,FALSE,tested,Livermore,Alameda County,37.680493,-121.761581
+Livermore Valley Joint Unified,Livermore Valley Charter,3142 Constitution Drive Livermore CA 94551-7570,NA,NA,NA,not tested,Livermore,Alameda County,37.7049536538078,-121.817498763096
+Livermore Valley Joint Unified,Marylin Avenue Elementary,800 Marylin Avenue Livermore CA 94551-6514,NA,NA,FALSE,tested,Livermore,Alameda County,37.68475065,-121.785998196708
+Private,Our Savior Lutheran School,1385 South Livermore Avenue Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6729144591837,-121.754096683673
+Livermore Valley Joint Unified,Rancho Las Positas Elementary,401 East Jack London Boulevard Livermore CA 94551-1853,NA,NA,FALSE,tested,Livermore,Alameda County,37.688898,-121.796734
+Livermore Valley Joint Unified,Sunset Elementary,1671 Frankfurt Way Livermore CA 94550-6146,NA,NA,FALSE,tested,Livermore,Alameda County,37.6626956697751,-121.773451953919
+Livermore Valley Joint Unified,Vineyard Alternative,1401 Almond Avenue Livermore CA 94550-5043,NA,NA,FALSE,tested,Livermore,Alameda County,37.6774059392515,-121.739919
+Livermore Valley Joint Unified,William Mendenhall Middle,1701 El Padro Drive Livermore CA 94550-6215,NA,NA,FALSE,tested,Livermore,Alameda County,37.6627117929922,-121.792330085056

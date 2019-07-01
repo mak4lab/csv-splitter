@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hilmar Unified,Colony Basic Skills Alternative High,20384 Geer Avenue Hilmar CA 95324-9722,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335
+Hilmar Unified,Elim Elementary,7677 North Lander Avenue Hilmar CA 95324-9338,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.8497894
+Hilmar Unified,Hilmar High,7807 North Lander Avenue Hilmar CA 95324-9398,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.8497894
+Hilmar Unified,Hilmar Middle,7528 North Scholar Way Hilmar CA 95324-9655,NA,NA,FALSE,tested,NA,Merced County,37.3970826,-120.8592634
+Hilmar Unified,Irwin High (Continuation),20384 Geer Ave Hilmar CA 95324-9398,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335

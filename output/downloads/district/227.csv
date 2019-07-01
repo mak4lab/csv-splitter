@@ -1,0 +1,29 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Escondido Union,Bear Valley Middle,3003 Bear Valley Parkway Escondido CA 92025-7618,NA,NA,FALSE,tested,Escondido,San Diego County,33.0942124,-117.0589004
+Escondido Union,Bernardo Elementary,1122 Mountain Heights Drive Escondido CA 92029-5634,NA,NA,FALSE,tested,Escondido,San Diego County,33.0861079,-117.091661350032
+Escondido Union,Central Elementary,122 West Fourth Avenue Escondido CA 92025-4134,8.3,ppb,TRUE,tested,Escondido,San Diego County,33.1186479,-117.080291163996
+Escondido Union,Classical Academy,2950 South Bear Valley Parkway Escondido CA 92025-7446,6.4,ppb,TRUE,tested,Escondido,San Diego County,33.0942124,-117.0589004
+Escondido Union,Classical Academy Middle 7-8,144 W. Woodward Avenue Escondido CA 92025,NA,NA,FALSE,tested,NA,NA,NA,NA
+Escondido Union,Conway Elementary,1325 Conway Drive Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1464681,-117.075476731287
+Escondido Union,Del Dios Academy of Arts and Sciences,1400 West Ninth Avenue Escondido CA 92025-2204,NA,NA,FALSE,tested,Escondido,San Diego County,33.1115172,-117.0822445
+Escondido Union,Farr Avenue Elementary,933 Farr Avenue Escondido CA 92026-3121,NA,NA,FALSE,tested,Escondido,San Diego County,33.13779645,-117.077605928183
+Escondido Union,Felicita Elementary,737 West 13th Avenue Escondido CA 92025-5510,NA,NA,FALSE,tested,Escondido,San Diego County,33.10521315,-117.083059386673
+Escondido Union,Glen View Elementary,2201 East Mission Avenue Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1464585,-117.05251009808
+Escondido Union,Heritage Junior High and Flex Academy,2255 East Valley Parkway Escondido CA 92027-2713,NA,NA,NA,not tested,Escondido,San Diego County,33.139991,-117.04618175
+Escondido Union,Heritage K-8 Charter,1855 East Valley Parkway Escondido CA 92027-2517,NA,NA,FALSE,tested,Escondido,San Diego County,33.1363433723773,-117.054129618445
+Escondido Union,Hidden Valley Middle,2700 Reed Road Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.133776,-117.033272
+Escondido Union,Juniper Elementary,1809 South Juniper Street Escondido CA 92025-6240,5.8,ppb,TRUE,tested,Escondido,San Diego County,33.1052383049834,-117.067316787255
+Escondido Union,L. R. Green Elementary,3115 Las Palmas Avenue Escondido CA 92025-7300,NA,NA,FALSE,tested,Escondido,San Diego County,33.08508845,-117.059876949067
+Escondido Union,Lincoln Elementary,1029 North Broadway Escondido CA 92026-3043,NA,NA,FALSE,tested,Escondido,San Diego County,33.1344576,-117.088817751002
+Escondido Union,Miller Elementary,1975 Miller Avenue Escondido CA 92025-5932,NA,NA,FALSE,tested,Escondido,San Diego County,33.09664835,-117.080017740558
+Escondido Union,Mission Middle,939 East Mission Avenue Escondido CA 92026-2216,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1978082477411,-117.376120261189
+Escondido Union,Nicolaysen Community Day,420 North Falconer Rd. Escondido CA 92027,NA,NA,NA,not tested,Escondido,San Diego County,33.1385570507568,-117.032684755859
+Escondido Union,North Broadway Elementary,2301 North Broadway Escondido CA 92026-1412,NA,NA,FALSE,tested,Escondido,San Diego County,33.161119,-117.092927
+Escondido Union,Oak Hill Elementary,1820 Oak Hill Drive Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1295381480193,-117.051305474358
+Escondido Union,Orange Glen Elementary,2861 Valley Parkway Escondido CA 92027-2930,NA,NA,FALSE,tested,NA,NA,NA,NA
+Escondido Union,Pioneer Elementary,980 North Ash Street Escondido CA 92027-1629,8.7,ppb,TRUE,tested,Escondido,San Diego County,33.1387432,-117.071253604508
+Escondido Union,Quantum Academy,420 North Falconer Road Escondido CA 92027-5331,NA,NA,FALSE,tested,Escondido,San Diego County,33.1385570507568,-117.032684755859
+Escondido Union,Reidy Creek Elementary,2869 North Broadway Escondido CA 92026-8802,8,ppb,TRUE,tested,Escondido,San Diego County,33.17220215,-117.091929302111
+Escondido Union,Rincon Middle,925 Lehner Avenue Escondido CA 92026-1512,NA,NA,FALSE,tested,Escondido,San Diego County,33.157345,-117.081098363373
+Escondido Union,Rock Springs Elementary,1155 Deodar Road Escondido CA 92026-2200,NA,NA,FALSE,tested,Escondido,San Diego County,33.137299,-117.106158
+Escondido Union,Rose Elementary,906 North Rose Avenue Escondido CA 92027-1629,NA,NA,FALSE,tested,NA,NA,NA,NA

@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oxnard Union High,Adolfo Camarillo High,4660 Mission Oaks Boulevard Camarillo CA 93012-5132,NA,NA,NA,not tested,Camarillo,Ventura County,34.2219489259254,-119.005170554405
+Oxnard Union High,"Architecture, Construction & Engineering Charter High (ACE)",570 Airport Way Camarillo CA 93010-8500,NA,NA,NA,not tested,Camarillo,Ventura County,34.208374,-119.076202142857
+Oxnard Union High,Camarillo Academy of Progressive Education,777 Aileen Street Camarillo CA 93010-2959,NA,NA,NA,not tested,Camarillo,Ventura County,34.2259163519536,-119.059498416133
+Pleasant Valley,Camarillo Heights Elementary,35 Catalina Drive Camarillo CA 93010-1120,NA,NA,FALSE,tested,Camarillo,Ventura County,34.2413987918054,-119.04750743501
+Pleasant Valley,Dos Caminos Elementary,3635 Appian Way Camarillo CA 93010-4099,NA,NA,NA,not tested,Camarillo,Ventura County,34.2374440408163,-119.020957795918
+Oxnard Union High,Frontier High,545 Airport Way Camarillo CA 93010-8581,NA,NA,NA,not tested,Camarillo,Ventura County,34.2084425714286,-119.076395632653
+Ventura County Office of Education,Gateway Community,200 Horizon Circle Camarillo CA 93010-8596,NA,NA,NA,not tested,Camarillo,Ventura County,34.208278,-119.076219
+Pleasant Valley,La Mariposa,4800 Corte Olivas Camarillo CA 93012-4043,NA,NA,NA,not tested,Camarillo,Ventura County,34.233871,-119.008795
+Pleasant Valley,Las Colinas Middle,5750 Fieldcrest Drive Camarillo CA 93012-4303,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233366,-118.992891
+Pleasant Valley,Los Primeros School of Sciences & Arts,1555 Kendall Avenue Camarillo CA 93010-3607,NA,NA,NA,not tested,Camarillo,Ventura County,34.2334321814628,-119.030376469719
+Pleasant Valley,Monte Vista Middle,888 North Lantana Street Camarillo CA 93010-3023,NA,NA,NA,not tested,Camarillo,Ventura County,34.2262195462181,-119.054780920794
+Pleasant Valley,Pleasant Valley School of Engineering and Arts,1099 North Bedford Drive Camarillo CA 93010-4511,NA,NA,NA,not tested,Camarillo,Ventura County,34.228782,-119.04686
+Pleasant Valley,Preschool Early Education Program PEEP,3635 Appian Way B Camarillo CA 93010-4050,NA,NA,NA,not tested,Camarillo,Ventura County,34.2374440408163,-119.020957795918
+Oxnard Union High,Rancho Campana High,4235 Mar Vista Drive Camarillo CA 93010,NA,NA,NA,not tested,Camarillo,Ventura County,34.2445857,-119.0143205
+Pleasant Valley,Rancho Rosal Elementary,3535 Village at the Park Drive Camarillo CA 93012-7788,NA,NA,NA,not tested,Camarillo,Ventura County,34.2126926,-119.0197101
+Pleasant Valley,Santa Rosa Technology Magnet,13282 Santa Rosa Road Camarillo CA 93012-8200,NA,NA,FALSE,tested,Camarillo,Ventura County,34.218599,-119.004848
+Pleasant Valley,Tierra Linda Elementary,1201 Woodcreek Road Camarillo CA 93012-5555,NA,NA,FALSE,tested,Camarillo,Ventura County,34.2298796190476,-118.997983380952
+Ventura County ROP,Ventura County ROP,465 Horizon Circle Camarillo CA 93010-8596,NA,NA,NA,not tested,Camarillo,Ventura County,34.2081123469388,-119.076248

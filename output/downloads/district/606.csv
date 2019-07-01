@@ -1,0 +1,395 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,A Better Chance / California Autism Foundation,4138 Lakeside Drive Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9887870943446,-122.328879671735
+Private,Able Charter School,6515 Inglewood Ave Stockton CA 95207,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0101139,-121.31749576934
+Private,Achiever Christian,540 Sands Drive San Jose CA 95125,5.9,ppb,TRUE,tested,San José,Santa Clara County,37.2880588501677,-121.874335093244
+Private,Action Day Primary Plus - Allen,5845 Allen Ave San Jose CA 95123,7.4,ppb,TRUE,tested,San José,Santa Clara County,37.2451031521739,-121.856177173913
+Private,Action Day Primary Plus - Amber,3500 Amber Dr San Jose CA 95117,NA,NA,FALSE,tested,San José,Santa Clara County,37.304731,-121.958633
+Private,Action Day Primary Plus - West Valley Middle School,801 Hibiscus Ln San Jose CA 95117,NA,NA,FALSE,tested,San José,Santa Clara County,37.31334,-121.972194
+Private,Adventist Christian School,369 Harding Road Yuba City CA 95993,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1231333698529,-121.653348375019
+Private,Adventist Christian School,22751 Bray Rd Willits CA 95490,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,AGBU Vatche and Tamar Manoukian High School,2495 East Mountain Street Pasadena CA 91104,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1616230872483,-118.100106107383
+Private,Alan Rowe Prep-College,9424 Big Horn Blvd Elk Grove  CA 95758,NA,NA,FALSE,tested,Elk Grove,Sacramento County,38.4162526882579,-121.406999180387
+Private,All My Gods Children,1900 Willow Lake Rd Discovery Bay CA 94505,NA,NA,FALSE,tested,NA,Contra Costa County,37.9008437642393,-121.59940345238
+Private,All Saints Catholic School,22870 Second Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6723195744681,-122.076404744681
+Private,All Souls Catholic Elementary,479 Miller Avenue South San Francisco CA 94080,NA,NA,FALSE,tested,NA,San Mateo County,37.657233232703,-122.415083254516
+Private,Almaden Country School,6835 Trinidad Drive San Jose CA 95120,NA,NA,FALSE,tested,San José,Santa Clara County,37.2174995408412,-121.852692858183
+Private,Alvord Adult Education,NA,5.7,ppb,TRUE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,American International Montessori School,3339 Martin Luther King Jr. Way Berkeley CA 94703,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Aquinas High School,2772 Sterling Avenue San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.1134827,-117.2436785
+Private,Arcata Christian,1700 Union Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8740094,-124.0752953
+Private,Archbishop Mitty High,5000 Mitty Way San Jose CA 95129,NA,NA,FALSE,tested,San José,Santa Clara County,37.315761,-121.991181
+Private,Archbishop Riordan High,175 Phelan Avenue San Francisco CA 94112,NA,NA,FALSE,tested,SF,SF,37.7283735,-122.4524385
+Private,Armenian Community School,108 North Villa Avenue Clovis CA 93612,NA,NA,FALSE,tested,Clovis,Fresno County,36.8323259184902,-119.713622163044
+Private,Arrow Montessori School of San Dimas,818 West Gladstone Street San Dimas CA 91773,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.1138365622373,-117.823065332789
+Private,Arvin High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Assumption,1851 136th Avenue San Leandro CA 94578,9.45,ppb,TRUE,tested,San Leandro,Alameda County,37.7197143469388,-122.136845285714
+Private,Aurora School,40 Dulwich Road Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8398965025148,-122.231772288077
+Private,AV Academy High School,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Ballard Elementary,NA,10,ppb,TRUE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Bellarmine College Preparatory,960 West Hedding Street San Jose CA 95126,NA,NA,FALSE,tested,San José,Santa Clara County,37.3421682869133,-121.920847174594
+Private,Bergamo Montessori School,8144 Pocket Road Sacramento CA 95831,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.4791870438374,-121.518724721777
+Private,Bethany Christian Academy,13431 Edwards Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.7676289,-118.0166152
+Private,Bethel Christian School,933 College View Drive Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.60984615,-122.358455704845
+Private,Bishop O'Dowd High School,9500 Stearns Avenue Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.753491036709,-122.156391567484
+Private,Blessed Sacrament Schol,14146 South Olive Street Westminster CA 92683,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Bolinas Stinson Elementary School,3805 Shoreline Hwy Stinson Beach CA 94970,NA,NA,FALSE,tested,NA,Marin County,37.8995727,-122.64294
+Private,Brush Creek Montessori,1569 Brush Creek Rd Santa Rosa CA 95404,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4662300784948,-122.680655331034
+Private,Cabrillo Elementary School,1295 La Salle Street Seaside CA 93955,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Cambridge International Preparatory School,501 Cambridge St. San Francisco CA 94134,NA,NA,FALSE,tested,SF,SF,37.7250306,-122.416856485965
+Private,Camellia Waldorf,7450 Pocket Road Sacramento CA 95831,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.4764562,-121.5279462
+Private,Carden Conservatory,5702 Clark Drive Huntington Beach CA 92649,6,ppb,TRUE,tested,Huntington Beach,Orange County,33.7268778010449,-118.029136378687
+Private,Cardinal Newman High School,50 Ursuline Road Santa Rosa CA 95403,NA,NA,FALSE,tested,,Sonoma County,38.49215915,-122.740315730882
+Private,Carson Christian School,17705 Central Avenue Carson CA 90746,NA,NA,FALSE,tested,Carson,Los Angeles County,33.8558209,-118.2484873
+Private,Casa Blanca Head Start,7711 Casa Blanca St Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.9317374131098,-117.407610373911
+Private,Casa Di Mir Montessori Elementary,90 East Latimer Avenue Campbell CA 95008,NA,NA,FALSE,tested,NA,Santa Clara County,37.290577999999996,-121.948370655172
+Private,Centennial Montessori School,6 Tenth Avenue San Mateo CA 94401,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Challenger - Harwood,4949 Harwood Road San Jose CA 95124,NA,NA,FALSE,tested,San José,Santa Clara County,37.247944143147,-121.913198247562
+Private,Challenger - Shawnee,500 Shawnee Lane San Jose CA 95123,NA,NA,FALSE,tested,San José,Santa Clara County,37.241208,-121.830827
+Private,Challenger - Strawberry Park,730 Camina Escuela San Jose CA 95129,5.8,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Challenger - Sunnyvale,1185 Hollenbeck Avenue Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.35529835,-122.04228195
+Private,Challenger-Almaden,19950 McKean Road San Jose CA 95120,14,ppb,TRUE,tested,San José,Santa Clara County,37.2000904480753,-121.825402146436
+Private,Chandler School,1005 Armada Drive Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1594511,-118.1628495
+Private,"Child's Primary, The",3811 Mt. Acadia Boulevard San Diego CA 92111,6.76,ppb,TRUE,tested,San Diego,San Diego County,32.811171,-117.18071
+Private,Children's Day School,333 Dolores Street San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.763864,-122.426128
+Private,Chinese American International School 150 Oak,150 Oak Street  San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.7752412,-122.4224413
+Private,Chinese American International School 151 Oak,151 Oak Street San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.7750419375,-122.421790229167
+Private,Chinese American International School 289 Fell,289 Fell Street San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.7759053469388,-122.422481979592
+Private,Chinese American International School 888 Turk,888 Turk Street San Francisco  CA 94102,NA,NA,FALSE,tested,SF,SF,37.7816938615385,-122.423354246154
+Private,Chinese American International School 930 Gough,930 Gough Street San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.7818843673469,-122.423883163265
+Private,Christ Lutheran,820 West Imperial Highway Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9175529701253,-117.911301890666
+Private,Christ Lutheran Elementary,7929 La Mesa Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.764886,-117.026574
+Private,Christian Brothers High School,4315 Martin Luther King Jr. Boulevard Sacramento CA 95820,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Christian Elementary West,211 South Third Street El Cajon CA 92019,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Collis P Huntington Children Center,5921 26th Street Sacramento CA 95822,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5171349591837,-121.479776795918
+Private,Compass High School,2040 Pioneer Court San Mateo CA 94440,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5470418901249,-122.312151291915
+Private,Convent of the Sacred Heart Elementary,2222 Broadway Street San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7964703,-122.4171937
+Private,Convent of the Sacred Heart High School,2222 Broadway St San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7964703,-122.4171937
+Private,Cornerstone Academy-Silver Campus,801 Silver Avenue San Francisco CA 94134,NA,NA,FALSE,tested,SF,SF,37.72958825,-122.418333388027
+Private,Cornerstone Academy–Cambridge Campus,501 Cambridge Street San Francisco CA 94134,5.1,ppb,TRUE,tested,SF,SF,37.7250306,-122.416856485965
+Private,Corpus Christi Elementary,One Estates Drive Piedmont CA 94611,NA,NA,FALSE,tested,NA,Alameda County,37.816932,-122.2134978
+Private,Country Christian School,873 Canby Road Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.594023,-122.353392
+Private,Country Montessori School of Poway,12642 Monte Vista Road Poway CA 92064,NA,NA,FALSE,tested,Poway,San Diego County,32.9945691245867,-117.054579491734
+Private,Crescent Valley Public Charter,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Cristo Rey De La Salle,1530 34th Ave Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7788663398378,-122.22263606593
+Private,Crossroads Christian School,17755 Road 26 Madera CA 93638,NA,NA,FALSE,tested,Madera,Madera County,37.0399816,-120.0744516
+Private,Damien High School,2280 Damien Avenue La Verne CA 91750,NA,NA,FALSE,tested,NA,Los Angeles County,34.106041540976904,-117.788319321889
+Private,Dayspring Christian Learning Center,1150 Greenfield Drive El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813712,-116.942208
+Private,De Marillac Academy,175 Golden Gate Avenue San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.7816323,-122.413352078505
+Private,Del Sol School,5340 Myra Avenue Cypress CA 90630,NA,NA,FALSE,tested,Cypress,Orange County,33.8148691983962,-118.039971006729
+Private,Don F. Kenny Regional Learning Center,47 336 Oasis Street Indio CA 92201,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Dunn School,2555 West Highway 154 Los Olivos CA 93441,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Eastside College Preparatory School,1041 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632459388629,-122.13204140297
+Private,Ecole Bilingue De Berkeley,1009 Heinz Avenue Berkeley CA 94710,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8540756077075,-122.289470655439
+Private,Ecole Notre Dame Des Victoires,659 Pine Street San Francisco CA 94108,NA,NA,FALSE,tested,SF,SF,37.7913017142857,-122.40662944898
+Private,El Cajon Seventh-day Adventist,1640 East Madison Avenue El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803004,-116.920893
+Private,English French Learning Academy,3219 Clairemont Mesa Boulevard San Diego CA 92117,NA,NA,FALSE,tested,San Diego,San Diego County,32.830619,-117.216093
+Private,Ephraim Williams College Prep Middle School,4545 9th Avenue Sacramento CA 95820,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.543789,-121.453841888889
+Private,Epiphany Elementary,600 Italy Avenue San Francisco CA 94112,NA,NA,FALSE,tested,SF,SF,37.71573815,-122.434525483559
+Private,Escuela Bilingue Internacional San Pablo Emeryville Campus,4550 San Pablo Dr Emeryville  CA 94608,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Escuela Bilingüe Internacional,410 Alcatraz Avenue Oakland CA 94609,NA,NA,FALSE,tested,Oakland,Alameda County,37.8505100769231,-122.257322961538
+Private,Fairfield Christian School,2075 Dover Avenue Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.2693393846154,-122.025049953846
+Private,Faith Academy,320 South J Street Imperial CA 92251,NA,NA,FALSE,tested,Imperial,Imperial County,32.8446978379987,-115.56863012474
+Private,Foothills Adventist Elementary,711 Sunnyside Road St. Helena CA 94574,13,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Foothills Christian High School,2321 Dryden Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7984689275381,-116.995918742953
+Private,Foothills Christian Middle School,350 Cypress Ln. Ste C El Cajon CA 92020,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Fred Finch Youth Center,3845 Spring Drive Room 18 Spring Valley CA 91977,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Free Will Christian Academy,155 Redwood Drive Shafter CA 93263,NA,NA,FALSE,tested,NA,Kern County,35.50975405,-119.276523568227
+Private,French American International School 1155 Page,1155 Page Street San Francisco CA 94117,NA,NA,FALSE,tested,SF,SF,37.77171425,-122.439721654361
+Private,French American International School 66 Page,66 Page Street San Francisco CA 94117,NA,NA,FALSE,tested,SF,SF,37.7717861,-122.4405612
+Private,French American School of Silicon Valley,1522 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3432134669743,-122.044988696004
+Private,Good Shepherd Catholic School,2727 Mattison Lane Santa Cruz CA 95605,NA,NA,FALSE,tested,,Santa Cruz County,36.984883,-121.972539625
+Private,Grace Lutheran School,5172 McFadden Avenue Huntington Beach CA 92649,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.737048,-118.039707428571
+Private,Hazel Mahone College Prep,3750 Rosin Court Sacramento CA  95833,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6359453822503,-121.477186153454
+Private,Head-Royce School,4315 Lincoln Avenue Oakland CA 94602,NA,NA,FALSE,tested,Oakland,Alameda County,37.8081743777764,-122.204741888892
+Private,"Heartland Christian Homeschool Center, Inc.",3327 Kenora Drive Spring Valley CA 91977,NA,NA,FALSE,tested,NA,San Diego County,32.740985,-116.987769
+Private,Heights Christian School / Brea,200 South Associated Road Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9172612179849,-117.87603473494801
+Private,"Heights Christian Schools, Bluefield Campus",12900 Bluefield Avenue La Mirada CA 90638,7.7,ppb,TRUE,tested,La Mirada,Los Angeles County,33.914311,-118.007616
+Private,Helen Turner Children's Center,23640 Reed Way Hayward CA 94541,6.6,ppb,TRUE,tested,Hayward,Alameda County,37.6569733849546,-122.108012215753
+Private,Heritage Christian School,9825 Woodley Avenue Northridge CA 91343,6.05,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Heritage Christian School,17531 Rinaldi Street Granada Hills CA 91344,6.05,ppb,TRUE,tested,LA,Los Angeles County,34.27945,-118.516371
+Private,Hickman Charter,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,High Tech Middle Media Arts,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Hilldale School,79 Florence Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6984000438599,-122.458439333938
+Private,Holy Angels Elementary,20 Reiner Street Colma CA 94014,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Holy Name Elementary,1560 40th Avenue San Francisco CA 94122,21.5,ppb,TRUE,tested,SF,SF,37.7577313877551,-122.499183204082
+Private,Holy Name of Mary,124 South San Dimas Canyon Road San Dimas CA 91773,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Holy Names High School,4660 Harbord Drive Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8390220362751,-122.23208688029
+Private,Holy Spirit Elementary,1050 North Texas Street Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.249315,-122.046561306122
+Private,Holy Trinity Elementary,509 Ballard Street El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.790389270017,-116.941252360463
+Private,Hueneme Christian School,312 North Ventura Road Port Hueneme CA 93041,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.15087476003,-119.195376003402
+Private,Immaculate Conception Academy,3625 24th Street San Francisco CA 94110,6,ppb,TRUE,tested,SF,SF,37.75143475,-122.423201265348
+Private,Imperial County Office of Education,1398 Sperber RD El Centro CA 92243,NA,NA,NA,not tested,NA,Imperial County,32.751406,-115.564513
+Private,Isana Nascent Academy,4231 Fourth Ave. Los Angeles CA 90008,6,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Joan Macy School,1350 3rd Street La Verne CA 91750,NA,NA,FALSE,tested,NA,Los Angeles County,34.1041876398025,-117.784713481635
+Private,Julian Charter School,29141 Vallejo Ave Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.4830865456842,-117.139685601018
+Private,Julian Charter School,27235 Madison Ave # 101 Temecula CA 92590,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Junipero Serra High School,14830 South Van Ness Avenue Gardena CA 90249,5.5,ppb,TRUE,tested,Gardena,Los Angeles County,33.9164538,-118.3178081
+Private,Junipero Serra High School,451 West 20th Avenue San Mateo CA 94403,5.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5469005,-122.3152434
+Private,Khan Lab School,1200 Villa Street Suite 100 Mountain View CA 94041,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,KinderCare,794 East Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.388128,-122.01172122449
+Private,KIPP Adelante Preparatory Academy,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,La Purisima Catholic School,219 W OliveAve Lompoc CA 93436,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Learning Pathways Kindergarten,4115 Jacksol Drive Bldg 3 San Jose CA 95124,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Legacy Christian School,420 Allegan Circle San Jose CA 95123,5.3,ppb,TRUE,tested,San Jose,Santa Clara County,37.2346994751695,-121.815226388245
+Private,LePort Schools - Huntington Harbor,16081 Waikiki Lane Huntington Beach CA 92649,7.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.7280723884481,-118.043924541574
+Private,Leroy Haynes Educational Center,233 West Baseline Road La Verne CA 91750,NA,NA,FALSE,tested,NA,Los Angeles County,34.1216615,-117.768139
+Private,Lick-Wilmerding High School,755 Ocean Avenue San Francisco CA 94112,NA,NA,FALSE,tested,SF,SF,37.7221877,-122.449000626358
+Private,Lodestar,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Los Angeles Adventist Academy,846 East El Segundo Boulevard Los Angeles CA 90059,NA,NA,FALSE,tested,NA,Los Angeles County,33.91643815,-118.2612316
+Private,LPS Oakland R & D Campus,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Lynwood Academic Academy,3919 Carlin Avenue Lynwood CA 90262,8.2,ppb,TRUE,tested,Lynwood,Los Angeles County,33.9130735814312,-118.201312831212
+Private,Maple Village Waldorf School,4017 East Sixth Street Long Beach CA 90814,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Maranatha Christian School,9050 Maranatha Drive San Diego CA 92127,NA,NA,FALSE,tested,San Diego,San Diego County,33.023794,-117.13691
+Private,Mardan School of Educational Therapy,1 Osborn Street Irvine CA 92604,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Mark Day School,39 Trellis Drive San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.006975,-122.5548784142
+Private,Mater Dei Catholic High School,1615 Mater Dei Drive Chula Vista CA 91913,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,"Meher Schools, The",999 Leland Drive Lafayette CA 94549,NA,NA,FALSE,tested,NA,Contra Costa County,37.8925902963346,-122.087571016416
+Private,Memorial Scholars & Athletes,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Mercy High School,3250 19th Avenue San Francisco CA 94132,NA,NA,FALSE,tested,SF,SF,37.72947865,-122.473437595921
+Private,Middletown Christian School,20800 Highway 29 Middletown CA 95461,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Millennium School of San Francisco,380 Fulton Street San Francisco CA 94102,NA,NA,FALSE,tested,SF,SF,37.77909425,-122.422725445208
+Private,Mission Bay Montessori Academy,2640 Soderblom Avenue San Diego CA 92122,NA,NA,FALSE,tested,San Diego,San Diego County,32.8435009,-117.2295797
+Private,Mission Dolores Academy,3371 16th Street San Francisco CA 94114,NA,NA,FALSE,tested,SF,SF,37.764463,-122.42803825
+Private,Montebello Christian School,136 South 7th Street Montebello CA 90640,5.699999999999999,ppb,TRUE,tested,Montebello,Los Angeles County,34.0091142599042,-118.107177021668
+Private,Montessori Children's,4200 South Higuera Street San Luis Obispo CA 93401,11.7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.2417307,-120.6769795
+Private,Montessori Children's House of Shady Oaks,1410 Victor Avenue Redding CA 96003,NA,NA,FALSE,tested,Redding,Shasta County,40.5873746,-122.3389049
+Private,Montessori Country Day,7575 Rush River Dr Sacramento CA 95831,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.4843805833333,-121.532943541667
+Private,Montessori of Brea Inc.,701 Mulberry Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9105997,-117.907309410545
+Private,Montessori Project Orangevale campus,6545 Beech Ave Orangevale CA 95662,NA,NA,FALSE,tested,NA,Sacramento County,38.6847919952908,-121.230318680691
+Private,Monticello Academy,3345 Lochinvar Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.339382,-121.991308902439
+Private,Monticello Academy,3401 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367002,-121.990535
+Private,Mother Lode Christian School,18393 Gardner Avenue Tuolumne CA 95379,NA,NA,FALSE,tested,NA,Tuolumne County,37.9641858979592,-120.237588408163
+Private,Mt. Helix Academy,5955 Severin Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7867843211031,-116.99873819204
+Private,Mt. Tallac High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Nelson J Anderson charter school,830 Fresno St Fresno CA 93706,NA,NA,NA,not tested,Fresno,Fresno County,36.7275679052654,-119.803833609817
+Private,New Day Academy,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,New Horizon School Pasadena,651 North Orange Grove Boulevard Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1547130068813,-118.156365931319
+Private,Norman R. Brekke Elementary,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,"North Valley School, Redding",855 Canyon Road Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.488719,-122.393509
+Private,Notre Dame School,435 Hazel Street Chico CA 95928,NA,NA,FALSE,tested,Chico,Butte County,39.7256123061224,-121.843036632653
+Private,Oak Grove Center / Jack Weaver,24275 Jefferson Avenue Murrieta CA 92562,NA,NA,FALSE,tested,Murrieta,Riverside County,33.5674690872268,-117.217461241317
+Private,Oak Tree Community Day,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Oakwood Academy,3840 Long Beach Boulevard Long Beach CA 90807,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8433473,-118.1925903
+Private,Oddstad Elementary,930 Oddstad Blvd. Pacifica CA 94044,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5873214561423,-122.468509114195
+Private,Old Mission School,761 Broad Street San Luis Obispo CA 93401,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2819756,-120.6665004
+Private,One World Montessori School,1170 Foxworthy Avenue San Jose CA 95118,NA,NA,FALSE,tested,San José,Santa Clara County,37.2776877758567,-121.88157568321
+Private,Opportunity for Learning,27616 Newhall Ranch Rd Suite #A15 Valencia CA 91355,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Oroville Christian School,3785 Olive Highway Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.5052590289295,-121.515961490943
+Private,Our Lady of Fatima,18626 Clarkdale Avenue Artesia CA 90701,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.8619058,-118.078955951317
+Private,Our Lady of Grace School,19920 Anita Avenue Castro Valley CA 94546,5.6,ppb,TRUE,tested,NA,Alameda County,37.7002789108654,-122.083540564247
+Private,Our Lady of Grace School,2766 Navajo Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803908,-117.004108
+Private,Our Lady of Mercy,1400 East 27th Street Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.3042673944074,-120.457737040943
+Private,Our Lady of Mercy Elementary,7 Elmwood Drive Daly City CA 94015,8.05,ppb,TRUE,tested,Daly City,San Mateo County,37.6996442058268,-122.488846299513
+Private,Our Lady of Perpetual Help,80 Wellington Avenue Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7054460256179,-122.460918862875
+Private,Our Lady of the Angels Academy,1100 West Duarte Arcadia CA 91007,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.124565,-118.064624
+Private,Our Lady of the Visitacion Elementary,785 Sunnydale Avenue San Francisco CA 94134,15,ppb,TRUE,tested,SF,SF,37.709964,-122.409378857143
+Private,Our Savior Lutheran School,1385 South Livermore Avenue Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6729144591837,-121.754096683673
+Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9114784,-120.4348852
+Private,Pacific Rim International School,454 Peninsula Avenue San Mateo CA 94401,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580678329294,-122.334246545536
+Private,Palcare,945 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5853423594177,-122.358519103018
+Private,Palm Springs Community School,1800 E. Vista Chino Palm Springs CA 92262,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844939,-116.526885
+Private,Palmer School For Boys and Girls,2740 Jones Road Walnut Creek CA 94597,NA,NA,FALSE,tested,NA,Contra Costa County,37.9195868,-122.0616083
+Private,Passageway,1153 Lawrence Drive Newbury Park CA 91320,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.193505254902,-118.929840470588
+Private,Pathways Charter School,655 Menlo Dr Rocklin CA 95765,NA,NA,FALSE,tested,Rocklin,Placer County,38.8119988644315,-121.297660428426
+Private,Pearl Preparatory,1307 East Longden Avenue Arcadia CA 91006,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Phoenix High Community Day,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Pine Hill School Second Start Learning D,1325 Bouret Drive San Jose CA 95118,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565604434284,-121.886681700061
+Private,Pine Hills Adventist Academy,13500 Richards Lane Auburn CA 95603,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Pinewood Private-Upper Campus,26800 Fremont Road Los Altos Hills CA 94022,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Placer Learning Center,5477 Eureka Road Granite Bay CA 95746,NA,NA,FALSE,tested,NA,Placer County,38.7363794614736,-121.199000620304
+Private,Polytechnic School,1030 East California Boulevard Pasadena CA 91106,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1358277692308,-118.12903974359
+Private,Providence Christian School,2142 East Yosemite Avenue Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.3322097113402,-120.446534463918
+Private,PS1 Pluralistic School,1225 Broadway Santa Monica CA 90404,NA,NA,FALSE,tested,Santa Monica,Los Angeles County,34.0217896530612,-118.485433326531
+Private,Queen of All Saints Elementary,2391 Grant Street Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9825249302782,-122.036801870927
+Private,Rainbow Montessori Child Development Center,790 E Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3880107,-122.0102722
+Private,Redding Adventist Academy,1356 East Cypress Avenue Redding CA 96002,15,ppb,TRUE,tested,Redding,Shasta County,40.5708972708333,-122.346220020833
+Private,Redding Christian School,21945 Old 44 Drive Palo Cedro CA 96073,5.29,ppb,TRUE,tested,NA,Shasta County,40.5636822653061,-122.240202265306
+Private,Redwood Christian Middle School and High School,1000 Paseo Grande San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6767322097773,-122.134528292363
+Private,Renaissance Academy,119 West Palm Street Altadena CA 91342,NA,NA,FALSE,tested,NA,Los Angeles County,34.1978678571429,-118.149895714286
+Private,Reyn Franca,4041 Main Street Denair CA 95316,NA,NA,FALSE,tested,,Stanislaus County,37.5228705463225,-120.801925298129
+Private,Ridder Park Site,1290 Ridder Park San Jose  CA,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Rise University Preparatory,1224 Fairfax Avenue San Francisco CA 94124,NA,NA,FALSE,tested,SF,SF,37.7388455,-122.382214339196
+Private,Rising Star Montessori School,1421 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7587134661752,-122.231543862086
+Private,Riverside Community College Early Childhood Center,4800 Magnolia Ave. Riverside CA 92506,NA,NA,NA,not tested,Riverside,Riverside County,33.9715852315892,-117.38456890132
+Private,Riviera Hall Lutheran,330 Palos Verdes Boulevard Redondo Beach CA 90277,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8150777,-118.3864664
+Private,Rosary Academy,1340 North Acacia Avenue Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8871689981004,-117.898416464745
+Private,Rossier Park School,7100 Knott Avenue Buena Park CA 90620,NA,NA,FALSE,tested,Buena Park,Orange County,33.8614003,-118.0111968
+Private,Sacramento Country Day School,2636 Latham Drive Sacramento CA 98564,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.5702554928361,-121.400546778593
+Private,Sacred Heart Academy,215 South Eureka Street Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0521955614245,-117.182768795164
+Private,Sacred Heart Cathedral Preparatory,1055 Ellis Street San Francisco CA 94109,NA,NA,FALSE,tested,SF,SF,37.7834189183673,-122.423524612245
+Private,Sacred Heart Catholic,505 M Street Patterson CA 95363,6.5,ppb,TRUE,tested,NA,Stanislaus County,37.4772814489796,-121.137750857143
+Private,Saint Agnes,3886 Chestnut Avenue Concord CA 94519,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9717346666667,-122.003774666667
+Private,Saint Anne School,1320 14th Avenue San Francisco CA 94122,NA,NA,FALSE,tested,SF,SF,37.76329135,-122.471386831738
+Private,Saint Brigid School,2250 Franklin Sreet San Francisco CA 94109,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Saint Jeanne de Lestonnac School,16791 East Main Street Tustin CA 92780,9.7,ppb,TRUE,tested,Tustin,Orange County,33.74302325,-117.837049813693
+Private,Saint John of God,13817 Pioneer Boulevard Norwalk CA 90650,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.906022255102,-118.082462438776
+Private,Saint Kieran Catholic School,1347 Camillo Way El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8140042769667,-116.928629158742
+Private,Saint Leo the Great School,4238 Howe Street Oakland CA 94611,15,ppb,TRUE,tested,Oakland,Alameda County,37.8288022250802,-122.250818441272
+Private,Saint Monica School,5950 Geary Boulevard San Francisco CA 94121,5.1,ppb,TRUE,tested,SF,SF,37.78074145,-122.483488883722
+Private,Saint Raphael Elementary,1100 Fifth Avenue San Rafael CA 94901,11,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Saint Rose Catholic School,900 Tucker Avenue Paso Robles CA 93446,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6254612,-120.6726263
+Private,Saint Vincent de Paul,2350 Green Street San Francisco CA 94123,12,ppb,TRUE,tested,SF,SF,37.7959247755102,-122.437800612245
+Private,"Saint Vincent's Day Home, Inc.",1086 Eighth Street Oakland CA 94607,NA,NA,FALSE,tested,NA,Orange County,28.557538,-81.632829
+Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812260896532,-117.784848095955
+Private,Salesian College Preparatory,2851 Salesian Avenue Richmond CA 94804,7.45,ppb,TRUE,tested,NA,Contra Costa County,37.9528195918367,-122.339320836735
+Private,San Clemente Presbyterian Preschool,119 Ave De La Estrella San Clemente CA 92672,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,San Diego French–American School,6550 Soledad Mountain Road La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.8350901580437,-117.248331638653
+Private,San Francisco Adventist,66 Geneva Avenue San Francisco CA 94112,6.7,ppb,TRUE,tested,SF,SF,37.72178815,-122.451153878434
+Private,"San Francisco School, The",300 Gaven Street San Francisco CA 94134,8.2,ppb,TRUE,tested,SF,SF,37.7327486,-122.411714415884
+Private,San Francisco University HS 3065 Jackson,3065 Jackson Street San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7908735,-122.445576911572
+Private,San Francisco University HS 3150 Washington,3150 Washington Street San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7903027755102,-122.445147040816
+Private,San Francisco University HS 3185 Washington,3185 Washington Street San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7900811428571,-122.445574428571
+Private,San Francisco University HS 3220 Sacramento,3220 Sacramento Street  San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7883968367347,-122.445979
+Private,Santa Clara Christian,3421 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367002,-121.99097377551
+Private,Santa Cruz Montessori,6230 Soquel Drive Aptos CA 95003,NA,NA,FALSE,tested,,Santa Cruz County,36.9756712,-121.8904278
+Private,Santa Sophia Academy,9806 San Juan Street Spring Valley CA 91977,NA,NA,FALSE,tested,NA,San Diego County,32.7487878376758,-116.986969991008
+Private,Scholarship Prep Charter School,4070 Mission Ave Oceanside CA 92057,6.9,ppb,TRUE,tested,Oceanside,San Diego County,33.2276098,-117.3266692
+Private,School of the Madeleine,1225 Milvia Street Berkeley CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8848195322467,-122.272102574175
+Private,Seneca Family of Agencies - James Baldwin Academy,2275 Arlington Drive San Leandro CA 94578,8.7,ppb,TRUE,tested,NA,NA,NA,NA
+Private,"Seneca Family of Agencies, Olivera School",2351 Olivera Road Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.9963710310755,-122.036165906897
+Private,"Seven Hills, The",975 North San Carlos Drive Walnut Creek CA 94598,NA,NA,FALSE,tested,NA,Contra Costa County,37.91834,-122.04018
+Private,Seven Trees Site,300 El Cajon Dr San Jose CA 95111,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.28295355,-121.830520226661
+Private,Shepherd of the Hills Lutheran,9191 Fletcher Parkway La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7940605,-117.0015696
+Private,Sierra Boys Ranch,4300 Forni Rd Placerville CA 95667,NA,NA,NA,not tested,Placerville,El Dorado County,38.7207108,-120.832134
+Private,Sierra School of Butte County,2775 Yard Street Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.513495,-121.544521
+Private,Sierra School of Solano County,5416 Holdener Road Elmira CA 95625,NA,NA,FALSE,tested,NA,Solano County,38.3515495224076,-121.907083289107
+Private,Six Rivers Montessori,1222 Hallen Drive Arcata CA 95521,5.9,ppb,TRUE,tested,Arcata,Humboldt County,40.9007461942767,-124.079820392045
+Private,Snell Site,3550 Snell Avenue San Jose CA 95136,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2805827272727,-121.848015060606
+Private,Sonrise Christian,1220 East Ruddock Street Covina CA 91724,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0897449390295,-117.865392203647
+Private,Southlands Christian Schools,18550 Farjardo St Rowland Heights CA 91748,NA,NA,FALSE,tested,NA,Los Angeles County,33.9791793,-117.9003394
+Private,Spectrum Center - Mission Valley,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Spectrum Center -Delta Campus,135 East Leland Road Pittsburg CA 94565,NA,NA,FALSE,tested,NA,Contra Costa County,38.0119303583188,-121.890370809875
+Private,"Spectrum Center, Inc.-Valley Campus",1026 Oak Grove Road Suite 11 Concord CA 94518,5.5,ppb,TRUE,tested,NA,NA,NA,NA
+Private,"Spectrum Center, Inc.–Tara Hills",16330 San Pablo Avenue San Pablo CA 94806,NA,NA,FALSE,tested,NA,Contra Costa County,37.9539427,-122.3340095
+Private,"spectrum Center, Oakland Campus",6325 Camden Street Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.7729167937323,-122.182364610207
+Private,"SpectrumCenter Schools, Downey",9625 Van Ruiten Street Bellflower CA 90706,8.8,ppb,TRUE,tested,NA,Los Angeles County,33.9037807453777,-118.127866423089
+Private,Springall Academy,6460 Boulder Lake Avenue San Diego CA 92119,NA,NA,FALSE,tested,San Diego,San Diego County,32.798694,-117.019231
+Private,Springs Charter Schools,43040 Margarita Road Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.4977920705788,-117.11542848505201
+Private,Springs Charter Schools Lyndie Lane Campus,42145 Lyndie Lane Temecula CA 92591,NA,NA,FALSE,tested,Temecula,Riverside County,33.5073617361518,-117.142848952625
+Private,St. Adelaide,27487 East Base Line Road Highland CA 92346,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,St. Aloysius,627 Beatrice Drive Tulare CA 93274,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,St. Andrew Elementary,42 Chestnut Street Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1503246666667,-118.1498195
+Private,St. Angela Merici Elementary,575 South Walnut Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9120940074533,-117.904173861678
+Private,St. Anne,385 North F Street Porterville CA 93257,7,ppb,TRUE,tested,Porterville,Tulare County,36.0728034432693,-119.021261353864
+Private,St. Anne School,32451 Bear Brand Road Laguna Niguel CA 92677,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.4945600573299,-117.700305789746
+Private,St. Anselm School,40 Belle Avenue San Anselmo CA 94960,NA,NA,FALSE,tested,NA,Marin County,37.9702550512432,-122.562206147665
+Private,St. Anthony of Padua,1003 West 163rd Street Gardena CA 90247,5.65,ppb,TRUE,tested,Gardena,Los Angeles County,33.8834697394837,-118.291859382277
+Private,St. Anthony School,1500 East 15th Street Oakland CA 94606,NA,NA,FALSE,tested,Oakland,Alameda County,37.789785,-122.244292
+Private,St. Anthony–Immaculate Conception,299 Precita Avenue San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.747446,-122.414971
+Private,St. Benedict Elementary,217 North 10th Street Montebello CA 90640,12,ppb,TRUE,tested,Montebello,Los Angeles County,34.0131561161637,-118.110141005558
+Private,St. Brendan Elementary,940 Laguna Honda Boulevard San Francisco CA 94127,7.35,ppb,TRUE,tested,SF,SF,37.74313045,-122.455866582127
+Private,St. Charles Elementary,929 18th Street San Diego CA 92154,NA,NA,FALSE,tested,San Diego,San Diego County,32.5799578582636,-117.094760987042
+Private,St. Charles Elementary,850 Tamarack Avenue San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.496028305684,-122.266789048322
+Private,St. Cornelius Elementary,201 28th Street Richmond CA 94804,12,ppb,TRUE,tested,Richmond,Contra Costa County,37.9343258333333,-122.341945916667
+Private,St. Cornelius Elementary,3330 Bellflower Boulevard Long Beach CA 90808,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8186572,-118.125141
+Private,St. David's Elementary,871 Sonoma Street Richmond CA 94805,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9473486800727,-122.321744635453
+Private,St. Edward Parish,5788 Thornton Avenue Newark CA 94560,NA,NA,FALSE,tested,Newark,Alameda County,37.5395210780721,-122.028520511827
+Private,St. Elizabeth Elementary,1516 33rd Avenue Oakland CA 94601,14,ppb,TRUE,tested,Oakland,Alameda County,37.779028967508,-122.223785097237
+Private,St. Felicitas Catholic School,1650 Manor Boulevard San Leandro CA 94579,NA,NA,FALSE,tested,San Leandro,Alameda County,37.691205625,-122.158639375
+Private,St. Finn Barr Catholic School,419 Hearst Avenue San Francisco CA 94112,NA,NA,FALSE,tested,SF,SF,37.7306145306122,-122.447090938776
+Private,St. Francis Catholic High School,5900 Elvas Avenue Sacramento CA 95819,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.564991,-121.432261
+Private,St. Gabriel Elementary,2550 41st Avenue San Francisco CA 94116,NA,NA,FALSE,tested,SF,SF,37.7392025714286,-122.498961836735
+Private,St. Ignatius College Preparatory,2001 37th Avenue San Francisco CA 94116,9.05,ppb,TRUE,tested,SF,SF,37.7469292,-122.496393781523
+Private,St. Isidore School,435 La Gonda Way Danville CA 94526,5.2,ppb,TRUE,tested,NA,Contra Costa County,37.8266693519672,-122.0027814409
+Private,St. James Elementary,1215 B Street Davis CA 95616,NA,NA,FALSE,tested,Colón,Distrito Colón,9.3211733,-79.8874899
+Private,St. James School,321 Fair Oaks Street San Francisco CA 94110,5.9,ppb,TRUE,tested,SF,SF,37.7513565,-122.423659929017
+Private,St. John Catholic School,270 East Lewelling Boulevard San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6868086094649,-122.117526137727
+Private,St. John Elementary School,925 Chenery Street San Francisco CA 94131,9.6,ppb,TRUE,tested,SF,SF,37.7351842653306,-122.437652356607
+Private,St. John of the Cross School,8175 Lemon Grove Way Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.744567,-117.024104
+Private,St. John the Baptist,11156 San Pablo Avenue El Cerrito CA 94530,5.8,ppb,TRUE,tested,NA,Contra Costa County,37.918919875,-122.3136905
+Private,St. Joseph,2460 Gold Street Redding CA 96001,NA,NA,FALSE,tested,Redding,Shasta County,40.5767000816327,-122.403394265306
+Private,St. Joseph Elementary,1910 San Antonio Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7661091213217,-122.255263207828
+Private,St. Joseph Elementary,1961 Plum Street Pinole CA 94564,8,ppb,TRUE,tested,NA,Contra Costa County,38.0038145131885,-122.290833756702
+Private,St. Joseph Notre Dame High School,1011 Chestnut Street Alameda CA 94501,8,ppb,TRUE,tested,Alameda,Alameda County,37.7652430321051,-122.255136978171
+Private,St. Leander,451 Davis Street San Leandro CA 94577,5.35,ppb,TRUE,tested,San Leandro,Alameda County,37.7243741,-122.1594102
+Private,St. Linus School,13913 Shoemaker Avenue Norwalk CA 90650,11,ppb,TRUE,tested,Norwalk,Los Angeles County,33.9048453333333,-118.055400333333
+Private,St. Martin of Tours Academy,7708 El Cajon Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7685243769615,-117.031681709403
+Private,St. Mary of the Angels,991 South Dora Ukiah CA 95482,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,St. Mary of the Immaculate Conception,1158 Bont Lane Walnut Creek CA 94596,5.3,ppb,TRUE,tested,NA,Contra Costa County,37.89566165,-122.067938759748
+Private,St. Mary's Elementary,30 Lyndon Avenue Los Gatos CA 95030,NA,NA,FALSE,tested,NA,Santa Clara County,37.223826509054,-121.98501584687
+Private,St. Patrick Catholic School,3820 Pio Pico Drive Carlsbad CA 92008,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.164616,-117.341942
+Private,St. Patrick School,907 Seventh Street Rodeo CA 94572,NA,NA,FALSE,tested,NA,Contra Costa County,38.0289071117952,-122.263055310576
+Private,St. Paul Lutheran School,2916 North McKee Road Merced CA 95340,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,St. Paul School,1825 Church Lane San Pablo CA 94806,6.1,ppb,TRUE,tested,NA,Contra Costa County,37.9562113758974,-122.342733970306
+Private,St. Paul's,1690 Church Street San Francisco CA 94131,NA,NA,FALSE,tested,SF,SF,37.7440348,-122.426878
+Private,St. Perpetua,3445 Hamlin Road Lafayette CA 94549,NA,NA,FALSE,tested,NA,Contra Costa County,37.8818575106447,-122.113040480846
+Private,St. Peter's School,1266 Florida Street San Francisco CA 94110,11,ppb,TRUE,tested,SF,SF,37.75166065,-122.41015467035
+Private,St. Philip Neri Elementary,1335 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7572845290243,-122.233138322433
+Private,St. Philip School,665 Elizabeth Street San Francisco CA 94114,NA,NA,FALSE,tested,SF,SF,37.7519265510204,-122.435553428571
+Private,St. Raymond,11557 Shannon Avenue Dublin CA 94568,NA,NA,FALSE,tested,Dublin,Alameda County,37.71276575,-121.940596370315
+Private,St. Robert,345 Oak Avenue San Bruno CA 94066,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.6171731028115,-122.415637950128
+Private,St. Rose,4300 Old Redwood Highway Santa Rosa CA 95403,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4907484349531,-122.740046817633
+Private,St. Stephen School,401 Eucalyptus Drive San Francisco CA 94132,10,ppb,TRUE,tested,SF,SF,37.7307648,-122.4774719
+Private,St. Theresa School,4850 Clarewood Oakland CA 94618,6.5,ppb,TRUE,tested,Oakland,Alameda County,37.8365241124626,-122.231764208614
+Private,St. Thomas More,50 Thomas More Way San Francisco CA 94132,NA,NA,FALSE,tested,SF,SF,37.7125595,-122.473567907403
+Private,St. Thomas the Apostle School,3801 Balboa Street San Francisco CA 94121,NA,NA,FALSE,tested,SF,SF,37.7753357,-122.499673623602
+Private,St. Timothy School,1515 Dolan Avenue San Mateo CA 94401,9.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5753090109283,-122.31054286979
+Private,St. Veronica Catholic School,434 Alida Way South San Francisco CA 94080,8.7,ppb,TRUE,tested,NA,San Mateo County,37.64613135,-122.429864695206
+Private,Star of the Sea School,360 9th Avenue San Francisco CA 94118,NA,NA,FALSE,tested,SF,SF,37.7816933877551,-122.467443142857
+Private,Stella Maris Academy,7654 Herschel Avenue La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.843585,-117.272567
+Private,STEM Preparatory Academy,1374 W. 35th Street Los Angeles CA 90007,NA,NA,FALSE,tested,LA,Los Angeles County,34.0245179230769,-118.299523846154
+Private,Stimson Learning Center,1655 Stimson Avenue Hacienda Heights CA 91745,NA,NA,FALSE,tested,NA,Los Angeles County,33.9971185,-117.9631618
+Private,Stratford Middle School,1718 Andover Ln. San Jose CA 95124,NA,NA,FALSE,tested,San José,Santa Clara County,37.25526305,-121.909752549614
+Private,Stratford School,890 Pomeroy Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.3408002,-121.9884962
+Private,Stratford School,220 Kensington Way Los Gatos CA 95032,NA,NA,FALSE,tested,NA,Santa Clara County,37.2406740908784,-121.927644419711
+Private,Stratford School,5301 Curtis Street Fremont CA 94538,NA,NA,FALSE,tested,Fremont,Alameda County,37.5206326182875,-121.981087330021
+Private,Stratford School,1196 Lime Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3556865568547,-122.054467392313
+Private,Stratford School,820 West McKinley Avenue Sunnyvale CA 94086,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3762394919264,-122.039560104671
+Private,Sts. Peter and Paul Elementary,660 Filbert Street San Francisco CA 94133,NA,NA,FALSE,tested,SF,SF,37.8013335918367,-122.410360632653
+Private,Stuart Hall For Boys,2252 Broadway Street San Francisco CA 94115,NA,NA,FALSE,tested,SF,SF,37.7964703,-122.4171937
+Private,Summit Charter Collegiate Academy,15550 North Redwood Road Porterville CA 93257,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Sunol Site,258 Sunol Street San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3248359104486,-121.906009869403
+Private,Sycamore Rocks Elementary,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Synapse School,3375 Edison Way Menlo Park CA 94025,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Synergy School,1387 Valencia Street San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.7508578,-122.420216987778
+Private,Tahoe Expedition Academy,8561 Speckled Ave Kings Beach CA 96143,NA,NA,FALSE,tested,NA,Placer County,39.2433657495931,-120.023447191817
+Private,Tara Redwood School,4746 Soquel Avenue Soquel CA 95073,NA,NA,FALSE,tested,,Santa Cruz County,36.9851377292843,-121.979826810801
+Private,Tarbut V Torah Community Day School,5 Federation Wy Irvine CA 92603,NA,NA,FALSE,tested,Irvine,Orange County,33.6314103,-117.8307079
+Private,The Academy,2722 Benvenue Avenue Berkeley CA 94705,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8612697323162,-122.254836636882
+Private,The Bay School of San Francisco,35 Keyes Avenue San Francisco CA 94129,NA,NA,FALSE,tested,SF,SF,37.799237,-122.457306
+Private,The Berkeley School,1310 University Avenue Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.86937235,-122.286245724457
+Private,The Berkeley School Early Childhood Campus,2030 Francisco St. Berkeley  CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.87537435,-122.269468170856
+Private,The Brandeis School of San Francisco,655 Brotherhood Way San Francisco CA 94132,NA,NA,FALSE,tested,SF,SF,37.7121814,-122.472238100879
+Private,The Bridge School,545 Eucalyptus Ave Hillsborough CA 94010,NA,NA,FALSE,tested,NA,San Mateo County,37.5688120192502,-122.36127843671
+Private,The Cambridge School,12855 Black Mountain Road San Diego CA 92129,NA,NA,FALSE,tested,San Diego,San Diego County,32.952274,-117.128765
+Private,The Campbell community Center,1 W Campbell Ave Campbell CA 95008,8.4,ppb,TRUE,tested,NA,Santa Clara County,37.287101,-121.950056
+Private,The Carey School,2101 Alameda de las Pulgas San Mateo CA 94403,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5351825,-122.3104198
+Private,The Child Unique Montessori School,2226 Encinal Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7638047121491,-122.247474260851
+Private,The Child Unique Montessori School Taylor Avenue,1400 6th Street Alameda CA  94501,NA,NA,FALSE,tested,Oakland,Alameda County,37.8022107,-122.2836117
+Private,The Children's School,2225 Torrey Pines Lane La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.849534,-117.253477
+Private,The College Preparatory School,6100 Broadway Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.848842,-122.241303
+Private,The Crowden School,1475 Rose Street Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8791667,-122.283581358633
+Private,The Foundation for Hispanic Education,14271 Story Road San Jose CA 95127-3823,NA,NA,FALSE,tested,San José,Santa Clara County,37.3595739,-121.816315604078
+Private,The Kings Academy,562 North Britton Ave.  Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3866518831086,-122.013067301204
+Private,The Learning Center,7450 State Highway 3 Hayfork CA 96041,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,The Nueva School,6565 Skyline Boulevard Hillsborough CA 94010,NA,NA,FALSE,tested,NA,San Mateo County,37.5486657,-122.3709941
+Private,The Saklan School,1678 School Street Moraga CA 94556,NA,NA,FALSE,tested,NA,Contra Costa County,37.833125,-122.132655
+Private,The Winston School,215 Ninth Street Del Mar CA 92014,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Town School for Boys,2750 Jackson Street San Francisco CA 94115,5.6,ppb,TRUE,tested,SF,SF,37.7920428,-122.440147583344
+Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,NA,NA,FALSE,tested,Monterey,Monterey County,36.599119,-121.888798
+Private,Trinity Christian School,3902 Kenwood Drive Spring Valley CA 91977,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7497705,-117.007455
+Private,Trinity Lutheran School,940 Creston Road Paso Robles CA 93446,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Private,Trona High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Trust Primary School,4660 Eastus Drive San Jose CA 95129,NA,NA,FALSE,tested,San José,Santa Clara County,37.306956,-121.98769
+Private,Tulare Christian School,470 North Gem Street Tulare CA 93274,NA,NA,FALSE,tested,NA,Tulare County,36.2125305785769,-119.339810736437
+Private,Turning Point School,8780 National Boulevard Culver City CA 90232,NA,NA,FALSE,tested,NA,Los Angeles County,34.0274719591837,-118.385397408163
+Private,Twin Lakes Christian,2701 Cabrillo College Drive Aptos CA 95003,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Urban School of San Francisco,1563 Page Street San Francisco CA 94117,NA,NA,FALSE,tested,SF,SF,37.7708181,-122.446320301048
+Private,Urban School of San Francisco (Oak Street Campus),1639 Oak Street  San Francisco CA 94117,NA,NA,FALSE,tested,SF,SF,37.77172235,-122.446302668357
+Private,Valley Life Charter School Akers Campus,3737 S. Akers St. Visalia CA 93277,NA,NA,FALSE,tested,Visalia,Tulare County,36.2948854,-119.3494049
+Private,Victor Valley SDA,17137 Crestview Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5123641135706,-117.290254139485
+Private,Victory Baptist Christian School,5005 Frank Wilson Road Mariposa CA 95338,5.7,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Village Park Preschool,1535 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5918605984446,-122.374093705132
+Private,Vista del Mar Middle,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Walden Center and School,2446 Mckinely Avenue Berkeley CA 94703,NA,NA,FALSE,tested,NA,NA,NA,NA
+Private,Waldorf School of Orange County,2350 Canyon Drive Costa Mesa CA 92627,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6589319398597,-117.940720221641
+Private,Warren-Walker School/La Mesa,5150 Wilson Street La Mesa CA 91941,NA,NA,FALSE,tested,La Mesa,San Diego County,32.773075,-117.007159
+Private,Waterford Child Development,319 N Reinway Avenue  Waterford CA 95386,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.6427643093872,-120.773989512391
+Private,Waterford Elementary,319 North Reinway Ave Waterford CA 95386,NA,NA,NA,not tested,Waterford,Stanislaus County,37.6427643093872,-120.773989512391
+Private,West Portal Lutheran,3101 Moraga Street  San Francisco  CA 94132-1621,NA,NA,FALSE,tested,SF,SF,37.754967,-122.496180899173
+Private,West Portal Lutheran School,200 Sloat Boulevard San Francisco CA 94132-1621,8.45,ppb,TRUE,tested,SF,SF,37.73539055,-122.473461808412
+Private,Wildwood Christian Academy,351445 Oak Glen Road Yucaipa CA 92399,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.0484067,-117.0380068
+Private,William Lee College Prep,3300 Stockton Blvd. Sacramento CA  95820,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.544382,-121.45263
+Private,Wolfe Education,632 W 13th St Merced CA 95341,NA,NA,FALSE,tested,Merced,Merced County,37.2978091428571,-120.487899979592
+Private,Young Scholar Education Center,4029 W George St Banning CA 92220,NA,NA,FALSE,tested,Banning,Riverside County,33.9305585714286,-116.921030142857
+Private,Zion Lutheran School,495 9th Avenue San Francisco CA 94118,5.93,ppb,TRUE,tested,SF,SF,37.7791306326531,-122.467470571429

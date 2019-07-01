@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,5.6,ppb,TRUE,tested,Porterville,Tulare County,36.0852832,-119.076495367924
+Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,NA,NA,FALSE,tested,Porterville,Tulare County,36.0712290394737,-119.07100225
+Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,NA,NA,FALSE,tested,Porterville,Tulare County,36.08306705,-119.059646250234
+Burton Elementary,Summit Charter Academy,175 South Mathew Street Porterville CA 93257-2710,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,NA,NA,FALSE,tested,Porterville,Tulare County,36.0866214,-119.074110392802

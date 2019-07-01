@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Vista Unified,Beaumont Elementary,550 Beaumont Drive Vista CA 92084-6321,NA,NA,FALSE,tested,Vista,San Diego County,33.199654,-117.22493
+Vista Unified,Bella Mente Montessori Academy,1737 West Vista Way Vista CA 92083-2112,NA,NA,NA,not tested,Vista,San Diego County,33.1896628,-117.2784951
+Vista Unified,Bobier Elementary,220 West Bobier Drive Vista CA 92083-1903,NA,NA,FALSE,tested,Vista,San Diego County,33.221056,-117.248442
+Vista Unified,Breeze Hill Elementary,1111 Melrose Way Vista CA 92083-6505,NA,NA,FALSE,tested,Vista,San Diego County,33.1852698,-117.254515437546
+Vista Unified,California Avenue Elementary,215 West California Avenue Vista CA 92083-3622,6.8,ppb,TRUE,tested,Vista,San Diego County,33.2074402,-117.2448994
+Vista Unified,Foothill Oak Elementary,1370 Oak Drive Vista CA 92084-4001,NA,NA,FALSE,tested,Vista,San Diego County,33.2200197,-117.2218213
+Vista Unified,Grapevine Elementary,630 Grapevine Road Vista CA 92083-5599,11.5,ppb,TRUE,tested,Vista,San Diego County,33.199727,-117.273777
+Vista Unified,Guajome Learning Center,2000 North Santa Fe Avenue Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
+Vista Unified,Guajome Park Academy Charter,2000 North Santa Fe Ave Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
+Vista Unified,Hannalei Elementary,120 Hannalei Drive Vista CA 92083-7625,NA,NA,FALSE,tested,Vista,San Diego County,33.177448,-117.217137
+Vista Unified,Major General Raymond Murray High,215 North Melrose Drive Vista CA 92083-5720,NA,NA,FALSE,tested,Vista,San Diego County,33.198329,-117.254895
+Vista Unified,Maryland Elementary,700 North Avenue Vista CA 92084-2906,NA,NA,FALSE,tested,Vista,San Diego County,33.21551,-117.258029
+Lakeside Union Elementary,National University Academy,2030 University Drive Vista CA 92083-7736,NA,NA,FALSE,tested,Vista,San Diego County,33.173183,-117.219722
+Vista Unified,Olive Elementary,836 Olive Avenue Vista CA 92083-3316,NA,NA,FALSE,tested,Vista,San Diego County,33.2046013836103,-117.259030491692
+Vista Unified,Rancho Buena Vista High,1601 Longhorn Drive Vista CA 92081-5423,NA,NA,FALSE,tested,Vista,San Diego County,33.1633751,-117.2471389
+Vista Unified,Rancho Minerva Middle,2245 Foothill Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.2047244584825,-117.205772813563
+Vista Unified,Vista Academy of Visual and Performing Arts,600 North Santa Fe Avenue Vista CA 92083-3631,NA,NA,FALSE,tested,Vista,San Diego County,33.2037523,-117.2446349
+Vista Unified,Vista Adult,510 Sunset Drive Vista CA 92081,NA,NA,NA,not tested,Vista,San Diego County,33.1869943764176,-117.240834377425
+Vista Unified,Vista Adult Transition Center,325 East Bobier Drive Vista CA 92084-3027,6.2,ppb,TRUE,tested,Vista,San Diego County,33.221302056407,-117.241959098486
+Vista Unified,Vista Innovation and Design Academy,740 Olive Avenue Vista CA 92083-3396,NA,NA,FALSE,tested,Vista,San Diego County,33.2045948,-117.2568002
+Vista Unified,"Vista Magnet Middle School of Technology, Science, and Math",151 Civic Center Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.203627,-117.236398
+Vista Unified,Vista Visions Academy,305 East Bobier Vista CA 92084-3027,NA,NA,FALSE,tested,Vista,San Diego County,33.22130241528,-117.242031830082

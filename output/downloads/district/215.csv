@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+El Monte Union High,Arroyo High,4921 North Cedar Avenue El Monte CA 91732-1099,NA,NA,FALSE,tested,Inglewood,Los Angeles County,33.9643069,-118.3639605
+El Monte Union High,El Monte Union High School Community Day,5050 Kings Row El Monte CA 91731-5405,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.0936859,-118.0261562
+El Monte Union High,El Monte/Rosemead Adult,10807 Ramona Boulevard El Monte CA 91731-2627,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0720673061224,-118.039275673469
+El Monte Union High,Fernando R. Ledesma Continuation High,12347 Ramona Boulevard El Monte CA 91732-2569,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.0763085325041,-118.003780480998
+El Monte Union High,Mountain View High,2900 Parkway Drive El Monte CA 91732-3695,NA,NA,FALSE,tested,El Monte,Los Angeles County,34.052307,-118.013242
+El Monte Union High,Rosemead High,9063 East Mission Drive Rosemead CA 91770-4411,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Monte Union High,South El Monte High,1001 Durfee Avenue South El Monte CA 91733-4409,NA,NA,FALSE,tested,South El Monte,Los Angeles County,34.035434,-118.044582

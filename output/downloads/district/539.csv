@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Old Adobe Union,La Tercera Elementary,1600 Albin Way Petaluma CA 94954-4599,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.24582,-122.610362
+Old Adobe Union,Loma Vista Immersion Academy,207 Maria Drive Petaluma CA 94954-2301,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2542763523577,-122.625922916304
+Old Adobe Union,Miwok Valley Language Academy Charter,1010 Saint Francis Drive Petaluma CA 94954-5322,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2372746475916,-122.611965707404
+Old Adobe Union,Old Adobe Elementary Charter,2856 Adobe Road Petaluma CA 94954-9536,NA,NA,FALSE,tested,NA,NA,NA,NA
+Old Adobe Union,River Montessori Elementary Charter,3880 Cypress Drive Suite B Petaluma CA 94954-5613,NA,NA,NA,not tested,NA,NA,NA,NA
+Old Adobe Union,Sonoma Mountain Elementary,1900 Rainier Circle Petaluma CA 94954-2543,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.267198,-122.630717

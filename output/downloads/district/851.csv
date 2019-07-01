@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Wasco Union Elementary,John L. Prueitt Elementary,3501 Seventh Street Wasco CA 93280-9533,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wasco Union Elementary,Karl F. Clemens Elementary,523 Broadway Avenue Wasco CA 93280-1838,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wasco Union Elementary,Palm Avenue Elementary,1017 Palm Avenue Wasco CA 93280-2112,NA,NA,FALSE,tested,NA,Kern County,35.5882219932886,-119.349219802013
+Wasco Union Elementary,Teresa Burke Elementary,1301 Filburn Street Wasco CA 93280-2793,NA,NA,FALSE,tested,NA,Kern County,35.5796765535714,-119.340080732143
+Wasco Union Elementary,Thomas Jefferson Middle,305 Griffith Avenue Wasco CA 93280-1304,NA,NA,FALSE,tested,NA,Kern County,35.5981088979592,-119.340255285714

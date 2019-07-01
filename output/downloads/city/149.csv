@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Centralia Elementary,George B. Miller Elementary,7751 Furman Road La Palma CA 90623-1536,NA,NA,NA,not tested,La Palma,Orange County,33.850226335893304,-118.033051482649
+Anaheim Union High,John F. Kennedy High,8281 Walker Street La Palma CA 90623-2126,NA,NA,FALSE,tested,La Palma,Orange County,33.8420971136099,-118.037233469291
+Centralia Elementary,Los Coyotes Elementary,8122 Moody Street La Palma CA 90623-2046,NA,NA,NA,not tested,La Palma,Orange County,33.8447130077873,-118.04604872987
+Cypress Elementary,Steve Luther Elementary,4631 La Palma Ave La Palma CA 90623-1620,NA,NA,NA,not tested,La Palma,Orange County,33.8463549,-118.0410879
+Anaheim Union High,Walker Junior High,8132 Walker Street La Palma CA 90623-2097,9.9,ppb,TRUE,tested,La Palma,Orange County,33.8430906752175,-118.037044573147

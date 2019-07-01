@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tamalpais Union High,Redwood High,395 Doherty Drive Larkspur CA 94939-1536,NA,NA,FALSE,tested,Larkspur,Marin County,37.9379956808511,-122.534693702128
+Tamalpais Union High,San Andreas High (Continuation),599 William Avenue Larkspur CA 94939-1554,NA,NA,FALSE,tested,Larkspur,Marin County,37.9342794433192,-122.528316998193
+Tamalpais Union High,Sir Francis Drake High,1327 Sir Francis Drake Boulevard San Anselmo CA 94960-1800,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tamalpais Union High,Tamalpais Adult/Community Education,375 Doherty Drive Larkspur CA 94939-1536,NA,NA,NA,not tested,Larkspur,Marin County,37.9379990851064,-122.534682212766
+Tamalpais Union High,Tamalpais High,700 Miller Avenue Mill Valley CA 94941-2926,NA,NA,FALSE,tested,NA,Marin County,37.89061235,-122.527730769241
+Tamalpais Union High,Tamiscal High (Alternative),305 Doherty Drive Larkspur CA 94939-0605,NA,NA,FALSE,tested,Larkspur,Marin County,37.938011,-122.534642

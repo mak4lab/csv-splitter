@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Delhi Unified,Delhi High,16881 West Schendel Ave. Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.4268208550725,-120.794683782609
+Delhi Unified,Delhi Middle,16881 West Schendel Avenue Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.4268208550725,-120.794683782609
+Delhi Unified,El Capitan Elementary,10115 Fifth Street Delhi CA 95315-9752,NA,NA,FALSE,tested,NA,NA,NA,NA
+Delhi Unified,Harmony Elementary,16464 West August Avenue Delhi CA 95315,NA,NA,NA,not tested,NA,Merced County,37.419640122449,-120.78539877551
+Delhi Unified,Schendel Elementary,16114 Schendel Avenue Delhi CA 95315-0338,NA,NA,FALSE,tested,NA,Merced County,37.4279563,-120.7791673

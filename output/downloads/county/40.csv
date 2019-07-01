@@ -1,0 +1,191 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Mateo-Foster City,Abbott Middle,600 36th Avenue San Mateo CA 94403-4101,NA,NA,NA,not tested,San Mateo,San Mateo County,37.529614,-122.308837
+Redwood City Elementary,Adelante Spanish Immersion,3150 Granger Way Redwood City CA 94061-2457,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4540341,-122.244109029617
+Private,All Souls Catholic Elementary,479 Miller Avenue South San Francisco CA 94080,NA,NA,FALSE,tested,NA,San Mateo County,37.657233232703,-122.415083254516
+San Bruno Park Elementary,Allen Elementary School,"875 Angus Ave W, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6247679450645,-122.416385399082
+South San Francisco Unified,Alta Loma Middle,116 Romney Avenue South San Francisco CA 94080-2141,NA,NA,NA,not tested,NA,San Mateo County,37.660483,-122.450841
+Menlo Park City Elementary,Alto International School,475 Pope St. Menlo Park CA 94025,NA,NA,NA,not tested,NA,San Mateo County,37.4613707,-122.15711015
+Cabrillo Unified,Alvin S. Hatch Elementary,490 Miramontes Avenue Half Moon Bay CA 94019-1824,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.4632759454373,-122.436627675131
+San Carlos Elementary,Arroyo School,1710 Arroyo Avenue San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.4989986899234,-122.260503062015
+San Carlos Elementary,Arundel Elementary,200 Arundel Road San Carlos CA 94070-1945,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.503987,-122.273667
+Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,TRUE,tested,East Palo Alto,San Mateo County,37.468619,-122.128093
+Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4670250138554,-122.131837078408
+San Mateo-Foster City,Audubon Elementary,841 Gull Avenue Foster City CA 94404-1427,NA,NA,NA,not tested,Foster City,San Mateo County,37.5671696763845,-122.259321929782
+South San Francisco Unified,Baden High (Continuation),825 Southwood Drive South San Francisco CA 94080-3106,NA,NA,NA,not tested,NA,San Mateo County,37.6496856,-122.435116422222
+Bayshore Elementary,Bayshore Elementary,1 Martin Street Daly City CA 94014-1530,NA,NA,FALSE,tested,Daly City,San Mateo County,37.700851,-122.414089
+San Mateo-Foster City,Bayside S.T.E.M. ACADEMY,2025 Kehoe Avenue San Mateo CA 94403-1061,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5654690942308,-122.295894165394
+San Bruno Park Elementary,Belle Aire Elementary School,"450 3rd Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6255471746535,-122.40656574893
+Ravenswood City Elementary,Belle Haven,"415 Ivy Dr, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.47622895,-122.160984299235
+Ravenswood City Elementary,Belle Haven Elementary,415 Ivy Drive Menlo Park CA 94025-1338,NA,NA,NA,not tested,NA,San Mateo County,37.47622895,-122.160984299235
+San Mateo-Foster City,Beresford Elementary,300 28th Avenue San Mateo CA 94403-2405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.539123,-122.309286
+San Mateo-Foster City,Borel Middle,425 Barneson Avenue San Mateo CA 94402-3405,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5503207843887,-122.322242562957
+San Mateo-Foster City,Bowditch Middle,1450 Tarpon Street Foster City CA 94404-1938,NA,NA,NA,not tested,Foster City,San Mateo County,37.560347,-122.250543
+Ravenswood City School,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4621972300486,-122.134570389119
+San Mateo-Foster City,Brewer Island Elementary,1151 Polynesia Drive Foster City CA 94404-1749,NA,NA,NA,not tested,Foster City,San Mateo County,37.560764475,-122.260797925
+Brisbane Elementary,Brisbane Elementary,500 San Bruno Avenue Brisbane CA 94005-1671,NA,NA,NA,not tested,NA,San Mateo County,37.68072665,-122.399732797033
+San Carlos Elementary,Brittan Acres Elementary,2000 Belle Avenue San Carlos CA 94070-3730,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.496287,-122.263826
+San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.3471674
+Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.5880200353607,-122.384722630488
+Pacifica,Cabrillo Elementary,601 Crespi Drive Pacifica CA 94044-3430,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5982519389676,-122.498213526761
+San Mateo County Office of Education,Camp Glenwood,400 Log Cabin Ranch Road La Honda CA 94020,NA,NA,NA,not tested,NA,San Mateo County,37.306054,-122.262608
+Sequoia Union High,Carlmont High,1400 Alameda de Las Pulgas Belmont CA 94002-3585,NA,NA,FALSE,tested,Belmont,San Mateo County,37.5051047,-122.288642505711
+Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,NA,NA,NA,not tested,Belmont,San Mateo County,37.5237533745905,-122.282387486137
+San Carlos Elementary,Central Middle,757 Cedar Street San Carlos CA 94070-3802,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.5010416868601,-122.262071666635
+Ravenswood City School,Cesar Chavez Elem. - RMS,"2450 Ralmar Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,NA,San Mateo County,37.4733837931035,-122.147116586207
+Ravenswood City Elementary,Cesar Chavez Elementary,2450 Ralmar St East Palo Alto CA 94303-1040,NA,NA,NA,not tested,NA,San Mateo County,37.4733837931035,-122.147116586207
+Private,Compass High School,2040 Pioneer Court San Mateo CA 94440,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5470418901249,-122.312151291915
+Portola Valley Elementary,Corte Madera,4575 Alpine Road Portola Valley CA 94028-8040,NA,NA,FALSE,tested,NA,San Mateo County,37.3696583720503,-122.211382940197
+Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
+Ravenswood City School,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4780188,-122.139117148027
+Hillsborough City Elementary,Crocker Middle,2600 Ralston Avenue Hillsborough CA 94010-6544,NA,NA,FALSE,tested,NA,San Mateo County,37.5661713774458,-122.36277520074201
+Jefferson Elementary,Daniel Webster Elementary,425 El Dorado Drive Daly City CA 94015-2126,NA,NA,FALSE,tested,Daly City,San Mateo County,37.678935,-122.47798
+San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.5978274018288,-122.379961310625
+Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632487127531,-122.131904758728
+Private,Eastside College Preparatory School,1041 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.4632459388629,-122.13204140297
+South San Francisco Unified,El Camino High,1320 Mission Road South San Francisco CA 94080-1214,NA,NA,NA,not tested,NA,San Mateo County,37.6573768,-122.4335544
+San Bruno Park Elementary,El CVrystal Elementary School,"201 Balboa Way, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6139061831562,-122.412623885756
+Menlo Park City Elementary,Encinal Elementary,195 Encinal Avenue Atherton CA 94027-3102,NA,NA,NA,not tested,NA,San Mateo County,37.4649533219983,-122.185051324703
+Redwood City Elementary,Fair Oaks Elementary,2950 Fair Oaks Avenue Redwood City CA 94063-3828,9.3,ppb,TRUE,tested,,San Mateo County,37.4792559076044,-122.204176982277
+Jefferson Elementary,Fernando Rivera Intermediate,1255 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.676562,-122.486301
+San Mateo-Foster City,Fiesta Gardens International Elementary,1001 Bermuda Drive San Mateo CA 94403-1508,NA,NA,NA,not tested,San Mateo,San Mateo County,37.551273,-122.2994
+San Mateo-Foster City,Foster City Elementary,461 Beach Park Boulevard Foster City CA 94404-2713,NA,NA,NA,not tested,Foster City,San Mateo County,37.5455071073524,-122.273118532321
+Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,NA,NA,NA,not tested,Belmont,San Mateo County,37.507815,-122.321761
+Jefferson Elementary,Franklin Delano Roosevelt Elementary,1200 Skyline Drive Daly City CA 94015-4728,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6622095,-122.4880891
+Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5886306818914,-122.389057711078
+Redwood City Elementary,Garfield Elementary,3600 Middlefield Road Menlo Park CA 94025-3010,NA,NA,FALSE,tested,,San Mateo County,37.4558801,-122.1666679
+Bayshore Elementary,Garnet J. Robertson Intermediate,1 Martin Street B Daly City CA 94014-1603,NA,NA,NA,not tested,Daly City,San Mateo County,37.700851,-122.414089
+San Mateo County Office of Education,Gateway Center,35 Tower Road San Mateo CA 94402-4000,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5156188,-122.3341154
+Jefferson Elementary,General Pershing Elementary,631 Hanover Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7067802800419,-122.449863352417
+San Mateo-Foster City,George Hall Elementary,130 San Miguel Way San Mateo CA 94403-2954,NA,NA,NA,not tested,San Carlos,San Mateo County,37.489221,-122.2703077
+Jefferson Elementary,George Washington Elementary,251 Whittier Street Daly City CA 94014-1337,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7072344489796,-122.446569795918
+Millbrae Elementary,Green Hills Elementary,401 Ludeman Lane Millbrae CA 94030-1318,NA,NA,NA,not tested,Millbrae,San Mateo County,37.605888,-122.404668
+Cabrillo Unified,Half Moon Bay High,Lewis Foster Drive Half Moon Bay CA 94019,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.4696543,-122.4321606
+Redwood City Elementary,Hawes Elementary,909 Roosevelt Avenue Redwood City CA 94061-1513,NA,NA,NA,not tested,Redwood City,San Mateo County,37.473045234469,-122.233047700401
+San Carlos Elementary,Heather Elementary,2757 Melendy Drive San Carlos CA 94070-3604,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.491661167834,-122.276759696568
+Redwood City Elementary,Henry Ford Elementary,2498 Massachusetts Avenue Redwood City CA 94061-3263,NA,NA,NA,not tested,Redwood City,San Mateo County,37.456154,-122.233613
+San Mateo-Foster City,Highlands Elementary,2320 Newport Street San Mateo CA 94402-3838,NA,NA,NA,not tested,NA,San Mateo County,37.5234751754958,-122.349502662195
+San Mateo County Office of Education,Hillcrest at Youth Services Center,10 Loop Road San Mateo CA 94402-4035,NA,NA,NA,not tested,NA,San Mateo County,37.295915232457,-122.263015804379
+Private,Hilldale School,79 Florence Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6984000438599,-122.458439333938
+San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.5322051997906,-122.315061292243
+South San Francisco Unified,Hillside Elementary,1400 Hillside Boulevard South San Francisco CA 94080-1538,NA,NA,NA,not tested,NA,San Mateo County,37.668353,-122.424323
+Menlo Park City Elementary,Hillview Middle,1100 Elder Avenue Menlo Park CA 94025-5503,NA,NA,NA,not tested,NA,San Mateo County,37.439495,-122.197192
+Redwood City Elementary,Hoover Elementary,701 Charter St Redwood City CA 94063-2960,NA,NA,NA,not tested,NA,San Mateo County,37.48178335,-122.214945969819
+Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5772110390416,-122.380622431399
+Pacifica,Ingrid B. Lacy Middle,1427 Palmetto Avenue Pacifica CA 94044-2284,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6378737,-122.4915646
+Jefferson Union High,Jefferson High,6996 Mission Street Daly City CA 94014-2035,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6961919,-122.4663752
+Jefferson Elementary,John F. Kennedy Elementary,785 Price Street Daly City CA 94014-2163,6.65,ppb,TRUE,tested,Daly City,San Mateo County,37.6947309879805,-122.456485212858
+Redwood City Elementary,John F. Kennedy Middle,2521 Goodwin Avenue Redwood City CA 93239-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4602471579171,-122.238908466709
+Redwood City Elementary,John Gill Elementary,555 Avenue Del Ora Redwood City CA 94062-2259,NA,NA,NA,not tested,Redwood City,San Mateo County,37.47449155,-122.240796586672
+San Bruno Park Elementary,John Muir Elementary,130 Cambridge Lane San Bruno CA 94066-3998,NA,NA,NA,not tested,San Bruno,San Mateo County,37.613022658709,-122.435423308985
+San Bruno Park Elementary,John Muir Elementary,"130 Cambridge Ln, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.613022658709,-122.435423308985
+South San Francisco Unified,Junipero Serra Elementary,151 Victoria Street Daly City CA 94015-2708,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6610132695827,-122.469776457316
+Private,Junipero Serra High School,451 West 20th Avenue San Mateo CA 94403,5.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5469005,-122.3152434
+Redwood City Elementary,KIPP Excelencia Community Preparatory,2521 Goodwin Ave Redwood City CA 94061-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4602471579171,-122.238908466709
+Las Lomitas Elementary,La Entrada Middle,2200 Sharon Road Menlo Park CA 94025-6736,NA,NA,NA,not tested,NA,San Mateo County,37.428578,-122.200674
+La Honda-Pescadero Unified,La Honda Elementary,450 Sears Ranch Road La Honda CA 94020,NA,NA,NA,not tested,NA,San Mateo County,37.3204377501531,-122.276541916718
+Las Lomitas Elementary,Las Lomitas Elementary,299 Alameda de Las Pulgas Atherton CA 94027-6469,24.8,ppb,TRUE,tested,,San Mateo County,37.44725,-122.2295075
+San Mateo-Foster City,Laurel Elementary,316 36th Avenue San Mateo CA 94403-4204,NA,NA,NA,not tested,San Mateo,San Mateo County,37.531728940968,-122.303705527655
+Menlo Park City Elementary,Laurel School Upper Campus,275 Elliott Dr. Menlo Park CA 94025,NA,NA,FALSE,tested,,San Mateo County,37.4598733,-122.149140530534
+San Mateo-Foster City,LEAD Elementary,949 Ocean View Avenue San Mateo CA 94401-3462,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5704009323959,-122.303584289886
+Pacifica,Linda Mar Educational Center,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
+Brisbane Elementary,Lipman Middle,1 Solano Street Brisbane CA 94005-1342,NA,NA,NA,not tested,NA,San Mateo County,37.6829291,-122.4052218
+Millbrae Elementary,Lomita Park Elementary,200 Santa Helena Avenue San Bruno CA 94066-5331,NA,NA,NA,not tested,Millbrae,San Mateo County,37.612178,-122.400893
+Millbrea Elementary School District,Lomita Park Elementary School,"200 Santa Helena Avenue, San Bruno, CA 94066",NA,NA,NA,exempt,Millbrae,San Mateo County,37.612178,-122.400893
+Ravenswood City School,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+Cabrillo Unified,Manuel F. Cunha Intermediate,498 Kelly Avenue Half Moon Bay CA 94019-6102,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.464182,-122.435665
+Jefferson Elementary,Margaret Pauline Brown Elementary,305 Eastmoor Avenue Daly City CA 94015-2038,13,ppb,TRUE,tested,Daly City,San Mateo County,37.6847170133365,-122.478034363895
+Jefferson Elementary,Marjorie H. Tobias Elementary,725 Southgate Avenue Daly City CA 94015-3659,9.6,ppb,TRUE,tested,Daly City,San Mateo County,37.6925353128337,-122.491000938133
+Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
+Redwood City Elementary,McKinley Institute of Technology,400 Duane Street Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4808078,-122.23499545
+Ravenswood City School,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+San Mateo-Foster City,Meadow Heights Elementary,2619 Dolores Street San Mateo CA 94403-2644,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5390059042014,-122.317126387828
+Millbrae Elementary,Meadows Elementary,1101 Helen Drive Millbrae CA 94030-1015,NA,NA,NA,not tested,Millbrae,San Mateo County,37.602311,-122.419
+Sequoia Union High,Menlo-Atherton High,555 Middlefield Road Atherton CA 94025-3438,NA,NA,FALSE,tested,NA,San Mateo County,37.4675121,-122.1897183
+San Mateo Union High,Mills High,400 Murchison Drive Millbrae CA 94030-3024,NA,NA,FALSE,tested,Millbrae,San Mateo County,37.5946883176698,-122.388001015798
+South San Francisco Unified,Monte Verde Elementary,2551 Street Cloud Drive San Bruno CA 94066-1700,NA,NA,NA,not tested,San Bruno,San Mateo County,37.636723875,-122.452714642857
+South San Francisco Unified,Monte Verde Elementary School,"2551 St Cloud Dr, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.636723875,-122.452714642857
+Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,NA,NA,NA,not tested,Belmont,San Mateo County,37.525707,-122.274586
+Hillsborough City Elementary,North Hillsborough,545 Eucalyptus Avenue Hillsborough CA 94010-6400,NA,NA,FALSE,tested,NA,San Mateo County,37.5688120192502,-122.36127843671
+San Mateo-Foster City,North Shoreview Montessori Elementary,1301 Cypress Avenue San Mateo CA 94401-2007,NA,NA,NA,not tested,San Mateo,San Mateo County,37.574523,-122.316377
+Redwood City Elementary,North Star Academy,400 Duane St. Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4808078,-122.23499545
+Menlo Park City Elementary,Oak Knoll Elementary,1895 Oak Knoll Lane Menlo Park CA 94025-6120,NA,NA,NA,not tested,NA,San Mateo County,37.431257,-122.1929686
+Pacifica,Ocean Shore Elementary,411 Oceana Boulevard Pacifica CA 94044-1901,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6504905,-122.4896963
+Jefferson Union High,Oceana High,401 Paloma Avenue Pacifica CA 94044-2436,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6392007,-122.4868024
+Private,Oddstad Elementary,930 Oddstad Blvd. Pacifica CA 94044,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5873214561423,-122.468509114195
+Redwood City Elementary,Orion Alternative,815 Allerton Street Redwood City CA 94063-1360,NA,NA,NA,not tested,Redwood City,San Mateo County,37.49011575,-122.234204847474
+Portola Valley Elementary,Ormondale Elementary,200 Shawnee Pass Portola Valley CA 94028-7631,NA,NA,FALSE,tested,NA,San Mateo County,37.381857,-122.217822
+Pacifica,Ortega Elementary,1283 Terra Nova Boulevard Pacifica CA 94044-4341,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58783365,-122.478596504193
+Private,Our Lady of Mercy Elementary,7 Elmwood Drive Daly City CA 94015,8.05,ppb,TRUE,tested,Daly City,San Mateo County,37.6996442058268,-122.488846299513
+Private,Our Lady of Perpetual Help,80 Wellington Avenue Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7054460256179,-122.460918862875
+Private,Pacific Rim International School,454 Peninsula Avenue San Mateo CA 94401,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580678329294,-122.334246545536
+Pacifica,Pacifica Independent Home Study,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.58570410085,-122.497431561139
+Private,Palcare,945 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5853423594177,-122.358519103018
+Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7069293212058,-122.437252035854
+San Mateo-Foster City,Parkside Elementary,1685 Eisenhower Street San Mateo CA 94402-1045,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5603261939917,-122.296829824551
+San Bruno Park Elementary,Parkside Intermediate,1801 Niles Avenue San Bruno CA 94066-4197,NA,NA,NA,not tested,San Bruno,San Mateo County,37.6160467324319,-122.420329948587
+San Bruno Park Elementary,Parkside Intermediate School,"1801 Niles Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6160467324319,-122.420329948587
+South San Francisco Unified,Parkway Heights Middle,650 Sunset Avenue South San Francisco CA 94080-7343,NA,NA,NA,not tested,NA,San Mateo County,37.6634384044007,-122.428175329097
+San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.609176988407,-122.430573360337
+La Honda-Pescadero Unified,Pescadero Elementary and Middle,620 North Street Pescadero CA 94060,NA,NA,NA,not tested,NA,San Mateo County,37.25629375,-122.378538776394
+Cabrillo Unified,Pilarcitos Alternative High (Continuation),498 Kelly Avenue Half Moon Bay CA 94019-6102,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.464182,-122.435665
+South San Francisco Unified,Ponderosa Elementary,295 Ponderosa Road South San Francisco CA 94080-4218,NA,NA,NA,not tested,NA,San Mateo County,37.646129,-122.434233
+San Bruno Park Elementary,Portola Elementary,300 Amador Avenue San Bruno CA 94066-2506,NA,NA,NA,not tested,San Bruno,San Mateo County,37.623746,-122.453051
+San Bruno Park Elementary,Portola Elementary School,"300 Amador Ave, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.623746,-122.453051
+Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,NA,NA,NA,not tested,Belmont,San Mateo County,37.5151144,-122.2838483
+Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4604091,-122.1439868
+Sequoia Union High,Redwood High,1968 Old County Road Redwood City CA 94063-1073,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.4943089,-122.2442135
+Belmont-Redwood Shores Elementary,Redwood Shores Elementary,225 Shearwater Parkway Redwood City CA 94065-7449,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.5433285,-122.2462674
+Redwood City Elementary,Rocketship Redwood City,701 Charter Street Redwood City CA 94063-2960,NA,NA,NA,not tested,NA,San Mateo County,37.48178335,-122.214945969819
+San Bruno Park Elementary,Rollingwood Elementary,2500 Cottonwood Drive San Bruno CA 94066-2699,NA,NA,NA,not tested,San Bruno,San Mateo County,37.6301752206423,-122.444554256846
+San Bruno Park Elementary,Rollingwood Elementary School,"2500 Cottonwood Dr, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.6301752206423,-122.444554256846
+Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.4620725637972,-122.130214940564
+Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5790595624821,-122.368119495521
+Redwood City Elementary,Roy Cloud Elementary,3790 Red Oak Way Redwood City CA 94061-1133,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4589434,-122.2560516
+San Carlos Elementary,San Carlos Charter Learning Center,750 Dartmouth Ave. San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
+San Mateo County ROP,San Mateo County ROP,101 Twin Dolphin Drive Redwood City CA 94065-1064,NA,NA,NA,not tested,Redwood City,San Mateo County,37.5257965,-122.263051241603
+San Mateo County Office of Education,San Mateo County Special Education,101 Twin Dolphin Dr Redwood City CA 94065-1064,NA,NA,NA,not tested,Redwood City,San Mateo County,37.5257965,-122.263051241603
+San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5760917529282,-122.329722844373
+San Mateo-Foster City,San Mateo Park Elementary,161 Clark Drive San Mateo CA 94402-1002,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5698423554974,-122.342617942306
+San Mateo-Foster City,San Mateo-Foster City Special Education Preschool,1170 Chess Drive Foster City CA 94404-1107,NA,NA,NA,not tested,Foster City,San Mateo County,37.5659375730012,-122.273100655905
+Belmont-Redwood Shores Elementary,Sandpiper Elementary,801 Redwood Shores Parkway Redwood City CA 94065-2279,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.530382,-122.24563
+Redwood City Elementary,Selby Lane Elementary,170 Selby Lane Atherton CA 94027-3960,17.65,ppb,TRUE,tested,,San Mateo County,37.4580028051083,-122.219215693412
+Sequoia Union High,Sequoia District Adult Education,3247 Middlefield Road Menlo Park CA 94025-1859,NA,NA,FALSE,tested,NA,San Mateo County,37.4589689,-122.1727317
+Sequoia Union High,Sequoia High,1201 Brewster Avenue Redwood City CA 94062-1378,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.48287815,-122.236770310149
+South San Francisco Unified,Skyline Elementary,55 Christen Avenue Daly City CA 94015-2811,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6515768021886,-122.466559377899
+Hillsborough City Elementary,South Hillsborough,303 El Cerrito Avenue Hillsborough CA 94010-6817,NA,NA,FALSE,tested,NA,San Mateo County,37.5628771799184,-122.337453578153
+South San Francisco Unified,South San Francisco High,400 B Street South San Francisco CA 94080-4425,NA,NA,NA,not tested,NA,San Mateo County,37.6497945639569,-122.428236637355
+Millbrae Elementary,Spring Valley Elementary,817 Murchison Drive Millbrae CA 94030-3025,NA,NA,NA,not tested,Millbrae,San Mateo County,37.592073966434,-122.390573235514
+South San Francisco Unified,Spruce Elementary,501 Spruce Avenue South San Francisco CA 94080-2749,NA,NA,NA,not tested,NA,San Mateo County,37.658485,-122.415439
+Private,St. Charles Elementary,850 Tamarack Avenue San Carlos CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.496028305684,-122.266789048322
+Private,St. Robert,345 Oak Avenue San Bruno CA 94066,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.6171731028115,-122.415637950128
+Private,St. Timothy School,1515 Dolan Avenue San Mateo CA 94401,9.5,ppb,TRUE,tested,San Mateo,San Mateo County,37.5753090109283,-122.31054286979
+Private,St. Veronica Catholic School,434 Alida Way South San Francisco CA 94080,8.7,ppb,TRUE,tested,NA,San Mateo County,37.64613135,-122.429864695206
+Sequoia Union High,Summit Preparatory Charter High,890 Broadway Redwood City CA 94063-3105,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.4867378,-122.21018215
+Jefferson Union High,Summit Public School: Shasta,699 Serramonte Boulevard Daly City CA 94015-4132,NA,NA,FALSE,tested,Daly City,San Mateo County,37.668634,-122.477728
+San Mateo-Foster City,Sunnybrae Elementary,1031 South Delaware Street San Mateo CA 94402-1855,NA,NA,NA,not tested,San Mateo,San Mateo County,37.5482289,-122.3047813
+Pacifica,Sunset Ridge Elementary,340 Inverness Drive Pacifica CA 94044-2029,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6532138,-122.4798904
+South San Francisco Unified,Sunshine Gardens Elementary,1200 Miller Avenue South San Francisco CA 94080-1221,NA,NA,NA,not tested,NA,San Mateo County,37.665671,-122.437732
+Jefferson Elementary,Susan B. Anthony Elementary,575 Abbot Avenue Daly City CA 94014-2774,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6888412345804,-122.458066537956
+Millbrae Elementary,Taylor Middle,850 Taylor Boulevard Millbrae CA 94030-2340,NA,NA,NA,not tested,Millbrae,San Mateo County,37.5977368420619,-122.400545684504
+Jefferson Union High,Terra Nova High,1450 Terra Nova Boulevard Pacifica CA 94044-3615,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5908550482322,-122.475703583119
+Private,The Bridge School,545 Eucalyptus Ave Hillsborough CA 94010,NA,NA,FALSE,tested,NA,San Mateo County,37.5688120192502,-122.36127843671
+Private,The Carey School,2101 Alameda de las Pulgas San Mateo CA 94403,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5351825,-122.3104198
+Private,The Nueva School,6565 Skyline Boulevard Hillsborough CA 94010,NA,NA,FALSE,tested,NA,San Mateo County,37.5486657,-122.3709941
+Ravenswood City School,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.4608287106356,-122.133501498457
+Jefferson Elementary,Thomas Edison Elementary,1267 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6761996407492,-122.485405513786
+Jefferson Elementary,Thomas R. Pollicita Middle,550 East Market Street Daly City CA 94014-2103,NA,NA,FALSE,tested,Daly City,San Mateo County,37.690416,-122.459888
+San Carlos Elementary,Tierra Linda Middle,750 Dartmouth Ave San Carlos  CA 94070,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.50860195,-122.286504310745
+Pacifica,Vallemar Elementary,377 Reina del Mar Avenue Pacifica CA 94044-3052,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6138076876342,-122.485933294261
+Private,Village Park Preschool,1535 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5918605984446,-122.374093705132
+Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351
+Hillsborough City Elementary,West Hillsborough,376 Barbara Way Hillsborough CA 94010-6760,8.03,ppb,TRUE,tested,NA,San Mateo County,37.5493349292824,-122.368029780575
+South San Francisco Unified,Westborough Middle School,2570 Westborough Boulevard South San Francisco CA 94080,NA,NA,NA,not tested,NA,San Mateo County,37.6430733424419,-122.456825929265
+Jefferson Elementary,Westlake Elementary,80 Fieldcrest Drive Daly City CA 94015-1004,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7052927149204,-122.480046879926
+Jefferson Union High,Westmoor High,131 Westmoor Avenue Daly City CA 94015-3843,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6831834612303,-122.485117683025
+San Carlos Elementary,White Oaks Elementary,1901 White Oak Way San Carlos CA 94070-4747,NA,NA,FALSE,tested,San Carlos,San Mateo County,37.492039,-122.253343
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.4515929,-122.1694732
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.4515929,-122.1694732
+Ravenswood City Elementary,Willow Oaks Elementary,620 Willow Road Menlo Park CA 94025-2619,NA,NA,NA,not tested,NA,San Mateo County,37.4515929,-122.1694732
+Jefferson Elementary,Woodrow Wilson Elementary,43 Miriam Street Daly City CA 94014-3814,NA,NA,FALSE,tested,Daly City,San Mateo County,37.704164145896,-122.465246823521
+Woodside Elementary,Woodside Elementary,3195 Woodside Road Woodside CA 94062-2552,NA,NA,NA,not tested,NA,San Mateo County,37.4359247,-122.2418583
+Sequoia Union High,Woodside High,199 Churchill Avenue Woodside CA 94062-2306,NA,NA,FALSE,tested,NA,San Mateo County,37.443044,-122.231305

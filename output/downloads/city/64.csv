@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colusa Unified,Colusa Alternative High (Continuation),901 Colus Avenue Colusa CA 95932-3024,NA,NA,NA,not tested,Colusa,Colusa County,39.2008120553971,-122.020679712567
+Colusa Unified,Colusa Alternative Home,745 10th Street Colusa CA 95932-2220,11.9,ppb,TRUE,tested,Colusa,Colusa County,39.2108491020408,-122.016478102041
+Colusa Unified,Colusa High,901 Colus Avenue Colusa CA 95932-3024,NA,NA,FALSE,tested,Colusa,Colusa County,39.2008120553971,-122.020679712567
+Colusa Unified,George T. Egling Middle,813 Webster Street Colusa CA 95932-2355,NA,NA,FALSE,tested,Colusa,Colusa County,39.2105329463087,-122.014341369128
+Colusa Unified,James M. Burchfield Primary,400 Fremont Street Colusa CA 95932-2630,NA,NA,FALSE,tested,Colusa,Colusa County,39.207559,-122.009111

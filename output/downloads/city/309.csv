@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Tahoe Unified,Al Tahoe,1100 Lyons Ave South Lake Tahoe CA 96150,32,ppb,TRUE,tested,South Lake Tahoe,El Dorado County,38.9379568214319,-119.975354272734
+Lake Tahoe Unified,Bijou Community,3501 Spruce Avenue South Lake Tahoe CA 96150-8317,NA,NA,FALSE,tested,South Lake Tahoe,El Dorado County,38.941982,-119.955815

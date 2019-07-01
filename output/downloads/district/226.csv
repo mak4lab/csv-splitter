@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Escalon Unified,Dent Elementary,1998 Yosemite Avenue Escalon CA 95320-1845,NA,NA,FALSE,tested,NA,San Joaquin County,37.798341,-120.989266
+Escalon Unified,El Portal Middle,805 First Street Escalon CA 95320-1508,NA,NA,FALSE,tested,NA,NA,NA,NA
+Escalon Unified,Escalon Charter Academy,1520 Yosemite Avenue Escalon CA 95320-1753,NA,NA,FALSE,tested,NA,San Joaquin County,37.7985314489796,-120.994298428571
+Escalon Unified,Escalon High,1528 East Yosemite Avenue Escalon CA 95320-1753,NA,NA,FALSE,tested,NA,NA,NA,NA
+Escalon Unified,Farmington Elementary,25233 East Highway 4 Farmington CA 95230-0068,NA,NA,NA,not tested,NA,NA,NA,NA
+Escalon Unified,Vista High (Continuation),1520 Yosemite Ave. Escalon CA 95320-1753,NA,NA,FALSE,tested,NA,San Joaquin County,37.7985314489796,-120.994298428571

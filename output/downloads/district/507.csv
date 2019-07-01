@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+National Elementary,Beacon Classical Academy National City,2400 Euclid Avenue National City CA 91950-7715,NA,NA,NA,not tested,National City,San Diego County,32.668357,-117.076856
+National Elementary,Central Elementary,933 E Avenue National City CA 91950-3416,8.3,ppb,TRUE,tested,National City,San Diego County,32.6761171087557,-117.101229774365
+National Elementary,El Toyon Elementary,2000 East Division Street National City CA 91950-1823,6,ppb,TRUE,tested,Weed,Siskiyou County,41.425149,-122.383445
+National Elementary,Integrity Charter,701 National City Boulevard National City CA 91950-1123,NA,NA,NA,not tested,National City,San Diego County,32.676347,-117.106743
+National Elementary,Ira Harbison,3235 East Eighth Street National City CA 91950-3116,7,ppb,TRUE,tested,NA,NA,NA,NA
+National Elementary,John A. Otis Elementary,621 East 18th Street National City CA 91950-4630,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+National Elementary,Kimball,302 West 18th Street National City CA 91950-5526,8,ppb,TRUE,tested,National City,San Diego County,32.666477,-117.1061333
+National Elementary,Las Palmas,1900 East 18th Street National City CA 91950-5013,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+National Elementary,Lincoln Acres,2200 Lanoitan Avenue National City CA 91950-6298,NA,NA,FALSE,tested,NA,NA,NA,NA
+National Elementary,Olivewood,2505 F Avenue National City CA 91950-7017,NA,NA,FALSE,tested,National City,San Diego County,32.6629193636364,-117.094941490909
+National Elementary,Palmer Way,2900 Palmer Street National City CA 91950-5251,NA,NA,FALSE,tested,National City,San Diego County,32.679545,-117.075294
+National Elementary,Rancho de la Nacion,1830 East Division Street National City CA 91950-1850,NA,NA,FALSE,tested,Weed,Siskiyou County,41.425149,-122.383445

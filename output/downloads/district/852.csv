@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Wasco Union High,Wasco High,1900 Seventh Street Wasco CA 93280-0250,NA,NA,FALSE,tested,NA,NA,NA,NA
+Wasco Union High,Wasco Independence High,1445 Poso Drive Wasco CA 93280-2353,7.3,ppb,TRUE,tested,NA,Kern County,35.587025,-119.347111

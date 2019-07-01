@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Chowchilla Elementary,Fairmead Elementary,19421 Avenue 22 3/4 Chowchilla CA 93610-0907,NA,NA,FALSE,tested,NA,NA,NA,NA
+Chowchilla Elementary,Merle L. Fuller Elementary,1101 Monterey Avenue Chowchilla CA 93610-0907,NA,NA,FALSE,tested,Chowchilla,Madera County,37.118941,-120.272079
+Chowchilla Elementary,Ronald Reagan Elementary,2200 South Lake Tahoe Drive Chowchilla CA 93610-7402,NA,NA,FALSE,tested,Chowchilla,Madera County,37.1296838,-120.2409141
+Chowchilla Elementary,Stephens Elementary,355 North 5th Street Chowchilla CA 93610-0907,NA,NA,FALSE,tested,Chowchilla,Madera County,37.1225578192492,-120.265047551067
+Chowchilla Elementary,Wilson Middle,1209 Robertson Boulevard Chowchilla CA 93610-0907,NA,NA,FALSE,tested,Chowchilla,Madera County,37.1161387121747,-120.268422349843

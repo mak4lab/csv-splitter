@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,TRUE,tested,Colfax,Placer County,39.10728385,-120.965928490442
+Placer Union High,Del Oro High,3301 Taylor Road Loomis CA 95650-9502,NA,NA,FALSE,tested,NA,Placer County,38.828095,-121.188976
+Placer Union High,Foresthill High,23319 Foresthill Road Foresthill CA 95631-9229,NA,NA,FALSE,tested,NA,Placer County,39.0156674379819,-120.836261599947
+Placer Union High,Lynn MacDonald Center,3775 Richardson Dr. Auburn CA 95602-9350,NA,NA,FALSE,tested,NA,NA,NA,NA
+Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,NA,NA,FALSE,tested,Auburn,Placer County,38.8951946,-121.070032646942
+Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,NA,NA,NA,not tested,Auburn,Placer County,38.8960804169452,-121.068026931623

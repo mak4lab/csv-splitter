@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tulare City,Alpine Vista,2975 East Alpine Avenue Tulare CA 93274-4265,NA,NA,FALSE,tested,NA,Tulare County,36.2021404,-119.3210555
+Tulare City,Cherry Avenue Middle,540 North Cherry Street Tulare CA 93274-2918,NA,NA,FALSE,tested,NA,Tulare County,36.2155173,-119.336171173451
+Tulare City,Cypress Elementary,1870 South Laspina Street Tulare CA 93274-6962,NA,NA,FALSE,tested,NA,Tulare County,36.1877881,-119.323794563794
+Tulare City,Frank Kohn Elementary,500 South Laspina Street Tulare CA 93274-5929,NA,NA,FALSE,tested,NA,Tulare County,36.20479145,-119.320336618951
+Tulare City,Garden Elementary,640 East Pleasant Avenue Tulare CA 93274-2124,NA,NA,FALSE,tested,NA,Tulare County,36.21944065,-119.34149863226
+Tulare City,Heritage Elementary,895 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.22850135,-119.36126989499
+Tulare City,Lincoln Elementary,909 East Cedar Avenue Tulare CA 93274-5615,NA,NA,FALSE,tested,NA,Tulare County,36.19893725,-119.334703006972
+Tulare City,Live Oak Middle,980 North Laspina Street Tulare CA 93274-2338,NA,NA,FALSE,tested,NA,Tulare County,36.2197945,-119.319813654476
+Tulare City,Los Tules Middle,801 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.22850815,-119.359170700445
+Tulare City,Maple Elementary,640 West Cross Avenue Tulare CA 93274-2616,NA,NA,FALSE,tested,NA,Tulare County,36.21286285,-119.357664288277
+Tulare City,Mission Valley Elementary,1695 Bella Oaks Drive Tulare CA 93274-6268,NA,NA,FALSE,tested,NA,Tulare County,36.2336429,-119.322225010531
+Tulare City,Mulcahy Middle,1001 West Sonora Avenue Tulare CA 93274-5041,NA,NA,FALSE,tested,NA,Tulare County,36.199934,-119.36190467689
+Tulare City,Pleasant Elementary,1855 West Pleasant Avenue Tulare CA 93274-1765,NA,NA,FALSE,tested,NA,Tulare County,36.21745325,-119.373130747858
+Tulare City,Roosevelt Elementary,1046 West Sonora Avenue Tulare CA 93274-5042,5.9,ppb,TRUE,tested,NA,Tulare County,36.2024083,-119.361733875439
+Tulare City,Wilson Elementary,955 East Tulare Avenue Tulare CA 93274-4443,NA,NA,FALSE,tested,NA,Tulare County,36.2084311,-119.334307519672

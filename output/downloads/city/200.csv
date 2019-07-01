@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Diego Unified,Balboa Elementary,1844 South 40th Street San Diego CA 92113-4017,NA,NA,FALSE,tested,National City,San Diego County,32.686937,-117.109207
+National Elementary,Beacon Classical Academy National City,2400 Euclid Avenue National City CA 91950-7715,NA,NA,NA,not tested,National City,San Diego County,32.668357,-117.076856
+National Elementary,Central Elementary,933 E Avenue National City CA 91950-3416,8.3,ppb,TRUE,tested,National City,San Diego County,32.6761171087557,-117.101229774365
+San Diego Unified,Chavez Elementary,1404 South 40th Street San Diego CA 92113-4037,NA,NA,FALSE,tested,National City,San Diego County,32.6917277476517,-117.108216786886
+Sweetwater Union High,Granger Junior High,2101 Granger Avenue National City CA 91950-6299,5.46,ppb,TRUE,tested,National City,San Diego County,32.672624772425,-117.073805062153
+National Elementary,Integrity Charter,701 National City Boulevard National City CA 91950-1123,NA,NA,NA,not tested,National City,San Diego County,32.676347,-117.106743
+National Elementary,John A. Otis Elementary,621 East 18th Street National City CA 91950-4630,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+National Elementary,Kimball,302 West 18th Street National City CA 91950-5526,8,ppb,TRUE,tested,National City,San Diego County,32.666477,-117.1061333
+National Elementary,Las Palmas,1900 East 18th Street National City CA 91950-5013,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+Sweetwater Union High,National City Middle,1701 D Avenue National City CA 91950-4535,6.49,ppb,TRUE,tested,National City,San Diego County,32.672688,-117.101128
+National Elementary,Olivewood,2505 F Avenue National City CA 91950-7017,NA,NA,FALSE,tested,National City,San Diego County,32.6629193636364,-117.094941490909
+National Elementary,Palmer Way,2900 Palmer Street National City CA 91950-5251,NA,NA,FALSE,tested,National City,San Diego County,32.679545,-117.075294
+Sweetwater Union High,Sweetwater High,2900 Highland Avenue National City CA 91950-7415,10.6,ppb,TRUE,tested,National City,San Diego County,32.660733,-117.092041

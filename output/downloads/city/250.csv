@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sierra Sands Unified,Murray Middle,200 E Drummond Ave Ridgecrest CA 93555-2875,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63728,-117.672255
+SBE - Ridgecrest Charter,Ridgecrest Charter,325 South Downs Street Ridgecrest CA 93555-4531,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.6052427,-117.6881293
+Sierra Sands Unified,Sierra Sands Adult,348 Rowe Street Ridgecrest CA 93555-2508,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63986,-117.664102090909
+Sierra Sands Unified,Vieweg Elementary,348 Rowe St Ridgecrest CA 93555,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63986,-117.664102090909

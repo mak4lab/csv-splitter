@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Corcoran Joint Unified,Bret Harte Elementary,1300 Letts Avenue Corcoran CA 93212-2523,5.6,ppb,TRUE,tested,NA,Kings County,36.094578,-119.567686
+Corcoran Joint Unified,Corcoran High,1100 Letts Avenue Corcoran CA 93212-2520,11,ppb,TRUE,tested,NA,Kings County,36.097472,-119.567653
+Corcoran Joint Unified,John C. Fremont Elementary,1900 Bell Ave Corcoran CA 93212-1706,6.6,ppb,TRUE,tested,NA,Kings County,36.103615,-119.571108
+Corcoran Joint Unified,John Muir Middle,707 Letts Avenue Corcoran CA 93212-1753,7.95,ppb,TRUE,tested,NA,Kings County,36.1019171671898,-119.567502895707
+Corcoran Joint Unified,Kings Lake Education Center,1128 South Dairy Ave Corcoran CA 93212-1722,NA,NA,FALSE,tested,NA,Kings County,36.0948753210851,-119.572122647961
+Corcoran Joint Unified,Mark Twain Elementary,1500 Oregon Avenue Corcoran CA 93212-9684,5.6,ppb,TRUE,tested,NA,Kings County,36.087223,-119.567692

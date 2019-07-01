@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Modesto City High,Aspire Vanguard College Preparatory Academy,5255 First Street Empire CA 95319,NA,NA,FALSE,tested,NA,NA,NA,NA
+Modesto City High,Fred C. Beyer High,1717 Sylvan Avenue Modesto CA 95355-1399,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6890423732191,-120.968150595287
+Modesto City High,Grace M. Davis High,1200 West Rumble Road Modesto CA 95350-2198,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.681972,-121.010233
+Modesto City High,James C. Enochs High,3201 Sylvan Avenue Modesto CA 95355-7893,10,ppb,TRUE,tested,Modesto,Stanislaus County,37.689071,-120.935069
+Modesto City High,Modesto High,18 H Street Modesto CA 95351-3203,NA,NA,NA,not tested,Modesto,Stanislaus County,37.631473,-121.007126333333
+Modesto City High,Peter Johansen High,641 Norseman Drive Modesto CA 95357-0405,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6479302040816,-120.91717777551
+Modesto City High,Robert Elliott Alternative Education Center,1440 Sunrise Avenue Modesto CA 95350-4643,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6643622857143,-120.984703489796
+Modesto City High,Thomas Downey High,1000 Coffee Road Modesto CA 95355-4275,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.657317,-120.975493

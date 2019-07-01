@@ -1,0 +1,142 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Francisco Unified,Alamo Elementary,250 23rd Avenue San Francisco CA 94121-2009,NA,NA,FALSE,tested,SF,SF,37.78303735,-122.48227883912
+San Francisco Unified,Alvarado Elementary,625 Douglass Street San Francisco CA 94114-3140,NA,NA,FALSE,tested,SF,SF,37.7538375,-122.4386385
+San Francisco Unified,Aptos Middle,105 Aptos Avenue San Francisco CA 94127-2520,NA,NA,FALSE,tested,SF,SF,37.72968815,-122.465803135597
+San Francisco Unified,Argonne Elementary,680 18th Avenue San Francisco CA 94121-3818,NA,NA,FALSE,tested,SF,SF,37.77527345,-122.476329173675
+San Francisco Unified,"Asawa (Ruth) SF Sch of the Arts, A Public School",555 Portola Drive San Francisco CA 94131-1616,NA,NA,FALSE,tested,SF,SF,37.7448676,-122.449766420461
+San Francisco Unified,Balboa High,1000 Cayuga Avenue San Francisco CA 94112-3236,NA,NA,FALSE,tested,SF,SF,37.72086,-122.440635
+San Francisco Unified,Bessie Carmichael Middle School,824 Harrison St San Francisco CA 94107,9.1,ppb,TRUE,tested,SF,SF,37.7803738367347,-122.400291265306
+San Francisco Unified,Brown Jr. (Willie L) Middle,2055 Silver Avenue San Francisco CA 94122-2032,NA,NA,FALSE,tested,SF,SF,37.7359127272727,-122.399857909091
+San Francisco Unified,Bryant Elementary,2641 25th Street San Francisco CA 94110-3514,5.61,ppb,TRUE,tested,SF,SF,37.7519012653061,-122.40467944898
+San Francisco Unified,Buena Vista/ Horace Mann K-8,3351 23rd Street San Francisco CA 94110-3031,5.5,ppb,TRUE,tested,SF,SF,37.7532961,-122.420204953644
+San Francisco Unified,Burton (Phillip and Sala) Academic High,400 Mansell Street San Francisco CA 94134-1829,NA,NA,FALSE,tested,SF,SF,37.720649,-122.405238
+San Francisco Unified,Carmichael (Bessie)/FEC,375 Seventh Street San Francisco CA 94103-4020,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Francisco Unified,Carver (George Washington) Elementary,1360 Oakdale Avenue San Francisco CA 94124-2724,5.17,ppb,TRUE,tested,SF,SF,37.7323861632653,-122.386299
+San Francisco Unified,Chavez (Cesar) Elementary,825 Shotwell Street San Francisco CA 94110-3212,NA,NA,FALSE,tested,SF,SF,37.75483745,-122.415164222922
+San Francisco Unified,Chin (John Yehall) Elementary,350 Broadway Street San Francisco CA 94133-4503,NA,NA,FALSE,tested,SF,SF,37.7986133,-122.40322435
+San Francisco Unified,Chinese Education Center,657 Merchant Street San Francisco CA 94111-2505,7.41,ppb,TRUE,tested,SF,SF,37.7947686,-122.404057951121
+San Francisco Unified,Chinese Immersion School at DeAvila,1250 Waller Street San Francisco CA 94117-2919,NA,NA,FALSE,tested,SF,SF,37.7695387,-122.4442765
+San Francisco Unified,City Arts and Tech High,325 La Grande Avenue San Francisco CA 94112-2866,NA,NA,FALSE,tested,SF,SF,37.7198593712105,-122.425508126679
+San Francisco Unified,Clarendon Alternative Elementary,500 Clarendon Avenue San Francisco CA 94131-1113,NA,NA,FALSE,tested,SF,SF,37.7527228,-122.4559801
+San Francisco Unified,Cleveland Elementary,455 Athens Street San Francisco CA 94112-2801,NA,NA,FALSE,tested,SF,SF,37.7207524897959,-122.428977877551
+San Francisco Unified,Cobb (William L.) Elementary,2725 California Street San Francisco CA 94115-2513,NA,NA,FALSE,tested,SF,SF,37.7876548,-122.439634368424
+San Francisco Unified,Cooper (Sarah B) Children Center,940 Filbert Street San Francisco CA 94133,NA,NA,FALSE,tested,SF,SF,37.800806,-122.4150871
+San Francisco Unified,Creative Arts Charter,1601 Turk Street San Francisco CA 94115-4527,NA,NA,FALSE,tested,SF,SF,37.7793569,-122.4413061
+San Francisco Unified,Denman (James) Middle,241 Oneida Avenue San Francisco CA 94112-3228,NA,NA,FALSE,tested,SF,SF,37.722221,-122.443978
+San Francisco Unified,Downtown High,693 Vermont Street San Francisco CA 94107-2635,9.25,ppb,TRUE,tested,SF,SF,37.761026244898,-122.404049183673
+San Francisco Unified,Drew (Charles) College Preparatory Academy,50 Pomona Avenue San Francisco CA 94124-2344,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Francisco Unified,Edison Charter Academy,3531 22nd Street San Francisco CA 94114-3405,NA,NA,FALSE,tested,SF,SF,37.75440965,-122.426071188814
+San Francisco Unified,El Dorado Elementary,70 Delta Street San Francisco CA 94134-2145,NA,NA,NA,not tested,SF,SF,37.7187729583333,-122.406966291667
+San Francisco Unified,Everett Middle,450 Church St. San Francisco CA 94114-1721,NA,NA,FALSE,tested,SF,SF,37.7636735,-122.4291220739
+San Francisco Unified,Fairmount Elementary,65 Chenery Street San Francisco CA 94131-2706,NA,NA,FALSE,tested,SF,SF,37.7406535714286,-122.425560204082
+San Francisco Unified,Feinstein (Dianne) Elementary,2550 25th Avenue San Francisco CA 94116-2901,NA,NA,FALSE,tested,SF,SF,37.7396651,-122.481625129171
+San Francisco Unified,Flynn (Leonard R.) Elementary,3125 Cesar Chavez Street San Francisco CA 94110-4722,NA,NA,FALSE,tested,SF,SF,37.7477202,-122.411997508471
+San Francisco Unified,Francisco Middle,2190 Powell Street San Francisco CA 94133-1949,NA,NA,FALSE,tested,SF,SF,37.804730755102,-122.411627897959
+San Francisco Unified,Galileo High,1150 Francisco Street San Francisco CA 94109-1004,NA,NA,FALSE,tested,SF,SF,37.8033959183673,-122.424075612245
+San Francisco Unified,Garfield Elementary,420 Filbert Street San Francisco CA 94133-3002,NA,NA,NA,not tested,SF,SF,37.80207775,-122.406744106378
+San Francisco Unified,Gateway High,1430 Scott Street San Francisco CA 94115-3510,NA,NA,FALSE,tested,SF,SF,37.783174700000004,-122.437495
+San Francisco Unified,Gateway Middle,1512 Golden Gate Avenue San Francisco CA 94115-4515,NA,NA,FALSE,tested,SF,SF,37.7793223,-122.436012660222
+San Francisco Unified,Giannini (A.P.) Middle,3151 Ortega Street San Francisco CA 94122-4051,NA,NA,FALSE,tested,SF,SF,37.7503767,-122.496664969725
+San Francisco Unified,Glen Park Elementary,151 Lippard Avenue San Francisco CA 94131-3249,NA,NA,FALSE,tested,SF,SF,37.7330904837653,-122.435972826155
+San Francisco Unified,Grattan Elementary,165 Grattan Street San Francisco CA 94117-4208,NA,NA,FALSE,tested,SF,SF,37.7638313061224,-122.45047822449
+San Francisco Unified,Guadalupe Elementary,859 Prague Street San Francisco CA 94112-4516,NA,NA,FALSE,tested,SF,SF,37.7103506572349,-122.434318369131
+San Francisco Unified,Harte (Bret) Elementary,1035 Gilman Avenue San Francisco CA 94124-3710,NA,NA,FALSE,tested,SF,SF,37.71857084,-122.38891044
+San Francisco Unified,Havard (Leona M) Early Education,1520 Oakdale Ave. San Francisco CA 94124,NA,NA,FALSE,tested,SF,SF,37.7338609591837,-122.388876571429
+San Francisco Unified,Hillcrest Elementary,810 Silver Avenue San Francisco CA 94134-1012,6.05,ppb,TRUE,tested,SF,SF,37.7291590126999,-122.419273101578
+San Francisco Unified,Hoover (Herbert) Middle,2290 14th Avenue San Francisco CA 94116-1841,NA,NA,FALSE,tested,SF,SF,37.7455346,-122.469452848325
+San Francisco Unified,Independence High,1350 7th Ave. San Francisco CA 94122-2508,NA,NA,FALSE,tested,SF,SF,37.76322315,-122.463808853393
+San Francisco Unified,International Studies Academy,655 De Haro Street San Francisco CA 94107-2635,8.68,ppb,TRUE,tested,SF,SF,37.7616043469388,-122.401153346939
+San Francisco Unified,International Studies High School,655 De Haro Street San Francisco CA 94107-2635,NA,NA,NA,not tested,SF,SF,37.7616043469388,-122.401153346939
+San Francisco Unified,Jefferson Early Education,1350 25th Ave. San Francisco CA 94122,NA,NA,FALSE,tested,SF,SF,37.7623360204082,-122.483383836735
+San Francisco Unified,Jefferson Elementary,1725 Irving Street San Francisco CA 94122-1893,NA,NA,FALSE,tested,SF,SF,37.7635103414634,-122.476423804878
+San Francisco Unified,Jordan (June) School for Equity,325 La Grande Ave San Francisco CA 94112-2866,NA,NA,FALSE,tested,SF,SF,37.7198593712105,-122.425508126679
+San Francisco Unified,Key (Francis Scott) Elementary,1530 43rd Avenue San Francisco CA 94122-2925,NA,NA,FALSE,tested,SF,SF,37.7578773,-122.501994052896
+San Francisco Unified,King (Thomas Starr) Elementary,1215 Carolina Street San Francisco CA 94107-3322,NA,NA,FALSE,tested,SF,SF,37.7533658181818,-122.399369818182
+San Francisco Unified,King Jr. (Martin Luther) Academic Middle,350 Girard Street San Francisco CA 94134-1469,NA,NA,FALSE,tested,SF,SF,37.7279386530612,-122.404936918367
+San Francisco Unified,KIPP Bayview Academy,1060 Key Avenue San Francisco CA 94124-3563,NA,NA,FALSE,tested,SF,SF,37.7195673888889,-122.397307
+San Francisco Unified,KIPP San Francisco Bay Academy,1430 Scott St. San Francisco CA 94115-3510,NA,NA,FALSE,tested,SF,SF,37.783174700000004,-122.437495
+San Francisco Unified,KIPP San Francisco Bay Academy 1,1430 Scott Street San Francisco CA 94115-3510,NA,NA,NA,not tested,SF,SF,37.783174700000004,-122.437495
+San Francisco Unified,KIPP San Francisco College Preparatory,1195 Hudson Avenue San Francisco CA 94124-2488,NA,NA,FALSE,tested,SF,SF,37.7331659522596,-122.381967990179
+San Francisco Unified,Lafayette Elementary,4545 Anza Street San Francisco CA 94121-2621,NA,NA,FALSE,tested,SF,SF,37.77709165,-122.496882942979
+San Francisco Unified,Lakeshore Alternative Elementary,220 Middlefield Drive San Francisco CA 94132-1418,NA,NA,FALSE,tested,SF,SF,37.73023905,-122.485564503208
+San Francisco Unified,Lau (Gordon J.) Elementary,950 Clay Street San Francisco CA 94108-1521,NA,NA,FALSE,tested,SF,SF,37.7946146,-122.408830812774
+San Francisco Unified,Lawton Alternative Elementary,1570 31st Avenue San Francisco CA 94122-3104,NA,NA,FALSE,tested,SF,SF,37.7579902857143,-122.489528571429
+San Francisco Unified,Leadership High,350 Seneca Avenue San Francisco CA 94112-3248,NA,NA,FALSE,tested,SF,SF,37.7214408163265,-122.445142979592
+San Francisco Unified,Lick (James) Middle,1220 Noe Street San Francisco CA 94114-3714,NA,NA,FALSE,tested,SF,SF,37.7493966,-122.431985666396
+San Francisco Unified,Life Learning Academy Charter,651 Eighth Street Building 229 Treasure Island San Francisco CA 94130-1901,45,ppb,TRUE,tested,NA,NA,NA,NA
+San Francisco Unified,Lilienthal (Claire) Elementary,3630 Divisadero Street San Francisco CA 94123-1411,NA,NA,FALSE,tested,SF,SF,37.8031193061224,-122.443378857143
+San Francisco Unified,"Lilienthal, Claire (K-2 Madison Campus)",3950 Sacramento Street  San Francisco CA 94118,NA,NA,FALSE,tested,SF,SF,37.78722725,-122.457988218074
+San Francisco Unified,Lincoln (Abraham) High,2162 24th Avenue San Francisco CA 94116-1723,NA,NA,FALSE,tested,SF,SF,37.74635735,-122.480238597746
+San Francisco Unified,Longfellow Elementary,755 Morse Street San Francisco CA 94112-4223,7.8,ppb,TRUE,tested,SF,SF,37.7105352669275,-122.447331591627
+San Francisco Unified,Lowell High,1101 Eucalyptus Drive San Francisco CA 94132-1401,NA,NA,FALSE,tested,SF,SF,37.72921235,-122.482933639709
+San Francisco Unified,Mahler (Theresa S) Children Center,990 Church Street San Francisco CA 94114,NA,NA,FALSE,tested,SF,SF,37.7555406,-122.428026
+San Francisco Unified,Malcolm X Academy,350 Harbor Road San Francisco CA 94124-2474,NA,NA,FALSE,tested,SF,SF,37.7337446700342,-122.380574255829
+San Francisco Unified,Marina Middle,3500 Fillmore Street San Francisco CA 94123-2103,NA,NA,FALSE,tested,SF,SF,37.8017473560308,-122.436650065144
+San Francisco Unified,Marshall (Thurgood) High,45 Conkling Street San Francisco CA 94124-1931,7.7,ppb,TRUE,tested,SF,SF,37.735678938718,-122.40178081216
+San Francisco Unified,Marshall Elementary,1575 15th Street San Francisco CA 94103-3639,NA,NA,FALSE,tested,SF,SF,37.7667388,-122.4187467
+San Francisco Unified,McCoppin (Frank) Elementary,651 Sixth Avenue San Francisco CA 94118-3804,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Francisco Unified,McKinley Elementary,1025 14th Street San Francisco CA 94114-1221,NA,NA,FALSE,tested,SF,SF,37.76697455,-122.436515571331
+San Francisco Unified,McLaren (John) Children Centers,2055 Sunnydale Avenue San Francisco CA 94134-2611,NA,NA,FALSE,tested,SF,SF,37.7095997,-122.4077438
+San Francisco Unified,Milk (Harvey) Civil Rights Elementary,4235 19th Street San Francisco CA 94114-2415,NA,NA,FALSE,tested,SF,SF,37.7591146938775,-122.436371836735
+San Francisco Unified,Miraloma Elementary,175 Omar Way San Francisco CA 94127-1701,NA,NA,FALSE,tested,SF,SF,37.7386472,-122.450130801148
+San Francisco Unified,Mission Education Center,1670 Noe Street San Francisco CA 94131-2357,NA,NA,FALSE,tested,SF,SF,37.7422128,-122.431450673517
+San Francisco Unified,Mission High,3750 18th Street San Francisco CA 94114-2614,NA,NA,FALSE,tested,SF,SF,37.76198,-122.427304277595
+San Francisco Unified,Mission Preparatory,75 Francis Street San Francisco CA 94112-1924,NA,NA,FALSE,tested,SF,SF,37.726986,-122.435447831869
+San Francisco Unified,Monroe Elementary,260 Madrid Street San Francisco CA 94112-2055,NA,NA,FALSE,tested,SF,SF,37.7253945306122,-122.430069204082
+San Francisco Unified,Moscone (George R.) Elementary,2576 Harrison Street San Francisco CA 94110-2720,NA,NA,FALSE,tested,SF,SF,37.7562532857143,-122.412341510204
+San Francisco Unified,Muir (John) Elementary,380 Webster Street San Francisco CA 94117-3512,NA,NA,FALSE,tested,SF,SF,37.77369355,-122.428803764617
+San Francisco Unified,New School of San Francisco,655 De Haro St San Francisco CA 94107,12.4,ppb,TRUE,tested,SF,SF,37.7616043469388,-122.401153346939
+San Francisco Unified,New Traditions Elementary,2049 Grove Street San Francisco CA 94117-1123,NA,NA,FALSE,tested,SF,SF,37.774274755102,-122.450309836735
+San Francisco Unified,O'Connell (John) High,2355 Folsom Street San Francisco CA 94110-2010,NA,NA,FALSE,tested,SF,SF,37.7596342653061,-122.414655918367
+San Francisco Unified,OnePurpose,948 Hollister Avenue San Francisco CA 94124-3710,NA,NA,NA,not tested,SF,SF,37.7185646326531,-122.390168836735
+San Francisco Unified,Ortega (Jose) Elementary,400 Sargent Street San Francisco CA 94132-3152,NA,NA,FALSE,tested,SF,SF,37.716194,-122.466376
+San Francisco Unified,Parker (Jean) Elementary,840 Broadway Street San Francisco CA 94133-4219,NA,NA,FALSE,tested,SF,SF,37.79760905,-122.410784838938
+San Francisco Unified,Parks (Rosa) Elementary,1501 O'Farrell Street San Francisco CA 94115-3762,NA,NA,FALSE,tested,SF,SF,37.78296655,-122.429552197759
+San Francisco Unified,Peabody (George) Elementary,251 Sixth Avenue San Francisco CA 94118-2311,8.17,ppb,TRUE,tested,NA,NA,NA,NA
+San Francisco Unified,Presidio Children Center,"Bldg 387, Presidio San Francisco CA 94129",NA,NA,NA,not tested,NA,NA,NA,NA
+San Francisco Unified,Presidio Early Education,387 Moraga Ave. San Francisco CA 94129,NA,NA,FALSE,tested,SF,SF,37.7982236,-122.4599405
+San Francisco Unified,Presidio Middle,450 30th Avenue San Francisco CA 94121-1766,NA,NA,FALSE,tested,SF,SF,37.78088185,-122.489626625632
+San Francisco Unified,Redding Elementary,1421 Pine Street San Francisco CA 94109-4719,11.9,ppb,TRUE,tested,SF,SF,37.7896941020408,-122.419254081633
+San Francisco Unified,Revere (Paul) Elementary,555 Tompkins Avenue San Francisco CA 94110-6144,NA,NA,FALSE,tested,SF,SF,37.7371336326531,-122.413144734694
+San Francisco Unified,"Rodriguez, Zaida T. Early Education",421 Bartlett St. San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.750179877551,-122.419258469388
+San Francisco Unified,Rooftop Elementary,443 Burnett Avenue San Francisco CA 94131-1330,NA,NA,FALSE,tested,SF,SF,37.7544379359157,-122.443866383639
+San Francisco Unified,Rooftop School,500 Corbett Street San Francisco CA 94114,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Francisco Unified,Roosevelt Middle,460 Arguello Boulevard San Francisco CA 94118-2505,NA,NA,FALSE,tested,SF,SF,37.7822833513514,-122.458835405405
+San Francisco Unified,S.F. County Civic Center Secondary,727 Golden Gate Avenue San Francisco CA 94102-3101,NA,NA,FALSE,tested,SF,SF,37.7806748979592,-122.422578714286
+San Francisco Unified,S.F. County Court Woodside Learning Ctr,375 Woodside Avenue San Francisco CA 94127,NA,NA,FALSE,tested,SF,SF,37.74606115,-122.452284847336
+San Francisco Unified,S.F. County Opportunity (Hilltop),1325 Florida Street San Francisco CA 94110-4114,NA,NA,NA,not tested,SF,SF,37.7506961632653,-122.409767408163
+San Francisco Unified,S.F. International High,1050 York Street San Francisco CA 94110-3420,NA,NA,NA,not tested,SF,SF,37.7552341632653,-122.408522653061
+San Francisco Unified,San Francisco Community Alternative,125 Excelsior Avenue San Francisco CA 94112-2041,NA,NA,FALSE,tested,SF,SF,37.7258153061224,-122.432538734694
+San Francisco Unified,San Francisco Public Montessori,2340 Jackson Street San Francisco CA 94115-1323,NA,NA,FALSE,tested,SF,SF,37.7926730204082,-122.433632081633
+San Francisco Unified,San Miguel Children Center,300 Seneca Avenue San Francisco CA 94112-3248,NA,NA,FALSE,tested,SF,SF,37.721225,-122.444594
+San Francisco Unified,Sanchez Elementary,325 Sanchez Street San Francisco CA 94114-1615,NA,NA,FALSE,tested,SF,SF,37.7633895,-122.430524945527
+San Francisco Unified,Serra (Junipero) Elementary,625 Holly Park Circle San Francisco CA 94110-5815,NA,NA,FALSE,tested,SF,SF,37.7369365,-122.4215447
+San Francisco Unified,"Serra, Junipero (Annex) Early Education School",155 Appleton Ave San Francisco CA 94110,NA,NA,NA,not tested,SF,SF,37.7378906122449,-122.421827
+San Francisco Unified,"Serra, Junipero, (Annex) Early Education School",155 Appleton Avenue  San Francisco CA 94110,NA,NA,FALSE,tested,SF,SF,37.7378906122449,-122.421827
+San Francisco Unified,Sheridan Elementary,431 Capitol Avenue San Francisco CA 94112-2934,NA,NA,FALSE,tested,SF,SF,37.7143635102041,-122.45914244898
+San Francisco Unified,Sherman Elementary,1651 Union Street San Francisco CA 94123-4506,NA,NA,FALSE,tested,SF,SF,37.7981562653061,-122.426444632653
+San Francisco Unified,SIATech at Treasure Island,351 Avenue H San Francisco CA 94130,NA,NA,NA,not tested,SF,SF,37.8218191,-122.3691623
+San Francisco Unified,Sloat (Commodore) Elementary,50 Darien Way San Francisco CA 94127-1902,NA,NA,FALSE,tested,SF,SF,37.73147805,-122.470876094927
+San Francisco Unified,Spring Valley Elementary,1451 Jackson Street San Francisco CA 94109-3115,6.705,ppb,TRUE,tested,SF,SF,37.7943829968899,-122.418886965765
+San Francisco Unified,Stevenson (Robert Louis) Elementary,2051 34th Avenue San Francisco CA 94116-1109,NA,NA,FALSE,tested,SF,SF,37.7487341,-122.492799783348
+San Francisco Unified,Stockton (Commodore) Children Center,1 Trenton St. San Francisco CA 94108,NA,NA,FALSE,tested,SF,SF,37.79495,-122.409026
+San Francisco Unified,Sunnyside Elementary,250 Foerster Street San Francisco CA 94112-1341,NA,NA,FALSE,tested,SF,SF,37.7302922244898,-122.448754040816
+San Francisco Unified,Sunset Elementary,1920 41st Avenue San Francisco CA 94116-1101,NA,NA,FALSE,tested,SF,SF,37.75065925,-122.499128415425
+San Francisco Unified,Sutro Elementary,235 12th Avenue San Francisco CA 94118-2103,NA,NA,FALSE,tested,SF,SF,37.78360225,-122.471466937668
+San Francisco Unified,Taylor (Edward R.) Elementary,423 Burrows Street San Francisco CA 94134-1449,NA,NA,FALSE,tested,SF,SF,37.7279013673469,-122.407333020408
+San Francisco Unified,Tenderloin Community,627 Turk Street San Francisco CA 94102-3212,NA,NA,FALSE,tested,SF,SF,37.78178795,-122.419936156553
+San Francisco Unified,The Academy - San Francisco,555 Portola Dr. San Francisco CA 94131-1616,NA,NA,FALSE,tested,SF,SF,37.7448676,-122.449766420461
+San Francisco Unified,The New School of San Francisco,2929 19th Street San Francisco CA 94110-2019,NA,NA,NA,not tested,SF,SF,37.76027005,-122.4113497
+San Francisco Unified,Tule Elk Park Children Center,2110 Greenwich Street San Francisco CA 94123,5.5,ppb,TRUE,tested,SF,SF,37.7992056530612,-122.43453022449
+San Francisco Unified,Tule Elk Park Children Center,2110 Greenwich St San Francisco CA 94123,NA,NA,NA,not tested,SF,SF,37.7992056530612,-122.43453022449
+San Francisco Unified,Ulloa Elementary,2650 42nd Avenue San Francisco CA 94116-2714,NA,NA,FALSE,tested,SF,SF,37.7370866,-122.499370202202
+San Francisco Unified,Visitacion Valley Elementary,55 Schwerin Street San Francisco CA 94134-2742,NA,NA,FALSE,tested,SF,SF,37.7126833673469,-122.410317244898
+San Francisco Unified,Visitacion Valley Middle,450 Raymond Avenue San Francisco CA 94134-2354,NA,NA,FALSE,tested,SF,SF,37.7147605102041,-122.412445306122
+San Francisco Unified,Wallenberg (Raoul) Traditional High,40 Vega Street San Francisco CA 94115-3826,NA,NA,FALSE,tested,SF,SF,37.7801326458333,-122.445832520833
+San Francisco Unified,Washington (George) High,600 32nd Avenue San Francisco CA 94121-2733,NA,NA,FALSE,tested,SF,SF,37.7781434,-122.491789301337
+San Francisco Unified,Webster (Daniel) Elementary,465 Missouri Street San Francisco CA 94107-2826,NA,NA,FALSE,tested,SF,SF,37.7605116530612,-122.396226
+San Francisco Unified,Weill (Raphael) Children Center,1501 O'Farrell St San Francisco CA 94115-3762,NA,NA,FALSE,tested,SF,SF,37.78296655,-122.429552197759
+San Francisco Unified,Wells (Ida B.) High,1099 Hayes Street San Francisco CA 94117-1621,NA,NA,FALSE,tested,SF,SF,37.775355,-122.434313
+San Francisco Unified,West Portal Elementary,5 Lenox Way San Francisco CA 94127-1111,9.42,ppb,TRUE,tested,SF,SF,37.74312535,-122.464580302358
+San Francisco Unified,Yick Wo Elementary,2245 Jones Street San Francisco CA 94133-2207,NA,NA,FALSE,tested,SF,SF,37.80195575,-122.416601289597
+San Francisco Unified,Yu (Alice Fong) Elementary,1541 12th Avenue San Francisco CA 94122-3503,NA,NA,FALSE,tested,SF,SF,37.7593233,-122.469564002855

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fullerton Joint Union High,Buena Park High,8833 Academy Drive Buena Park CA 90621-3705,NA,NA,FALSE,tested,Buena Park,Orange County,33.86102,-117.98016
+Fullerton Joint Union High,Fullerton School District Nutrition Center,389 W Truslow Fullerton CA 92832,12,ppb,TRUE,tested,Fullerton,Orange County,33.8673635073837,-117.930633052243
+Fullerton Joint Union High,Fullerton Union High,201 East Chapman Avenue Fullerton CA 92832-1925,NA,NA,FALSE,tested,Fullerton,Orange County,33.874068,-117.921946
+Fullerton Joint Union High,La Habra High,801 West Highlander Avenue La Habra CA 90631-3720,NA,NA,FALSE,tested,La Habra,Orange County,33.9372651,-117.957040316637
+Fullerton Joint Union High,La Sierra High (Alternative),951 North State College Boulevard Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.8865595974957,-117.889753901115
+Fullerton Joint Union High,La Vista High (Continuation),909 North State College Boulevard Fullerton CA 92831-3013,NA,NA,FALSE,tested,Fullerton,Orange County,33.8780295882353,-117.889768235294
+Fullerton Joint Union High,Sonora High,401 South Palm Street La Habra CA 90631-5735,NA,NA,FALSE,tested,La Habra,Orange County,33.92810445,-117.926594402695
+Fullerton Joint Union High,Sunny Hills High,1801 Warburton Way Fullerton CA 92833-2235,NA,NA,FALSE,tested,Fullerton,Orange County,33.8843344,-117.952649971511
+Fullerton Joint Union High,Troy High,2200 East Dorothy Lane Fullerton CA 92831-3036,NA,NA,FALSE,tested,Fullerton,Orange County,33.881375,-117.895006

@@ -1,0 +1,47 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+LAUSD,ASPIRE FIRESTONE ACADEMY   - includes Aspire Gateway Academy housed at the same location  AZALEA ACADEMIES (FMR: SRES #4),"8929 KAUFFMAN AVE, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9516854552377,-118.189167220819
+Los Angeles Unified,Aspire Firestone Academy Charter,8929 Kauffman Avenue South Gate CA 90280-3422,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9516854552377,-118.189167220819
+Los Angeles Unified,Aspire Gateway Academy Charter,8929 Kauffman Avenue South Gate CA 90280-3422,NA,NA,NA,not tested,South Gate,Los Angeles County,33.9516854552377,-118.189167220819
+Los Angeles Unified,Bryson Avenue Elementary,4470 Missouri Avenue South Gate CA 90280-5057,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.94427475,-118.192762486919
+LAUSD,BRYSON ELEMENTARY,"4470 MISSOURI AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.94427475,-118.192762486919
+Los Angeles Unified,Christa McAuliffe,8914 Hunt Ave. South Gate CA 90280,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9472426,-118.1917976
+Los Angeles Unified,Independence Elementary,8435 Victoria Avenue South Gate CA 90280-2353,11,ppb,TRUE,tested,South Gate,Los Angeles County,33.9594948823529,-118.209214176471
+LAUSD,INDEPENDENCE ELEMENTARY,"8435 VICTORIA AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9594948823529,-118.209214176471
+Los Angeles Unified,International Studies Learning Center at Legacy High School Complex,5225 Tweedy Blvd South Gate CA 90280-5332,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9411698051795,-118.179427715055
+LAUSD,LEGACY SENIOR HIGH TECH ENGINEERING ARTS MATH (STEAM) incudes LEGACY SENIOR HIGH VISUAL PERFORMING ARTS AND INTERNATIONAL STUDIES LEARNING CENTER (LEGACY COMPLEX) (FRM: SOUTH REGION HS #8 @ SRHS #9),"5225 TWEEDY BLVD, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9411698051795,-118.179427715055
+Los Angeles Unified,Liberty Boulevard Elementary,2728 Liberty Boulevard South Gate CA 90280-2055,5.6,ppb,TRUE,tested,South Gate,Los Angeles County,33.9619295568534,-118.222180081774
+LAUSD,LIBERTY ELEMENTARY,"2728 LIBERTY BLVD, SOUTH GATE,  CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9619295568534,-118.222180081774
+Lynwood Unified,Lugo Elementary,4345 Pendleton Avenue Lynwood CA 90262-2326,5.45,ppb,TRUE,tested,South Gate,Los Angeles County,33.9325387225296,-118.184453499875
+LAUSD,MADISON AVE. ELEMENTARY SCHOOL,"9820 MADISON AVE, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9464629375,-118.214550125
+Los Angeles Unified,Madison Elementary,9820 Madison Avenue South Gate CA 90280-4319,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9464629375,-118.214550125
+Los Angeles Unified,Odyssey Continuation,8693 Dearborn Avenue South Gate CA 90280-2904,5.9,ppb,TRUE,tested,South Gate,Los Angeles County,33.9568219313803,-118.210783958203
+LAUSD,ODYSSEY CONTINUATION HIGH,"8693 DEARBORN AVE, SOUTH GATE,   CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9568219313803,-118.210783958203
+Los Angeles Unified,Rodia High School,2650 Tweedy Blvd. South Gate CA 90280,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9460682519318,-118.223487791318
+Lynwood Unified,Roosevelt Elementary,10835 Mallison Avenue Lynwood CA 90262-2113,5.9,ppb,TRUE,tested,South Gate,Los Angeles County,33.935235,-118.199778
+Los Angeles Unified,San Gabriel Avenue Elementary,8628 San Gabriel Avenue South Gate CA 90280-3112,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.956542603124,-118.20202927919
+LAUSD,SAN GABRIEL ELEMENTARY,"8628 SAN GABRIEL AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.956542603124,-118.20202927919
+LAUSD,SAN MIGUEL ELEMENTARY,"9801 SAN MIGUEL AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9447049793882,-118.20078196059
+Los Angeles Unified,San Miguel Elementary,9801 San Miguel Avenue South Gate CA 90280-4823,7.7,ppb,TRUE,tested,South Gate,Los Angeles County,33.9447049793882,-118.20078196059
+Los Angeles Unified,Simon Rodia Continuation,2701 Sequoia Drive South Gate CA 90280-5555,NA,NA,NA,not tested,South Gate,Los Angeles County,33.942023,-118.221384
+LAUSD,SIMON RODIA CONTINUATION HIGH SCHOOL,"2701 SEQUOIA DR, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.942023,-118.221384
+Los Angeles Unified,South East High,2720 Tweedy Boulevard South Gate CA 90280-5539,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.945858905413,-118.221574757806
+LAUSD,SOUTH EAST SENIOR HIGH,"2720 TWEEDY BLVD, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.945858905413,-118.221574757806
+Los Angeles Unified,South Gate Middle,4100 Firestone Boulevard South Gate CA 90280-3218,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9512798,-118.198149749309
+LAUSD,SOUTH GATE MIDDLE SCHOOL,"4100 FIRESTONE BLVD, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9512798,-118.198149749309
+Los Angeles Unified,South Gate Senior High,3351 Firestone Boulevard South Gate CA 90280-2937,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.952323,-118.1861163
+LAUSD,SOUTH GATE SENIOR HIGH,"3351 FIRESTONE BLVD, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.952323,-118.1861163
+LAUSD,SOUTH REGION EARLY EDUCATION CENTER #2 @ SRES #4,"8914 HUNT AVENUE, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9472426,-118.1917976
+LAUSD,SOUTH REGION HS #8 @ SRHS #9,"5225 TWEEDY BLVD, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9411698051795,-118.179427715055
+Los Angeles Unified,Southeast Middle,2560 Tweedy Boulevard South Gate CA 90280-5557,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9463800258501,-118.226271103216
+LAUSD,SOUTHEAST MIDDLE SCHOOL,"2560 TWEEDY BLVD., SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9463800258501,-118.226271103216
+Los Angeles Unified,Stanford Avenue Elementary,2833 Illinois Avenue South Gate CA 90280-4005,7,ppb,TRUE,tested,South Gate,Los Angeles County,33.9510550201398,-118.222260026803
+LAUSD,STANFORD ELEMENTARY,"2833 ILLINOIS AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9510550201398,-118.222260026803
+Los Angeles Unified,Stanford Primary Center,3020 Kansas Avenue South Gate CA 90280-4108,7.7,ppb,TRUE,tested,South Gate,Los Angeles County,33.9486959674929,-118.218303044417
+LAUSD,STANFORD PRIMARY CENTER,"3020 KANSAS AVENUE, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9486959674929,-118.218303044417
+LAUSD,TWEEDY ELEMENTARY,"9724 PINEHURST AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9441625222222,-118.1823926
+Los Angeles Unified,Tweedy Elementary,9724 Pinehurst Avenue South Gate CA 90280-5222,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9441625222222,-118.1823926
+Los Angeles Unified,Victoria Avenue Elementary,3320 Missouri Avenue South Gate CA 90280-4308,9,ppb,TRUE,tested,South Gate,Los Angeles County,33.94613445,-118.211151662866
+LAUSD,VICTORIA ELEMENTARY,"3320 MISSOURI AVE, SOUTH GATE,     CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.94613445,-118.211151662866
+Los Angeles Unified,Visual and Performing Arts at Legacy High School Complex,5225 Tweedy Boulevard South Gate CA 90280-5332,NA,NA,NA,not tested,South Gate,Los Angeles County,33.9411698051795,-118.179427715055
+Los Angeles Unified,Willow Elementary,2777 Willow Place South Gate CA 90280-2816,NA,NA,FALSE,tested,South Gate,Los Angeles County,33.9548576972873,-118.221983162671
+LAUSD,WILLOW STREET ELEMENTARY (FRM: SRES #9),"2777 WILLOW PL, SOUTH GATE, CA 90280",NA,NA,NA,exempt,South Gate,Los Angeles County,33.9548576972873,-118.221983162671

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Private,Trinity Lutheran School,940 Creston Road Paso Robles CA 93446,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183

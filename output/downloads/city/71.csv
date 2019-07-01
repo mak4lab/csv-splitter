@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newport-Mesa Unified,Back Bay High,390 Monte Vista Ave. Costa Mesa CA 92627-1495,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6533360468569,-117.890350146098
+Newport-Mesa Unified,College Park Elementary,2380 Notre Dame Road Costa Mesa CA 92626-6400,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6607317198058,-117.911449296737
+Newport-Mesa Unified,Costa Mesa High,2650 Fairview Road Costa Mesa CA 92626-5537,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6935729,-117.9078134
+Newport-Mesa Unified,Estancia High,2323 Placentia Avenue Costa Mesa CA 92627-3305,5.5,ppb,TRUE,tested,Costa Mesa,Orange County,33.6576161317226,-117.932249770733
+Newport-Mesa Unified,Everett A. Rea Elementary,661 Hamilton Street Costa Mesa CA 92627-2678,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6506177596161,-117.926248891913
+Newport-Mesa Unified,Harper,425 East 18th Street Costa Mesa CA 92627-3161,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6320017244833,-117.907186978715
+Newport-Mesa Unified,Heinz Kaiser Elementary,2130 Santa Ana Avenue Costa Mesa CA 92627-1826,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.644801,-117.903576384615
+Newport-Mesa Unified,Killybrooke Elementary,3155 Killybrooke Lane Costa Mesa CA 92626-2613,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6857525260517,-117.913962111868
+Newport-Mesa Unified,Lindberg School,220 23rd St. Costa Mesa CA 92627,10.9,ppb,TRUE,tested,Costa Mesa,Orange County,33.6510789274472,-117.900384012959
+Newport-Mesa Unified,Maude B. Davis Elementary,1050 Arlington Drive Costa Mesa CA 92626-5626,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6689515545232,-117.90606042934
+Newport-Mesa Unified,Paularino Elementary,1060 Paularino Avenue Costa Mesa CA 92626-2849,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.682477,-117.900941166273
+Newport-Mesa Unified,Pomona Elementary,2051 Pomona Avenue Costa Mesa CA 92627-2921,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6489390039586,-117.927617783851
+Newport-Mesa Unified,Sonora Elementary,966 Sonora Road Costa Mesa CA 92626-5710,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6753881920934,-117.895921226739
+Newport-Mesa Unified,Victoria Elementary,1025 Victoria Street Costa Mesa CA 92627-3929,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6522414857143,-117.941984657143
+Private,Waldorf School of Orange County,2350 Canyon Drive Costa Mesa CA 92627,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6589319398597,-117.940720221641
+Newport-Mesa Unified,Whittier Elementary,1800 Whittier Avenue Costa Mesa CA 92627-4558,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.641141,-117.940532
+Newport-Mesa Unified,Wilson Elementary,801 Wilson Street Costa Mesa CA 92627-3333,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6563005,-117.9042346
+Newport-Mesa Unified,Woodland Elementary,2025 Garden Lane Costa Mesa CA 92627-2113,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.6422014146341,-117.902840317073

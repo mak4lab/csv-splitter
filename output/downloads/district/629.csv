@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rio Elementary,Rio Del Mar,3150 Thames River Oxnard CA 93036-5339,NA,NA,NA,not tested,NA,NA,NA,NA
+Rio Elementary,Rio del Norte,2500 Lobelia Drive Oxnard CA 93036-1594,NA,NA,NA,not tested,Oxnard,Ventura County,34.234697,-119.191424
+Rio Elementary,Rio del Valle Middle,3100 Rose Avenue Oxnard CA 93036-1807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rio Elementary,Rio Lindo Elementary,2131 Snow Avenue Oxnard CA 93036-2503,NA,NA,NA,not tested,Oxnard,Ventura County,34.2230963673469,-119.165392632653
+Rio Elementary,Rio Plaza Elementary,600 Simon Way Oxnard CA 93036-1451,NA,NA,NA,not tested,Oxnard,Ventura County,34.2399493846154,-119.158044230769
+Rio Elementary,Rio Real Elementary,1140 Kenney Street Oxnard CA 93036-1851,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rio Elementary,Rio Rosales,1001 Kohala Street Oxnard CA 93030-7305,NA,NA,NA,not tested,Oxnard,Ventura County,34.211152,-119.150831
+Rio Elementary,Rio Vista Middle,3050 Thames River Drive Oxnard CA 93036-5338,NA,NA,NA,not tested,Oxnard,Ventura County,34.24271740625,-119.1696063125

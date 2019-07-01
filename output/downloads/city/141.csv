@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Amador County Unified,Argonaut High,501 Argonaut Lane Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.363358,-120.790022
+Amador County Unified,Jackson Elementary,220 Church Street Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.3506737831223,-120.773160717632
+Amador County Unified,Jackson Junior High,747 Sutter Street Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.3533649044645,-120.780071999602

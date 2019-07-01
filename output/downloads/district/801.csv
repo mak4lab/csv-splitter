@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Templeton Unified,Eagle Canyon High,950 Old County Road Templeton CA 93465-9419,5.4,ppb,TRUE,tested,,San Luis Obispo County,35.5446212941176,-120.710883058824
+Templeton Unified,Templeton Elementary,215 Eighth Street Templeton CA 93465-9797,NA,NA,FALSE,tested,NA,NA,NA,NA
+Templeton Unified,Templeton High,1200 Main Street Templeton CA 93465-9421,26,ppb,TRUE,tested,NA,NA,NA,NA
+Templeton Unified,Templeton Middle,925 Old County Road Templeton CA 93465-9420,6.4,ppb,TRUE,tested,,San Luis Obispo County,35.5444526,-120.7107053
+Templeton Unified,Vineyard Elementary,2121 Vineyard Drive Templeton CA 93465-9412,13.3,ppb,TRUE,tested,NA,San Luis Obispo County,35.5419622,-120.7431938

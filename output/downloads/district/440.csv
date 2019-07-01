@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Marin County Office of Education,Grant Grover School,800 College Ave Kenfield CA 94904,13,ppb,TRUE,tested,NA,NA,NA,NA
+Marin County Office of Education,Magnolia Park School,20 Jeanette Prandi Way San Rafael CA 94903,NA,NA,FALSE,tested,NA,NA,NA,NA
+Marin County Office of Education,Marin County Juvenile Court,16 Jeannette Prandi Way San Rafael CA 94903,NA,NA,NA,not tested,NA,NA,NA,NA
+Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Marin County Office of Education,Marin's Community,1111 Las Gallinas Avenue B San Rafael CA 94903-1843,NA,NA,FALSE,tested,NA,NA,NA,NA
+Marin County Office of Education,Marindale School,850 Del Ganado San Rafael CA 94903,NA,NA,FALSE,tested,NA,NA,NA,NA
+Marin County Office of Education,Phoenix Academy,1111 Las Gallinas Avenue C San Rafael CA 94903-1843,NA,NA,NA,not tested,NA,NA,NA,NA

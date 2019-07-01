@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Shoreline Unified,Bodega Bay Elementary,1200 Canon Street Bodega Bay CA 94923,NA,NA,NA,not tested,NA,Sonoma County,38.3342983044644,-123.045359955615
+Shoreline Unified,Inverness Elementary,BayView and Mesa Inverness CA 94937,NA,NA,NA,not tested,NA,NA,NA,NA
+Shoreline Unified,West Marin Elementary,11550 Highway 1 Point Reyes Station CA 94956-0300,NA,NA,FALSE,tested,NA,NA,NA,NA

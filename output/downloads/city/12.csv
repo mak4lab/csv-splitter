@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Arcadia Unified,Arcadia High,180 Campus Drive Arcadia CA 91007-6958,6.3,ppb,TRUE,tested,Arcadia,Los Angeles County,34.1306772364865,-118.037144891892
+Arcadia Unified,Baldwin Stocker Elementary,422 West Lemon Avenue Arcadia CA 91007-6902,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.1181864736842,-118.046447052632
+Arcadia Unified,First Avenue Middle,301 South First Avenue Arcadia CA 91006-3802,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.145538,-118.0284521
+Arcadia Unified,Foothills Middle,171 East Sycamore Avenue Arcadia CA 91006-2452,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.152928,-118.026811285714
+Arcadia Unified,Holly Avenue Elementary,360 West Duarte Road Arcadia CA 91007-3097,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.1275154411765,-118.044394823529
+Arcadia Unified,Hugo Reid Elementary,1000 Hugo Reid Drive Arcadia CA 91007-6179,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.138056,-118.062791
+Acton-Agua Dulce Unified,Method Schools High,317 East Foothill Boulevard Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.1511714666667,-118.022367333333
+Acton-Agua Dulce Unified,Method Schools K-8,317 East Foothill Blvd Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.1511714666667,-118.022367333333
+Private,Our Lady of the Angels Academy,1100 West Duarte Arcadia CA 91007,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.124565,-118.064624

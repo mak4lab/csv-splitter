@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cypress Elementary,A. E. Arnold Elementary,9281 Denni Street Cypress CA 90630-2724,6.55,ppb,TRUE,tested,Cypress,Orange County,33.8247045904059,-118.054602249146
+Cypress Elementary,Clara J. King Elementary,8710 Moody Street Cypress CA 90630-2220,NA,NA,FALSE,tested,Cypress,Orange County,33.8148857,-118.0455104
+Anaheim Union High,Cypress High,9801 Valley View Street Cypress CA 90630-3994,6,ppb,TRUE,tested,Cypress,Orange County,33.819547,-118.028229
+Private,Del Sol School,5340 Myra Avenue Cypress CA 90630,NA,NA,FALSE,tested,Cypress,Orange County,33.8148691983962,-118.039971006729
+Cypress Elementary,Frank Vessels Elementary,5900 Cathy Ave Cypress CA 90630-4615,9.9,ppb,TRUE,tested,Cypress,Orange County,33.81166,-118.030091
+Cypress Elementary,Juliet Morris Elementary,9952 Graham Street Cypress CA 90630-3815,5.8,ppb,TRUE,tested,Cypress,Orange County,33.8181780012228,-118.034526
+Anaheim Union High,Lexington Junior High,4351 Orange Avenue Cypress CA 90630-2799,NA,NA,FALSE,tested,Cypress,Orange County,33.8242268826335,-118.057046037223
+Cypress Elementary,Margaret Landell Elementary,9739 Denni Street Cypress CA 90630-3447,NA,NA,NA,not tested,Cypress,Orange County,33.8197685783243,-118.054527217465
+Anaheim Union High,Oxford Academy,5172 Orange Avenue Cypress CA 90630-2921,NA,NA,FALSE,tested,Cypress,Orange County,33.82227465,-118.04254195929

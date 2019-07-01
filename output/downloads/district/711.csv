@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rosa High,Elsie Allen High,599 Bellevue Ave Santa Rosa CA 95407-7713,7.2,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.401956,-122.734524
+Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Santa Rosa High,Maria Carrillo High,6975 Montecito Boulevard Santa Rosa CA 95409-2787,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4786683085307,-122.66180515483
+Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441091,-122.685192
+Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rosa High,Ridgway High (Continuation),325 Ridgway Avenue Santa Rosa CA 95401-4334,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4494561478343,-122.721731087662
+Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rosa High,Santa Rosa Accelerated Charter,4650 Badger Rd. Santa Rosa CA 95409-2633,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656

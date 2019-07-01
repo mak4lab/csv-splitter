@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Carmel Unified,Carmel Adult,8421 Carmel Valley Road Carmel CA 93923,NA,NA,FALSE,tested,NA,Monterey County,36.535958,-121.858099
+Carmel Unified,Carmel Child Development Center,8460 Carmel Valley Road Carmel CA 93923-9538,NA,NA,FALSE,tested,NA,Monterey County,36.535958,-121.858099
+Carmel Unified,Carmel High,3600 Ocean Avenue Carmel CA 93923,NA,NA,FALSE,tested,Carmel-by-the-Sea,Monterey County,36.5551375,-121.9201483
+Carmel Unified,Carmel Middle,4380 Carmel Valley Road Carmel CA 93922-2740,NA,NA,FALSE,tested,San Diego,San Diego County,32.9337398,-117.2387092
+Carmel Unified,Carmel River Elementary,Monte Verde Street and 15th Avenue Carmel CA 93923,9,ppb,TRUE,tested,Carmel-by-the-Sea,Monterey County,36.5603497234043,-121.924329329787
+Carmel Unified,Carmel Valley High,27335 Schulte Road Carmel CA 93923-9537,NA,NA,FALSE,tested,NA,Monterey County,36.528085,-121.830604
+Carmel Unified,Tularcitos Elementary,35 Ford Road Carmel Valley CA 93924-9649,NA,NA,FALSE,tested,NA,Monterey County,36.4836182962244,-121.730149716219

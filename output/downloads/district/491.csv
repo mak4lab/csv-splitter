@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Morongo Unified,Black Rock Alternative/Continuation,59273 Sunnyslope Yucca Valley CA 92284-5996,NA,NA,FALSE,tested,NA,NA,NA,NA
+Morongo Unified,Condor Elementary,2551 Condor Road Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.205315,-116.0455792
+Morongo Unified,Friendly Hills Elementary,7252 Sunny Vista Road Joshua Tree CA 92252-2741,NA,NA,FALSE,tested,NA,San Bernardino County,34.125733,-116.334908
+Morongo Unified,Joshua Tree Elementary,4950 Sunburst Avenue Joshua Tree CA 92252-2053,NA,NA,FALSE,tested,NA,San Bernardino County,34.163360831367,-116.308491636507
+Morongo Unified,La Contenta Middle,7050 La Contenta Road Yucca Valley CA 92284-7303,NA,NA,FALSE,tested,NA,San Bernardino County,34.1051553,-116.3703636
+Morongo Unified,Landers Elementary,56450 Reche Road Landers CA 92285-2660,NA,NA,FALSE,tested,NA,San Bernardino County,34.2667814,-116.4319564
+Morongo Unified,Monument High School,72770 Hatch Road Twentynine Palms CA 92277,NA,NA,FALSE,tested,NA,NA,NA,NA
+Morongo Unified,Morongo Valley Elementary,10951 Hess Boulevard Morongo Valley CA 92256-9727,NA,NA,FALSE,tested,NA,San Bernardino County,34.048745,-116.5852536
+Morongo Unified,Oasis Elementary,73175 El Paseo Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.1356915,-116.0543506
+Morongo Unified,Onaga Elementary,58001 Onaga Yucca Valley CA 92284-6199,NA,NA,FALSE,tested,NA,San Bernardino County,34.112189,-116.404356
+Morongo Unified,Palm Vista Elementary,74350 Baseline Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.1213949291004,-116.04237201062
+Morongo Unified,Twentynine Palms Elementary,74350 Playa Vista Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,NA,NA,NA,NA
+Morongo Unified,Twentynine Palms High,72750 Wildcat Way Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.141834327167,-116.075093536471
+Morongo Unified,Twentynine Palms Junior High,5798 Utah Trail Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.153743,-116.036645
+Morongo Unified,Yucca Mesa Elementary,3380 Avalon Avenue Yucca Valley CA 92277-9154,NA,NA,FALSE,tested,NA,San Bernardino County,34.1908296526911,-116.387082387447
+Morongo Unified,Yucca Valley Elementary,7601 Hopi Trail Yucca Valley CA 92284-3394,NA,NA,FALSE,tested,NA,San Bernardino County,34.115184921845,-116.451167859166
+Morongo Unified,Yucca Valley High,7600 Sage Avenue Yucca Valley CA 92284-3624,5.7,ppb,TRUE,tested,NA,San Bernardino County,34.1130925277778,-116.422955333333

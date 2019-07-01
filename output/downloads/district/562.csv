@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palmdale Elementary,AV Academy High School,37212 47th Street East Palmdale CA 93552-4421,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.5586813274653,-118.045080595634
+Palmdale Elementary,Barrel Springs Elementary,3636 Ponderosa Way Palmdale CA 93550-8441,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.54337805,-118.065680869128
+Palmdale Elementary,Buena Vista Elementary,37005 Hillcrest Drive Palmdale CA 93552-5347,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5534279795918,-118.036670122449
+Palmdale Elementary,Cactus Middle,3243 East Avenue R-8 Palmdale CA 93550-5690,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5656510930233,-118.07062072093
+Palmdale Elementary,Chaparral Elementary,37500 50th Street East Palmdale CA 93552-4517,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.561394,-118.040645
+Palmdale Elementary,Cimarron Elementary,36940 45th Street East Palmdale CA 93552-5201,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5508237171717,-118.049637737374
+Palmdale Elementary,Desert Rose Elementary,37730 27th Street East Palmdale CA 93550-5580,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5679465,-118.08090775
+Palmdale Elementary,Desert Willow Middle,36555 Sunny Lane Palmdale CA 93550-1019,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5458370844156,-118.08100374026
+Palmdale Elementary,Discovery Center,1330 West Elizabeth Lake Rd Palmdale CA 93550,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palmdale Elementary,Dos Caminos,39174 Palm Tree Way Palmdale CA 93551-3994,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5944004747475,-118.155866686869
+Palmdale Elementary,Golden Poppy Elementary,37802 Rockie Lane Palmdale CA 93552-4041,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5693298661972,-118.020690464789
+Palmdale Elementary,Guidance Charter,37230 37th St. East Palmdale CA 93550-2542,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.5592020967742,-118.062695274194
+Palmdale Elementary,Innovations Academy of Palmdale,38136-B 35th Street East Palmdale CA 93550,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.580071,-118.067213
+Palmdale Elementary,Joshua Hills Elementary,3030 Fairfield Palmdale CA 93550-8300,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.553113,-118.077645
+Palmdale Elementary,Los Amigos,6640 East Avenue R8 Palmdale CA 93552-3503,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palmdale Elementary,Manzanita Elementary,38620 33rd Street Palmdale CA 93550-4232,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palmdale Elementary,Mesquite Elementary,37622 43rd Street East Palmdale CA 93552-3647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5660267959184,-118.051924122449
+Palmdale Elementary,Oak Tree Community Day,38136 35th Street East Palmdale CA 93550-5003,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.580071,-118.067213
+Palmdale Elementary,Ocotillo Elementary,38737 Ocotillo School Drive Palmdale CA 93551,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5859228,-118.1539895
+Palmdale Elementary,Palm Tree Elementary,326 East Avenue R Palmdale CA 93550-5208,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5724359128704,-118.123721946672
+Palmdale Elementary,Palmdale Learning Plaza,38043 Division Street Palmdale CA 93551-3427,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5695877222222,-118.1292325
+Palmdale Elementary,Quail Valley Elementary,37236 58th Street East Palmdale CA 93552-5461,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5595204545454,-118.024942727273
+Palmdale Elementary,Shadow Hills Middle,37315 60th Street East Palmdale CA 93552-5462,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.565113,-118.02285
+Palmdale Elementary,Space Aeronautics Gateway to Exploration (SAGE) Academy,38060 20th Street East Palmdale CA 93550-4903,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5742754566823,-118.093892867242
+Palmdale Elementary,Summerwind Elementary,39360 Summerwind Drive Palmdale CA 93551-4082,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5987494468635,-118.156616638178
+Palmdale Elementary,Tamarisk,1843 East Avenue Q5 Palmdale CA 93550-2218,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palmdale Elementary,Tumbleweed Elementary,1100 East Avenue R-4 Palmdale CA 93550-6185,13,ppb,TRUE,tested,Palmdale,Los Angeles County,34.568916,-118.110697
+Palmdale Elementary,Yellen Learning Center,37015 Goldenview Way Palmdale CA 93552-5348,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5532559,-118.0399866
+Palmdale Elementary,Yucca Elementary,38440 Second Street East Palmdale CA 93550-3603,NA,NA,FALSE,tested,NA,NA,NA,NA

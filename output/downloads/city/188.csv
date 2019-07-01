@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ontario-Montclair,Buena Vista Arts-Integrated,5685 San Bernardino Street Montclair CA 91763-2941,NA,NA,NA,not tested,Montclair,San Bernardino County,34.077606,-117.684478
+Ontario-Montclair,Buena Vista Elementary School,"5685 San Bernardino St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077606,-117.684478
+San Bernardino City Unified,Carmack,4777 State Street San Bernardino CA 92407-3321,NA,NA,FALSE,tested,Montclair,San Bernardino County,34.0596425804596,-117.702786066112
+San Bernardino County Office of Education,David Stine Chaffey West County Community School,5033 Holt Blvd. Montclair CA 91763,NA,NA,FALSE,tested,Montclair,San Bernardino County,34.0631092012585,-117.695368719971
+Ontario-Montclair,Howard Elementary School,"4650 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052286,-117.703087
+San Bernardino City Unified,Kendall Elementary,4951 State Street San Bernardino CA 92407-2857,5.2,ppb,TRUE,tested,Montclair,San Bernardino County,34.0596753047248,-117.697062965812
+Ontario-Montclair,Kingsley Elementary,5625 Kingsley Street Montclair CA 91763-3999,NA,NA,NA,not tested,Montclair,San Bernardino County,34.066694,-117.684197
+Ontario-Montclair,Kingsley Elementary School,"5625 Kingsley St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.066694,-117.684197
+Ontario-Montclair,Lehigh Elementary School,"10200 Lehigh St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.0681969269074,-117.709202014105
+Chaffey Joint Union High,Montclair High,4725 Benito Street Montclair CA 91763-2705,NA,NA,NA,not tested,Montclair,San Bernardino County,34.0740164167178,-117.702170270978
+Ontario-Montclair,Monte Vista Elementary School,"4900 Orchard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.070486,-117.698149
+Ontario-Montclair,Monte Vista Elementary School,"4900 Orchard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.070486,-117.698149
+Ontario-Montclair,Montera Elementary,4825 Bandera Street Montclair CA 91762-4337,NA,NA,NA,not tested,Montclair,San Bernardino County,34.0648678800876,-117.700151490453
+Ontario-Montclair,Montera Elementary School,"4825 Bandera, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.0648678800876,-117.700151490453
+Ontario-Montclair,Moreno Elementary,4825 Moreno Street Montclair CA 91763-1419,NA,NA,NA,not tested,Montclair,San Bernardino County,34.0886375708033,-117.699483045073
+Ontario-Montclair,Moreno Elementary School,"4825 Moreno St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.0886375708033,-117.699483045073
+Ontario-Montclair,Moreno Elementary School,"4825 Moreno St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.0886375708033,-117.699483045073
+Ontario-Montclair,Ramona Elementary,4225 Howard Street Montclair CA 91763-6325,NA,NA,NA,not tested,Montclair,San Bernardino County,34.052144,-117.712818857143
+Ontario-Montclair,Ramona Elementary School,"4225 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052144,-117.712818857143
+Ontario-Montclair,Ramona Elementary School,"4225 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052144,-117.712818857143
+Ontario-Montclair,Serrano Middle School,"4725 San Jose St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.085101,-117.704224
+Ontario-Montclair,Serrano Middle School,"4725 San Jose St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.085101,-117.704224
+Ontario-Montclair,Vernon Middle,9775 Vernon Avenue Montclair CA 91763-2947,NA,NA,NA,not tested,Montclair,San Bernardino County,34.077053530816,-117.685085623312
+Ontario-Montclair,Vernon Middle School,"9775 Vernon Ave, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077053530816,-117.685085623312
+Ontario-Montclair,Vernon Middle School,"9775 Vernon Ave, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077053530816,-117.685085623312

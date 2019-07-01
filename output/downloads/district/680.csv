@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Lorenzo Valley Unified,Boulder Creek Elementary,400 Lomond Street Boulder Creek CA 95006-9274,NA,NA,FALSE,tested,NA,Santa Cruz County,37.1233345,-122.1217822
+San Lorenzo Valley Unified,Ludlow Preschool,7101 Highway 9 Felton CA 95018-9718,NA,NA,NA,not tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,Morro Elementary,1130 Napa  Morro Bay CA 93442,15.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.36887875,-120.84801435
+San Lorenzo Valley Unified,Ocean Grove Charter,16900 North Highway Nine Boulder Creek CA 95006,6.4,ppb,TRUE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,San Lorenzo Valley Elementary,7155 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,San Lorenzo Valley High,7105 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0401122,-122.0710796
+San Lorenzo Valley Unified,San Lorenzo Valley Middle,7179 Hacienda Way Felton CA 95018-9340,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,SLVUSD Charter,7101 Highway Nine Felton CA 95018-9718,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Lorenzo Valley Unified,SLVUSD Home and Hospital,325 Marion Avenue Ben Lomond CA 95005-9403,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0840001257281,-122.074164613504

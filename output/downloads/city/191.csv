@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Angeles County Ooffice of Education,Bella Vista North Sld-Aphasia,2009 S. Garfield Monterey Park CA 91754,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0405970859805,-118.129277122422
+Los Angeles County Office of Education,East Los Angeles County Community,1260 South Monterey Pass Road Monterey Park CA 91754-3617,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0489246423235,-118.160416116664
+Garvey Elementary,Hillcrest Elementary,795 Pepper Street Monterey Park CA 91755-5715,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.046544,-118.110196
+Montebello Unified,Macy Intermediate,2101 South Lupine Avenue Monterey Park CA 91755-6616,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0402787,-118.1245438
+Los Angeles Unified,Marianna Avenue Elementary,4215 East Gleason Street Los Angeles CA 90063-1423,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0351286,-118.1226776
+LAUSD,MARIANNA ELEMENTARY,"4215 E GLEASON ST, LOS ANGELES, CA 90063",NA,NA,NA,exempt,Monterey Park,Los Angeles County,34.0351286,-118.1226776
+Alhambra Unified,Monterey Highlands Elementary,400 Casuda Canyon Drive Monterey Park CA 91754-2204,NA,NA,FALSE,tested,Monterey Park,Los Angeles County,34.058178,-118.15633
+Garvey Elementary,Monterey Vista Elementary,901 East Graves Avenue Monterey Park CA 91755-4223,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.055421,-118.110111
+Alhambra Unified,Repetto Elementary,650 South Grandridge Avenue Monterey Park CA 91754-3921,7.5,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.0539590634408,-118.12827254428
+Alhambra Unified,Ynez Elementary,120 South Ynez Avenue Monterey Park CA 91754-2822,17,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.0621465570148,-118.129011740786

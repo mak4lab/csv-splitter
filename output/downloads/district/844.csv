@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Victor Elementary,Brentwood Elementary,13962 Hook Boulevard Victorville CA 92392-7300,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.521548,-117.359032315789
+Victor Elementary,Challenger School of Sports and Fitness,14777 Hopland Street Victorville CA 92392-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5430646419525,-117.340548102703
+Victor Elementary,Del Rey Elementary,15332 Del Rey Drive Victorville CA 92395-7118,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5296544830958,-117.308705836399
+Victor Elementary,Discovery School of the Arts,13247 Amethyst Road Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4907919311396,-117.3642316688
+Victor Elementary,Endeavour School of Exploration,12403 Ridgecrest Road Victorville CA 92395-7780,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4784909445488,-117.278185027726
+Victor Elementary,Green Tree East Elementary,17246 Gibralter Drive Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5064596,-117.286511297086
+Victor Elementary,Irwin Academy of Performing Arts,14907 South Mojave Drive Victorville CA 92395-3952,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5286589083981,-117.338220306559
+Victor Elementary,Liberty Elementary,12900 Amethyst Road Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+Victor Elementary,Lomitas Elementary,12571 First Avenue Victorville CA 92395-7810,NA,NA,FALSE,tested,NA,NA,NA,NA
+Victor Elementary,Mojave Vista Elementary,16100 Burwood Avenue Victorville CA 92395-9677,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4798717,-117.3107458
+Victor Elementary,Mountain View Montessori Charter,12900 Amethyst Rd Victorville CA 92392-6393,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+Victor Elementary,Park View Elementary,13427 Cahuenga Road Victorville CA 92392-9706,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4944978625683,-117.338660030859
+Victor Elementary,Puesta del Sol Elementary,15887 Academy Street Victorville CA 92392-3348,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5444183921876,-117.315446955785
+Victor Elementary,Sixth Street Prep,15476 Sixth Street Victorville CA 92392-3546,8,ppb,TRUE,tested,NA,NA,NA,NA
+Victor Elementary,Village Elementary,14711 Mojave Drive Victorville CA 92392-4174,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.528491,-117.340539
+Victor Elementary,West Palms Conservatory,14375 Del Gado Road Victorville CA 92392-9360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4995068,-117.3426621

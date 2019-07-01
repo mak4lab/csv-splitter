@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Dieguito Union High,Canyon Crest Academy,5951 Village Center Loop Road San Diego CA 92130-2499,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Dieguito Union High,Carmel Valley Middle,3800 Mykonos Lane San Diego CA 92130-3572,NA,NA,FALSE,tested,San Diego,San Diego County,32.9466601,-117.2316515
+San Dieguito Union High,Diegueno Middle,2150 Village Park Way Encinitas CA 92024-5400,NA,NA,FALSE,tested,Encinitas,San Diego County,33.0579584,-117.2421122
+San Dieguito Union High,Earl Warren Middle,155 Stevens Street Solana Beach CA 92075-2038,NA,NA,NA,not tested,NA,NA,NA,NA
+San Dieguito Union High,La Costa Canyon High,1 Maverick Way Encinitas CA 92009,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Dieguito Union High,Oak Crest Middle,675 Balour Dr Encinitas CA 92024-3996,NA,NA,NA,not tested,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+San Dieguito Union High,Oak Crest Middle School,675 Balour Dr.,NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+San Dieguito Union High,Oak Crest Middle School,"675 Balour Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+San Dieguito Union High,Pacific Trails Middle,5975 Village Center Loop Road San Diego CA 92130-2499,NA,NA,NA,not tested,NA,NA,NA,NA
+San Dieguito Union High,San Dieguito Academy,"800 Santa Fe Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0363524454541,-117.275018831884
+San Dieguito Union High,San Dieguito High Academy,800 Santa Fe Drive Encinitas CA 92024-3357,NA,NA,NA,not tested,Encinitas,San Diego County,33.0363524454541,-117.275018831884
+San Dieguito Union High,Sunset High (Continuation),684 Requeza Street Encinitas CA 92024-3703,NA,NA,NA,not tested,Encinitas,San Diego County,33.0435352422933,-117.277771471845
+San Dieguito Union High,Sunset High School,"684 Requeza St., Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0435352422933,-117.277771471845
+San Dieguito Union High,Torrey Pines High,3710 Del Mar Heights Road San Diego CA 92130-1316,NA,NA,FALSE,tested,NA,NA,NA,NA

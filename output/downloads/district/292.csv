@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Gridley Unified,Esperanza High (Continuation),581 Jackson Street Gridley CA 95948-2538,NA,NA,FALSE,tested,,Butte County,39.3651416351383,-121.693335798713
+Gridley Unified,Gridley High,300 East Spruce Street Gridley CA 95948-2235,NA,NA,FALSE,tested,,Butte County,39.3670839618612,-121.684211177729
+Gridley Unified,McKinley Elementary,1045 Sycamore Street Gridley CA 95948-3040,NA,NA,FALSE,tested,,Butte County,39.3631241392347,-121.698120556692
+Gridley Unified,Sycamore Middle,1125 Sycamore Street Gridley CA 95948-2949,NA,NA,FALSE,tested,,Butte County,39.3630180549362,-121.699551187251
+Gridley Unified,Wilson Elementary,409 Magnolia Street Gridley CA 95948-2533,NA,NA,FALSE,tested,,Butte County,39.3630959117234,-121.691557653432

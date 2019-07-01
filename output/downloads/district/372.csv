@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lagunitas Elementary,Lagunitas Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,FALSE,tested,NA,Marin County,38.0187036,-122.6749571
+Lagunitas Elementary,San Geronimo Valley Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,NA,not tested,NA,Marin County,38.0187036,-122.6749571

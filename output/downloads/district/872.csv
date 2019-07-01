@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9862586,-118.0417634
+Whittier City Elementary,Christian Sorensen Elementary,11493 East Rosehedge Drive Whittier CA 90606-1996,6.8,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.9922839,-118.0867092
+Whittier City Elementary,Daniel Phelan Elementary,7150 South Cully Avenue Whittier CA 90606-1718,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier City Elementary,Katherine Edwards Middle,6812 South Norwalk Boulevard Whittier CA 90606-1740,NA,NA,FALSE,tested,NA,Los Angeles County,33.983159,-118.070576
+Whittier City Elementary,Longfellow Elementary,6005 South Magnolia Avenue Whittier CA 90601-3260,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier City Elementary,Lou Henry Hoover Elementary,6302 South Alta Avenue Whittier CA 90601-4601,6.2,ppb,TRUE,tested,NA,NA,NA,NA
+Whittier City Elementary,Lydia Jackson Elementary,8015 South Painter Avenue Whittier CA 90602-2506,8.4,ppb,TRUE,tested,NA,NA,NA,NA
+Whittier City Elementary,Mill Elementary,4030 South Workman Mill Road Whittier CA 90601-1795,NA,NA,FALSE,tested,Whittier,Los Angeles County,34.0021373,-118.0562563
+Whittier City Elementary,Orange Grove Elementary,10626 East Orange Grove Avenue Whittier CA 90601-2145,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier City Elementary,Wallen L. Andrews Elementary,1010 South Caraway Drive Whittier CA 90601-1121,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier City Elementary,Walter F. Dexter Middle,11532 East Floral Drive Whittier CA 90601-2832,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier City Elementary,West Whittier Elementary,6411 South Norwalk Boulevard Whittier CA 90606-1598,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9862491818182,-118.067535772727
+Whittier City Elementary,Whittier Area Community Day,5777 Lockheed Avenue Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828
+Whittier City Elementary,Whittier Independent Study,5777 Lockheed Ave Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828

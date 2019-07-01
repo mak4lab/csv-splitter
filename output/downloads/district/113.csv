@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Campbell Union High,Boynton High,901 Boynton Avenue San Jose CA 95117-2006,NA,NA,FALSE,tested,San José,Santa Clara County,37.310173,-121.966056
+Campbell Union High,Branham High,1570 Branham Lane San Jose CA 95118-2201,6.4,ppb,TRUE,tested,San José,Santa Clara County,37.2564419339259,-121.896076323778
+Campbell Union High,Camden Community Day,2223 Camden Avenue San Jose CA 95124-2027,NA,NA,NA,not tested,San José,Santa Clara County,37.263766,-121.937817
+Campbell Union High,Del Mar High,1224 Del Mar Avenue San Jose CA 95128-3529,NA,NA,FALSE,tested,San José,Santa Clara County,37.3032833602815,-121.930279379591
+Campbell Union High,Leigh High,5210 Leigh Avenue San Jose CA 95124-5616,NA,NA,FALSE,tested,NA,Santa Clara County,37.2432334883992,-121.922564691112
+Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.29131785,-121.99983615542
+Campbell Union High,Westmont High,4805 Westmont Avenue Campbell CA 95008-5725,NA,NA,FALSE,tested,NA,Santa Clara County,37.2712266,-121.9807789

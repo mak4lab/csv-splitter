@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oxnard,Cesar E. Chavez Elementary,301 North Marquita Street Oxnard CA 93030-3792,NA,NA,FALSE,tested,Oxnard,Ventura County,34.204929,-119.166351
+Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1884198823529,-119.214829235294
+Oxnard,Curren Elementary,1101 North F Street Oxnard CA 93030-4003,NA,NA,FALSE,tested,Oxnard,Ventura County,34.212517,-119.185059
+Oxnard,Driffill Elementary,910 South E Street Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1921851044772,-119.18357212495
+Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,NA,NA,NA,not tested,Oxnard,Ventura County,34.1826603685306,-119.17215462858
+Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2155435151515,-119.201599888889
+Oxnard,"Fremont, Middle",1130 North M Street Oxnard CA 93030-3906,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2128325,-119.192127875
+Oxnard,Harrington Elementary,451 East Olive Street Oxnard CA 93033-4699,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1750628571429,-119.173232734694
+Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,NA,NA,NA,not tested,Oxnard,Ventura County,34.1970798,-119.211625485596
+Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1786478888889,-119.184331525253
+Oxnard,Lemonwood Elementary,2200 Carnegie Street Oxnard CA 93033-4038,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2490737,-119.1602657
+Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,NA,NA,FALSE,tested,Oxnard,Ventura County,34.183961,-119.204701
+Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14,ppb,TRUE,tested,Oxnard,Ventura County,34.183698836447,-119.189156531566
+Oxnard,Norman R. Brekke Elementary,"1400 Martin Luther King, Junior Drive Oxnard CA 93030-7600",NA,NA,NA,not tested,NA,NA,NA,NA
+Oxnard,Ramona Elementary,804 Cooper Road Oxnard CA 93030-5430,6.7,ppb,TRUE,tested,Oxnard,Ventura County,34.2044147959184,-119.170453510204
+Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,TRUE,tested,Oxnard,Ventura County,34.186095,-119.206767
+Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2077755095949,-119.168630460305
+Oxnard,Rose Avenue Elementary,220 South Driskill Street Oxnard CA 93030-5544,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2011034081633,-119.156465816327
+Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,NA,NA,FALSE,tested,Oxnard,Ventura County,34.1775496643836,-119.186148952055
+Oxnard,Sierra Linda Elementary,2201 Jasmine Street Oxnard CA 93036-2304,NA,NA,FALSE,tested,Oxnard,Ventura County,34.2246956649727,-119.188026226105
+Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,NA,NA,FALSE,tested,Oxnard,Ventura County,34.221578,-119.209346

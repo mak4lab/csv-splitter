@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bellevue Union Elementary,Kawana Elementary,2121 Moraga Drive Santa Rosa CA 95404-6114,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.421442,-122.700165
+Bellevue Union Elementary,Meadow View Elementary,2665 Dutton Meadow Avenue Santa Rosa CA 95407-7730,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4118891364739,-122.729418353432
+Bellevue Union Elementary,Taylor Mountain Elementary,1210 East Bellevue Avenue Santa Rosa CA 95407-2764,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4018431,-122.7294168

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hillsborough City Elementary,Crocker Middle,2600 Ralston Avenue Hillsborough CA 94010-6544,NA,NA,FALSE,tested,NA,San Mateo County,37.5661713774458,-122.36277520074201
+Hillsborough City Elementary,North Hillsborough,545 Eucalyptus Avenue Hillsborough CA 94010-6400,NA,NA,FALSE,tested,NA,San Mateo County,37.5688120192502,-122.36127843671
+Hillsborough City Elementary,South Hillsborough,303 El Cerrito Avenue Hillsborough CA 94010-6817,NA,NA,FALSE,tested,NA,San Mateo County,37.5628771799184,-122.337453578153
+Hillsborough City Elementary,West Hillsborough,376 Barbara Way Hillsborough CA 94010-6760,8.03,ppb,TRUE,tested,NA,San Mateo County,37.5493349292824,-122.368029780575

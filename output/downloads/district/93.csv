@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Burbank Unified,Bret Harte Elementary,3200 West Jeffries Avenue Burbank CA 91505-1945,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Burbank Adult,3811 Allan Avenue Burbank CA 91505-1809,6.4,ppb,TRUE,tested,NA,NA,NA,NA
+Burbank Unified,Burbank High,902 North Third Street Burbank CA 91502-1018,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Burbank Unified Independent Learning Academy (BUILA),3715 Allan Avenue Burbank CA 91505,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Burbank USD Community Day,223 East Santa Anita Avenue Burbank CA 91502-1447,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1782772941176,-118.304573235294
+Burbank Unified,Burroughs High,1920 Clark Avenue Burbank CA 91506-1918,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,David Starr Jordan Middle,420 South Mariposa Street Burbank CA 91506-2812,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,George Washington Elementary,2322 North Lincoln Street Burbank CA 91504-2625,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1981746938775,-118.335573938776
+Burbank Unified,Horace Mann,3401 Scott Road Burbank CA 91504-1736,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.209936,-118.333518
+Burbank Unified,Joaquin Miller Elementary,720 East Providencia Avenue Burbank CA 91501-2409,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1832945185185,-118.297360222222
+Burbank Unified,John Muir Middle,1111 North Kenneth Road Burbank CA 91504-4011,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.196085,-118.312813
+Burbank Unified,Luther Burbank Middle,3700 West Jeffries Avenue Burbank CA 91505-1849,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Magnolia Park,827 Avon Street Burbank CA 91505-2916,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Monterey High (Continuation),1915 Monterey Avenue Burbank CA 91506-1107,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1863148,-118.3315375
+Burbank Unified,Options for Youth-Burbank Charter,1610 West Burbank Boulevard Burbank CA 91506-1311,NA,NA,NA,not tested,LA,Los Angeles County,34.1724035,-118.6444898
+Burbank Unified,Providencia Elementary,1919 North Ontario Street Burbank CA 91505-1231,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1887522296085,-118.344719872588
+Burbank Unified,R. L. Stevenson Elementary,3333 Oak Street Burbank CA 91505-3514,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Ralph Emerson Elementary,720 East Cypress Avenue Burbank CA 91501-1812,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1902941706132,-118.307299683179
+Burbank Unified,Theodore Roosevelt Elementary,850 North Cordova Street Burbank CA 91505-2923,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1656685116279,-118.344635604651
+Burbank Unified,Thomas Edison Elementary,2110 West Chestnut Street Burbank CA 91506-1520,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1786382857143,-118.333424734694
+Burbank Unified,Thomas Jefferson Elementary,1900 North Sixth Street Burbank CA 91504-2932,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burbank Unified,Walt Disney Elementary,1220 West Orange Grove Avenue Burbank CA 91506-2016,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1737069659436,-118.320348182948
+Burbank Unified,William McKinley Elementary,349 West Valencia Avenue Burbank CA 91506-3309,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1664896957695,-118.31008694302

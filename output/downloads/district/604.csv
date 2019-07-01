@@ -1,0 +1,40 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Poway Unified,Abraxas Continuation High,12450 Glenoak Road Poway CA 92064-3299,NA,NA,FALSE,tested,Poway,San Diego County,32.9737394897959,-117.062147959184
+Poway Unified,Adobe Bluffs Elementary,8707 Adobe Bluffs Drive San Diego CA 92129-4448,NA,NA,NA,not tested,San Diego,San Diego County,32.973184,-117.140377
+Poway Unified,Bernardo Heights Middle,12990 Paseo Lucido San Diego CA 92128-4479,NA,NA,NA,not tested,San Diego,San Diego County,32.9973074381296,-117.067509412843
+Poway Unified,Black Mountain Middle,9353 Oviedo Street San Diego CA 92129-2198,NA,NA,NA,not tested,San Diego,San Diego County,32.9692681925591,-117.126508143231
+Poway Unified,Canyon View Elementary,9225 Adolphia Street San Diego CA 92129-3525,NA,NA,NA,not tested,San Diego,San Diego County,32.9469609148556,-117.128528453186
+Poway Unified,Chaparral Elementary,17250 Tannin Drive Poway CA 92064-1123,NA,NA,FALSE,tested,Poway,San Diego County,33.022469,-117.051173
+Poway Unified,Creekside Elementary,12362 Springhurst Drive San Diego CA 92128-6366,NA,NA,NA,not tested,San Diego,San Diego County,32.943732,-117.076703
+Poway Unified,Deer Canyon Elementary,13455 Russet Leaf Lane San Diego CA 92129-4411,NA,NA,NA,not tested,San Diego,San Diego County,32.9639710571772,-117.143677307664
+Poway Unified,Del Norte High School,16601 Nighthawk Lane San Diego CA 92127-4457,NA,NA,NA,not tested,San Diego,San Diego County,33.0140216,-117.122462730676
+Poway Unified,Del Sur Elementary,15665 Paseo Del Sur San Diego CA 92127-6144,NA,NA,NA,not tested,San Diego,San Diego County,33.0184101,-117.1407298
+Poway Unified,Design 39 Campus,17050 Del Sur Ridge Road San Diego CA 92127-4463,NA,NA,NA,not tested,NA,NA,NA,NA
+Poway Unified,Garden Road Elementary,14614 Garden Road Poway CA 92064-5299,NA,NA,FALSE,tested,Poway,San Diego County,32.9571024,-117.011635877937
+Poway Unified,Highland Ranch Elementary,14840 Waverley Downs Way San Diego CA 92128-3702,NA,NA,NA,not tested,NA,NA,NA,NA
+Poway Unified,Los Penasquitos Elementary,14125 Cuca Street San Diego CA 92129-1852,NA,NA,NA,not tested,San Diego,San Diego County,32.96979,-117.097159
+Poway Unified,Meadowbrook Middle,12320 Meadowbrook Lane Poway CA 92064-3599,NA,NA,FALSE,tested,Poway,San Diego County,32.9634023712347,-117.06338445178
+Poway Unified,Mesa Verde Middle,8375 Entreken Way San Diego CA 92129-4405,NA,NA,NA,not tested,San Diego,San Diego County,32.961478,-117.146717
+Poway Unified,Midland Elementary,13910 Midland Road Poway CA 92064-4024,NA,NA,FALSE,tested,Poway,San Diego County,32.9661810613227,-117.036236694472
+Poway Unified,Monterey Ridge Elementary,17117 4S Ranch Parkway San Diego CA 92127-8853,NA,NA,NA,not tested,NA,San Diego County,33.0080902,-117.1157989
+Poway Unified,Morning Creek Elementary,10925 Morning Creek Drive South San Diego CA 92128-4047,NA,NA,NA,not tested,NA,NA,NA,NA
+Poway Unified,Mt. Carmel High,9550 Carmel Mountain Road San Diego CA 92129-2799,NA,NA,NA,not tested,San Diego,San Diego County,32.967446,-117.120433
+Poway Unified,Oak Valley Middle School,16055 Winecreek Road San Diego CA 92127-3719,NA,NA,NA,not tested,San Diego,San Diego County,33.0004155,-117.1093551
+Poway Unified,Painted Rock Elementary,16711 Martincoit Road Poway CA 92064-1628,NA,NA,FALSE,tested,Poway,San Diego County,33.0174967495821,-117.039705382864
+Poway Unified,Park Village Elementary,7930 Park Village Road San Diego CA 92129-3781,NA,NA,NA,not tested,San Diego,San Diego County,32.941292,-117.150645
+Poway Unified,Pomerado Elementary,12321 Ninth Street Poway CA 92064-3597,9.5,ppb,TRUE,tested,NA,NA,NA,NA
+Poway Unified,Poway Adult,13626 Twin Peaks Road Poway CA 92064-3034,6.07,ppb,TRUE,tested,Poway,San Diego County,32.9784381037096,-117.035684337836
+Poway Unified,Poway High,15500 Espola Road Poway CA 92064-2299,NA,NA,FALSE,tested,Poway,San Diego County,32.994117,-117.024753
+Poway Unified,Rancho Bernardo High,13010 Paseo Lucido San Diego CA 92128-4499,NA,NA,NA,not tested,San Diego,San Diego County,32.996963,-117.067666
+Poway Unified,Rolling Hills Elementary,15255 Penasquitos Drive San Diego CA 92129-1016,NA,NA,NA,not tested,San Diego,San Diego County,32.990055,-117.091879
+Poway Unified,Shoal Creek Elementary,11775 Shoal Creek Drive San Diego CA 92128-4573,NA,NA,NA,not tested,San Diego,San Diego County,32.96771415,-117.081721953328
+Poway Unified,Stone Ranch Elementary,16150 4S Ranch Parkway San Diego CA 92127-4431,NA,NA,NA,not tested,NA,San Diego County,33.005332,-117.117065
+Poway Unified,Sundance Elementary,8944 Twin Trails Drive San Diego CA 92129-2334,NA,NA,NA,not tested,San Diego,San Diego County,32.9611928778159,-117.133755057029
+Poway Unified,Sunset Hills Elementary,9291 Oviedo Street San Diego CA 92129-2199,NA,NA,NA,not tested,San Diego,San Diego County,32.9688954618114,-117.127531040628
+Poway Unified,Tierra Bonita Elementary,14678 Tierra Bonita Road Poway CA 92064-3090,NA,NA,FALSE,tested,Poway,San Diego County,32.9800791334081,-117.027725128198
+Poway Unified,Turtleback Elementary,15855 Turtleback Road San Diego CA 92127-2044,NA,NA,NA,not tested,San Diego,San Diego County,33.0047057137599,-117.088334780098
+Poway Unified,Twin Peaks Middle,14640 Tierra Bonita Road Poway CA 92064-3091,NA,NA,FALSE,tested,Poway,San Diego County,32.9788365047825,-117.027704658894
+Poway Unified,Valley Elementary,13000 Bowron Road Poway CA 92064-5799,NA,NA,FALSE,tested,Poway,San Diego County,32.954844,-117.045289
+Poway Unified,Westview High,13500 Camino Del Sur San Diego CA 92129-4465,NA,NA,NA,not tested,San Diego,San Diego County,32.96609835,-117.150068853275
+Poway Unified,Westwood Elementary,17449 Matinal Road San Diego CA 92127-1299,NA,NA,NA,not tested,San Diego,San Diego County,33.030276,-117.086571
+Poway Unified,Willow Grove Elementary,14727 Via Azul San Diego CA 92127-4813,NA,NA,NA,not tested,San Diego,San Diego County,32.993781,-117.16219

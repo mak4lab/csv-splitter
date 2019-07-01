@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mendota Unified,McCabe Elementary,250 South Derrick Street Mendota CA 93640-2049,NA,NA,FALSE,tested,NA,NA,NA,NA
+Mendota Unified,Mendota Community Day,241 Smoot Avenue Mendota CA 93640-2234,NA,NA,NA,not tested,NA,Fresno County,36.7552419555983,-120.389763072417
+Mendota Unified,Mendota Continuation High,211 Smoot Avenue Mendota CA 93640-2234,NA,NA,NA,not tested,NA,Fresno County,36.7552457388996,-120.389288268104
+Mendota Unified,Mendota Elementary,605 Bass Avenue Mendota CA 93640-2178,NA,NA,NA,not tested,NA,Fresno County,36.76702705,-120.381541236062
+Mendota Unified,Mendota High,1200 Belmont Avenue Mendota CA 93640,NA,NA,FALSE,tested,NA,Fresno County,36.749219,-120.373441
+Mendota Unified,Mendota Junior High,1258 East Belmont Avenue Mendota CA 93640-2049,NA,NA,NA,not tested,NA,NA,NA,NA
+Mendota Unified,Washington Elementary,1599 Fifth Street Mendota CA 93640-2359,NA,NA,FALSE,tested,NA,NA,NA,NA

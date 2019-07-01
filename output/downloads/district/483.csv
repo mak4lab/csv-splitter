@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Monterey County Office of Education,Arthur B Ingham School,47 San Benancio Road Salinas CA 93908,10.05,ppb,TRUE,tested,NA,NA,NA,NA
+Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,NA,NA,NA,not tested,Salinas,Monterey County,36.6804723103448,-121.617519172414
+Monterey County Office of Education,Bay View Academy,222 Casa Verde Avenue Monterey CA 93940-3753,8,ppb,TRUE,tested,NA,NA,NA,NA
+Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Monterey County Office of Education,Monterey Bay Charter,1004 David Ave Pacific Grove CA 93950-5443,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6140036938775,-121.910686632653
+Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,NA,NA,NA,not tested,Salinas,Monterey County,36.6978065212271,-121.63663324853

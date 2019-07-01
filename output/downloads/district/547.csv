@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Orinda Union Elementary,Del Rey Elementary,25 El Camino Moraga Orinda CA 94563-4117,NA,NA,FALSE,tested,NA,Contra Costa County,37.8462058574825,-122.154358336274
+Orinda Union Elementary,Glorietta Elementary,15 Martha Road Orinda CA 94563-3558,NA,NA,FALSE,tested,NA,Contra Costa County,37.8723969928457,-122.163513623171
+Orinda Union Elementary,Orinda Intermediate,80 Ivy Drive Orinda CA 94563-4244,NA,NA,FALSE,tested,NA,Contra Costa County,37.851294,-122.145488
+Orinda Union Elementary,Sleepy Hollow Elementary,20 Washington Lane Orinda CA 94563-1325,NA,NA,FALSE,tested,NA,Contra Costa County,37.9078599869878,-122.197453912393
+Orinda Union Elementary,Wagner Ranch Elementary,350 Camino Pablo Orinda CA 94563-1602,NA,NA,FALSE,tested,NA,Contra Costa County,37.8977722,-122.2067931

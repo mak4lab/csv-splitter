@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lakeport Unified,Clear Lake High,350 Lange Street Lakeport CA 95453-3247,NA,NA,FALSE,tested,Lakeport,Lake County,39.05933906124,-122.915309792594
+Lakeport Unified,Lakeport Alternative (Home School),100 Lange Street Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Lakeport Unified,Lakeport Community Day,100 Lange Street B Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Lakeport Unified,Lakeport Elementary,150 Lange Street Lakeport CA 95453-3297,NA,NA,FALSE,tested,Lakeport,Lake County,39.0593453294016,-122.915729956463
+Lakeport Unified,Natural High (Continuation),100 Lange Street C Lakeport CA 95453-3297,NA,NA,NA,not tested,Lakeport,Lake County,39.059348,-122.915835
+Lakeport Unified,Terrace Middle,250 Lange Street Lakeport CA 95453-3230,NA,NA,FALSE,tested,Lakeport,Lake County,39.0593458391171,-122.915519807476

@@ -1,0 +1,42 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Irvine Unified,Alderwood Elementary,2005 Knollcrest Irvine CA 92603-1600,5.08,ppb,TRUE,tested,Irvine,Orange County,33.64873915,-117.77592497024
+Irvine Unified,Beacon Park,200 Cultivate Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.6878286,-117.73501613495
+Irvine Unified,Bonita Canyon Elementary,1 Sundance Irvine CA 92603-3608,NA,NA,FALSE,tested,Irvine,Orange County,33.6336723,-117.812838644098
+Irvine Unified,Brywood Elementary,1 Westwood Irvine CA 92620-6200,NA,NA,FALSE,tested,Irvine,Orange County,33.71153285,-117.773800427478
+Irvine Unified,Canyon View Elementary,12025 Yale Court Irvine CA 92620-0210,NA,NA,FALSE,tested,Irvine,Orange County,33.725714648405,-117.753229875294
+Irvine Unified,College Park Elementary,3700 Chaparral Avenue Irvine CA 92606-2199,NA,NA,FALSE,tested,Irvine,Orange County,33.70574535,-117.792841928806
+Irvine Unified,Creekside High,3387 Barranca Pkwy Irvine CA 92606-8272,NA,NA,FALSE,tested,Irvine,Orange County,33.6850648,-117.8098569
+Irvine Unified,Culverdale Elementary,2 Paseo Westpark Irvine CA 92614-5311,NA,NA,FALSE,tested,Irvine,Orange County,33.681518784082,-117.818057396301
+Irvine Unified,Cypress Village Elementary,355 Rush Lily Irvine CA 92620-4112,NA,NA,FALSE,tested,Irvine,Orange County,33.6865269,-117.7561281
+Irvine Unified,Deerfield Elementary,2 Deerfield Avenue Irvine CA 92604-3048,6.89,ppb,TRUE,tested,Irvine,Orange County,33.7001312,-117.7989561
+Irvine Unified,Early Childhood Learning Center,1 Smoketree Irvine CA 92604-3158,NA,NA,FALSE,tested,Irvine,Orange County,33.684571,-117.77658
+Irvine Unified,Eastshore Elementary,155 Eastshore Irvine CA 92604-4625,6.539999999999999,ppb,TRUE,tested,Irvine,Orange County,33.6779607,-117.7902299
+Irvine Unified,El Camino Real Elementary,4782 Karen Ann Ln Irvine CA 92604,NA,NA,FALSE,tested,Irvine,Orange County,33.696585,-117.779684
+Irvine Unified,Greentree Elementary,4200 Manzanita Irvine CA 92604-2711,NA,NA,FALSE,tested,Irvine,Orange County,33.6982634,-117.789109742631
+Irvine Unified,Irvine Adult Transition Programs,311 West Yale Loop Irvine CA 92604-4736,6.79,ppb,TRUE,tested,Irvine,Orange County,33.6821218915148,-117.806096270411
+Irvine Unified,Irvine High,4321 Walnut Avenue Irvine CA 92604-2239,NA,NA,FALSE,tested,Irvine,Orange County,33.7017439051,-117.783480657942
+Irvine Unified,Jeffrey Trail Middle,155 Visions Irvine CA 92620-3682,NA,NA,FALSE,tested,Irvine,Orange County,33.6936612,-117.761824509218
+Irvine Unified,Lakeside Middle,3 Lemongrass Irvine CA 92604-3608,NA,NA,FALSE,tested,Irvine,Orange County,33.6855264271033,-117.795272147029
+Irvine Unified,Meadow Park Elementary,50 Blue Lake South Irvine CA 92614-5472,NA,NA,FALSE,tested,Irvine,Orange County,33.6712064,-117.809035041545
+Irvine Unified,Northwood Elementary,28 Carson Irvine CA 92620-3313,7.305,ppb,TRUE,tested,Irvine,Orange County,33.70494205,-117.769805466486
+Irvine Unified,Northwood High,4515 Portola Parkway Irvine CA 92620-2200,NA,NA,FALSE,tested,Irvine,Orange County,33.7339473,-117.7504652
+Irvine Unified,Oak Creek Elementary,1 Dove Creek Irvine CA 92618-3997,NA,NA,FALSE,tested,Irvine,Orange County,33.664858,-117.783449773199
+Irvine Unified,Plaza Vista,670 Paseo Westpark Irvine CA 92606-8946,NA,NA,FALSE,tested,Irvine,Orange County,33.6916774979513,-117.808362686474
+Irvine Unified,Portola High,1001 Cadence Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.67293535,-117.712880326098
+Irvine Unified,Portola Springs Elementary,12100 Portola Springs Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.69430005,-117.711489460462
+Irvine Unified,Rancho San Joaquin Middle,4861 Michelson Drive Irvine CA 92612-2826,NA,NA,FALSE,tested,Irvine,Orange County,33.66368485,-117.80671396242
+Irvine Unified,Santiago Hills Elementary,29 Christamon West Irvine CA 92620-1836,9.385,ppb,TRUE,tested,Irvine,Orange County,33.7189928,-117.758406923875
+Irvine Unified,Sierra Vista Middle,2 Liberty Irvine CA 92620-2536,NA,NA,FALSE,tested,Irvine,Orange County,33.7162395,-117.7680399
+Irvine Unified,South Lake Middle,655 West Yale Loop Irvine CA 92614-7939,NA,NA,FALSE,tested,Irvine,Orange County,33.66906575,-117.809650330397
+Irvine Unified,Springbrook Elementary,655 Springbrook North Irvine CA 92614-7568,7.885,ppb,TRUE,tested,Irvine,Orange County,33.6699250586285,-117.797627399845
+Irvine Unified,Stone Creek Elementary,2 Stone Creek South Irvine CA 92604-4525,NA,NA,FALSE,tested,Irvine,Orange County,33.68542125,-117.80273925
+Irvine Unified,Stonegate Elementary,100 Honors Irvine CA 92620-2128,NA,NA,FALSE,tested,Irvine,Orange County,33.70699975,-117.73964693473
+Irvine Unified,Turtle Rock Elementary,5151 Amalfi Drive Irvine CA 92603-3443,NA,NA,FALSE,tested,Irvine,Orange County,33.64783495,-117.818615191274
+Irvine Unified,University High,4771 Campus Drive Irvine CA 92612-3298,5.5,ppb,TRUE,tested,Irvine,Orange County,33.650225,-117.824221
+Irvine Unified,University Park Elementary,4572 Sandburg Way Irvine CA 92612-2735,NA,NA,FALSE,tested,Irvine,Orange County,33.659097,-117.821927
+Irvine Unified,Venado Middle,4 Deerfield Avenue Irvine CA 92604-3048,NA,NA,FALSE,tested,Irvine,Orange County,33.7001312,-117.7989561
+Irvine Unified,Vista Verde,6 Federation Way Irvine CA 92603-0100,NA,NA,FALSE,tested,Irvine,Orange County,33.6299761,-117.827450373256
+Irvine Unified,Westpark Elementary,25 San Carlo Irvine CA 92614-7314,NA,NA,FALSE,tested,Irvine,Orange County,33.680859,-117.830988
+Irvine Unified,Westwood Elementary,1 Liberty Irvine CA 92620,6.23,ppb,TRUE,tested,Irvine,Orange County,33.716601,-117.768592
+Irvine Unified,Woodbridge High,2 Meadowbrook Irvine CA 92604-4726,NA,NA,FALSE,tested,Irvine,Orange County,33.677269,-117.806454
+Irvine Unified,Woodbury Elementary,125 Great Lawn Irvine CA 92620-3832,NA,NA,FALSE,tested,Irvine,Orange County,33.69651635,-117.750470887996

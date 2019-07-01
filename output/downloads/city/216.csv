@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pacific Grove Unified,Community High (Continuation),1004 David Avenue Pacific Grove CA 93950-4924,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6140036938775,-121.910686632653
+Pacific Grove Unified,Forest Grove Elementary,1065 Congress Avenue Pacific Grove CA 93950-4838,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6094067711219,-121.930126851738
+Monterey County Office of Education,Monterey Bay Charter,1004 David Ave Pacific Grove CA 93950-5443,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6140036938775,-121.910686632653
+Pacific Grove Unified,Pacific Grove Adult,1025 Lighthouse Avenue Pacific Grove CA 93950-2423,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6206278,-121.9166554
+Pacific Grove Unified,Pacific Grove High,615 Sunset Drive Pacific Grove CA 93950-4827,NA,NA,NA,not tested,Pacific Grove,Monterey County,36.612016,-121.924643
+Pacific Grove Unified,Pacific Grove Middle,835 Forest Avenue Pacific Grove CA 93950-4837,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6144822075928,-121.920555619008
+Pacific Grove Unified,Robert Down Elementary,485 Pine Avenue Pacific Grove CA 93950-3401,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6181891153846,-121.91622

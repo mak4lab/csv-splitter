@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Northern Humboldt Union High,Arcata High,1720 M Street Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Northern Humboldt Union High,Laurel Tree Charter,4555 Valley West Boulevard Arcata CA 95521-4683,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8987099034491,-124.081544090188
+Northern Humboldt Union High,McKinleyville High,1300 Murray Road McKinleyville CA 95519-3503,NA,NA,NA,not tested,NA,Humboldt County,40.956315,-124.1066375
+Northern Humboldt Union High,Pacific Coast High (Continuation),1720 M Street B Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Northern Humboldt Union High,Six Rivers Charter High,1720 M St. Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782

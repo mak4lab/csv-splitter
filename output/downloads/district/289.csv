@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Greenfield Union,Fairview Elementary,425 East Fairview Road Bakersfield CA 93307-5322,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3030670566802,-119.007599809717
+Greenfield Union,Granite Pointe Elementary,2900 Berkshire Road Bakersfield CA 93313-4622,NA,NA,FALSE,tested,Bakersfield,Kern County,35.288556,-119.035001804348
+Greenfield Union,Greenfield Community,725 Capitola Drive Bakersfield CA 93307-6927,NA,NA,FALSE,tested,Bakersfield,Kern County,35.306804,-119.011264
+Greenfield Union,Greenfield Middle,1109 Pacheco Road Bakersfield CA 93307-5199,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3103203333333,-119.015352
+Greenfield Union,Horizon Elementary,7901 Monitor Street Bakersfield CA 93307-6079,NA,NA,NA,not tested,Bakersfield,Kern County,35.288619,-119.011904
+Greenfield Union,Leon H. Ollivier Middle,7310 Monitor Street Bakersfield CA 93307-7221,NA,NA,NA,not tested,Bakersfield,Kern County,35.2884363061224,-119.011803
+Greenfield Union,McKee Middle,205 McKee Road Bakersfield CA 93307-6021,NA,NA,NA,not tested,Bakersfield,Kern County,35.27353225,-119.005579271238
+Greenfield Union,Plantation Elementary,901 Plantation Avenue Bakersfield CA 93304-6732,NA,NA,FALSE,tested,Bakersfield,Kern County,35.319441,-119.013811
+Greenfield Union,Planz Elementary,2400 Planz Road Bakersfield CA 93304-5939,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3250185151515,-119.029092050505
+Greenfield Union,Raffaello Palla Elementary,800 Fairview Road Bakersfield CA 93307-5524,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3032265326087,-119.011422782609
+Greenfield Union,Valle Verde Elementary,400 Berkshire Road Bakersfield CA 93307-5812,NA,NA,NA,not tested,Bakersfield,Kern County,35.285011,-118.994215
+Greenfield Union,W. A. Kendrick Elementary,2200 Faith Avenue Bakersfield CA 93304-7254,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3068502120166,-119.026642759668

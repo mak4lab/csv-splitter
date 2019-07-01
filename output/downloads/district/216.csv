@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+El Rancho Unified,Birney Tech Academy,8501 Orange Avenue Pico Rivera CA 90660-5543,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.957955875,-118.09579375
+El Rancho Unified,Durfee Elementary,4220 South Durfee Avenue Pico Rivera CA 90660-1709,7.6,ppb,TRUE,tested,Pico Rivera,Los Angeles County,34.0122703871423,-118.075499235495
+El Rancho Unified,El Rancho High,6501 South Passons Boulevard Pico Rivera CA 90660-3373,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.9850021,-118.088778169381
+El Rancho Unified,Ellen Ochoa Prep Academy,8110 Paramount Blvd Pico Rivera CA 90660,10.75,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.9894117,-118.1015521
+El Rancho Unified,Magee Academy of Arts & Sciences,8200 Serapis Avenue Pico Rivera CA 90660-5141,9.4,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.96454885,-118.102174980757
+El Rancho Unified,North Park Academy of the Arts,4450 South Durfee Avenue Pico Rivera CA 90660-2016,7.9,ppb,TRUE,tested,Pico Rivera,Los Angeles County,34.0095730062572,-118.076094922116
+El Rancho Unified,North Ranchito Elementary,8837 East Olympic Boulevard Pico Rivera CA 90660-2336,6.5,ppb,TRUE,tested,NA,NA,NA,NA
+El Rancho Unified,Rio Vista Elementary,8809 Coffman-Pico Road Pico Rivera CA 90660-3226,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.9899592275025,-118.09531303447
+El Rancho Unified,Rivera Elementary,7250 Citronell Street Pico Rivera CA 90660-4020,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.976294196644,-118.095284110601
+El Rancho Unified,Rivera Middle,7200 Citronell Avenue Pico Rivera CA 90660-4020,8.15,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.976852,-118.094909
+El Rancho Unified,Ruben Salazar Continuation and Spectrum-El Rancho,9115 Balfour Street Pico Rivera CA 90660-3225,9.5,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.987554656394,-118.088617749272
+El Rancho Unified,South Ranchito Dual Language Academy,5241 South Passons Boulevard Pico Rivera CA 90660-2826,NA,NA,FALSE,tested,Pico Rivera,Los Angeles County,33.9953266341489,-118.080068565432
+El Rancho Unified,STEAM Academy @ Burke,8101 Orange Avenue Pico Rivera CA 90660-5312,10,ppb,TRUE,tested,Pico Rivera,Los Angeles County,33.96241715,-118.094717268249
+El Rancho Unified,Valencia Academy of the Arts,9241 East Cosgrove Street Pico Rivera CA 90660-3265,7.8,ppb,TRUE,tested,NA,NA,NA,NA

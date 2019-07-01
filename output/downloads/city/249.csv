@@ -1,0 +1,36 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,A Better Chance / California Autism Foundation,4138 Lakeside Drive Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9887870943446,-122.328879671735
+West Contra Costa Unified,Aspire Richmond Ca. College Preparatory Academy,3040 Hilltop Mall Road Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9782041239941,-122.326753371729
+West Contra Costa Unified,Aspire Richmond Technology Academy,3040 Hilltop Mall Rd Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9782041239941,-122.326753371729
+Contra Costa County Office of Education,Caliber: Beta Academy,4301 Berk Avenue Richmond CA 94804-4355,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.922857243113,-122.32897816144
+West Contra Costa Unified,Cesar E. Chavez Elementary,960 17th Street Richmond CA 94801-2400,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9462963729733,-122.35369118512
+Contra Costa County Office of Education,Contra Costa Adult,5555 Giant Highway Richmond CA 94806-6002,NA,NA,NA,not tested,Richmond,Contra Costa County,37.994268885332,-122.352143355285
+West Contra Costa Unified,Coronado Elementary,2100 Maine Avenue Richmond CA 94804-2798,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.927933,-122.349283
+West Contra Costa Unified,De Anza High,5000 Valley View Road Richmond CA 94803-2599,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.96767,-122.285157
+West Contra Costa Unified,Grant Elementary,2400 Downer Avenue Richmond CA 94804-1458,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.942889,-122.345634
+West Contra Costa Unified,Greenwood Academy,831 Chanslor Avenue Richmond CA 94801-3533,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9325452823769,-122.361494586539
+West Contra Costa Unified,Highland Elementary,2829 Moyers Road Richmond CA 94806-2728,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9717544800758,-122.327019139601
+West Contra Costa Unified,John F. Kennedy High,4300 Cutting Boulevard Richmond CA 94804-3399,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9254305847575,-122.328900178116
+West Contra Costa Unified,John Henry High,251 South 12th Street Richmond CA 94804-2411,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.928695755102,-122.358117530612
+West Contra Costa Unified,Leadership Public Schools: Richmond,880 Bissell Avenue Richmond CA 94801-2411,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9339848505651,-122.361179982405
+West Contra Costa Unified,Lovonya DeJean Middle,3400 Macdonald Avenue Richmond CA 94805-4501,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9342066623891,-122.337409627839
+Contra Costa County Office of Education,Making Waves Academy,4123 Lakeside Drive Richmond CA 94806-1942,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.98656797171,-122.33286189083
+West Contra Costa Unified,Manzanita Middle,3200 Barrett Ave Richmond CA 94804-1718,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.937038,-122.337925
+West Contra Costa Unified,"Martin Luther King, Jr. Elementary",4022 Florida Ave Richmond CA 94804-3398,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9293874747218,-122.331668419523
+West Contra Costa Unified,Mira Vista Elementary,6397 Hazel Avenue Richmond CA 94805-2099,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9392930802519,-122.315318963023
+West Contra Costa Unified,Murphy Elementary,4350 Valley View Road El Sobrante CA 94803-1499,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9772594642039,-122.291798167495
+West Contra Costa Unified,Nutrition Center,750 Bissell Ave Richmond CA 94801,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9339855096909,-122.362315476189
+West Contra Costa Unified,Nystrom Elementary,230 Harbour Way South Richmond CA 94804-2428,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.93461767213,-122.359893322399
+West Contra Costa Unified,Richmond Charter Academy,1450 Marina Way South Richmond CA 94804-1718,NA,NA,NA,not tested,Richmond,Contra Costa County,37.9357944,-122.3562046
+West Contra Costa Unified,Richmond Charter Elementary-Benito Juarez,777 Sonoma Street Richmond CA 94805-1534,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9452844,-122.3207343
+West Contra Costa Unified,Richmond College Preparatory,214 South 11th Street Richmond CA 94804-2474,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9292061428571,-122.358964
+West Contra Costa Unified,Richmond High,1250 23rd Street Richmond CA 94804-1091,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9314192,-122.3477369
+West Contra Costa Unified,Sheldon Elementary,2601 May Road Richmond CA 94803-3196,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9675604668494,-122.296109212986
+Private,St. Cornelius Elementary,201 28th Street Richmond CA 94804,12,ppb,TRUE,tested,Richmond,Contra Costa County,37.9343258333333,-122.341945916667
+Private,St. David's Elementary,871 Sonoma Street Richmond CA 94805,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9473486800727,-122.321744635453
+West Contra Costa Unified,Stege Elementary,4949 Cypress Avenue Richmond CA 94804-4499,10,ppb,TRUE,tested,Richmond,Contra Costa County,37.9198717248591,-122.323047762509
+West Contra Costa Unified,Summit Public School Tamalpais,3020 Hilltop Mall Rd Richmond CA 94806-1920,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.978124,-122.327402
+West Contra Costa Unified,Valley View Elementary,3416 Maywood Drive Richmond CA 94803-2099,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9723794943711,-122.284983010392
+West Contra Costa Unified,Washington Elementary,565 Wine Street Richmond CA 94801-4054,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9243227278207,-122.380778696233
+West Contra Costa Unified,West Contra Costa Adult Education,6028 Ralston Avenue Richmond CA 94805-1202,NA,NA,NA,not tested,Richmond,Contra Costa County,37.9478618,-122.321025747059
+West Contra Costa Unified,Wilson Elementary,629 42nd Street Richmond CA 94805-1898,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.9382869321136,-122.328845545475

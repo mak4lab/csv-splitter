@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain View Elementary,Alfred S. Madrid Middle,3300 Gilman Road El Monte CA 91732-3226,NA,NA,NA,not tested,Industry,Los Angeles County,34.062546,-118.009542
+Bassett Unified,Don Julian Elementary,13855 Don Julian Road La Puente CA 91746-2518,NA,NA,FALSE,tested,Industry,Los Angeles County,34.0325211,-117.9855453
+Rowland Unified,Giano Intermediate,3223 South Giano Avenue West Covina CA 91792-3229,9.6,ppb,TRUE,tested,Industry,Los Angeles County,34.0124238,-117.9087465

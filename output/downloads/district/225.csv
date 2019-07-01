@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Enterprise Elementary,Alta Mesa Elementary,2301 Saturn Skyway Redding CA 96002-2813,NA,NA,FALSE,tested,NA,Shasta County,40.5559803527103,-122.326746000565
+Enterprise Elementary,Boulder Creek Elementary,505 Springer Drive Redding CA 96003-4592,7.01,ppb,TRUE,tested,Redding,Shasta County,40.5994144757057,-122.343140717477
+Enterprise Elementary,Lassen View Elementary,705 Loma Vista Drive Redding CA 96002-3113,NA,NA,FALSE,tested,Redding,Shasta County,40.5493019210526,-122.358782199248
+Enterprise Elementary,Mistletoe Elementary,1225 Mistletoe Lane Redding CA 96002-0720,NA,NA,FALSE,tested,Redding,Shasta County,40.5783060765931,-122.348893119759
+Enterprise Elementary,PACE Academy,3200 Adams Lane Redding CA 96002-2813,NA,NA,FALSE,tested,Redding,Shasta County,40.56009,-122.355513
+Enterprise Elementary,Parsons Junior High,750 Hartnell Avenue Redding CA 96002-2120,9.8,ppb,TRUE,tested,Redding,Shasta County,40.5653095,-122.357405289473
+Enterprise Elementary,Redding Collegiate Academy,3200 Adams Ln Redding CA 96002-2523,NA,NA,NA,not tested,Redding,Shasta County,40.56009,-122.355513
+Enterprise Elementary,Rother Elementary,795 Hartnell Avenue Redding CA 96002-2121,13.1,ppb,TRUE,tested,Redding,Shasta County,40.5639006434295,-122.356517867247
+Enterprise Elementary,Shasta Meadows Elementary,2825 Yana Avenue Redding CA 96002-1493,NA,NA,FALSE,tested,Redding,Shasta County,40.5663341176471,-122.33697176470601

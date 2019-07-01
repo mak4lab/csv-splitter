@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Keppel Union Elementary,Alpine Elementary,8244 East Pearblossom Highway Littlerock CA 93543-3042,NA,NA,FALSE,tested,NA,Los Angeles County,34.521025,-117.983380571429
+Keppel Union Elementary,Antelope Elementary,37237 North 100th Street East Littlerock CA 93543-1501,NA,NA,FALSE,tested,NA,NA,NA,NA
+Keppel Union Elementary,Daisy Gibson Elementary,9650 East Palmdale Boulevard Palmdale CA 93591-2235,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5796836237322,-117.957245892532
+Keppel Union Elementary,Keppel Academy,9330 East Avenue U Littlerock CA 93543-3107,7,ppb,TRUE,tested,NA,Los Angeles County,34.52833875,-117.963861125
+Keppel Union Elementary,Lake Los Angeles Elementary,16310 East Avenue Q Palmdale CA 93591-3603,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5871568333333,-117.839860833333
+Keppel Union Elementary,Pearblossom Elementary,12828 East Avenue W Pearblossom CA 93553-0186,NA,NA,FALSE,tested,NA,Los Angeles County,34.4993655,-117.9338135

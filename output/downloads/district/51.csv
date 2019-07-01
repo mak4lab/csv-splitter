@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bassett Unified,Bassett Adult,934 North Sunkist La Puente CA 91746-1696,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0511599851722,-117.96947669631
+Bassett Unified,Bassett Senior High,755 Ardilla Avenue La Puente CA 91746-2163,NA,NA,NA,not tested,La Puente,Los Angeles County,34.051381,-117.976537
+Bassett Unified,Don Julian Elementary,13855 Don Julian Road La Puente CA 91746-2518,NA,NA,FALSE,tested,Industry,Los Angeles County,34.0325211,-117.9855453
+Bassett Unified,Edgewood Academy,14135 East Fairgrove Avenue La Puente CA 91746-1708,NA,NA,NA,not tested,NA,NA,NA,NA
+Bassett Unified,J. E. Van Wig Elementary,1151 North Van Wig Avenue La Puente CA 91746-1328,NA,NA,NA,not tested,NA,Los Angeles County,34.0533375,-117.9815034
+Bassett Unified,Nueva Vista Continuation High,904 Willow Avenue La Puente CA 91746-1696,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0524060194099,-117.972380819814
+Bassett Unified,Sunkist Elementary,935 Mayland Avenue La Puente CA 91746-1625,NA,NA,NA,not tested,La Puente,Los Angeles County,34.0477639,-117.982214
+Bassett Unified,Torch Middle,751 North Vineland Avenue City Of Industry CA 91746-1914,NA,NA,NA,not tested,NA,NA,NA,NA

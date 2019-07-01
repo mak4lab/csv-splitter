@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Salinas City Elementary,Boronda Elementary,1114 Fontes Lane Salinas CA 93907-1823,NA,NA,FALSE,tested,NA,NA,NA,NA
+Salinas City Elementary,Boronda Meadows,915 Larkin Street Salinas CA 93907-2532,NA,NA,FALSE,tested,Salinas,Monterey County,36.6897483,-121.6598102
+Salinas City Elementary,El Gabilan Elementary,1256 Linwood Drive Salinas CA 93906-3328,NA,NA,FALSE,tested,Salinas,Monterey County,36.70054,-121.642967
+Salinas City Elementary,Henry F. Kammann Elementary,521 Rochex Street Salinas CA 93906-3426,NA,NA,FALSE,tested,Salinas,Monterey County,36.7001638400706,-121.657710339354
+Salinas City Elementary,Laurel Wood Elementary,645 Larkin Street Salinas CA 93907-1970,NA,NA,FALSE,tested,Salinas,Monterey County,36.6897483,-121.6598102
+Salinas City Elementary,Lincoln Elementary,705 California Street Salinas CA 93901-4104,NA,NA,FALSE,tested,Salinas,Monterey County,36.6655203877551,-121.651448693878
+Salinas City Elementary,Loma Vista Elementary,757 Sausal Drive Salinas CA 93906-2299,NA,NA,FALSE,tested,Salinas,Monterey County,36.7083068626085,-121.623554396298
+Salinas City Elementary,Los Padres Elementary,1130 John Street Salinas CA 93905-3204,NA,NA,FALSE,tested,Salinas,Monterey County,36.6706811972518,-121.623180850994
+Salinas City Elementary,Mission Park Elementary,403 West Acacia Street Salinas CA 93901-1830,5.2,ppb,TRUE,tested,Salinas,Monterey County,36.6668413083826,-121.66732074698
+Salinas City Elementary,Monterey Park Elementary,410 San Miguel Avenue Salinas CA 93901-3854,5.9,ppb,TRUE,tested,Salinas,Monterey County,36.6567600133089,-121.649705046599
+Salinas City Elementary,Natividad Elementary,1465 Modoc Avenue Salinas CA 93906-3003,5.4,ppb,TRUE,tested,Salinas,Monterey County,36.7032680885766,-121.636826941169
+Salinas City Elementary,Roosevelt Elementary,120 Capitol Street Salinas CA 93901-2014,NA,NA,FALSE,tested,Salinas,Monterey County,36.675018,-121.660634
+Salinas City Elementary,Sherwood Elementary,110 South Wood Street Salinas CA 93905-3104,NA,NA,FALSE,tested,Salinas,Monterey County,36.6730285,-121.635456666667
+Salinas City Elementary,University Park Elementary,833 West Acacia Street Salinas CA 93901-1101,NA,NA,FALSE,tested,Salinas,Monterey County,36.6718785,-121.678813722222

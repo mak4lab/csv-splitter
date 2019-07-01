@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fresno County Office of Education,Beth Ramacher Educational Complex,710 N. Hughes Avenue Fresno CA 93728,5.5,ppb,TRUE,tested,Fresno,Fresno County,36.7521083784634,-119.835404143054
+Fresno County Office of Education,Big Picture Educational Academy,1207 South Trinity Street Fresno CA 93706-2611,NA,NA,NA,not tested,Fresno,Fresno County,36.7306251419714,-119.808531568117
+Fresno County Office of Education,Career Technical Education Charter High School at Kermit Kootz Education Complex,1320 Mariposa Street  Fresno CA 93703,NA,NA,FALSE,tested,Fresno,Fresno County,36.7304465714286,-119.797282734694
+Fresno County Office of Education,Crescent View West Charter,1901 East Shields Avenue Suite 130 Fresno CA 93726-5309,NA,NA,NA,not tested,NA,NA,NA,NA
+Fresno County Office of Education,Edison-Bethune Charter Academy,1616 South Fruit Street Fresno CA 93706-2819,NA,NA,NA,not tested,NA,NA,NA,NA
+Fresno County Office of Education,Hume Lake Charter,64144 Hume Lake Road Hume CA 93628-9602,NA,NA,NA,not tested,NA,Fresno County,36.7873039,-118.91771315
+Fresno County Office of Education,Kermit Koontz Education Complex,1320 North Mariposa Fresno CA 93703-3938,NA,NA,NA,not tested,NA,NA,NA,NA
+Fresno County Office of Education,Monte Vista School,1221 E. Duff Avenue Reedley CA 93654,6.3,ppb,TRUE,tested,Reedley,Fresno County,36.5931915996689,-119.437228195717
+Fresno County Office of Education,New Spirit Charter Academy,4147 E. Dakota Avenue Fresno CA 93726-5208,NA,NA,NA,not tested,Fresno,Fresno County,36.7869464740568,-119.755569569355
+Fresno County Office of Education,Ramacher Head Start,710 N. Hughes Ave. Fresno CA 93728,NA,NA,FALSE,tested,Fresno,Fresno County,36.7521083784634,-119.835404143054
+Fresno County Office of Education,Violet Heintz Education Academy,4939 East Yale Avenue Fresno CA 93727-1523,NA,NA,NA,not tested,Fresno,Fresno County,36.7702351869182,-119.730127443868

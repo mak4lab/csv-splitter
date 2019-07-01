@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Shasta County Office of Education,Chrysalis Charter,21945 Old Forty Four Drive Palo Cedro CA 96073-9760,NA,NA,FALSE,tested,NA,NA,NA,NA
+Shasta County Office of Education,Redding STEM Academy,3711 Oasis Rd. B Redding CA 96003-0397,NA,NA,NA,not tested,Redding,Shasta County,40.6311187755102,-122.397704520408
+Shasta County Office of Education,Shasta County Independent Study Charter,11555 Oregon Trail Redding CA 96003,NA,NA,NA,not tested,NA,NA,NA,NA
+Shasta County Office of Education,Shasta County Special Education,3711 Oasis Road Redding CA 96003-0397,NA,NA,NA,not tested,Redding,Shasta County,40.6311187755102,-122.397704520408

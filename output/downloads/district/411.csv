@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lompoc Unified,Arthur Hapgood Elementary,324 South A Street Lompoc CA 93438-8000,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634507377551,-120.449225010204
+Lompoc Unified,Buena Vista Elementary,100 Aldebaran Avenue Lompoc CA 93436-1208,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lompoc Unified,Cabrillo High,4350 Constellation Road Lompoc CA 93436-1003,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lompoc Unified,Clarence Ruth Elementary,501 North W Street Lompoc CA 93436-5006,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.64702,-120.476586
+Lompoc Unified,Crestview Elementary,Utah Avenue Vandenberg Air Force Base CA 93437,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lompoc Unified,El Camino Adult Education,320 North J Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6434506122449,-120.460331673469
+Lompoc Unified,La Canada Elementary,621 West North Avenue Lompoc CA 93436-4009,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6544388,-120.464849955139
+Lompoc Unified,La Honda STEAM Academy,1213 North A Street Lompoc CA 93436-3514,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6575864925971,-120.449069587279
+Lompoc Unified,Leonora Fillmore Elementary,1211 East Pine Avenue Lompoc CA 93436-4238,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6501380816327,-120.443602061224
+Lompoc Unified,Lompoc High,515 West College Avenue Lompoc CA 93436-4401,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6469522346939,-120.463328642857
+Lompoc Unified,Lompoc Valley Middle,234 South N Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.636766244898,-120.46544455102
+Lompoc Unified,Los Berros Elementary,3745 Via Lato Lompoc CA 93436,NA,NA,NA,not tested,NA,NA,NA,NA
+Lompoc Unified,Manzanita Public Charter,991 Mountain View Boulevard Vandenberg AFB CA 93437-1209,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lompoc Unified,Maple High,4010 Jupiter Ave Lompoc CA 93436-1819,NA,NA,FALSE,tested,NA,Santa Barbara County,34.692937755102,-120.466706102041
+Lompoc Unified,Martha Negus Orthopedic Center,991 Mountain view Blvd Vandenberg AFB CA 93437,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lompoc Unified,Miguelito Elementary,1600 West Olive Avenue Lompoc CA 93436-6312,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634204,-120.479375
+Lompoc Unified,Mission Valley,1301 North A Street Lompoc CA 93436-3516,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.6562208455715,-120.449069915881
+Lompoc Unified,Vandenberg Middle,Mountain View Boulevard Vandenberg Air Force Base CA 93437,NA,NA,NA,not tested,NA,NA,NA,NA

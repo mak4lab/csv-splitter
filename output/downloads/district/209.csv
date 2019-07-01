@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Edison Elementary,Edison Middle,721 South Edison Road Bakersfield CA 93307-9147,NA,NA,FALSE,tested,NA,Kern County,35.186926,-118.87811
+Edison Elementary,Orangewood Elementary,9600 Eucalyptus Drive Bakersfield CA 93306-6781,NA,NA,FALSE,tested,NA,Kern County,35.3654540603015,-118.897566321608

@@ -1,0 +1,27 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alvord Unified,Allan Orrenmaa Elementary,3350 Fillmore Street Riverside CA 92503-5135,NA,NA,FALSE,tested,Riverside,Riverside County,33.892855,-117.4782525
+Alvord Unified,Alvord Adult Education,3606 Pierce St. Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.8916330162289,-117.488358149996
+Alvord Unified,Alvord Alternative Continuation High,10368 Campbell Avenue Riverside CA 92505-1308,NA,NA,FALSE,tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Alvord Unified,Alvord Continuation High,3606 Pierce Street Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.8916330162289,-117.488358149996
+Alvord Unified,Arizona Middle,11045 Arizona Avenue Riverside CA 92503-5903,NA,NA,FALSE,tested,Riverside,Riverside County,33.891354,-117.465702
+Alvord Unified,Arlanza Elementary,5891 Rutland Avenue Riverside CA 92503-1741,9,ppb,TRUE,tested,Riverside,Riverside County,33.9416756298441,-117.468641780354
+Alvord Unified,Collett Elementary,10850 Collett Avenue Riverside CA 92505-2926,NA,NA,FALSE,tested,Riverside,Riverside County,33.913945475398,-117.479154211693
+Alvord Unified,Foothill Elementary,8230 Wells Avenue Riverside CA 92503-2559,NA,NA,FALSE,tested,Riverside,Riverside County,33.9352594166063,-117.461943577599
+Alvord Unified,Hillcrest High,11800 Indiana Avenue Riverside CA 92503-5172,NA,NA,FALSE,tested,Riverside,Riverside County,33.9135446,-117.4424541
+Alvord Unified,La Granada Elementary,10346 Keller Avenue Riverside CA 92505-1350,NA,NA,FALSE,tested,Riverside,Riverside County,33.9334716902627,-117.47924641728
+Alvord Unified,La Sierra High,4145 La Sierra Avenue Riverside CA 92505-2938,NA,NA,FALSE,tested,Riverside,Riverside County,33.9215372,-117.4901316
+Alvord Unified,Lake Hills Elementary,16346 Village Meadow Drive Riverside CA 92503-0229,NA,NA,FALSE,tested,NA,Riverside County,33.872064578726,-117.484022609896
+Alvord Unified,Loma Vista Middle,11050 Arlington Avenue Riverside CA 92505-2204,NA,NA,FALSE,tested,Riverside,Riverside County,33.94474329687,-117.499920402602
+Alvord Unified,Myra Linn Elementary,10435 Branigan Way Riverside CA 92505-1515,NA,NA,FALSE,tested,Riverside,Riverside County,33.9195308940622,-117.472273017014
+Alvord Unified,Norte Vista High,6585 Crest Avenue Riverside CA 92503-1102,NA,NA,FALSE,tested,Riverside,Riverside County,33.9500096090836,-117.47253046998
+Alvord Unified,Phillip M. Stokoe Elementary,4501 Ambs Drive Riverside CA 92505-3758,NA,NA,FALSE,tested,Riverside,Riverside County,33.907105890625,-117.500237
+Alvord Unified,Promenade Elementary,550 Hamilton Drive Corona CA 91719-5851,NA,NA,FALSE,tested,Corona,Riverside County,33.89451045,-117.51453392666
+Alvord Unified,Rosemary Kennedy Elementary,6411 Mitchell Avenue Riverside CA 92505-2055,NA,NA,FALSE,tested,Riverside,Riverside County,33.9449635620621,-117.491446771831
+Alvord Unified,S. Christa McAuliffe Elementary,4100 Golden Avenue Riverside CA 92505-3403,NA,NA,FALSE,tested,Riverside,Riverside County,33.9057058465756,-117.484800985479
+Alvord Unified,Summit Elementary,10368 Campbell Ave Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Alvord Unified,Summit Secondary,10368 Campbell Ave B Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.9359377597701,-117.481256374903
+Alvord Unified,Terrace Elementary,6601 Rutland Street Riverside CA 92503-1299,11,ppb,TRUE,tested,Indio,Riverside County,33.7773062,-116.2684003
+Alvord Unified,Twinhill Elementary,11000 Campbell Avenue Riverside CA 92505-2499,NA,NA,FALSE,tested,Riverside,Riverside County,33.9329113043478,-117.493799086957
+Alvord Unified,Valley View Elementary,11750 Gramercy Place Riverside CA 92505-3128,NA,NA,FALSE,tested,Riverside,Riverside County,33.9218039,-117.5058722
+Alvord Unified,Wells Middle,10000 Wells Avenue Riverside CA 92503-2373,NA,NA,FALSE,tested,Riverside,Riverside County,33.9326940676497,-117.469922830876
+Alvord Unified,Ysmael Villegas Middle,3754 Harvill Lane Riverside CA 92503-4680,NA,NA,FALSE,tested,NA,Riverside County,33.8845662832395,-117.507175816254

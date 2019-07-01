@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mill Valley Elementary,Edna Maguire Elementary,80 Lomita Drive Mill Valley CA 94941-1464,NA,NA,FALSE,tested,NA,Marin County,37.9073702891921,-122.524046987068
+Mill Valley Elementary,Mill Valley Middle,425 Sycamore Avenue Mill Valley CA 94941-2231,NA,NA,FALSE,tested,NA,Marin County,37.8966129780652,-122.529025042557
+Mill Valley Elementary,Old Mill Elementary,352 Throckmorton Avenue Mill Valley CA 94941-2640,NA,NA,FALSE,tested,NA,Marin County,37.9062687621024,-122.554045025257
+Mill Valley Elementary,Park Elementary,360 East Blithedale Avenue Mill Valley CA 94941-2140,NA,NA,FALSE,tested,NA,Marin County,37.9030213531219,-122.535552154201
+Mill Valley Elementary,Strawberry Point Elementary,117 East Strawberry Drive Mill Valley CA 94941-2576,NA,NA,FALSE,tested,NA,Marin County,37.8976208221249,-122.504746180973
+Mill Valley Elementary,Tamalpais Valley Elementary,350 Bell Lane Mill Valley CA 94941-4038,NA,NA,FALSE,tested,NA,NA,NA,NA

@@ -1,0 +1,86 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pleasanton Unified,Alisal Elementary,1454 Santa Rita Road Pleasanton CA 94566-5697,NA,NA,FALSE,tested,,Alameda County,37.67231995,-121.870551916727
+Alta Vista Elementary,Alta Vista Elementary,2293 East Crabtree Avenue Porterville CA 93257-5225,NA,NA,FALSE,tested,,Tulare County,36.057736,-118.965316363231
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,NA,NA,FALSE,tested,,Yolo County,38.59641915,-121.531426103137
+Pleasanton Unified,Amador Valley Adult and Community Education,215 Abbie Street Pleasanton CA 94566-7499,NA,NA,FALSE,tested,,Alameda County,37.6571789651955,-121.874764113713
+Pleasanton Unified,Amador Valley High,1155 Santa Rita Road Pleasanton CA 94566-6176,7.6,ppb,TRUE,tested,,Alameda County,37.6880944,-121.8779237
+Bolinas-Stinson Union,Bolinas-Stinson Elementary,125 Olema-Bolinas Road Bolinas CA 94924-9747,8.6,ppb,TRUE,tested,,Marin County,37.919155490163,-122.69318922379
+Muroc Joint Unified,Boron Junior-Senior High,26831 Prospect Street Boron CA 93516-1539,5.2,ppb,TRUE,tested,,Kern County,35.004091959596,-117.653858909091
+Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,NA,NA,FALSE,tested,,Yolo County,38.5405791,-121.567596872251
+Union Elementary,Bright Horizons Preschool,220 Belgatos Rd Los Gatos CA 95032,NA,NA,FALSE,tested,,Santa Clara County,37.2333499,-121.918505456551
+Windsor Unified,Brooks Elementary,750 Natalie Drive Windsor CA 95492-8821,NA,NA,FALSE,tested,,Sonoma County,38.5574311587174,-122.811455685628
+Windsor Unified,Cali Calmecac Language Academy,9941 Starr Road Windsor CA 95492,NA,NA,FALSE,tested,,Sonoma County,38.5571796706931,-122.826172818776
+Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,NA,NA,FALSE,tested,,Yuba County,39.454337,-121.046684
+Private,Cardinal Newman High School,50 Ursuline Road Santa Rosa CA 95403,NA,NA,FALSE,tested,,Sonoma County,38.49215915,-122.740315730882
+Coachella Valley Unified,Cesar Chavez Elementary,49-601 Avenida de Oro Coachella CA 92236-1326,NA,NA,FALSE,tested,,Riverside County,33.6874418,-116.1859655
+Capistrano Unified,Chaparral Elementary,29001 Sienna Parkway Ladera Ranch CA 92694-0433,NA,NA,FALSE,tested,,Orange County,33.5694879,-117.6361497
+Corona-Norco Unified,Clara Barton Elementary,7437 Corona Valley Avenue Eastvale CA 92880-8700,NA,NA,FALSE,tested,,Riverside County,33.9521099,-117.588235626233
+Denair Unified,Denair Charter Academy,3460 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,,Stanislaus County,37.5272988,-120.8021511
+Denair Unified,Denair Elementary Charter Academy,3773 Madera Ave. Denair CA 95316-9428,5.47,ppb,TRUE,tested,,Stanislaus County,37.5263401428571,-120.799775693878
+Denair Unified,Denair High,3431 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,,Stanislaus County,37.5258727460317,-120.803226396825
+Denair Unified,Denair Middle,3701 Lester Road Denair CA 95316,5.35,ppb,TRUE,tested,,Stanislaus County,37.5233943174603,-120.803290253968
+Pleasanton Unified,Donlon Elementary,4150 Dorman Road Pleasanton CA 94588-4411,NA,NA,FALSE,tested,,Alameda County,37.6846217820999,-121.906961064534
+Corona-Norco Unified,Dr. Augustine Ramirez Intermediate,6905 Harrison Avenue Eastvale CA 92880-9324,NA,NA,FALSE,tested,,Riverside County,33.96295215,-117.586157351838
+Templeton Unified,Eagle Canyon High,950 Old County Road Templeton CA 93465-9419,5.4,ppb,TRUE,tested,,San Luis Obispo County,35.5446212941176,-120.710883058824
+Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,NA,NA,FALSE,tested,,Mendocino County,39.266476040201,-123.219752175879
+Corona-Norco Unified,Eastvale Elementary,13031 Orange Street Eastvale CA 92880-9743,NA,NA,FALSE,tested,,Riverside County,33.95913,-117.567408522727
+Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,NA,NA,FALSE,tested,,Lake County,38.9756315770184,-122.829873880134
+El Dorado Union High,EDUHSD Virtual Academy at Shenandoah,6540 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6763373,-120.8353572
+El Dorado Office of Education,El Dorado High School East Campus,3440 Pondorado Road Camino  CA 95709,NA,NA,FALSE,tested,,El Dorado County,38.7364619,-120.7063322
+Corona-Norco Unified,Eleanor Roosevelt High,7447 Scholar Way Eastvale CA 92880-9750,NA,NA,FALSE,tested,,Riverside County,33.9545060034915,-117.567067394099
+Gridley Unified,Esperanza High (Continuation),581 Jackson Street Gridley CA 95948-2538,NA,NA,FALSE,tested,,Butte County,39.3651416351383,-121.693335798713
+Redwood City Elementary,Fair Oaks Elementary,2950 Fair Oaks Avenue Redwood City CA 94063-3828,9.3,ppb,TRUE,tested,,San Mateo County,37.4792559076044,-122.204176982277
+Pleasanton Unified,Fairlands Elementary,4151 West Las Positas Boulevard Pleasanton CA 94588-4199,NA,NA,FALSE,tested,,Alameda County,37.6920619393752,-121.873398095342
+Pleasanton Unified,Foothill High,4375 Foothill Road Pleasanton CA 94588-9799,NA,NA,FALSE,tested,,Alameda County,37.6767765252361,-121.921601308575
+Franklin Elementary,Franklin Elementary,332 North Township Road Yuba City CA 95993-9629,NA,NA,FALSE,tested,,Sutter County,39.1277188622026,-121.689176540684
+Redwood City Elementary,Garfield Elementary,3600 Middlefield Road Menlo Park CA 94025-3010,NA,NA,FALSE,tested,,San Mateo County,37.4558801,-122.1666679
+Private,Good Shepherd Catholic School,2727 Mattison Lane Santa Cruz CA 95605,NA,NA,FALSE,tested,,Santa Cruz County,36.984883,-121.972539625
+Los Banos Unified,Green Valley Charter,1149 East B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,,Merced County,37.066742,-120.837844862069
+Gridley Unified,Gridley High,300 East Spruce Street Gridley CA 95948-2235,NA,NA,FALSE,tested,,Butte County,39.3670839618612,-121.684211177729
+Corona-Norco Unified,Harada Elementary,12884 Oakdale Street Eastvale CA 92880-8547,NA,NA,FALSE,tested,,Riverside County,33.9717909357778,-117.562783647734
+Pleasanton Unified,Harvest Park Middle,4900 Valley Ave. Pleasanton CA 94566-5399,NA,NA,FALSE,tested,,Alameda County,37.6753745,-121.882465778918
+Corona-Norco Unified,Home Gardens Academy,13550 Tolton Avenue Corona CA 92879-2059,NA,NA,FALSE,tested,,Riverside County,33.87606365,-117.52066673616
+Hughson Unified,Hughson High,7419 East Whitmore Avenue Hughson CA 95326-0099,NA,NA,FALSE,tested,,Stanislaus County,37.5948250910836,-120.860327360328
+El Dorado Union High,Independence Continuation,385 Pleasant Valley Rd. Diamond Springs CA 95619-1450,NA,NA,FALSE,tested,,El Dorado County,38.6939927,-120.8170909
+Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747317351595,-122.8188799155
+Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,NA,NA,FALSE,tested,,Lake County,38.975451,-122.831847
+Capistrano Unified,Ladera Ranch Elementary,29551 Sienna Parkway Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,,Orange County,33.5694879,-117.6361497
+Capistrano Unified,Ladera Ranch Middle,29551 Sienna Pkwy Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,,Orange County,33.5694879,-117.6361497
+Las Lomitas Elementary,Las Lomitas Elementary,299 Alameda de Las Pulgas Atherton CA 94027-6469,24.8,ppb,TRUE,tested,,San Mateo County,37.44725,-122.2295075
+Menlo Park City Elementary,Laurel School Upper Campus,275 Elliott Dr. Menlo Park CA 94025,NA,NA,FALSE,tested,,San Mateo County,37.4598733,-122.149140530534
+San Miguel Joint Union,Lillian Larsen Elementary,1601 L Street San Miguel CA 93451-9107,NA,NA,FALSE,tested,,San Luis Obispo County,35.7578956,-120.6977034
+Los Gatos-Saratoga Joint Union High,Los Gatos High,20 High School Court Los Gatos CA 95030-6917,NA,NA,FALSE,tested,,Santa Clara County,37.2233806,-121.97663879999
+Palo Alto Unified,Lucille M. Nixon Elementary,1711 Stanford Avenue Stanford CA 94305-1061,NA,NA,FALSE,tested,,Santa Clara County,37.4145454,-122.156197212857
+Pleasanton Unified,Lydiksen Elementary,7700 Highland Oaks Drive Pleasanton CA 94588-4225,8.5,ppb,TRUE,tested,,Alameda County,37.6801045,-121.9224367
+Gridley Unified,McKinley Elementary,1045 Sycamore Street Gridley CA 95948-3040,NA,NA,FALSE,tested,,Butte County,39.3631241392347,-121.698120556692
+Middletown Unified,Middletown High,20932 Big Canyon Road B Middletown CA 95461-0338,NA,NA,FALSE,tested,,Lake County,38.7599979694006,-122.61521278122
+Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,,Lake County,38.9747340666694,-122.819469060212
+Capistrano Unified,Oso Grande Elementary,30251 Sienna Parkway Ladera Ranch CA 92694-1459,NA,NA,FALSE,tested,,Orange County,33.5694879,-117.6361497
+Pleasanton Unified,Phoebe Apperson Hearst Elementary,5301 Case Avenue Pleasanton CA 94566-8005,NA,NA,FALSE,tested,,Alameda County,37.6516956,-121.886346961908
+Pleasanton Unified,Pleasanton Middle,5001 Case Avenue Pleasanton CA 94566-1171,5.5,ppb,TRUE,tested,,Alameda County,37.6546993,-121.883862143064
+Private,Reyn Franca,4041 Main Street Denair CA 95316,NA,NA,FALSE,tested,,Stanislaus County,37.5228705463225,-120.801925298129
+Corona-Norco Unified,River Heights Intermediate,7227 Scholar Way Eastvale CA 92880-4018,NA,NA,FALSE,tested,,Riverside County,33.957497912725,-117.567049221571
+Corona-Norco Unified,Ronald Reagan Elementary,8300 Fieldmaster Street Eastvale CA 92880,NA,NA,FALSE,tested,,Riverside County,33.9427436,-117.5936088
+Private,Santa Cruz Montessori,6230 Soquel Drive Aptos CA 95003,NA,NA,FALSE,tested,,Santa Cruz County,36.9756712,-121.8904278
+Redwood City Elementary,Selby Lane Elementary,170 Selby Lane Atherton CA 94027-3960,17.65,ppb,TRUE,tested,,San Mateo County,37.4580028051083,-122.219215693412
+Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,NA,NA,FALSE,tested,,Yolo County,38.5517363,-121.5486215
+Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,NA,NA,FALSE,tested,,Yolo County,38.5526215,-121.52490798035
+Gridley Unified,Sycamore Middle,1125 Sycamore Street Gridley CA 95948-2949,NA,NA,FALSE,tested,,Butte County,39.3630180549362,-121.699551187251
+Private,Tara Redwood School,4746 Soquel Avenue Soquel CA 95073,NA,NA,FALSE,tested,,Santa Cruz County,36.9851377292843,-121.979826810801
+Templeton Unified,Templeton Middle,925 Old County Road Templeton CA 93465-9420,6.4,ppb,TRUE,tested,,San Luis Obispo County,35.5444526,-120.7107053
+Capistrano Unified,Tesoro High,1 Tesoro Creek Road Las Flores CA 92688-4706,NA,NA,FALSE,tested,,Orange County,33.5810597,-117.612627359073
+Pleasanton Unified,Thomas S. Hart Middle,4433 Willow Road Pleasanton CA 94588-8520,NA,NA,FALSE,tested,,Alameda County,37.6854864,-121.896565162701
+LA County Office of Education,Tri Community,12721 S. Willowbrook Ave Compton CA 90222,NA,NA,FALSE,tested,,Los Angeles County,33.9168239444444,-118.231317055556
+Trona Joint Unified,Trona Elementary,83600 Trona Road. Trona CA 93562-2101,NA,NA,FALSE,tested,,San Bernardino County,35.7706939969096,-117.369153325702
+El Dorado Union High,Union Mine High,6530 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6768064,-120.8386778
+Pleasanton Unified,Valley View Elementary,480 Adams Way Pleasanton CA 94566-7198,NA,NA,FALSE,tested,,Alameda County,37.6607242613643,-121.863738440731
+Pleasanton Unified,Vintage Hills Elementary,1125 Concord Street Pleasanton CA 94566-7236,NA,NA,FALSE,tested,,Alameda County,37.6558154681282,-121.855074073472
+Capistrano Unified,Wagon Wheel Elementary,30912 Bridle Path Coto De Caza CA 92679-5360,NA,NA,FALSE,tested,,Orange County,33.5816852085026,-117.592812752063
+Pleasanton Unified,Walnut Grove Elementary,1999 Harvest Road Pleasanton CA 94566-5499,NA,NA,FALSE,tested,,Alameda County,37.6732137,-121.885415674963
+Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,,Yolo County,38.5778355280378,-121.53071914121
+Muroc Joint Unified,West Boron Elementary,12300 Del Oro Street Boron CA 93516-1310,5.3,ppb,TRUE,tested,,Kern County,35.005389,-117.694285
+Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,NA,NA,FALSE,tested,,Yolo County,38.57282185,-121.537984176912
+Gridley Unified,Wilson Elementary,409 Magnolia Street Gridley CA 95948-2533,NA,NA,FALSE,tested,,Butte County,39.3630959117234,-121.691557653432
+Windsor Unified,Windsor Creek Elementary,8955 Conde Lane Windsor CA 95492-8812,NA,NA,FALSE,tested,,Sonoma County,38.5463117357727,-122.808770443549
+Windsor Unified,Windsor High,8695 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,,Sonoma County,38.543655,-122.816895
+Windsor Unified,Windsor Oaks Academy,8681 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,,Sonoma County,38.5397513110604,-122.816914808923

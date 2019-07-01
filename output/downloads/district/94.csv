@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.5880200353607,-122.384722630488
+Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5886306818914,-122.389057711078
+Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5772110390416,-122.380622431399
+Burlingame Elementary,Lincoln Elementary,1801 Devereux Drive Burlingame CA 94010-4641,NA,NA,FALSE,tested,NA,NA,NA,NA
+Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
+Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5790595624821,-122.368119495521
+Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351

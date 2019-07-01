@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Bernardino County Office of Education,Apple Valley County Early Education Center,18415 Nakash Rd. Apple Valley CA 92307,NA,NA,FALSE,tested,NA,San Bernardino County,34.5439328526926,-117.263761394161
+San Bernardino County Office of Education,Bob Murphy Community School,149 N. Arrowhead Ave. Rialto CA 92376,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0999281632653,-117.386737
+San Bernardino County Office of Education,Chaffey North Community School,7201 Archibald Ave. Suites 4 & 5 Rancho Cucamonga CA 91701,NA,NA,NA,not tested,NA,NA,NA,NA
+San Bernardino County Office of Education,Community School/Independent Alternative Education,244 South D Street San Bernardino CA 92410-3093,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Bernardino County Office of Education,David Stine Chaffey West County Community School,5033 Holt Blvd. Montclair CA 91763,NA,NA,FALSE,tested,Montclair,San Bernardino County,34.0631092012585,-117.695368719971
+San Bernardino County Office of Education,Desert Mountain Community,15733 First Street Victorville CA 92392-2901,NA,NA,NA,not tested,NA,NA,NA,NA
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga CA 91739,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.1434415,-117.558552
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga  CA 91739,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1434415,-117.558552
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga  CA 91730,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1007302662986,-117.593362727199
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga CA 91730,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.1007302662986,-117.593362727199
+San Bernardino County Office of Education,Norma Covert County Education Center,14079 Meadow Grove Dr. Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5051622525253,-117.288367686869
+San Bernardino County Office of Education,Norton Space and Aeronautics Academy,503 East Central Avenue San Bernardino CA 92408-2313,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.0860144466417,-117.275794500857
+San Bernardino County Office of Education,San Bernardino County Special Education,601 North E St San Bernardino CA 92415-0020,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.1583843,-117.2940074
+San Bernardino County Office of Education,Victorville Education Center,12421 Hesperia Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4767971618763,-117.291134325693

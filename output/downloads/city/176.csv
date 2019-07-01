@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Manteca Unified,be.tech,2271 West Louise Ave Manteca CA 95337-8381,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8124828,-121.256742175
+Manteca Unified,Brock Elliott Elementary,1110 Stonum Lane Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7856437346939,-121.239753714286
+Manteca Unified,Calla High,130 South Austin Road Manteca CA 95336-9710,NA,NA,NA,not tested,Manteca,San Joaquin County,37.7743376,-121.1792834
+Manteca Unified,East Union High,1700 North Union Road Manteca CA 95336-9217,NA,NA,NA,not tested,Manteca,San Joaquin County,37.82307,-121.235662
+Manteca Unified,George McParland Annex,1370 London Ave Manteca CA 95366,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8188273353497,-121.244568670909
+Manteca Unified,George McParland Elementary,1601 Northgate Drive Manteca CA 95336-6255,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.820393972973,-121.243567243243
+Manteca Unified,Golden West Elementary,1031 North Main Street Manteca CA 95336-3207,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8112879883243,-121.21716672297
+Manteca Unified,Joshua Cowell Elementary,740 Pestana Avenue Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.807386,-121.1891717
+Manteca Unified,Lincoln Elementary,750 East Yosemite Avenue Manteca CA 95336-5827,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7973528571429,-121.206918857143
+Manteca Unified,Manteca Adult,2271 West Louise Avenue Manteca CA 95337,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8124828,-121.256742175
+Manteca Unified,Manteca Community Day (7-12),737 West Yosemite Avenue Manteca CA 95337-5403,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797499,-121.226223666667
+Manteca Unified,Manteca Community Day (K-6),737 West Yosemite Avenue Manteca CA 95337-5403,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797499,-121.226223666667
+Manteca Unified,Manteca High,450 East Yosemite Avenue Manteca CA 95336-5718,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797339,-121.211058
+Manteca Unified,Sequoia Elementary,710 Martha Street Manteca CA 95337-5430,7.5,ppb,TRUE,tested,Manteca,San Joaquin County,37.7910986666667,-121.224973555556
+Manteca Unified,Sierra High,1700 Thomas Street Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.793619,-121.24646
+Manteca Unified,Stella Brockman Elementary,763 Silverado Drive Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8094113333333,-121.245440666667
+Manteca Unified,Veritas Elementary,1600 Pagola Street Manteca CA 95337-8603,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7744779,-121.230803
+Manteca Unified,Walter Woodward Elementary,575 Tannehill Drive Manteca CA 95337-8709,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7694658332224,-121.208538237193

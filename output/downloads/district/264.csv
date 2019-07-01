@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fruitvale Elementary,Columbia Elementary,703 Mondavi Way Bakersfield CA 93312-4356,NA,NA,FALSE,tested,Bakersfield,Kern County,35.36687834,-119.103977006667
+Fruitvale Elementary,Discovery Elementary,7500 Vaquero Avenue Bakersfield CA 93308-6431,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3992606442953,-119.086683838926
+Fruitvale Elementary,Endeavour Elementary,9300 Meacham Road Bakersfield CA 93312-2706,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390812,-119.108182
+Fruitvale Elementary,Fruitvale Junior High,2114 Calloway Drive Bakersfield CA 93312-2706,5.4,ppb,TRUE,tested,Bakersfield,Kern County,35.3790928985842,-119.110104721551
+Fruitvale Elementary,Quailwood Elementary,7301 Remington Avenue Bakersfield CA 93309-1224,NA,NA,FALSE,tested,Bakersfield,Kern County,35.358427,-119.084069

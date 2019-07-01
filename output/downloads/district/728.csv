@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Scotts Valley Unified,Brook Knoll Elementary,151 Brook Knoll Drive Santa Cruz CA 95060-1342,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0176625757282,-122.030285932578
+Scotts Valley Unified,Scotts Valley High,555 Glenwood Drive Scotts Valley CA 95066-3262,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.0710452945762,-122.004828641007
+Scotts Valley Unified,Scotts Valley Middle,8 Bean Creek Road Scotts Valley CA 95066-4109,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.062215,-122.017835
+Scotts Valley Unified,Vine Hill Elementary,151 Vine Hill School Road Scotts Valley CA 95066-3211,NA,NA,FALSE,tested,NA,NA,NA,NA

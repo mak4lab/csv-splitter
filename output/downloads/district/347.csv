@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Kern County Superintendent of Schools,Auburn Community School,3700 Auburn St Bakersfield CA 93306,6,ppb,TRUE,tested,Bakersfield,Kern County,35.3978066122485,-118.950883373797
+Kern County Superintendent of Schools,Aurora Center,7900 Niles Bakersfield CA 93306,NA,NA,NA,not tested,Bakersfield,Kern County,35.376252,-118.922946
+Kern County Superintendent of Schools,Community Learning Center,222 34th St Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.3904031055276,-119.008365386935
+Kern County Superintendent of Schools,Sandstone Education Center,300 E Truxton Ave Bakersfield CA 93305,NA,NA,FALSE,tested,NA,NA,NA,NA
+Kern County Superintendent of Schools,Sillect Community School,3600 Sillect Ave Bakersfield CA 93308,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390714663799,-119.037192471538
+Kern County Superintendent of Schools,Valley Oaks Charter School,3401 Chester Ave Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390579,-119.018833

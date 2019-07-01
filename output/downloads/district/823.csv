@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Tustin Unified,Arnold O. Beckman High,3588 Bryan Avenue Irvine CA 92602-1347,NA,NA,FALSE,tested,Irvine,Orange County,33.7189478721109,-117.780751660009
+Tustin Unified,Arroyo Elementary,11112 Coronel Road Santa Ana CA 92705-2492,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tustin Unified,Barbara Benson Elementary,12712 Elizabeth Way Tustin CA 92780-2811,NA,NA,FALSE,tested,Tustin,Orange County,33.7513901055517,-117.805291103586
+Tustin Unified,Benjamin F. Beswick Elementary,1362 Mitchell Avenue Tustin CA 92780-5746,NA,NA,FALSE,tested,Tustin,Orange County,33.73118615,-117.820591263011
+Tustin Unified,C. E. Utt Middle,13601 Browning Avenue Tustin CA 92780-5212,NA,NA,FALSE,tested,Tustin,Orange County,33.73375315,-117.805557986597
+Tustin Unified,Columbus Tustin Middle,17952 Beneta Way Tustin CA 92780-2659,NA,NA,FALSE,tested,Tustin,Orange County,33.7510180751831,-117.819410183845
+Tustin Unified,Foothill High,19251 Dodge Avenue Santa Ana CA 92705-2236,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tustin Unified,Guin Foss Elementary,18492 Vanderlip Avenue Santa Ana CA 92705-3242,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tustin Unified,Helen Estock Elementary,14741 North B Street Tustin CA 92780-2529,NA,NA,FALSE,tested,Tustin,Orange County,33.7501105918367,-117.825714102041
+Tustin Unified,Heritage Elementary,15400 Lansdowne Rd. Tustin CA 92782,NA,NA,FALSE,tested,Tustin,Orange County,33.718208250000004,-117.828945532762
+Tustin Unified,Hewes Middle,13232 Hewes Avenue Santa Ana CA 92705-2246,5.6,ppb,TRUE,tested,NA,NA,NA,NA
+Tustin Unified,Hicks Canyon Elementary,3817 Viewpark Irvine CA 92602-2036,7.52,ppb,TRUE,tested,Irvine,Orange County,33.728221,-117.773502
+Tustin Unified,Hillview High (Continuation),1151 San Juan Street Tustin CA 92780-4629,NA,NA,FALSE,tested,Tustin,Orange County,33.7399838,-117.816118216934
+Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Tustin Unified,Ladera Elementary,2515 Rawlings Way Tustin CA 92782-5111,NA,NA,FALSE,tested,Tustin,Orange County,33.7434492,-117.7793452
+Tustin Unified,Loma Vista Elementary,13822 Prospect Avenue Santa Ana CA 92705-2690,5.8,ppb,TRUE,tested,NA,NA,NA,NA
+Tustin Unified,Marjorie Veeh Elementary,1701 San Juan Street Tustin CA 92780-5204,NA,NA,FALSE,tested,Tustin,Orange County,33.7353166,-117.809395451523
+Tustin Unified,Myford Elementary,3181 Trevino Drive Irvine CA 92602-0795,NA,NA,FALSE,tested,Tustin,Orange County,33.73567855,-117.775899157732
+Tustin Unified,Orange County Department of Education Foothill HS Annex,19061 Foothill Blvd Santa Ana CA 92705,NA,NA,NA,not tested,NA,NA,NA,NA
+Tustin Unified,Orchard Hills,11555 Culver Drive Irvine CA 92602-0835,NA,NA,FALSE,tested,Irvine,Orange County,33.7279373,-117.7643135
+Tustin Unified,Peters Canyon Elementary,26900 Peters Canyon Road Tustin CA 92782-3300,NA,NA,FALSE,tested,Irvine,Orange County,33.7110154,-117.7987287
+Tustin Unified,Pioneer Middle,2700 Pioneer Rd. Irvine CA 92782,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tustin Unified,Red Hill Elementary,11911 Red Hill Avenue Santa Ana CA 92705-3105,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7046979,-117.8443152
+Tustin Unified,Robert Heideman Elementary,15571 Williams Street Tustin CA 92780-4146,5.9,ppb,TRUE,tested,Tustin,Orange County,33.7374064,-117.840871568978
+Tustin Unified,Tustin High,1171 El Camino Real Tustin CA 92780-4660,NA,NA,FALSE,tested,Tustin,Orange County,33.7374689,-117.817307684096
+Tustin Unified,Tustin Memorial Elementary,12712 Browning Avenue Santa Ana CA 92705-3465,NA,NA,FALSE,tested,NA,NA,NA,NA
+Tustin Unified,Tustin Ranch Elementary,12950 Robinson Drive Tustin CA 92782-0921,NA,NA,FALSE,tested,Tustin,Orange County,33.7349903,-117.7894207
+Tustin Unified,W. R. Nelson Elementary,14392 Browning Avenue Tustin CA 92780-6338,NA,NA,FALSE,tested,Tustin,Orange County,33.723443,-117.812667783212

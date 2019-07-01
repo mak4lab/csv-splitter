@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Waterford Unified,Connecting Waters Charter,12420 Bentley Street Waterford CA 95386-9150,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.6392838793873,-120.763520752415
+Waterford Unified,Lucille Whitehead Intermediate,119 North Reinway Avenue Waterford CA 95386-9211,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.641958,-120.773979
+Waterford Unified,Richard M. Moon Primary,319 North Reinway Avenue Waterford CA 95386-9187,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.6427643093872,-120.773989512391
+Waterford Unified,Sentinel High,121 South Reinway Avenue Waterford CA 95386-9629,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.6378238282828,-120.773929868687
+Waterford Unified,Waterford Adult Education Center,12916 Bentley Street Waterford CA 95386,NA,NA,NA,not tested,Waterford,Stanislaus County,37.6428313333333,-120.757464333333
+Waterford Unified,Waterford Junior,12916 Bentley St Waterford CA 95386-9017,5.6,ppb,TRUE,tested,Waterford,Stanislaus County,37.6428313333333,-120.757464333333

@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Leandro Unified,Bancroft Middle,1150 Bancroft Avenue San Leandro CA 94577-3863,6.699999999999999,ppb,TRUE,tested,San Leandro,Alameda County,37.7281501919192,-122.148130474747
+San Leandro Unified,Barbara Lee Center for Health and Wellness,2251 Bancroft Ave San Leandro CA 94577,NA,NA,NA,not tested,San Leandro,Alameda County,37.7216733,-122.1454822
+San Leandro Unified,Burrell Pacific Sports Complex,Teagarden Street San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7073633,-122.1593135
+San Leandro Unified,Garfield Elementary,13050 Aurora Drive San Leandro CA 94577-3159,NA,NA,FALSE,tested,San Leandro,Alameda County,37.704264042752,-122.186136750719
+San Leandro Unified,Jefferson Elementary,14300 Bancroft Avenue San Leandro CA 94578-1727,NA,NA,FALSE,tested,San Leandro,Alameda County,37.71303565,-122.135659097733
+San Leandro Unified,John Muir Middle,1444 Williams Street San Leandro CA 94577-2403,NA,NA,FALSE,tested,San Leandro,Alameda County,37.721329,-122.1508926
+San Leandro Unified,Lincoln High (Continuation),2600 Teagarden Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.709039,-122.160271
+San Leandro Unified,Madison Elementary,14751 Juniper Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.695629,-122.160449
+San Leandro Unified,McKinley Elementary,2150 East 14th Street San Leandro CA 94577-6025,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7190104836725,-122.147849341045
+San Leandro Unified,Monroe Elementary,3750 Monterey Boulevard San Leandro CA 94578-4116,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6981333939697,-122.146120511201
+San Leandro Unified,Roosevelt Elementary,951 Dowling Boulevard San Leandro CA 94577-2125,NA,NA,FALSE,tested,San Leandro,Alameda County,37.736357922489,-122.146880060838
+San Leandro Unified,San Leandro Adult,14735 Juniper Street San Leandro CA 94577-6108,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6959920437928,-122.160508860651
+San Leandro Unified,San Leandro High,2200 Bancroft Avenue San Leandro CA 94577-6108,5.5,ppb,TRUE,tested,San Leandro,Alameda County,37.7185851,-122.141345506275
+San Leandro Unified,San Leandro High Fred T Korematsu Campus,13701 Bancroft Ave San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7216733,-122.1454822
+San Leandro Unified,Washington Elementary,250 Dutton Avenue San Leandro CA 94577-2804,7.3,ppb,TRUE,tested,San Leandro,Alameda County,37.7324946233244,-122.156521601829
+San Leandro Unified,Wilson Elementary,1300 Williams Street San Leandro CA 94577-2401,NA,NA,FALSE,tested,San Leandro,Alameda County,37.715301,-122.165543

@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+New Haven Unified,Alvarado Elementary,31100 Fredi Street Union City CA 94587-2662,NA,NA,FALSE,tested,NA,Alameda County,37.5951713,-122.075430811472
+New Haven Unified,Cesar Chavez Middle,2801 Hop Ranch Road Union City CA 94587-5708,NA,NA,FALSE,tested,NA,Alameda County,37.5908013814989,-122.047206331903
+New Haven Unified,Core Learning Academy at Conley-Caraballo High,541 Blanche St Hayward CA 94544-7700,NA,NA,FALSE,tested,Hayward,Alameda County,37.6147823877551,-122.029290734694
+New Haven Unified,Decoto School for Independent Study,600 G Street Union City CA 94587-2400,NA,NA,FALSE,tested,NA,Alameda County,37.5995437,-122.01968182526
+New Haven Unified,Delaine Eastin Elementary,34901 Eastin Drive Union City CA 94587-5577,NA,NA,FALSE,tested,NA,Alameda County,37.5666583608325,-122.074762424448
+New Haven Unified,Guy Jr. Emanuele Elementary,100 Decoto Road Union City CA 94587-3572,NA,NA,NA,not tested,NA,Alameda County,37.5798893,-122.0243491
+New Haven Unified,Hillview Crest Elementary,31410 Wheelon Avenue Hayward CA 94544-7662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6148331607151,-122.036186698954
+New Haven Unified,Itliong-Vera Cruz,31604 Alvarado Boulevard Union City CA 94587-5802,NA,NA,FALSE,tested,NA,Alameda County,37.5940148,-122.075862133026
+New Haven Unified,James Logan High,1800 H Street Union City CA 94587-3321,NA,NA,FALSE,tested,NA,Alameda County,37.5926016,-122.025843
+New Haven Unified,New Haven Adult,1800 H St. Union City CA 94587-3321,NA,NA,FALSE,tested,NA,Alameda County,37.5926016,-122.025843
+New Haven Unified,Pioneer Elementary,32737 Bel Aire Street Union City CA 94587-5500,8.7,ppb,TRUE,tested,NA,Alameda County,37.5722566926292,-122.072574629447
+New Haven Unified,Searles Elementary,33629 15th Street Union City CA 94587-3322,NA,NA,NA,not tested,NA,Alameda County,37.5956,-122.028174798781
+New Haven Unified,Tom Kitayama Elementary,1959 Sunsprite Drive Union City CA 94587-1995,NA,NA,FALSE,tested,NA,Alameda County,37.59842065,-122.050124345667

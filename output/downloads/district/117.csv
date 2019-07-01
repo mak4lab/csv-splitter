@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Carlsbad Unified,Aviara Oaks Elementary,6900 Ambrosia Lane Carlsbad CA 92009-2430,NA,NA,NA,not tested,Carlsbad,San Diego County,33.101104559633,-117.276366972477
+Carlsbad Unified,Buena Vista Elementary,1330 Buena Vista Way Carlsbad CA 92008-1535,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.168797,-117.342657912543
+Carlsbad Unified,Calavera Hills Elementary,4100 Tamarack Avenue Carlsbad CA 92008-7101,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1499363,-117.3412066
+Carlsbad Unified,Carlsbad High,3557 Monroe Street B Carlsbad CA 92008-2729,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1623891364635,-117.32700991592
+Carlsbad Unified,Hope Elementary,3010 Tamarack Avenue Carlsbad CA 92008-2430,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.169678,-117.303104
+Carlsbad Unified,Jefferson Elementary,3743 Jefferson Street Carlsbad CA 92008-3336,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.163296,-117.347221
+Carlsbad Unified,Kelly Elementary,4885 Kelly Drive Carlsbad CA 92008-3734,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1493542263387,-117.311346177366
+Carlsbad Unified,Magnolia Elementary,1905 Magnolia Avenue Carlsbad CA 92008-2632,5.7,ppb,TRUE,tested,Carlsbad,San Diego County,33.1600610763636,-117.326672756782
+Carlsbad Unified,Pacific Rim Elementary,1100 Camino de las Ondas Carlsbad CA 92009-3400,NA,NA,NA,not tested,NA,NA,NA,NA
+Carlsbad Unified,Poinsettia Elementary,2445 Mica Road Carlsbad CA 92009-1733,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1184473145235,-117.253905203322
+Carlsbad Unified,Valley Middle,1645 Magnolia Avenue Carlsbad CA 92008-2626,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1588363183904,-117.329341846886

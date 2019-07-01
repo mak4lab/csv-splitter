@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Del Mar Union Elementary,Ashley Falls Elementary,13030 Ashley Falls Drive San Diego CA 92130-3717,NA,NA,FALSE,tested,San Diego,San Diego County,32.957282,-117.209555
+Del Mar Union Elementary,Carmel Del Mar Elementary,12345 Carmel Park Drive San Diego CA 92130-2222,NA,NA,FALSE,tested,San Diego,San Diego County,32.940702,-117.228672
+Del Mar Union Elementary,Del Mar Heights Elementary,13555 Boquita Drive Del Mar CA 92014-3453,NA,NA,FALSE,tested,San Diego,San Diego County,32.94459,-117.249454
+Del Mar Union Elementary,Del Mar Hills Elementary,14085 Mango Drive Del Mar CA 92014-0640,NA,NA,FALSE,tested,San Diego,San Diego County,32.954051,-117.246195
+Del Mar Union Elementary,Ocean Air,11444 Canter Heights Drive San Diego CA 92130-6974,NA,NA,FALSE,tested,San Diego,San Diego County,32.927201419055,-117.213980850676
+Del Mar Union Elementary,Sage Canyon,5290 Harvest Run Drive San Diego CA 92130-4875,NA,NA,FALSE,tested,San Diego,San Diego County,32.92617,-117.203542
+Del Mar Union Elementary,Sycamore Ridge,5333 Old Carmel Valley Road San Diego CA 92130-2650,NA,NA,FALSE,tested,San Diego,San Diego County,32.9576874,-117.1942299
+Del Mar Union Elementary,Torrey Hills,10830 Calle Mar de Mariposa San Diego CA 92130-8657,NA,NA,FALSE,tested,NA,NA,NA,NA

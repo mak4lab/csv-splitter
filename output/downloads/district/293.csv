@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Grossmont Union High,Chaparral High/IDEA Center,1600 North Cuyamaca Street El Cajon CA 92021,5.5,ppb,TRUE,tested,El Cajon,San Diego County,32.812329,-116.9796032
+Grossmont Union High,East County Regional Education Center,924 East Main St El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7950011540584,-116.949071192215
+Grossmont Union High,El Cajon Valley High,1035 East Madison Avenue El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+Grossmont Union High,El Cajon Valley High/EC Adult Center,1035 East Madison Ave El Cajon CA 92021-6226,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+Grossmont Union High,El Capitan High,10410 Ashwood Street Lakeside CA 92040-2406,NA,NA,FALSE,tested,NA,San Diego County,32.8681,-116.916664
+Grossmont Union High,Elite/REACH Academy,230 Jamacha Boulevard El Cajon CA 92019-2359,NA,NA,FALSE,tested,NA,San Diego County,32.7209813,-116.9723311
+Grossmont Union High,Foothills Adult Education Center,1550 Melody Lane El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Grossmont Union High,Foothills and Grossmont Adult Education Centers,1550 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Grossmont Union High,Granite Hills High,1719 East Madison Avenue El Cajon CA 92019-1052,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001269952629,-116.916925978708
+Grossmont Union High,Grossmont High,1100 Murray Drive La Mesa CA 91944-1043,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7800118,-116.9998195
+Grossmont Union High,Helix High,7323 University Avenue La Mesa CA 91941-6055,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7684756,-117.0145661
+Grossmont Union High,Monte Vista High,3230 Sweetwater Springs Boulevard Spring Valley CA 91977-6934,NA,NA,FALSE,tested,NA,San Diego County,32.737742,-116.973713
+Grossmont Union High,Mount Miguel High,8585 Blossom Lane Spring Valley CA 91977-3765,NA,NA,FALSE,tested,NA,NA,NA,NA
+Grossmont Union High,Santana High,9915 North Magnolia Avenue Santee CA 92071-1903,NA,NA,FALSE,tested,Santee,San Diego County,32.8575395,-116.9711435
+Grossmont Union High,Steele Canyon Adult Center,12440 Campo Road Spring Valley CA 91978-2331,NA,NA,NA,not tested,NA,San Diego County,32.72979,-116.926704
+Grossmont Union High,Steele Canyon High,12440 Campo Road Spring Valley CA 91978-2331,NA,NA,FALSE,tested,NA,San Diego County,32.72979,-116.926704
+Grossmont Union High,Valhalla High,1725 Hillsdale Road El Cajon CA 92019-3742,NA,NA,FALSE,tested,NA,San Diego County,32.7622956771539,-116.921440705184
+Grossmont Union High,West Hills High,8756 Mast Boulevard Santee CA 92071-2046,NA,NA,FALSE,tested,Santee,San Diego County,32.855052,-116.9807246

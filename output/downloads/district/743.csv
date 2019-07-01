@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sierra-Plumas Joint Unified,Downieville Elementary,130 School Street Downieville CA 95936-0396,8.3,ppb,TRUE,tested,NA,Sierra County,39.5613184589858,-120.827293009947
+Sierra-Plumas Joint Unified,Downieville Junior-Senior High,130 School St Downieville CA 95936,NA,NA,FALSE,tested,NA,Sierra County,39.5613184589858,-120.827293009947
+Sierra-Plumas Joint Unified,Loyalton Elementary,111 Beckwith Loyalton CA 96118-0127,NA,NA,NA,not tested,Loyalton,Sierra County,39.67716,-120.241287
+Sierra-Plumas Joint Unified,Loyalton High,700 Fourth Street Loyalton CA 96118-0037,NA,NA,NA,not tested,NA,NA,NA,NA

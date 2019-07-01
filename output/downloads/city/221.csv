@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palos Verdes Peninsula Unified,Lunada Bay Elementary,520 Paseo Lunado Palos Verdes Estates CA 90274-4377,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.76759735,-118.417354778767
+Palos Verdes Peninsula Unified,Montemalaga Elementary,1121 Via Nogales Palos Verdes Estates CA 90274-1671,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.7904146,-118.395005643
+Palos Verdes Peninsula Unified,Palos Verdes High,600 Cloyden Road Palos Verdes Estates CA 90274-1869,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.781603,-118.419332
+Palos Verdes Peninsula Unified,Palos Verdes Intermediate,2161 Via Olivera Palos Verdes Estates CA 90274-1983,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.7776057,-118.412014344862
+Palos Verdes Peninsula Unified,Valmonte Elementary,3801 Via La Selva Palos Verdes Estates CA 90274-1119,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.800565,-118.364532

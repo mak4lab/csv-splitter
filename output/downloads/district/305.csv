@@ -1,0 +1,41 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hayward Unified,Anthony W. Ochoa Middle,2121 Depot Road Hayward CA 94545-2428,NA,NA,FALSE,tested,Hayward,Alameda County,37.638918,-122.1092449
+Hayward Unified,Bowman Elementary,520 Jefferson Street Hayward CA 94544-4126,NA,NA,FALSE,tested,Hayward,Alameda County,37.6415373448276,-122.062094344828
+Hayward Unified,Brenkwitz High,22100 Princeton Street Hayward CA 94541-3817,9.4,ppb,TRUE,tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Bret Harte Middle,1047 E Street Hayward CA 94540-5000,8,ppb,TRUE,tested,Hayward,Alameda County,37.6702592083333,-122.078915125
+Hayward Unified,Burbank Elementary,353 B Street Hayward CA 94541-6307,NA,NA,FALSE,tested,Hayward,Alameda County,37.6679363469388,-122.094260367347
+Hayward Unified,Cesar Chavez Middle,27845 Whitman Road Hayward CA 94544-4752,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hayward Unified,Cherryland Elementary,585 Willow Avenue Hayward CA 94541-2424,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hayward Unified,East Avenue Elementary,2424 East Avenue Hayward CA 94541-5634,NA,NA,FALSE,tested,Hayward,Alameda County,37.6730696,-122.0729659
+Hayward Unified,Eden Area ROP,26316 Hesperian Blvd Hayward CA 94545,NA,NA,FALSE,tested,Hayward,Alameda County,37.6386646,-122.1004683
+Hayward Unified,Eden Gardens Elementary,2184 Thayer Avenue Hayward CA 94545-2925,10,ppb,TRUE,tested,Hayward,Alameda County,37.6380404561692,-122.107187204476
+Hayward Unified,Eldridge Elementary,26825 Eldridge Avenue Hayward CA 94544-3729,NA,NA,FALSE,tested,Hayward,Alameda County,37.6400767,-122.0896277
+Hayward Unified,Fairview Elementary,23515 Maud Avenue Hayward CA 94541-4519,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hayward Unified,Faith Ringgold School of Arts and Science,1570 Ward Street Hayward CA 94541-3030,NA,NA,FALSE,tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Hayward Unified,Glassbrook Elementary,975 Schafer Road Hayward CA 94544-3614,NA,NA,FALSE,tested,Hayward,Alameda County,37.6409460035683,-122.08079522331
+Hayward Unified,Golden Oak Montessori of Hayward,2652 Vergil Court Castro Valley CA 94546-6402,NA,NA,FALSE,tested,NA,Alameda County,37.6879723543384,-122.069620482607
+Hayward Unified,Harder Elementary,495 Wyeth Road Hayward CA 94544-2951,NA,NA,FALSE,tested,Hayward,Alameda County,37.651390981657,-122.072435407337
+Hayward Unified,Hayward Adult,22100 Princeton St Hayward CA 94540-0001,NA,NA,NA,not tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Hayward High,1633 East Avenue Hayward CA 94541-5314,NA,NA,FALSE,tested,Hayward,Alameda County,37.6718433604168,-122.06321744702
+Hayward Unified,Highland,2021 Highland Boulevard Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.662192,-122.0593081
+Hayward Unified,Impact Academy of Arts & Technology,2560 Darwin Street Hayward CA 94545-3451,NA,NA,FALSE,tested,Hayward,Alameda County,37.6306989,-122.102808489352
+Hayward Unified,Knowledge Enlightens You (KEY) Academy,1570 Ward St Hayward CA 94541-3030,NA,NA,NA,not tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Hayward Unified,Leadership Public Schools - Hayward,28000 Calaroga Avenue Hayward CA 94545-4600,NA,NA,FALSE,tested,Hayward,Alameda County,37.624106,-122.087806
+Hayward Unified,Longwood Elementary,850 Longwood Avenue Hayward CA 94541-7151,NA,NA,FALSE,tested,Hayward,Alameda County,37.6590006088813,-122.110153095253
+Hayward Unified,Lorin A. Eden Elementary,27790 Portsmouth Avenue Hayward CA 94545-4013,NA,NA,FALSE,tested,Hayward,Alameda County,37.6243776,-122.1005191
+Hayward Unified,"Martin Luther King, Jr. Middle",26890 Holly Hill Avenue Hayward CA 94545-3500,NA,NA,FALSE,tested,Hayward,Alameda County,37.6352299849854,-122.092538578604
+Hayward Unified,Mt. Eden High,2300 Panama Street Hayward CA 94545-4662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6237799,-122.089999804239
+Hayward Unified,Palma Ceia Elementary,27679 Melbourne Avenue Hayward CA 94545-4723,NA,NA,FALSE,tested,Hayward,Alameda County,37.6272392746495,-122.085324492472
+Hayward Unified,Park Elementary,411 Larchmont Street Hayward CA 94540-1103,NA,NA,FALSE,tested,Hayward,Alameda County,37.6540961,-122.093084100678
+Hayward Unified,Ruus Elementary,28027 Dickens Avenue Hayward CA 94540-5639,NA,NA,FALSE,tested,Hayward,Alameda County,37.6275242440091,-122.073835681688
+Hayward Unified,Schafer Park Elementary,26268 Flamingo Avenue Hayward CA 94544-3159,NA,NA,FALSE,tested,Hayward,Alameda County,37.6430034,-122.086435715207
+Hayward Unified,Silver Oak High Public Montessori Charter,951 Palisade Street Hayward CA 94542-1048,NA,NA,NA,not tested,Hayward,Alameda County,37.662154,-122.0724628
+Hayward Unified,Southgate Elementary,26601 Calaroga Avenue Hayward CA 94545-3121,NA,NA,FALSE,tested,Hayward,Alameda County,37.6382685,-122.094469577187
+Hayward Unified,Special Education-Preschool-Laurel,2652 Vergil Ct Castro Valley CA 94546-6402,NA,NA,NA,not tested,NA,Alameda County,37.6879723543384,-122.069620482607
+Hayward Unified,Stonebrae Elementary,28761 Hayward Boulevard Hayward CA 94542-2213,NA,NA,FALSE,tested,Hayward,Alameda County,37.6561487175933,-122.023761305282
+Hayward Unified,Strobridge Elementary,21400 Bedford Drive Castro Valley CA 94546-6805,NA,NA,FALSE,tested,NA,Alameda County,37.6873,-122.087477
+Hayward Unified,Student Information and Assessment Center (SIAC),27211 Tyrrell Avenue Hayward CA 94544,8.5,ppb,TRUE,tested,Hayward,Alameda County,37.6364929930587,-122.074616184804
+Hayward Unified,Tennyson High,27035 Whitman Road Hayward CA 94544-4099,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hayward Unified,Treeview Elementary,30565 Treeview Street Hayward CA 94544-7458,NA,NA,FALSE,tested,Hayward,Alameda County,37.62444935,-122.038027532852
+Hayward Unified,Tyrrell Elementary,27000 Tyrrell Avenue Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.63830505,-122.07467772156
+Hayward Unified,Winton Middle,119 Winton Avenue Hayward CA 94540-5000,5.2,ppb,TRUE,tested,Hayward,Alameda County,37.6606222186877,-122.090458064193

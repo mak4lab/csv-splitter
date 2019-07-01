@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,NA,NA,FALSE,tested,Roseville,Placer County,38.7372661522643,-121.238137967699
+Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,NA,NA,FALSE,tested,NA,NA,NA,NA
+Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,NA,NA,FALSE,tested,Roseville,Placer County,38.7386033133539,-121.247270586148
+Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,NA,NA,NA,NA
+Eureka Union,Olive Ranch School,5280 Stirling St Granite Bay CA 95746,NA,NA,FALSE,tested,NA,Placer County,38.7519343265306,-121.205048367347
+Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,NA,NA,FALSE,tested,Roseville,Placer County,38.748001,-121.233866
+Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,NA,NA,NA,NA
+Eureka Union,Willma Cavitt Junior High,7200 Fuller Drive Granite Bay CA 95746-6247,5.1,ppb,TRUE,tested,NA,Placer County,38.739944,-121.166279

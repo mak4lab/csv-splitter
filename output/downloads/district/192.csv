@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dixie Elementary,Dixie Elementary,1175 Idylberry Drive San Rafael CA 94903-1131,NA,NA,FALSE,tested,NA,NA,NA,NA
+Dixie Elementary,Mary E. Silveira Elementary,375 Blackstone Drive San Rafael CA 94903-1401,NA,NA,FALSE,tested,NA,NA,NA,NA
+Dixie Elementary,Miller Creek Middle,2255 Las Gallinas Avenue San Rafael CA 94903-1699,NA,NA,FALSE,tested,San Rafael,Marin County,38.0063203,-122.5444299
+Dixie Elementary,Vallecito Elementary,50 Nova Albion Way San Rafael CA 94903-3556,NA,NA,FALSE,tested,San Rafael,Marin County,38.0078087606722,-122.549399612316

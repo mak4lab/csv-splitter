@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Valley Center-Pauma Unified,Lilac,30109 Lilac Road Valley Center CA 92082-3318,NA,NA,FALSE,tested,NA,San Diego County,33.2560817389783,-117.068014878735
+Valley Center-Pauma Unified,Oak Glen High,14172 West Oak Glen Road Valley Center CA 92082-4123,NA,NA,FALSE,tested,NA,NA,NA,NA
+Valley Center-Pauma Unified,Pauma Elementary,33158 Cole Grade Road Pauma Valley CA 92061-9578,NA,NA,NA,not tested,NA,San Diego County,33.315703,-117.00149
+Valley Center-Pauma Unified,Spring Creek Elementary School,4675 Mayette Ave Santa Rosa CA 95405,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.443192096534,-122.667952135091
+Valley Center-Pauma Unified,Valley Center Elementary,28751 Cole Grade Road Valley Center CA 92082-6575,NA,NA,FALSE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center High,31322 Cole Grade Road Valley Center CA 92082-3867,NA,NA,FALSE,tested,NA,San Diego County,33.2803,-117.024659
+Valley Center-Pauma Unified,Valley Center Middle,28102 North Lake Wohlford Road Valley Center CA 92082-6740,NA,NA,FALSE,tested,NA,NA,NA,NA
+Valley Center-Pauma Unified,Valley Center Prep,28751-U Cole Grade Road Valley Center CA 92082,7,ppb,TRUE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center Primary,14249 Fruitvale Road Valley Center CA 92082-5907,NA,NA,FALSE,tested,NA,San Diego County,33.239526,-117.021573

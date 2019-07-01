@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Capistrano Unified,Aliso Niguel High,28000 Wolverine Way Aliso Viejo CA 92656-3385,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5632975,-117.719641059703
+Capistrano Unified,Aliso Viejo Middle,111 Park Avenue Aliso Viejo CA 92656-2847,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5795978623721,-117.713799098523
+Capistrano Unified,Canyon Vista Elementary,27800 Oak View Drive Aliso Viejo CA 92656-6244,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5625285,-117.7349394
+Capistrano Unified,Don Juan Avila Elementary,26278 Wood Canyon Drive Aliso Viejo CA 92656-8060,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
+Capistrano Unified,Don Juan Avila Middle,26278 Wood Canyon Dr Aliso Viejo CA 92656-8060,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.5620222416638,-117.734664198965
+Capistrano Unified,Journey,27102 Foxborough Aliso Viejo CA 92656-3377,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5670806050735,-117.719504628039
+Capistrano Unified,Oak Grove Elementary,22705 Sanborn Aliso Viejo CA 92656-6055,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5750809127513,-117.735562182423
+Capistrano Unified,Wood Canyon Elementary,23431 Knollwood Aliso Viejo CA 92656-4240,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.5535398,-117.7220088

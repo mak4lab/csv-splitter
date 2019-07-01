@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pleasanton Unified,Alisal Elementary,1454 Santa Rita Road Pleasanton CA 94566-5697,NA,NA,FALSE,tested,,Alameda County,37.67231995,-121.870551916727
+Pleasanton Unified,Amador Valley Adult and Community Education,215 Abbie Street Pleasanton CA 94566-7499,NA,NA,FALSE,tested,,Alameda County,37.6571789651955,-121.874764113713
+Pleasanton Unified,Amador Valley High,1155 Santa Rita Road Pleasanton CA 94566-6176,7.6,ppb,TRUE,tested,,Alameda County,37.6880944,-121.8779237
+Pleasanton Unified,Donlon Elementary,4150 Dorman Road Pleasanton CA 94588-4411,NA,NA,FALSE,tested,,Alameda County,37.6846217820999,-121.906961064534
+Pleasanton Unified,Fairlands Elementary,4151 West Las Positas Boulevard Pleasanton CA 94588-4199,NA,NA,FALSE,tested,,Alameda County,37.6920619393752,-121.873398095342
+Pleasanton Unified,Foothill High,4375 Foothill Road Pleasanton CA 94588-9799,NA,NA,FALSE,tested,,Alameda County,37.6767765252361,-121.921601308575
+Pleasanton Unified,Harvest Park Middle,4900 Valley Ave. Pleasanton CA 94566-5399,NA,NA,FALSE,tested,,Alameda County,37.6753745,-121.882465778918
+Pleasanton Unified,Henry P. Mohr Elementary,3300 Dennis Drive Pleasanton CA 94588-8377,NA,NA,FALSE,tested,NA,Alameda County,37.6921492,-121.860393211723
+Pleasanton Unified,Lydiksen Elementary,7700 Highland Oaks Drive Pleasanton CA 94588-4225,8.5,ppb,TRUE,tested,,Alameda County,37.6801045,-121.9224367
+Pleasanton Unified,Phoebe Apperson Hearst Elementary,5301 Case Avenue Pleasanton CA 94566-8005,NA,NA,FALSE,tested,,Alameda County,37.6516956,-121.886346961908
+Pleasanton Unified,Pleasanton Middle,5001 Case Avenue Pleasanton CA 94566-1171,5.5,ppb,TRUE,tested,,Alameda County,37.6546993,-121.883862143064
+Pleasanton Unified,Thomas S. Hart Middle,4433 Willow Road Pleasanton CA 94588-8520,NA,NA,FALSE,tested,,Alameda County,37.6854864,-121.896565162701
+Pleasanton Unified,Valley View Elementary,480 Adams Way Pleasanton CA 94566-7198,NA,NA,FALSE,tested,,Alameda County,37.6607242613643,-121.863738440731
+Pleasanton Unified,Vintage Hills Elementary,1125 Concord Street Pleasanton CA 94566-7236,NA,NA,FALSE,tested,,Alameda County,37.6558154681282,-121.855074073472
+Pleasanton Unified,Walnut Grove Elementary,1999 Harvest Road Pleasanton CA 94566-5499,NA,NA,FALSE,tested,,Alameda County,37.6732137,-121.885415674963

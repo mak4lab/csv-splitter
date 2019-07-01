@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Novato Unified,Hamilton Meadow Park,5530 Nave Drive Novato CA 94949-6435,NA,NA,NA,not tested,NA,Marin County,38.0533849015494,-122.530332525867
+Novato Unified,Loma Verde Elementary,399 Alameda de La Loma Novato CA 94949-5935,NA,NA,NA,not tested,NA,Marin County,38.0661778,-122.5507521
+Novato Unified,Lu Sutton Elementary,1800 Center Road Novato CA 94947-2975,NA,NA,FALSE,tested,NA,Marin County,38.105494,-122.58659
+Novato Unified,Lynwood Elementary,1320 Lynwood Drive Novato CA 94947-4629,NA,NA,FALSE,tested,NA,Marin County,38.0858565918367,-122.561418653061
+Novato Unified,Marin Oaks High,720 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0985836158864,-122.576449987798
+Novato Unified,Nexus Academy,720 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0985836158864,-122.576449987798
+Novato Unified,Nova Education Center,720 Diablo Boulevard Novato CA 94947-4004,NA,NA,FALSE,tested,NA,NA,NA,NA
+Novato Unified,Novato Adult Education Center,740 Diablo Boulevard Novato CA 94947-4062,NA,NA,FALSE,tested,NA,NA,NA,NA
+Novato Unified,Novato Charter,940 C Street Novato CA 94949-5060,NA,NA,NA,not tested,NA,Marin County,38.0573163608952,-122.526118157146
+Novato Unified,Novato Early Intervention,740 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0987450805499,-122.576331764384
+Novato Unified,Novato High,625 Arthur Street Novato CA 94947-4499,5.3,ppb,TRUE,tested,NA,Marin County,38.0906304428302,-122.57196305929
+Novato Unified,Olive Elementary,629 Plum Street Novato CA 94945-2578,NA,NA,FALSE,tested,NA,Marin County,38.1105680573075,-122.556222065765
+Novato Unified,Pleasant Valley Elementary,755 Sutro Avenue Novato CA 94947-1937,NA,NA,NA,not tested,NA,Marin County,38.1087500700383,-122.612975519559
+Novato Unified,Rancho Elementary,1430 Johnson Street Novato CA 94947-4459,NA,NA,NA,not tested,NA,Marin County,38.0937506893609,-122.571017763828
+Novato Unified,San Jose Intermediate,1000 Sunset Parkway Novato CA 94949-4999,NA,NA,NA,not tested,NA,Marin County,38.075563,-122.568272
+Novato Unified,San Marin High,15 San Marin Drive Novato CA 94945-1117,NA,NA,FALSE,tested,NA,Marin County,38.1192383100362,-122.60908744911
+Novato Unified,San Ramon Elementary,45 San Ramon Way Novato CA 94945-1616,NA,NA,NA,not tested,NA,Marin County,38.120165,-122.6041
+Novato Unified,Sinaloa Middle,2045 Vineyard Road Novato CA 94947-3810,NA,NA,NA,not tested,NA,Marin County,38.1060342529472,-122.59765049889

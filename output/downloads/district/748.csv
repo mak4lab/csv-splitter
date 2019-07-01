@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Snowline Joint Unified,Baldy Mesa Elementary,10376 Baldy Mesa Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Chaparral High,9258 Malpaso Road Phelan CA 92329-6000,NA,NA,NA,not tested,NA,San Bernardino County,34.4183220232663,-117.57691916423
+Snowline Joint Unified,Eagle Summit Community Day,3919 Nielson Road Phelan CA 92371-8675,NA,NA,NA,not tested,NA,San Bernardino County,34.4189706358616,-117.573469777662
+Snowline Joint Unified,Heritage,9542 Wilson Ranch Road Phelan CA 92371-7298,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Phelan Elementary,4167 Phelan Road Phelan CA 92371-3902,NA,NA,NA,not tested,NA,San Bernardino County,34.4262500892029,-117.571432952043
+Snowline Joint Unified,Pinon Hills Elementary,878 Mono Road Pinon Hills CA 92372,NA,NA,FALSE,tested,NA,San Bernardino County,34.4498523,-117.627455
+Snowline Joint Unified,Pinon Mesa Middle,9298 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Quail Valley Middle,10058 Arrowhead Road Phelan CA 92371-5506,NA,NA,FALSE,tested,NA,San Bernardino County,34.4091552,-117.5550487
+Snowline Joint Unified,Serrano High,9292 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418811245246,-117.572535467019
+Snowline Joint Unified,Snowline Adult,4075 Nielson Road Phelan CA 92371,NA,NA,NA,not tested,NA,San Bernardino County,34.418969,-117.572640176471
+Snowline Joint Unified,Snowline Virtual,9298 Sheep Creek Road Phelan CA 92371-8588,NA,NA,NA,not tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Vista Verde Elementary,13403 Vista Verde Drive Victorville CA 92393-1218,NA,NA,FALSE,tested,NA,NA,NA,NA
+Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,NA,NA,FALSE,tested,NA,NA,NA,NA

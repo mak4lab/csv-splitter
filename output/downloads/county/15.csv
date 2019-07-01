@@ -1,0 +1,41 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Armona Union Elementary,Armona Elementary,14045 Pimo Street Armona CA 93202-0368,7.95,ppb,TRUE,tested,NA,Kings County,36.3125636413319,-119.710416618342
+Corcoran Joint Unified,Bret Harte Elementary,1300 Letts Avenue Corcoran CA 93212-2523,5.6,ppb,TRUE,tested,NA,Kings County,36.094578,-119.567686
+Lemoore Union Elementary,Bridges Academy,1200 West Cinnamon Drive Lemoore CA 93245-9420,NA,NA,FALSE,tested,NA,Kings County,36.307014,-119.784436
+Central Union Elementary,Central Elementary,15783 18th Avenue Lemoore CA 93245-9742,NA,NA,NA,not tested,NA,Kings County,36.334436,-119.780771
+Lemoore Union Elementary,Cinnamon Elementary,500 East Cinnamon Drive Lemoore CA 93245-2988,NA,NA,FALSE,tested,NA,Kings County,36.3071256060606,-119.775514424242
+Corcoran Joint Unified,Corcoran High,1100 Letts Avenue Corcoran CA 93212-2520,11,ppb,TRUE,tested,NA,Kings County,36.097472,-119.567653
+Armona Union Elementary,Crossroads Charter,418 West 8th Street Hanford CA 93230-4536,NA,NA,FALSE,tested,Hanford,Kings County,36.3269188709677,-119.651449774194
+Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89,ppb,TRUE,tested,Hanford,Kings County,36.338061,-119.645928
+Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10,ppb,TRUE,tested,Hanford,Kings County,36.3338461037151,-119.663173054641
+Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,FALSE,tested,Hanford,Kings County,36.3427077755102,-119.64479055102
+Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,NA,NA,NA,not tested,Hanford,Kings County,36.3347712019861,-119.654411679748
+Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.3427077755102,-119.64479055102
+Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66,ppb,TRUE,tested,Hanford,Kings County,36.3280724285714,-119.662622897959
+Kings County Office of Education,J. C. Montgomery,1450 Forum Drive Hanford CA 93230-4334,NA,NA,NA,not tested,Hanford,Kings County,36.330837882097,-119.667933657602
+Lemoore Union High,Jamison (Donald C.) High (Continuation),351 East Bush Street Lemoore CA 93245-3601,NA,NA,FALSE,tested,NA,Kings County,36.2982125074578,-119.772359246901
+Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,TRUE,tested,Hanford,Kings County,36.3389150753317,-119.652354317522
+Corcoran Joint Unified,John C. Fremont Elementary,1900 Bell Ave Corcoran CA 93212-1706,6.6,ppb,TRUE,tested,NA,Kings County,36.103615,-119.571108
+Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,67.55,ppb,TRUE,tested,Hanford,Kings County,36.334851,-119.63613
+Corcoran Joint Unified,John Muir Middle,707 Letts Avenue Corcoran CA 93212-1753,7.95,ppb,TRUE,tested,NA,Kings County,36.1019171671898,-119.567502895707
+Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12,ppb,TRUE,tested,Hanford,Kings County,36.3519256,-119.6684581
+Kings County ROP,Kings County ROP,1144 West Lacey Boulevard Hanford CA 93230-5956,NA,NA,NA,not tested,Hanford,Kings County,36.3280728571429,-119.662596510204
+Kings County Office of Education,Kings County SELPA Preschool,11835 11th Avenue Hanford CA 93230,NA,NA,NA,not tested,Hanford,Kings County,36.2620297,-119.6548641
+Corcoran Joint Unified,Kings Lake Education Center,1128 South Dairy Ave Corcoran CA 93212-1722,NA,NA,FALSE,tested,NA,Kings County,36.0948753210851,-119.572122647961
+Lemoore Union Elementary,Lemoore Elementary,573 Bush Street Lemoore CA 93245-3545,6.3,ppb,TRUE,tested,NA,Kings County,36.2976976,-119.8090396
+Lemoore Union High,Lemoore High,101 East Bush Street Lemoore CA 93245-3601,11,ppb,TRUE,tested,NA,Kings County,36.298223,-119.77882
+Lemoore Union High,Lemoore Middle College High,555 College Avenue Lemoore CA 93245-9248,13,ppb,TRUE,tested,NA,Kings County,36.2944061632653,-119.821676
+Lemoore Union Elementary,Liberty Middle,1000 Liberty Drive Lemoore CA 93245-3418,NA,NA,FALSE,tested,NA,Kings County,36.309746,-119.794396
+Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,7,ppb,TRUE,tested,Hanford,Kings County,36.3162291666667,-119.642705
+Corcoran Joint Unified,Mark Twain Elementary,1500 Oregon Avenue Corcoran CA 93212-9684,5.6,ppb,TRUE,tested,NA,Kings County,36.087223,-119.567692
+Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,TRUE,tested,Hanford,Kings County,36.305587,-119.663867
+Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,NA,NA,FALSE,tested,Hanford,Kings County,36.3500728989899,-119.649187070707
+Lemoore Union Elementary,P. W. Engvall Elementary,19th and Cedar Lemoore CA 93245,13,ppb,TRUE,tested,NA,Kings County,36.29385,-119.783471
+Armona Union Elementary,Parkview Middle,11075 C Street Armona CA 93202-0368,9.9,ppb,TRUE,tested,NA,Kings County,36.3122859897959,-119.707118
+Pioneer Union Elementary,Pioneer Middle,101 West Pioneer Way Hanford CA 93230-9677,280,ppb,TRUE,tested,Hanford,Kings County,36.3705371,-119.6530887
+Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
+Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0080676734694,-120.124890408163
+Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,TRUE,tested,Hanford,Kings County,36.3176248163265,-119.657745357143
+Central Union Elementary,Stratford Elementary,20227 1st Street Stratford CA 93266-0148,NA,NA,NA,not tested,NA,Kings County,36.1931897840066,-119.821171925738
+Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.0095137689868,-120.125390314765
+Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7,ppb,TRUE,tested,Hanford,Kings County,36.3347712019861,-119.654411679748

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cupertino Union,Blue Hills Elementary,12300 De Sanka Avenue Saratoga CA 95070-3151,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.289951,-122.02582
+Cupertino Union,Christa McAuliffe Elementary,12211 Titus Avenue Saratoga CA 95070-3456,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2922327087659,-122.009717866998
+Saratoga Union Elementary,Foothill Elementary,13919 Lynde Avenue Saratoga CA 95070-5310,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2652328461953,-122.033430808543
+Campbell Union,Marshall Lane Elementary,14114 Marilyn Lane Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union,Marshall Lane Elementary (Marshall Lane Preschool),14114 Marilyn Ln Saratoga CA 95070-5646,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2642,-121.996502
+Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.29131785,-121.99983615542
+Saratoga Union Elementary,Redwood Middle,13925 Fruitvale Avenue Saratoga CA 95070-5603,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2674315462679,-122.013987278175
+Saratoga Union Elementary,Saratoga Elementary,14592 Oak Street Saratoga CA 95070-6028,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.2567635923003,-122.032694355356
+Los Gatos-Saratoga Joint Union High,Saratoga High,20300 Herriman Avenue Saratoga CA 95070-4950,NA,NA,NA,not tested,Saratoga,Santa Clara County,37.2672830471655,-122.030447249233

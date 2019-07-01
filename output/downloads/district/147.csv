@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Claremont Unified,Chaparral Elementary,451 Chaparral Drive Claremont CA 91711-2643,NA,NA,FALSE,tested,Claremont,Los Angeles County,34.1161748159829,-117.708250374253
+Claremont Unified,Claremont Adult,170 West San Jose Avenue Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.0830861388889,-117.715818388889
+Claremont Unified,Claremont High,1601 North Indian Hill Boulevard Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.112808350598,-117.720267414381
+Claremont Unified,Community Day,125 West San Jose Avenue Claremont CA 91711-5205,NA,NA,NA,not tested,Claremont,Los Angeles County,34.0830892638889,-117.715309638889
+Claremont Unified,Condit Elementary,1750 North Mountain Avenue Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.1159637142857,-117.728884428571
+Claremont Unified,Danbury Special Education,1745 Lynoak Drive Claremont CA 91711-2421,NA,NA,NA,not tested,Claremont,Los Angeles County,34.1152476739593,-117.740098654586
+Claremont Unified,El Roble Intermediate,665 North Mountain Avenue Claremont CA 91711-4253,NA,NA,NA,not tested,Claremont,Los Angeles County,34.1003116382525,-117.729116064209
+Claremont Unified,Oakmont Elementary,120 West Green Street Claremont CA 91711-4912,NA,NA,NA,not tested,Claremont,Los Angeles County,34.0921225102041,-117.715342530612
+Claremont Unified,San Antonio High (Continuation),125 West San Jose Ave Claremont CA 91711-5205,NA,NA,NA,not tested,Claremont,Los Angeles County,34.0830892638889,-117.715309638889
+Claremont Unified,Sumner Elementary,1770 Sumner Avenue Claremont CA 91711-3031,NA,NA,NA,not tested,Claremont,Los Angeles County,34.1153591428571,-117.741946285714
+Claremont Unified,Sycamore Elementary,225 West Eighth Street Claremont CA 91711-4317,NA,NA,NA,not tested,NA,NA,NA,NA
+Claremont Unified,Vista del Valle Elementary,550 Vista Drive Claremont CA 91711-5120,NA,NA,NA,not tested,Claremont,Los Angeles County,34.0866642692308,-117.721672230769

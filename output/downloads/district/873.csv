@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Whittier Union High,California High,9800 South Mills Avenue Whittier CA 90604-1030,NA,NA,FALSE,tested,NA,NA,NA,NA
+Whittier Union High,Frontier High (Continuation),9401 South Painter Avenue Whittier CA 90605-2729,10,ppb,TRUE,tested,Whittier,Los Angeles County,33.9523234995066,-118.043887290466
+Whittier Union High,La Serna High,15301 East Youngwood Drive Whittier CA 90605-1345,9.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.954667,-117.999174
+Whittier Union High,Pioneer High,10800 Ben Avon Whittier CA 90606-3010,NA,NA,NA,not tested,NA,NA,NA,NA
+Whittier Union High,Santa Fe High,10400 South Orr and Day Road Santa Fe Springs CA 90670-4161,8.9,ppb,TRUE,tested,NA,NA,NA,NA
+Whittier Union High,Whittier High,12417 East Philadelphia Street Whittier CA 90601-3933,NA,NA,NA,not tested,NA,NA,NA,NA

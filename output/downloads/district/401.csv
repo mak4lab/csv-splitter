@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Linden Unified,Linden Adult,18257 East Main Street Linden CA 95236,NA,NA,NA,not tested,NA,San Joaquin County,38.020074,-121.081185
+Linden Unified,Linden Elementary,18100 West Front Street Linden CA 95236-9701,NA,NA,FALSE,tested,NA,NA,NA,NA
+Linden Unified,Linden High,18527 East Front Street Linden CA 95236-9703,NA,NA,FALSE,tested,NA,NA,NA,NA

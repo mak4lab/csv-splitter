@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Gilroy Unified,Antonio Del Buono Elementary,9300 Wren Avenue Gilroy CA 95020-7636,6.8,ppb,TRUE,tested,Gilroy,Santa Clara County,37.029817,-121.587405
+Gilroy Unified,Brownell Middle,7800 Carmel Street Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0114677,-121.57757865535
+Gilroy Unified,Christopher High,850 Day Road Gilroy CA 95020-9324,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.039655,-121.60452
+Gilroy Unified,Dr. TJ Owens Gilroy Early College Academy,5055 Santa Teresa Boulevard PB17 Gilroy CA 95020,NA,NA,NA,not tested,NA,NA,NA,NA
+Gilroy Unified,El Roble Elementary,930 Third Street Gilroy CA 95020-4915,NA,NA,FALSE,tested,NA,NA,NA,NA
+Gilroy Unified,Eliot Elementary,475 Old Gilroy Street Gilroy CA 95020-6214,9.6,ppb,TRUE,tested,Gilroy,Santa Clara County,37.0062875,-121.561900341962
+Gilroy Unified,Gilroy Adult Education,7881 Murray Avenue Gilroy CA 95020,NA,NA,NA,not tested,Gilroy,Santa Clara County,37.0131477226154,-121.56462588094
+Gilroy Unified,Gilroy High,750 West Tenth Street Gilroy CA 95020-6333,NA,NA,FALSE,tested,NA,NA,NA,NA
+Gilroy Unified,Gilroy Prep (a Navigator School),277 I O O F Avenue Gilroy CA 95020-5209,NA,NA,FALSE,tested,NA,NA,NA,NA
+Gilroy Unified,Gilroy Unified State Preschool,475 W Ninth St Gilroy CA 95020,NA,NA,FALSE,tested,NA,NA,NA,NA
+Gilroy Unified,Glen View Elementary,600 Eighth Street Gilroy CA 95020,NA,NA,FALSE,tested,NA,NA,NA,NA
+Gilroy Unified,Las Animas Elementary,6550 Cimino Street Gilroy CA 95020-3453,NA,NA,FALSE,tested,Gilroy,Santa Clara County,36.9894334,-121.580490275053
+Gilroy Unified,Luigi Aprea Elementary,9225 Calle del Rey Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0264199459099,-121.603534448013
+Gilroy Unified,Mt. Madonna High,8750 Hirasaki Court Gilroy CA 95020-7531,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.02017015,-121.594695596438
+Gilroy Unified,Rod Kelley Elementary,8755 Kern Avenue Gilroy CA 95020-4034,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0212382,-121.592901487465
+Gilroy Unified,Solorsano Middle,7121 Grenache Way Gilroy CA 95020-2500,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.00072795,-121.594621068673
+Gilroy Unified,South Valley Middle,385 IOOF Avenue Gilroy CA 95020-5205,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.0150968549837,-121.565992961122

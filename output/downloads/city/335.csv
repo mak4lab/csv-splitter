@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Walnut Valley Unified,Cyrus J. Morris Elementary,19875 East Calle Baja Walnut CA 91789-2246,NA,NA,NA,not tested,Walnut,Los Angeles County,34.011721212766,-117.868304021277
+Rowland Unified,Stanley G. Oswalt Academy,19501 Shadow Oak Drive Walnut CA 91789-4700,NA,NA,FALSE,tested,Walnut,Los Angeles County,34.022311,-117.884658
+Walnut Valley Unified,Suzanne Middle,525 Suzanne Road Walnut CA 91789-1938,NA,NA,NA,not tested,Walnut,Los Angeles County,34.027468,-117.849313
+Walnut Valley Unified,Walnut High,400 North Pierre Road Walnut CA 91789-2535,NA,NA,NA,not tested,Walnut,Los Angeles County,34.021292,-117.851414

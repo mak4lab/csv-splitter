@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Gabriel Unified,Gabrielino High,1327 South San Gabriel Boulevard San Gabriel CA 91776-3308,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.0840180665736,-118.09086154759
+San Gabriel Unified,Jefferson Middle,1372 East Las Tunas Drive San Gabriel CA 91776-1791,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.1034686,-118.0812706
+Los Angeles County Ooffice of Education,Lincoln (PAU),600 E. Grand Ave San Gabriel CA 91776,5.3,ppb,TRUE,tested,San Gabriel,Los Angeles County,34.091623,-118.09319
+Alhambra Unified,San Gabriel High,801 Ramona Street San Gabriel CA 91776-2342,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.0956689,-118.1078152

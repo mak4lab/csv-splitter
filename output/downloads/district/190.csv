@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Desert Sands Unified,Abraham Lincoln Elementary,74-100 Rutledge Way Palm Desert CA 92260-2644,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Amelia Earhart Elementary School of International Studies,45-250 Dune Palms Road Indio CA 92201-0901,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Amistad High (Continuation),83-501 Dillon Avenue Indio CA 92201-3325,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Andrew Jackson Elementary,82-850 Kenner Avenue Indio CA 92201-2469,NA,NA,FALSE,tested,NA,NA,NA,NA
+Desert Sands Unified,Carrillo Ranch Elementary,43-775 Madison Street Indio CA 92201-8626,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Colonel Mitchell Paige Middle,43-495 Palm Royale Drive La Quinta CA 92253-8178,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Desert Ridge Academy,79-767 Avenue 39 Indio CA 92203-9647,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Dr. Reynaldo J. Carreon Jr. Academy,47-368 Monroe Street Indio CA 92201-6702,NA,NA,FALSE,tested,NA,NA,NA,NA
+Desert Sands Unified,Dwight Eisenhower Elementary,83-391 Dillon Avenue Indio CA 92201-3321,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,George Washington Charter,45-768 Portola Avenue Palm Desert CA 92260-4861,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Gerald R. Ford Elementary,44-210 Warner Trail Indian Wells CA 92210-7598,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Harry S. Truman Elementary,78-870 Avenue 50 La Quinta CA 92253-2400,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Herbert Hoover Elementary,44-300 Monroe Street Indio CA 92201-3011,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Horizon,43-330 Palm Royale Dr. La Quinta CA 92253-8170,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Indio High,81-750 Avenue 46 Indio CA 92201-3911,NA,NA,FALSE,tested,NA,NA,NA,NA
+Desert Sands Unified,Indio Middle,81-195 Miles Avenue Indio CA 92201-5639,NA,NA,FALSE,tested,NA,NA,NA,NA
+Desert Sands Unified,James Earl Carter Elementary,74-251 Hovley Lane East Palm Desert CA 92260-1700,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,James Madison Elementary,80-845 Avenue 46 Indio CA 92201-5059,NA,NA,FALSE,tested,NA,NA,NA,NA
+Desert Sands Unified,James Monroe Elementary,42-100 Yucca Lane Bermuda Dunes CA 92203-8100,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,John F. Kennedy Elementary,45-100 Clinton Street Indio CA 92201-3807,NA,NA,FALSE,tested,Indio,Riverside County,33.7109603,-116.2426149
+Desert Sands Unified,John Glenn Middle School of International Studies,79-655 Miles Ave. Indio CA 92201,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,La Quinta High,79-255 Westward Ho Drive La Quinta CA 92253-4244,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,La Quinta Middle,78-900 Avenue 50 La Quinta CA 92253-2400,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Lyndon B. Johnson Elementary,44-640 Clinton Street Indio CA 92201-2908,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Martin Van Buren Elementary,47-733 Van Buren Street Indio CA 92201-7144,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Palm Desert Charter Middle,74-200 Rutledge Way Palm Desert CA 92260-2646,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Palm Desert High,74-910 Aztec Road Palm Desert CA 92260-5639,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Richard R. Oliphant Elementary,41-633 Gore St. Indio CA 92203-3178,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Shadow Hills High,39-225 Jefferson Street Indio CA 92201-9482,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Summit High (Continuation) and Horizon,43-330 Palm Royale Drive La Quinta CA 92253-8170,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Theodore Roosevelt Elementary,83-200 Drive Carreon Boulevard Indio CA 92201-6951,NA,NA,NA,not tested,NA,NA,NA,NA
+Desert Sands Unified,Thomas Jefferson Middle,83-089 Highway 111 Indio CA 92201-5643,NA,NA,NA,not tested,Indio,Riverside County,33.7147904,-116.2267487

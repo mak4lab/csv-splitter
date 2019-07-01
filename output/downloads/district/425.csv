@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Nietos,Ada S. Nelson Elementary,8140 South Vicki Drive Whittier CA 90606-3040,NA,NA,FALSE,tested,NA,NA,NA,NA
+Los Nietos,Aeolian Elementary,11600 Aeolian Street Whittier CA 90606-3306,NA,NA,FALSE,tested,NA,Los Angeles County,33.9661888038958,-118.06887211635
+Los Nietos,Los Nietos Middle,11425 East Rivera Road Los Nietos CA 90606-3245,NA,NA,FALSE,tested,NA,NA,NA,NA
+Los Nietos,Rancho Santa Gertrudes Elementary,11233 East Charlesworth Road Santa Fe Springs CA 90670-2820,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.954482,-118.081302

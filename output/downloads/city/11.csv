@@ -1,0 +1,25 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Antioch Unified,Antioch Charter Academy,3325 Hacienda Way Antioch CA 94509-5407,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9875669668607,-121.826826149677
+Antioch Unified,Antioch High,700 West 18th Street Antioch CA 94509-1576,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.0051584166667,-121.81577462037
+Antioch Unified,Antioch Middle,1500 D Street Antioch CA 94509-2346,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.007229734474,-121.810129742116
+Antioch Unified,Belshaw Elementary,2801 Roosevelt Lane Antioch CA 94509-5038,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9954489293727,-121.801249213866
+Antioch Unified,Bidwell Continuation High,800 Gary Avenue Antioch CA 94509-2763,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9998448080808,-121.793645424242
+Antioch Unified,Black Diamond Middle,4730 Sterling Hill Drive Antioch CA 94531-7673,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.970467,-121.76675
+Antioch Unified,Bridges,501 West 17th Street Antioch CA 94509,NA,NA,NA,not tested,Antioch,Contra Costa County,38.006045,-121.81269
+Antioch Unified,Carmen Dragon Elementary,4721 Vista Grande Drive Antioch CA 94531-8619,9.7,ppb,TRUE,tested,Antioch,Contra Costa County,37.965960094567,-121.754606728636
+Antioch Unified,Dallas Ranch Middle,1401 Mount Hamilton Drive Antioch CA 94531-8518,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.967266,-121.800802
+Antioch Unified,Deer Valley High,4700 Lone Tree Way Antioch CA 94531-8486,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.963764,-121.77246
+Antioch Unified,Diablo Vista Elementary,4791 Prewett Ranch Drive Antioch CA 94531-8619,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9546819,-121.7599361
+Contra Costa County Office of Education,East County Elementary Special Education,4207 Delta Fair Blvd. Antioch CA 94509-3944,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.003565505618,-121.849844764045
+Antioch Unified,Fremont Elementary,1413 F St. Antioch CA 94509-2220,6.050000000000001,ppb,TRUE,tested,Antioch,Contra Costa County,38.0079235407957,-121.812631116562
+Antioch Unified,Grant Elementary,4325 Spaulding Street Antioch CA 94531-8248,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.985558499603,-121.767578445263
+Antioch Unified,Jack London Elementary,4550 Country Hills Drive Antioch CA 94531-8906,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.972228144242,-121.774065000948
+Antioch Unified,Kimball Elementary,1310 August Way Antioch CA 94509-2402,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.0085382926264,-121.800947761201
+Antioch Unified,Live Oak High (Continuation),1708 F Street Antioch CA 94509-2225,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.0059744489796,-121.812639163265
+Antioch Unified,Lone Tree Elementary,1931 Mokelumne Drive Antioch CA 94531-9129,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9648012,-121.7882112
+Antioch Unified,Marsh Elementary,2304 G Street Antioch CA 94509-3500,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.000357190503,-121.815172871335
+Antioch Unified,Mission Elementary,1711 Mission Drive Antioch CA 94509-4543,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9970430036046,-121.831249570388
+Antioch Unified,Muir (John) Elementary,615 Greystone Drive Antioch CA 94509-6990,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9763850113854,-121.796095166134
+Antioch Unified,Park Middle,1 Spartan Way Antioch CA 94509-4882,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.993586,-121.814852
+Antioch Unified,Sutter Elementary,3410 Longview Road Antioch CA 94509-6006,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.9855722137917,-121.812090886753
+Antioch Unified,Turner Elementary,4207 Delta Fair Boulevard Antioch CA 94509-3944,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.003565505618,-121.849844764045

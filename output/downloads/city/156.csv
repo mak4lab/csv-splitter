@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+ABC Unified,Aloha Elementary,11737 East 214th Street Lakewood CA 90715-2101,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.8351281711827,-118.084125855729
+ABC Unified,Artesia High,12108 East Del Amo Boulevard Lakewood CA 90715-1516,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.8459846381199,-118.074159226004
+Paramount Unified,Buena Vista High,3717 Michelson Street Lakewood CA 90712-1402,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.857246,-118.14714
+Long Beach Unified,Cleveland Elementary,4760 Hackett Avenue Lakewood CA 90713-2424,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8441326363636,-118.106698060606
+Long Beach Unified,Gompers K-8,5206 Briercrest Avenue Lakewood CA 90713-1822,6.1,ppb,TRUE,tested,Lakewood,Los Angeles County,33.8522892027507,-118.123041187149
+Long Beach Unified,Holmes Elementary,5020 Barlin Avenue Lakewood CA 90712-3033,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8495001,-118.14789455
+Long Beach Unified,Hoover Middle,3501 Country Club Dr. Lakewood CA 90712-3429,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8398056644113,-118.151463969153
+Long Beach Unified,Lakewood High,4400 Briercrest Avenue Lakewood CA 90713-2512,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8378337344382,-118.123148796131
+Long Beach Unified,MacArthur Elementary,6011 Centralia St Lakewood CA 90713-2902,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.839528,-118.1084295
+Long Beach Unified,Madison Elementary,2801 Bomberry Street Lakewood CA 90712-3724,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8385570294432,-118.158910137579
+Long Beach Unified,Monroe K-8,4400 Ladoga Ave. Lakewood CA 90713-2749,7.5,ppb,TRUE,tested,Lakewood,Los Angeles County,33.8374149998928,-118.103291916409
+Paramount Unified,Odyssey STEM Academy,3701 Michelson St Lakewood CA 90712,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.8570266882466,-118.147678856636
+ABC Unified,Palms Elementary,12445 East 207th Street Lakewood CA 90715-1619,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.842414,-118.06627475
+Long Beach Unified,Riley Elementary,3319 Sandwood Street Lakewood CA 90712-3423,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8439441750575,-118.152908377988

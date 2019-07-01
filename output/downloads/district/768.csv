@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Southern Kern Unified,Ascend Academy,2601 Rosamond Blvd. Rosamond CA 93560,NA,NA,FALSE,tested,NA,Kern County,34.8642158,-118.1713678
+Southern Kern Unified,Rosamond Elementary,1981 Rosamond Boulevard Rosamond CA 93560-0640,NA,NA,FALSE,tested,NA,Kern County,34.8652344,-118.167642726903
+Southern Kern Unified,Tropico Middle,3180 Mojave-Tropico Road Rosamond CA 93560-0640,13,ppb,TRUE,tested,NA,Kern County,34.8663719438202,-118.228975674157
+Southern Kern Unified,Westpark Elementary,3600 Imperial Avenue Rosamond CA 93560-7681,NA,NA,FALSE,tested,NA,Kern County,34.84992645,-118.195941263994

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Calaveras County Office of Education,Calaveras COE Main Offices,185 South Main St Angels Camp CA  95221,NA,NA,FALSE,tested,Angels,Calaveras County,38.0490372036635,-120.523288949933
+Calaveras Unified,Calaveras High,350 High School Street San Andreas CA 95249-0607,NA,NA,NA,not tested,NA,Calaveras County,38.1980629977705,-120.68531036692
+Calaveras Unified,Calaveras Unified Alternative-Sierra Hills Education Center,501 Gold Strike Road San Andreas CA 95249-0178,NA,NA,NA,not tested,NA,Calaveras County,38.19927465,-120.68601155
+Mark Twain Union Elementary,Copperopolis Elementary,217 School Street Copperopolis CA 95228-0145,NA,NA,NA,not tested,NA,Calaveras County,37.9819132531735,-120.642339307678
+Del Norte County ROP,Del Norte County ROP,1301 El Dorado Crescent City CA 95531-2110,NA,NA,NA,not tested,NA,Calaveras County,38.209481,-120.467123
+Calaveras Unified,Gold Strike High,501 Gold Strike Road San Andreas CA 95249-0788,NA,NA,NA,not tested,NA,Calaveras County,38.19927465,-120.68601155
+Calaveras Unified,San Andreas Elementary,255 Lewis Avenue San Andreas CA 95249-0067,NA,NA,NA,not tested,NA,Calaveras County,38.1990397,-120.677195241257
+Calaveras Unified,Valley Springs Elementary,240 Pine Street Valley Springs CA 95252-0187,NA,NA,NA,not tested,NA,Calaveras County,38.1905218057767,-120.831751483967
+Calaveras Unified,West Point Elementary,54 Bald Mountain Road West Point CA 95255-0096,NA,NA,NA,not tested,NA,Calaveras County,38.39830615,-120.526213764873

@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Davis Joint Unified,Birch Lane Elementary,1600 Birch Lane Davis CA 95616-1499,NA,NA,FALSE,tested,NA,Yolo County,38.5608308266986,-121.727762049446
+Davis Joint Unified,Cesar Chavez Elementary,1221 Anderson Road Davis CA 95616-1899,NA,NA,FALSE,tested,NA,Yolo County,38.55432715,-121.759709548458
+Davis Joint Unified,Da Vinci Charter Academy,1400 East Eighth St. Davis CA 95616-2404,NA,NA,FALSE,tested,NA,NA,NA,NA
+Davis Joint Unified,Davis School for Independent Study,526 B Street Davis CA 95616-3811,NA,NA,FALSE,tested,NA,Yolo County,38.5471159,-121.7452748
+Davis Joint Unified,Davis Senior High,315 West 14th St Davis CA 95616-1914,NA,NA,FALSE,tested,NA,Yolo County,38.5558298,-121.7490138
+Davis Joint Unified,Frances Ellen Watkins Harper Junior High,4000 East Covell Boulevard Davis CA 95618-1565,NA,NA,FALSE,tested,NA,Yolo County,38.5647762,-121.70279909999999
+Davis Joint Unified,Fred T. Korematsu Elementary School at Mace Ranch,3100 Loyola Drive Davis CA 95616-1605,NA,NA,FALSE,tested,NA,Yolo County,38.5576892,-121.7227252
+Davis Joint Unified,King (Martin Luther) High (Continuation),635 B Street Davis CA 95616-3853,NA,NA,FALSE,tested,NA,Yolo County,38.54892005,-121.746308524627
+Davis Joint Unified,Marguerite Montgomery Elementary,1441 Danbury Drive Davis CA 95616-4892,NA,NA,FALSE,tested,NA,NA,NA,NA
+Davis Joint Unified,North Davis Elementary,555 East 14th Street Davis CA 95616-2097,NA,NA,FALSE,tested,NA,Yolo County,38.5567076,-121.7444264
+Davis Joint Unified,Oliver Wendell Holmes Junior High,1220 Drexel Drive Davis CA 95616-2123,NA,NA,FALSE,tested,NA,Yolo County,38.5571916702729,-121.738131953818
+Davis Joint Unified,Patwin Elementary,2222 Shasta Drive Davis CA 95616-6634,NA,NA,FALSE,tested,NA,Yolo County,38.5553097610126,-121.779330348814
+Davis Joint Unified,Pioneer Elementary,5215 Hamel Street Davis CA 95616-4426,NA,NA,FALSE,tested,NA,Yolo County,38.55122815,-121.685784083488
+Davis Joint Unified,Ralph Waldo Emerson Junior High,2121 Calaveras Avenue Davis CA 95616-3022,7.4,ppb,TRUE,tested,NA,Yolo County,38.5506784793997,-121.77869222613
+Davis Joint Unified,Robert E. Willett Elementary,1207 Sycamore Lane Davis CA 95616-1740,NA,NA,FALSE,tested,NA,Yolo County,38.5546786,-121.7657412

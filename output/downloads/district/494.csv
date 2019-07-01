@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain Empire Unified,Camp Lockett Middle School,957 Forrest Gate Road Campo CA 91906,NA,NA,NA,not tested,NA,NA,NA,NA
+Mountain Empire Unified,College Preparatory Middle,5150 Jackson Drive La Mesa CA 91942-9001,NA,NA,NA,not tested,La Mesa,San Diego County,32.7778015,-117.018335
+Mountain Empire Unified,Descanso Elementary,24842 Viejas Boulevard Descanso CA 91916-9757,NA,NA,FALSE,tested,NA,San Diego County,32.858949,-116.613497
+Mountain Empire Unified,Pine Valley Middle,7454 Pine Boulevard Pine Valley CA 91962,NA,NA,NA,not tested,NA,San Diego County,32.820077,-116.525979
+Mountain Empire Unified,San Diego Neighborhood Homeschools,3548 Seagate Way Suite 140 Oceanside CA 92056-2676,NA,NA,NA,not tested,NA,NA,NA,NA

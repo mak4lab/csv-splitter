@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pasadena Unified,Sierra Madre Elementary,141 West Highland Avenue Sierra Madre CA 91024-1810,NA,NA,FALSE,tested,Sierra Madre,Los Angeles County,34.1642389761905,-118.055589333333
+Pasadena Unified,Sierra Madre Middle,160 North Canon Avenue Sierra Madre CA 91024-2004,NA,NA,FALSE,tested,Sierra Madre,Los Angeles County,34.1648625,-118.044815833333

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Perris Elementary,Clearwater Elementary,1640 Murrieta Road Perris CA 92571,NA,NA,NA,not tested,Perris,Riverside County,33.8027219,-117.2089922
+Perris Elementary,Enchanted Hills Elementary,1357 Mount Baldy Street Perris CA 92570-1884,NA,NA,FALSE,tested,Perris,Riverside County,33.7846827619849,-117.256481262396
+Perris Elementary,Good Hope Elementary,24050 Theda Street Perris CA 92570-7526,NA,NA,FALSE,tested,NA,NA,NA,NA
+Perris Elementary,Innovative Horizons Charter,1461 North A Street Perris CA 92570-1968,7.2,ppb,TRUE,tested,Perris,Riverside County,33.7996613240727,-117.234696912734
+Perris Elementary,Palms Elementary,255 East Jarvis Perris CA 92571-2825,NA,NA,FALSE,tested,Perris,Riverside County,33.7919512036784,-117.225516055531
+Perris Elementary,Perris Elementary,500 A Street Perris CA 92571-1956,5.2,ppb,TRUE,tested,Perris,Riverside County,33.78144,-117.234862
+Perris Elementary,Railway Elementary,555 Alpine Drive Perris CA 92570-6216,NA,NA,FALSE,tested,Perris,Riverside County,33.7611424,-117.2338364
+Perris Elementary,Rob Reiner Children & Families Center,2221 South A Street Perris CA 92570-9318,NA,NA,FALSE,tested,NA,NA,NA,NA
+Perris Elementary,Sky View Elementary,625 Mildred Street Perris CA 92570-3930,NA,NA,FALSE,tested,Perris,Riverside County,33.7956387,-117.2216817

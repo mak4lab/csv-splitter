@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hollister,Cerra Vista Elementary,2151 Cerra Vista Drive Hollister CA 95023-6200,NA,NA,FALSE,tested,NA,San Benito County,36.8292423196137,-121.373399175317
+Cienega Union Elementary,Cienega Elementary,11936 Cienega Road Hollister CA 95023-9697,NA,NA,NA,not tested,NA,San Benito County,36.835566,-121.400801
+Hollister,Gabilan Hills,901 Santa Ana Road Hollister CA 95023-7117,NA,NA,FALSE,tested,NA,San Benito County,36.855811,-121.382697
+Hollister,Hollister Prep,881 Line Street Hollister CA 95023-4514,NA,NA,FALSE,tested,NA,San Benito County,36.8464736,-121.411676128716
+Hollister,Ladd Lane Elementary,161 Ladd Lane Hollister CA 95023-6100,NA,NA,NA,not tested,NA,San Benito County,36.8294303027831,-121.393194830988
+Hollister,Maze Middle,900 Meridian Street Hollister CA 95023-4107,5.5,ppb,TRUE,tested,NA,San Benito County,36.85282845,-121.384962165774
+San Benito County Office of Education,Pinnacles Community School,3230 Southside Road Hollister CA 95023-9174,NA,NA,FALSE,tested,NA,San Benito County,36.8178351486184,-121.387801990141
+Hollister,R. O. Hardin Elementary,881 Line Street Hollister CA 95023-4514,NA,NA,NA,not tested,NA,San Benito County,36.8464736,-121.411676128716
+Hollister,Rancho San Justo,1201 Rancho Drive Hollister CA 95023-4914,NA,NA,NA,not tested,NA,San Benito County,36.841338,-121.3968
+San Benito High,San Andreas Continuation High,191 Alvarado Street Hollister CA 95023-4043,NA,NA,FALSE,tested,NA,San Benito County,36.853974,-121.396207
+San Benito County Office of Education,San Benito County Juvenile Hall Court,708 Flynn Road Hollister CA 95023,NA,NA,FALSE,tested,NA,San Benito County,36.8821932601085,-121.415056872041
+San Benito High,San Benito High/San Benito Adult,1220 Monterey St Hollister CA 95023-4708,NA,NA,NA,not tested,NA,San Benito County,36.84214,-121.404313
+Aromas/San Juan Unified,San Juan,100 Nyland Drive San Juan Bautista CA 95045-9573,NA,NA,NA,not tested,San Juan Bautista,San Benito County,36.841408,-121.533877
+Hollister,Sunnyslope Elementary,1475 Memorial Drive Hollister CA 95023-5007,8.9,ppb,TRUE,tested,NA,San Benito County,36.83976655,-121.383109817571
+Tres Pinos Union Elementary,Tres Pinos Elementary,5635 Airline Highway Tres Pinos CA 95075-0188,NA,NA,NA,not tested,NA,San Benito County,36.801339,-121.335945812278

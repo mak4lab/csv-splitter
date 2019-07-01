@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Gatos-Saratoga Joint Union High,Los Gatos High,20 High School Court Los Gatos CA 95030-6917,NA,NA,FALSE,tested,,Santa Clara County,37.2233806,-121.97663879999
+Los Gatos-Saratoga Joint Union High,Saratoga High,20300 Herriman Avenue Saratoga CA 95070-4950,NA,NA,NA,not tested,Saratoga,Santa Clara County,37.2672830471655,-122.030447249233

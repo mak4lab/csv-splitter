@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palm Springs Unified,Cahuilla Elementary,833 East Mesquite Avenue Palm Springs CA 92264-8414,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.8085403370492,-116.538707999661
+Palm Springs Unified,Cielo Vista Charter,650 South Paseo Dorotea Palm Springs CA 92264-1406,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.811948755102,-116.501736959184
+Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.837531,-116.538991232314
+Private,Palm Springs Community School,1800 E. Vista Chino Palm Springs CA 92262,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844939,-116.526885
+Palm Springs Unified,Palm Springs High,2401 East Baristo Road Palm Springs CA 92262-7217,6.1,ppb,TRUE,tested,Palm Springs,Riverside County,33.8194837868853,-116.520867098361
+Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.5019535

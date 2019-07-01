@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hollister,Calaveras Elementary,1151 Buena Vista Road Suite 100 Hollister CA 95023-3329,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hollister,Calaveras Elementary/Accelerated Achievement Academy,1151 Buena Vista Road Suite 100 Hollister CA 95023-3329,NA,NA,NA,not tested,NA,NA,NA,NA
+Hollister,Cerra Vista Elementary,2151 Cerra Vista Drive Hollister CA 95023-6200,NA,NA,FALSE,tested,NA,San Benito County,36.8292423196137,-121.373399175317
+Hollister,Gabilan Hills,901 Santa Ana Road Hollister CA 95023-7117,NA,NA,FALSE,tested,NA,San Benito County,36.855811,-121.382697
+Hollister,Hollister Dual Language Academy,"873 Santa Ana Road, Suite 200 Hollister CA 95023-7115",NA,NA,NA,not tested,NA,NA,NA,NA
+Hollister,Hollister Prep,881 Line Street Hollister CA 95023-4514,NA,NA,FALSE,tested,NA,San Benito County,36.8464736,-121.411676128716
+Hollister,Ladd Lane Elementary,161 Ladd Lane Hollister CA 95023-6100,NA,NA,NA,not tested,NA,San Benito County,36.8294303027831,-121.393194830988
+Hollister,Maze Middle,900 Meridian Street Hollister CA 95023-4107,5.5,ppb,TRUE,tested,NA,San Benito County,36.85282845,-121.384962165774
+Hollister,R. O. Hardin Elementary,881 Line Street Hollister CA 95023-4514,NA,NA,NA,not tested,NA,San Benito County,36.8464736,-121.411676128716
+Hollister,Rancho San Justo,1201 Rancho Drive Hollister CA 95023-4914,NA,NA,NA,not tested,NA,San Benito County,36.841338,-121.3968
+Hollister,Sunnyslope Elementary,1475 Memorial Drive Hollister CA 95023-5007,8.9,ppb,TRUE,tested,NA,San Benito County,36.83976655,-121.383109817571

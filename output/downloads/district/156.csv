@@ -1,0 +1,29 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Abraham Lincoln Elementary,444 East Olive Street Colton CA 92324-2717,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077493,-117.317870469388
+Colton Joint Unified,Alice Birney Elementary,1050 East Olive Street Colton CA 92324-2531,5.5,ppb,TRUE,tested,Colton,San Bernardino County,34.0784005631568,-117.311042721942
+Colton Joint Unified,Bloomington High,10750 Laurel Avenue Bloomington CA 92316-2520,6.2,ppb,TRUE,tested,NA,San Bernardino County,34.0585503347956,-117.413937811433
+Colton Joint Unified,Colton High,777 West Valley Boulevard Colton CA 92324-2251,NA,NA,FALSE,tested,NA,NA,NA,NA
+Colton Joint Unified,Colton Middle,670 West Laurel Street Colton CA 92324-1523,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0812239,-117.3336997
+Colton Joint Unified,Cooley Ranch Elementary,1000 South Cooley Drive Colton CA 92324-4503,NA,NA,FALSE,tested,NA,NA,NA,NA
+Colton Joint Unified,Crestmore Elementary,18870 Jurupa Avenue Bloomington CA 92316-3133,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.0486100531763,-117.392744436761
+Colton Joint Unified,Gerald A. Smith Elementary,9551 Linden Avenue Bloomington CA 92316-1430,NA,NA,FALSE,tested,NA,San Bernardino County,34.0813848181818,-117.400741
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0353581122449,-117.321012857143
+Colton Joint Unified,Grand Terrace High School at the Ray Abril Jr. Educational Complex,21810 Main Street Grand Terrace CA 92313-5810,NA,NA,FALSE,tested,NA,NA,NA,NA
+Colton Joint Unified,Joe Baca,1640 South Lilac Avenue Bloomington CA 92316-2123,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.070125880834,-117.379101
+Colton Joint Unified,Jurupa Vista Elementary,15920 Village Drive East Fontana CA 92337-1014,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0432998251161,-117.458533091838
+Colton Joint Unified,Mary B. Lewis Elementary,18040 San Bernardino Avenue Bloomington CA 92316-1643,NA,NA,FALSE,tested,NA,San Bernardino County,34.0777635758322,-117.410827017191
+Colton Joint Unified,Michael D'Arcy Elementary,11645 Elm Avenue Fontana CA 92337-0974,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.040757,-117.466724
+Colton Joint Unified,Paul Rogers Elementary,955 West Laurel Street Colton CA 92324-1527,5.550000000000001,ppb,TRUE,tested,Colton,San Bernardino County,34.0812239,-117.3336997
+Colton Joint Unified,Reche Canyon Elementary,3101 Canyon Vista Drive Colton CA 92324-9540,NA,NA,FALSE,tested,NA,NA,NA,NA
+Colton Joint Unified,Ruth Grimes Elementary,1609 Spruce Avenue Bloomington CA 92316-2120,5.3,ppb,TRUE,tested,Rialto,San Bernardino County,34.072306,-117.3877637
+Colton Joint Unified,Ruth O. Harris Middle,11150 Alder Avenue Bloomington CA 92316-3006,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0515317135418,-117.418289405178
+Colton Joint Unified,San Salvador Preschool,471 Agua Mansa Road Colton CA 92324-3325,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0524435,-117.3460647
+Colton Joint Unified,Slover Mountain High (Continuation),325 Hermosa Street Colton CA 92324-1901,6.9,ppb,TRUE,tested,NA,NA,NA,NA
+Colton Joint Unified,Sycamore Hills Elementary,11036 Mahogany Drive Fontana CA 92337-6836,6.7,ppb,TRUE,tested,Fontana,San Bernardino County,34.0532485,-117.42597675
+Colton Joint Unified,Terrace Hills Middle,22579 DeBerry Street Grand Terrace CA 92313-5515,6.75,ppb,TRUE,tested,NA,NA,NA,NA
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.0427279618655,-117.308629244568
+Colton Joint Unified,Ulysses Grant Elementary,550 West Olive Street Colton CA 92324-1769,NA,NA,FALSE,tested,Colton,San Bernardino County,34.0775265108581,-117.32951330005
+Colton Joint Unified,Walter Zimmerman Elementary,11050 Linden Avenue Bloomington CA 92316-3118,NA,NA,FALSE,tested,NA,San Bernardino County,34.0536426471823,-117.40085241794
+Colton Joint Unified,Washington High,900 East C Street Colton CA 92324-2600,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.0717028021324,-117.312446108504
+Colton Joint Unified,William McKinley Elementary,600 West Johnston Street Colton CA 92324-1322,NA,NA,FALSE,tested,Colton,San Bernardino County,34.088454,-117.331081
+Colton Joint Unified,Woodrow Wilson Elementary,750 South Eighth Street Colton CA 92324-3573,NA,NA,FALSE,tested,NA,NA,NA,NA

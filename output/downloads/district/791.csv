@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Taft City,Conley Elementary,623 Rose Avenue Taft CA 93268-4127,NA,NA,FALSE,tested,Taft,Kern County,35.1299258571429,-119.458696122449
+Taft City,Jefferson Elementary,318 Taylor Street Taft CA 93268-1714,6.65,ppb,TRUE,tested,Taft,Kern County,35.1548664081633,-119.460000020408
+Taft City,Lincoln Junior High,810 Sixth Street Taft CA 93268-2306,NA,NA,FALSE,tested,NA,NA,NA,NA
+Taft City,Parkview Elementary,520 A Street Taft CA 93268-3734,NA,NA,FALSE,tested,Taft,Kern County,35.1368036326531,-119.472424387755
+Taft City,Roosevelt Elementary,811 Sixth Street Taft CA 93268-2305,NA,NA,FALSE,tested,NA,NA,NA,NA
+Taft City,Taft Primary,212 Lucard Street Taft CA 93268-3214,NA,NA,FALSE,tested,Taft,Kern County,35.1423855510204,-119.453631306122

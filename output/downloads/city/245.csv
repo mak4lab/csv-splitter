@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redondo Beach Unified,Adams Middle,2600 Ripley Avenue Redondo Beach CA 90278-4555,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.866031,-118.364893
+Redondo Beach Unified,Alta Vista Elementary,815 Knob Hill Avenue Redondo Beach CA 90277-4300,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8283570939369,-118.378874757543
+Redondo Beach Unified,Beryl Heights Elementary,920 Beryl Street Redondo Beach CA 90277-2236,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8521850408163,-118.384458346939
+Redondo Beach Unified,Birney Elementary,1600 Green Lane Redondo Beach CA 90278-3656,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.869135,-118.376831
+Hermosa Beach City Elementary,Hermosa View Elementary,1800 Prospect Avenue Hermosa Beach CA 90254-3350,NA,NA,NA,not tested,Redondo Beach,Los Angeles County,33.868596,-118.391471
+Redondo Beach Unified,Jefferson Elementary,600 Harkness Lane Redondo Beach CA 90278-4806,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.86017,-118.381022
+Redondo Beach Unified,Lincoln Elementary,2223 Plant Avenue Redondo Beach CA 90278-2013,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8809135,-118.3748719
+Redondo Beach Unified,Madison Elementary,2200 MacKay Lane Redondo Beach CA 90278-2509,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.874863,-118.368411
+Redondo Beach Unified,Parras (Nick G.) Middle,200 North Lucia Redondo Beach CA 90277-3220,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.844538,-118.378559
+Redondo Beach Unified,Redondo Beach Learning Academy,1000 Del Amo Street Redondo Beach CA 90277-3934,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.848611,-118.382401
+Redondo Beach Unified,Redondo Union High,631 Vincent Park Redondo Beach CA 90277-3125,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8446126108009,-118.38392333428
+Private,Riviera Hall Lutheran,330 Palos Verdes Boulevard Redondo Beach CA 90277,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8150777,-118.3864664
+Redondo Beach Unified,Tulita Elementary,1520 Prospect Avenue Redondo Beach CA 90277-5113,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.8665038438706,-118.389563669792
+Redondo Beach Unified,Washington Elementary,1100 Lilienthal Lane Redondo Beach CA 90278-4557,NA,NA,FALSE,tested,Redondo Beach,Los Angeles County,33.864886,-118.365478

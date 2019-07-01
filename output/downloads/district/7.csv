@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alameda Unified,Alameda Adult,1300 Third Street Alameda CA 94501,NA,NA,NA,not tested,Alameda,Alameda County,37.770959,-122.288416
+Alameda Unified,Alameda Community Learning Center,1900 3rd Street Alameda CA 94501-1851,NA,NA,NA,not tested,Livermore,Alameda County,37.679195,-121.771678
+Alameda Unified,Alameda High,2201 Encinal Avenue Alameda CA 94501-4406,NA,NA,FALSE,tested,Alameda,Alameda County,37.764248,-122.248057
+Alameda Unified,Alameda Science and Technology Institute,555 Atlantic Avenue Alameda CA 94501-2109,NA,NA,FALSE,tested,Alameda,Alameda County,37.7799368,-122.2734484
+Alameda Unified,Alternatives in Action,6221 E 17th Street Oakland CA 94621,NA,NA,NA,not tested,Oakland,Alameda County,37.7647989728011,-122.195580303112
+Alameda Unified,Amelia Earhart Elementary,400 Packet Landing Road Alameda CA 94502-6534,NA,NA,FALSE,tested,NA,NA,NA,NA
+Alameda Unified,Bay Farm,200 Aughinbaugh Way Alameda CA 94502-7451,NA,NA,FALSE,tested,Alameda,Alameda County,37.7380337,-122.2520287
+Alameda Unified,Donald D. Lum Elementary,1801 Sandcreek Way Alameda CA 94501-6024,NA,NA,NA,not tested,Alameda,Alameda County,37.76204,-122.259003
+Alameda Unified,Edison Elementary,2700 Buena Vista Avenue Alameda CA 94501-1610,NA,NA,FALSE,tested,Alameda,Alameda County,37.76444205,-122.234831839193
+Alameda Unified,Encinal Junior/Senior High,210 Central Avenue Alameda CA 94501-3246,NA,NA,FALSE,tested,Alameda,Alameda County,37.7736067951272,-122.289958964738
+Alameda Unified,Frank Otis Elementary,3010 Fillmore Street Alameda CA 94501-5544,NA,NA,FALSE,tested,Alameda,Alameda County,37.75375335,-122.238297162861
+Alameda Unified,Franklin Elementary,1433 San Antonio Avenue Alameda CA 94501-4039,NA,NA,FALSE,tested,Alameda,Alameda County,37.7691786430465,-122.261858909965
+Alameda Unified,Henry Haight Elementary,2025 Santa Clara Avenue Alameda CA 94501-2720,NA,NA,FALSE,tested,Alameda,Alameda County,37.76986575,-122.250234138254
+Alameda Unified,Island High (Continuation),1900 Third Street Alameda CA 94501-1851,7.6,ppb,TRUE,tested,Alameda,Alameda County,37.779689,-122.287832
+Alameda Unified,Lincoln Middle,1250 Fernside Boulevard Alameda CA 94501-4808,NA,NA,FALSE,tested,Alameda,Alameda County,37.7669416,-122.2320496
+Alameda Unified,Maya Lin,825 Taylor Street Alameda CA 94501-3411,NA,NA,FALSE,tested,NA,Alameda County,37.8874636,-122.3035456
+Alameda Unified,Nea Community Learning Center,1900 Third St Alameda CA 94501-1851,NA,NA,FALSE,tested,Alameda,Alameda County,37.779689,-122.287832
+Alameda Unified,Rising Star Montessori Cottage Campus,770 Santa Clara Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7733370322581,-122.273837790323
+Alameda Unified,Ruby Bridges Elementary,351 Jack London Avenue Alameda CA 94501-3901,NA,NA,FALSE,tested,Alameda,Alameda County,37.7818408530147,-122.285496007199
+Alameda Unified,The Academy of Alameda,401 Pacific Avenue Alameda CA 94501-1837,7.2,ppb,TRUE,tested,Alameda,Alameda County,37.7763826585366,-122.285469414634
+Alameda Unified,The Academy of Alameda Elementary,401 Pacific Ave. Alameda CA 94501-1837,NA,NA,FALSE,tested,Alameda,Alameda County,37.7763826585366,-122.285469414634
+Alameda Unified,Will C. Wood Middle,420 Grand Street Alameda CA 94501-5941,NA,NA,FALSE,tested,Oakland,Alameda County,37.7995623214286,-122.280247107143
+Alameda Unified,William G. Paden Elementary,444 Central Avenue Alameda CA 94501-3615,NA,NA,FALSE,tested,Alameda,Alameda County,37.7708092,-122.283691679646

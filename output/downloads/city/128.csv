@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hemet Unified,Acacia Middle,1200 East Acacia Avenue Hemet CA 92543-4521,NA,NA,NA,not tested,Hemet,Riverside County,33.7440669397583,-116.959752768862
+Hemet Unified,Alessandro High,831 East Devonshire Avenue Hemet CA 92543-3052,NA,NA,NA,not tested,Hemet,Riverside County,33.7508535,-116.9639127
+Hemet Unified,Aspire Community Day,26866 San Jacinto Street Hemet CA 92544-7293,NA,NA,FALSE,tested,Hemet,Riverside County,33.7485123,-116.9586504
+Hemet Unified,Bautista Creek Elementary,441 Lake Street Hemet CA 92544-3314,NA,NA,FALSE,tested,Hemet,Riverside County,33.7541330817063,-116.915024729564
+Hemet Unified,Cawston Elementary,4000 West Menlo Avenue Hemet CA 92545-6320,NA,NA,FALSE,tested,Hemet,Riverside County,33.7584026,-116.9804775
+Hemet Unified,Diamond Valley Middle,291 West Chambers Street Hemet CA 92543-9658,NA,NA,FALSE,tested,Hemet,Riverside County,33.7220492,-116.9817556
+Hemet Unified,Hemet Elementary,633 E Kimball Ave Hemet CA 92543,NA,NA,NA,not tested,Hemet,Riverside County,33.7456634435876,-116.965812044901
+Hemet Unified,Hemet High,41701 Stetson Avenue Hemet CA 92544-7518,6.1,ppb,TRUE,tested,Hemet,Riverside County,33.7292292,-117.0326989
+Hemet Unified,Jacob Wiens Elementary,935 East Campus Way Hemet CA 92543-3121,NA,NA,NA,not tested,Hemet,Riverside County,33.7540256893816,-116.962522172935
+Hemet Unified,Ramona Elementary,41051 Whittier Avenue Hemet CA 92544-6312,NA,NA,FALSE,tested,Hemet,Riverside County,33.736739853512,-116.944651159569
+Hemet Unified,Rancho Viejo Middle,985 North Cawston Avenue Hemet CA 92545-1551,NA,NA,FALSE,tested,Hemet,Riverside County,33.7526942820513,-117.015408707692
+Hemet Unified,West Valley High,3401 Mustang Way Hemet CA 92545-9257,NA,NA,FALSE,tested,Hemet,Riverside County,33.71786665,-117.010266791477
+Hemet Unified,Western Center Academy,2345 Searl Parkway Hemet CA 92543-9706,NA,NA,FALSE,tested,Hemet,Riverside County,33.7065965,-116.992957567124
+Hemet Unified,Whittier Elementary,400 West Whittier Avenue Hemet CA 92543-5940,NA,NA,NA,not tested,Hemet,Riverside County,33.7367263182672,-116.97511476311

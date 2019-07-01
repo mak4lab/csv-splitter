@@ -1,0 +1,118 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alisal Union,Alisal Community,1437 Del Monte Avenue Salinas CA 93905-1902,NA,NA,NA,not tested,Salinas,Monterey County,36.6820738736639,-121.604923992608
+Salinas Union High,Alisal High,777 Williams Road Salinas CA 93905-1907,NA,NA,NA,not tested,Salinas,Monterey County,36.6811125918367,-121.604595612245
+Aromas/San Juan Unified,Aromas,365 Vega Street Aromas CA 95004-0216,6.9,ppb,TRUE,tested,NA,Monterey County,36.8896740612245,-121.644161081633
+Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,NA,NA,NA,not tested,Salinas,Monterey County,36.6804723103448,-121.617519172414
+Alisal Union,Bardin Elementary,425 Bardin Road Salinas CA 93905-3025,NA,NA,NA,not tested,Salinas,Monterey County,36.6740832885455,-121.601988775102
+Big Sur Unified,Big Sur Charter,135 Webster Street Monterey CA 93940-3119,NA,NA,FALSE,tested,Monterey,Monterey County,36.5961498888889,-121.894299888889
+Big Sur Unified,Big Sur Charter,304 Foam Street Monterey CA 93940-3119,NA,NA,NA,not tested,Monterey,Monterey County,36.6111679166667,-121.898599166667
+Salinas City Elementary,Boronda Meadows,915 Larkin Street Salinas CA 93907-2532,NA,NA,FALSE,tested,Salinas,Monterey County,36.6897483,-121.6598102
+Carmel Unified,Carmel Adult,8421 Carmel Valley Road Carmel CA 93923,NA,NA,FALSE,tested,NA,Monterey County,36.535958,-121.858099
+Carmel Unified,Carmel Child Development Center,8460 Carmel Valley Road Carmel CA 93923-9538,NA,NA,FALSE,tested,NA,Monterey County,36.535958,-121.858099
+Carmel Unified,Carmel High,3600 Ocean Avenue Carmel CA 93923,NA,NA,FALSE,tested,Carmel-by-the-Sea,Monterey County,36.5551375,-121.9201483
+Carmel Unified,Carmel River Elementary,Monte Verde Street and 15th Avenue Carmel CA 93923,9,ppb,TRUE,tested,Carmel-by-the-Sea,Monterey County,36.5603497234043,-121.924329329787
+Carmel Unified,Carmel Valley High,27335 Schulte Road Carmel CA 93923-9537,NA,NA,FALSE,tested,NA,Monterey County,36.528085,-121.830604
+Salinas Union High,Carr Lake Community Day,10 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.6873813946986,-121.646338464112
+North Monterey County Unified,Castroville Elementary,11161 Merritt Street Castroville CA 95012-3498,NA,NA,NA,not tested,NA,Monterey County,36.7630297346939,-121.75423477551
+Monterey Peninsula Unified,Central Coast High,200 Coe Avenue Seaside CA 93955-6588,NA,NA,FALSE,tested,Seaside,Monterey County,36.6298470362887,-121.835494339146
+Greenfield Union Elementary,Cesar Chavez Elementary,250 Apple Avenue Greenfield CA 93927-5354,NA,NA,NA,not tested,Greenfield,Monterey County,36.3318720055624,-121.231704539239
+Alisal Union,Cesar E. Chavez Elementary,1225 Towt Street Salinas CA 93905-4125,NA,NA,NA,not tested,Salinas,Monterey County,36.6878499299374,-121.603079484712
+King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2213897,-121.1346625
+Chualar Union,Chualar Elementary,24285 Lincoln Street Chualar CA 93925-0188,NA,NA,FALSE,tested,NA,Monterey County,36.5713418958333,-121.516264340278
+Pacific Grove Unified,Community High (Continuation),1004 David Avenue Pacific Grove CA 93950-4924,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6140036938775,-121.910686632653
+Alisal Union,Creekside Elementary,1770 Kittery Street Salinas CA 93906-5080,NA,NA,NA,not tested,Salinas,Monterey County,36.70427,-121.611601
+King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.2154301632653,-121.135151244898
+Monterey Peninsula Unified,Del Rey Woods Elementary,1281 Plumas Avenue Seaside CA 93955-6202,12,ppb,TRUE,tested,Del Rey Oaks,Monterey County,36.5982711,-121.839561836951
+Alisal Union,"Dr. Martin Luther King, Jr. Academy",925 North Sanborn Road Salinas CA 93905-1308,NA,NA,NA,not tested,Salinas,Monterey County,36.685391,-121.616689857143
+Monterey Peninsula Unified,Dual Language Academy of the Monterey Peninsula,225 Normandy Road Seaside CA 93955-6396,6,ppb,TRUE,tested,Seaside,Monterey County,36.6376941489091,-121.812842957289
+Salinas City Elementary,El Gabilan Elementary,1256 Linwood Drive Salinas CA 93906-3328,NA,NA,FALSE,tested,Salinas,Monterey County,36.70054,-121.642967
+Salinas Union High,El Puente,20 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.6872881380719,-121.646122794252
+Salinas Union High,El Sausal Middle,1155 East Alisal Street Salinas CA 93905-2715,NA,NA,NA,not tested,Salinas,Monterey County,36.6726732857143,-121.624130877551
+Salinas Union High,Everett Alvarez High,1900 Independence Boulevard Salinas CA 93906-5300,NA,NA,FALSE,tested,Salinas,Monterey County,36.712132,-121.618425
+Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,NA,NA,FALSE,tested,Monterey,Monterey County,36.5777267920494,-121.855128013238
+Pacific Grove Unified,Forest Grove Elementary,1065 Congress Avenue Pacific Grove CA 93950-4838,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6094067711219,-121.930126851738
+Soledad Unified,Frank Ledesma Elementary,973 Vista De Soledad Soledad CA 93960-3489,NA,NA,NA,not tested,Soledad,Monterey County,36.439064244325,-121.329752234122
+Alisal Union,Frank Paul Elementary,1300 Rider Avenue Salinas CA 93905-1263,NA,NA,NA,not tested,Salinas,Monterey County,36.6948660466912,-121.607973225085
+Alisal Union,Fremont Elementary,1255 East Market Street Salinas CA 93905-2831,NA,NA,NA,not tested,Salinas,Monterey County,36.6765425172414,-121.620535793103
+Monterey Peninsula Unified,George C. Marshall Elementary,300 Normandy Road Seaside CA 93955-6773,NA,NA,FALSE,tested,Seaside,Monterey County,36.637804,-121.813008
+Santa Clara County Office of Education,Glenview Headstart School,480 8th Street Gilroy CA 95020,NA,NA,NA,not tested,NA,Monterey County,36.6608,-121.818796
+Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+South Monterey County Joint Union High,Greenfield High,225 South El Camino Real Greenfield CA 93927-6312,NA,NA,NA,not tested,Greenfield,Monterey County,36.3212228367347,-121.243798571429
+Salinas Union High,Harden Middle,1561 McKinnon Street Salinas CA 93906-4100,NA,NA,FALSE,tested,Salinas,Monterey County,36.7082002040816,-121.645598918367
+Salinas City Elementary,Henry F. Kammann Elementary,521 Rochex Street Salinas CA 93906-3426,NA,NA,FALSE,tested,Salinas,Monterey County,36.7001638400706,-121.657710339354
+Monterey Peninsula Unified,Highland Elementary School,1650 Sonoma Ave Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6058312482788,-121.829398660899
+Monterey Peninsula Unified,International School of Monterey,1720 Yosemite Street Seaside CA 93955-3914,NA,NA,FALSE,tested,Seaside,Monterey County,36.61249915,-121.827017064937
+Monterey Peninsula Unified,Ione Olson Elementary,261 Beach Road Marina CA 93933-2623,NA,NA,FALSE,tested,Marina,Monterey County,36.6922504193548,-121.794885709677
+Monterey Peninsula Unified,J. C. Crumpton Elementary,460 Carmel Avenue Marina CA 93933-3322,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
+Soledad Unified,Jack Franscioni Elementary,779 Orchard Lane Soledad CA 93960-3375,NA,NA,NA,not tested,Soledad,Monterey County,36.4362765,-121.3159296
+Alisal Union,Jesse G. Sanchez Elementary,901 North Sanborn Road Salinas CA 93905-1308,NA,NA,NA,not tested,Salinas,Monterey County,36.685136,-121.617148
+Alisal Union,John E. Steinbeck Elementary,1714 Burlington Drive Salinas CA 93906-4411,NA,NA,FALSE,tested,Salinas,Monterey County,36.7097642857143,-121.617749142857
+King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.2098055714286,-121.127289
+South Monterey County Joint Union High,King City High,720 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2088201836735,-121.133137489796
+Monterey Peninsula Unified,King Elementary School,1713 Broadway Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6088732307692,-121.825665
+Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.5080403887097,-121.439667423709
+Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,NA,NA,FALSE,tested,Monterey,Monterey County,36.58165,-121.879046
+Salinas Union High,La Paz Middle,1300 North Sanborn Road Salinas CA 93905-4127,NA,NA,NA,not tested,Salinas,Monterey County,36.691219,-121.6061
+Lagunita Elementary,Lagunita Elementary,975 San Juan Grade Road Salinas CA 93907-8438,6.1,ppb,TRUE,tested,Salinas,Monterey County,36.7187294,-121.6525662
+Salinas City Elementary,Laurel Wood Elementary,645 Larkin Street Salinas CA 93907-1970,NA,NA,FALSE,tested,Salinas,Monterey County,36.6897483,-121.6598102
+Salinas City Elementary,Lincoln Elementary,705 California Street Salinas CA 93901-4104,NA,NA,FALSE,tested,Salinas,Monterey County,36.6655203877551,-121.651448693878
+Salinas City Elementary,Loma Vista Elementary,757 Sausal Drive Salinas CA 93906-2299,NA,NA,FALSE,tested,Salinas,Monterey County,36.7083068626085,-121.623554396298
+Monterey Peninsula Unified,Los Arboles Middle,294 Hillcrest Avenue Marina CA 93933-3507,NA,NA,FALSE,tested,Marina,Monterey County,36.6818213265306,-121.802937469388
+Salinas City Elementary,Los Padres Elementary,1130 John Street Salinas CA 93905-3204,NA,NA,FALSE,tested,Salinas,Monterey County,36.6706811972518,-121.623180850994
+Soledad Unified,Main Street Middle,441 Main Street Soledad CA 93960-2507,NA,NA,NA,not tested,Soledad,Monterey County,36.4303576955075,-121.325912304493
+Monterey Peninsula Unified,Marina Childrens Center,3066 Lake Drive Marina CA 93933-2805,NA,NA,FALSE,tested,Marina,Monterey County,36.6846419717032,-121.806632636677
+Monterey Peninsula Unified,Marina High,298 Patton Parkway Marina CA 93933-6007,NA,NA,FALSE,tested,Marina,Monterey County,36.6746208,-121.7976536
+Monterey Peninsula Unified,Marina Vista Elementary,390 Carmel Avenue Marina CA 93933-3223,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
+Greenfield Union Elementary,Mary Chapa Academy,490 El Camino Real Greenfield CA 93927-4914,NA,NA,NA,not tested,Greenfield,Monterey County,36.3265283877551,-121.248098122449
+Santa Rita Union Elementary,McKinnon,2100 McKinnon Salinas CA 93906-5700,NA,NA,FALSE,tested,Salinas,Monterey County,36.7172769393939,-121.643541121212
+Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Salinas City Elementary,Mission Park Elementary,403 West Acacia Street Salinas CA 93901-1830,5.2,ppb,TRUE,tested,Salinas,Monterey County,36.6668413083826,-121.66732074698
+Mission Trails ROP,Mission Trails ROP,867 East Laurel Drive Salinas CA 93905-1310,NA,NA,NA,not tested,Salinas,Monterey County,36.6878604940411,-121.624364940294
+Alisal Union,Monte Bella Elementary,1300 Tuscany Blvd Salinas CA 93905-2292,NA,NA,NA,not tested,Salinas,Monterey County,36.682256,-121.596867
+Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,NA,NA,FALSE,tested,Monterey,Monterey County,36.5890326919612,-121.907810185843
+Monterey County Office of Education,Monterey Bay Charter,1004 David Ave Pacific Grove CA 93950-5443,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6140036938775,-121.910686632653
+Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,NA,NA,NA,not tested,Salinas,Monterey County,36.6542730041624,-121.637833374259
+Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6,ppb,TRUE,tested,Monterey,Monterey County,36.5951152,-121.90018196619
+Salinas City Elementary,Monterey Park Elementary,410 San Miguel Avenue Salinas CA 93901-3854,5.9,ppb,TRUE,tested,Salinas,Monterey County,36.6567600133089,-121.649705046599
+Salinas Union High,Mount Toro High,10 Sherwood Place B Salinas CA 93906-4010,NA,NA,FALSE,tested,Salinas,Monterey County,36.6873813946986,-121.646338464112
+Salinas City Elementary,Natividad Elementary,1465 Modoc Avenue Salinas CA 93906-3003,5.4,ppb,TRUE,tested,Salinas,Monterey County,36.7032680885766,-121.636826941169
+Santa Rita Union Elementary,New Republic Elementary,636 Arcadia Way Salinas CA 93906-5422,NA,NA,FALSE,tested,Salinas,Monterey County,36.7137202295474,-121.628195397438
+North Monterey County Unified,North Monterey County High,13990 Castroville Boulevard Castroville CA 95012-9749,NA,NA,NA,not tested,NA,Monterey County,36.7781973423303,-121.736775456566
+North Monterey County Unified,North Monterey County Middle,10301 Seymour Street Castroville CA 95012-2606,NA,NA,NA,not tested,NA,Monterey County,36.771008,-121.757807
+Salinas Union High,North Salinas High,55 Kip Drive Salinas CA 93906-2908,NA,NA,FALSE,tested,Salinas,Monterey County,36.7050131127064,-121.644829396845
+Greenfield Union Elementary,Oak Avenue Elementary,1239 Oak Avenue Greenfield CA 93927-5438,NA,NA,NA,not tested,Greenfield,Monterey County,36.3173393333333,-121.249509
+Alisal Union,Oasis Charter Public,1135 Westridge Parkway Salinas CA 93907-2529,NA,NA,FALSE,tested,Salinas,Monterey County,36.7054469295921,-121.67020363306
+Monterey Peninsula Unified,Ord Terrace Elementary,1755 La Salle Avenue Seaside CA 93955-4122,NA,NA,FALSE,tested,Seaside,Monterey County,36.6167132857143,-121.82642477551
+Alisal Union,Oscar F. Loya Elementary,1505 Cougar Drive Salinas CA 93905-4722,NA,NA,NA,not tested,Salinas,Monterey County,36.6891764261312,-121.594227602937
+Pacific Grove Unified,Pacific Grove Adult,1025 Lighthouse Avenue Pacific Grove CA 93950-2423,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6206278,-121.9166554
+Pacific Grove Unified,Pacific Grove High,615 Sunset Drive Pacific Grove CA 93950-4827,NA,NA,NA,not tested,Pacific Grove,Monterey County,36.612016,-121.924643
+Pacific Grove Unified,Pacific Grove Middle,835 Forest Avenue Pacific Grove CA 93950-4837,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6144822075928,-121.920555619008
+King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.2213897,-121.1346625
+South Monterey County Joint Union High,Pinnacle Academy Charter,760 Broadway St. King City CA 93930,NA,NA,NA,not tested,King City,Monterey County,36.2092185510204,-121.132606469388
+Soledad Unified,Pinnacles High,690 Main St Soledad CA 93960-2533,NA,NA,NA,not tested,Soledad,Monterey County,36.4331647517683,-121.324226606528
+South Monterey County Joint Union High,Portola-Butler Continuation High,760 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.2092185510204,-121.132606469388
+Pacific Grove Unified,Robert Down Elementary,485 Pine Avenue Pacific Grove CA 93950-3401,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.6181891153846,-121.91622
+Salinas City Elementary,Roosevelt Elementary,120 Capitol Street Salinas CA 93901-2014,NA,NA,FALSE,tested,Salinas,Monterey County,36.675018,-121.660634
+Soledad Unified,Rose Ferrero Elementary,400 Entrada Drive Soledad CA 93960-3148,NA,NA,NA,not tested,Soledad,Monterey County,36.441965,-121.325017
+Salinas Union High,Salinas High,726 South Main Street Salinas CA 93901-3243,NA,NA,FALSE,tested,Salinas,Monterey County,36.6675410675676,-121.655927108108
+San Ardo Union Elementary,San Ardo Elementary,62428 Center Street San Ardo CA 93450-0170,NA,NA,NA,not tested,NA,Monterey County,36.0190598469388,-120.90421527551
+Soledad Unified,San Vicente Elementary,1300 Metz Road Soledad CA 93960-2736,NA,NA,NA,not tested,Soledad,Monterey County,36.426669,-121.316015
+King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.2137548571429,-121.132602836735
+Santa Rita Union Elementary,Santa Rita Elementary,2014 South Santa Rita Street Salinas CA 93906-1912,NA,NA,FALSE,tested,Salinas,Monterey County,36.724483,-121.653558
+Monterey Peninsula Unified,Seaside Children’s Center,1450 Elm Avenue Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.6073732222222,-121.834915277778
+Monterey Peninsula Unified,Seaside High,2200 Noche Buena Street Seaside CA 93955-3145,NA,NA,FALSE,tested,Seaside,Monterey County,36.6217031717172,-121.837876484848
+Monterey Peninsula Unified,Seaside Middle,999 Coe Avenue Seaside CA 93955-6589,6,ppb,TRUE,tested,Seaside,Monterey County,36.6217475,-121.8228365
+Salinas City Elementary,Sherwood Elementary,110 South Wood Street Salinas CA 93905-3104,NA,NA,FALSE,tested,Salinas,Monterey County,36.6730285,-121.635456666667
+Soledad Unified,Soledad Adult,690 Main Street Soledad CA 93960-2533,NA,NA,NA,not tested,Soledad,Monterey County,36.4331647517683,-121.324226606528
+Soledad Unified,Soledad High,425 Gabilan Drive Soledad CA 93960-3207,NA,NA,NA,not tested,Soledad,Monterey County,36.4359730791367,-121.326711273381
+Soledad Unified,Soledad Preschool Center,1261 Metz Road Soledad CA 93960-2745,NA,NA,NA,not tested,Soledad,Monterey County,36.4272813714286,-121.318787142857
+Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,NA,NA,FALSE,tested,Monterey,Monterey County,36.599119,-121.888798
+Carmel Unified,Tularcitos Elementary,35 Ford Road Carmel Valley CA 93924-9649,NA,NA,FALSE,tested,NA,Monterey County,36.4836182962244,-121.730149716219
+Salinas City Elementary,University Park Elementary,833 West Acacia Street Salinas CA 93901-1101,NA,NA,FALSE,tested,Salinas,Monterey County,36.6718785,-121.678813722222
+Alisal Union,Virginia Rocca Barton Elementary,680 Las Casitas Drive Salinas CA 93905-1200,NA,NA,NA,not tested,Salinas,Monterey County,36.6964905409645,-121.61407034912
+Greenfield Union Elementary,Vista Verde Middle,1199 Elm Avenue Greenfield CA 93927-4624,NA,NA,NA,not tested,Greenfield,Monterey County,36.316337,-121.243343
+Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6,ppb,TRUE,tested,Monterey,Monterey County,36.591627,-121.91333
+Salinas Union High,Washington Middle,560 Iverson Street Salinas CA 93901-2534,NA,NA,FALSE,tested,Salinas,Monterey County,36.6692562857143,-121.663322857143
+Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,NA,NA,NA,not tested,Salinas,Monterey County,36.6978065212271,-121.63663324853

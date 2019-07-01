@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Stony Creek Joint Unified,Elk Creek Elementary,3430 County Rd 309 Elk Creek CA 95939-0068,NA,NA,NA,not tested,NA,Glenn County,39.612559,-122.578426
+Orland Joint Unified,Fairview Elementary,1308 Fairview Street Orland CA 95963-1992,NA,NA,NA,not tested,Orland,Glenn County,39.7382604,-122.1827572
+Glenn County Office of Education,Glenn County Juvenile Court,311 South Villa Avenue Willows CA 95988,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Glenn County ROP,Glenn County ROP,451 South Villa Avenue B Willows CA 95988-2964,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Hamilton Unified,Hamilton Community Day,535 Sacramento Avenue Hamilton City CA 95951-0488,NA,NA,FALSE,tested,NA,Glenn County,39.7462794814815,-122.008890185185
+Hamilton Unified,Hamilton Elementary,277 Capay Avenue Hamilton City CA 95951-0277,5.75,ppb,TRUE,tested,NA,Glenn County,39.7386665555556,-122.015203888889
+Hamilton Unified,Hamilton High,620 Canal Street Hamilton City CA 95951-0488,NA,NA,FALSE,tested,NA,Glenn County,39.7400729,-122.0171364
+Orland Joint Unified,North Valley High (Continuation),220 Roosevelt Avenue Orland CA 95963,NA,NA,NA,not tested,Orland,Glenn County,39.75438,-122.191936
+Orland Joint Unified,Orland Community Day,260 Roosevelt Avenue Orland CA 95963-1526,NA,NA,NA,not tested,Orland,Glenn County,39.75438,-122.191936
+Orland Joint Unified,Orland High,101 Shasta Street Orland CA 95963-1426,NA,NA,NA,not tested,Orland,Glenn County,39.7510860067568,-122.191570256757
+Orland Joint Unified,Price Intermediate,1212 Marin Street Orland CA 95963-1641,NA,NA,NA,not tested,Orland,Glenn County,39.7414205833333,-122.19204875
+Glenn County Office of Education,Success One!,451 South Villa Avenue Willows CA 95988-2964,NA,NA,NA,not tested,Willows,Glenn County,39.5177864,-122.2088067
+Glenn County Office of Education,Walden Academy,1149 West Wood Street Willows CA 95988-2614,NA,NA,FALSE,tested,Willows,Glenn County,39.5240825,-122.208147
+Glenn County Office of Education,William Finch,607 East Tehama Street Orland CA 95963-1595,NA,NA,NA,not tested,Orland,Glenn County,39.749567,-122.183999
+Willows Unified,Willows Community High,823 West Laurel Street Willows CA 95988-2946,NA,NA,FALSE,tested,Willows,Glenn County,39.517935,-122.203469375
+Willows Unified,Willows High,203 North Murdock Avenue Willows CA 95988-2706,NA,NA,FALSE,tested,Willows,Glenn County,39.5213017461724,-122.201049624318
+Willows Unified,Willows Intermediate,1145 West Cedar Street Willows CA 95988-3311,5.1,ppb,TRUE,tested,Willows,Glenn County,39.514148,-122.205396358986

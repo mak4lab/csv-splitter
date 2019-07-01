@@ -1,0 +1,73 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Chico Unified,Academy for Change,290 East Avenue Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Paradise Unified,Achieve Charter School of Paradise Inc.,771 Elliott Road Paradise CA 95969-3913,NA,NA,NA,not tested,NA,Butte County,39.7595708770694,-121.621328993661
+Bangor Union Elementary,Bangor Elementary,7549 Oro-Bangor Highway Bangor CA 95914,NA,NA,NA,not tested,NA,Butte County,39.3893476267506,-121.406359656701
+Chico Unified,Bidwell Junior High,2376 North Avenue Chico CA 95926-1434,NA,NA,FALSE,tested,Chico,Butte County,39.7569814,-121.836975729878
+Biggs Unified,Biggs Elementary,300 B Street Biggs CA 95917-9732,NA,NA,NA,not tested,Biggs,Butte County,39.414435,-121.706473
+Biggs Unified,Biggs Secondary Community Day,300 B St Biggs CA 95917-9732,NA,NA,NA,not tested,Biggs,Butte County,39.414435,-121.706473
+Oroville City Elementary,Bird Street Elementary,1421 Bird Street Oroville CA 95965-4783,5.5,ppb,TRUE,tested,Oroville,Butte County,39.5111219284287,-121.560910130311
+Chico Unified,Blue Oak Charter,450 West East Avenue Chico CA 95926-7238,NA,NA,NA,not tested,Chico,Butte County,39.7557809555193,-121.863193723572
+Butte County Office of Education,Butte County Community School - LEAD,2345 Fair Street Chico CA 95928-6749,NA,NA,NA,not tested,Chico,Butte County,39.7167771701196,-121.815303848508
+Chico Unified,Center for Alternative Learning,290 East Ave Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Oroville City Elementary,Central Middle,2565 Mesa Avenue Oroville CA 95966-6024,6.7,ppb,TRUE,tested,Oroville,Butte County,39.5036363761348,-121.544991303508
+Chico Unified,Chapman Elementary,1071 East 16th Street Chico CA 95928-6207,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
+Chico Unified,Chico Country Day,102 West 11th Street Chico CA 95928-6006,NA,NA,NA,not tested,Chico,Butte County,39.7234946,-121.8333109
+Chico Unified,Chico High,901 Esplanade Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.73631,-121.844622
+Chico Unified,Chico Junior High,280 Memorial Way Chico CA 95926-3921,8.2,ppb,TRUE,tested,Chico,Butte County,39.7335036262626,-121.839331383838
+Paradise Unified,Children's Community Charter,6830 Pentz Road Paradise CA 95969-2902,NA,NA,NA,not tested,NA,Butte County,39.7835259691026,-121.579459092572
+Chico Unified,Citrus Avenue Elementary,1350 Citrus Avenue Chico CA 95926-3219,NA,NA,FALSE,tested,Chico,Butte County,39.7384218108108,-121.852230756757
+Durham Unified,Durham Elementary,9421 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460649795918,-121.803129489796
+Durham Unified,Durham High,9455 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.646250244898,-121.803188122449
+Durham Unified,Durham Intermediate,9416 Putney Drive Durham CA 95938-9426,NA,NA,FALSE,tested,NA,Butte County,39.6460821836735,-121.802915591837
+Gridley Unified,Esperanza High (Continuation),581 Jackson Street Gridley CA 95948-2538,NA,NA,FALSE,tested,,Butte County,39.3651416351383,-121.693335798713
+Chico Unified,Fair View High (Continuation),290 East Ave. Chico CA 95926-1122,NA,NA,FALSE,tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Palermo Union Elementary,Golden Hills Elementary,2400 Via Canela Oroville CA 95966-7200,NA,NA,NA,not tested,NA,Butte County,39.473314,-121.538298
+Gridley Unified,Gridley High,300 East Spruce Street Gridley CA 95948-2235,NA,NA,FALSE,tested,,Butte County,39.3670839618612,-121.684211177729
+Palermo Union Elementary,Helen M. Wilcox Elementary,5737 Autrey Lane Oroville CA 95966-7278,NA,NA,NA,not tested,NA,Butte County,39.4754239857168,-121.535715270664
+Paradise Unified,HomeTech Charter,7126 Skyway Paradise CA 95969-3271,NA,NA,NA,not tested,NA,Butte County,39.744167,-121.65058
+Paradise Unified,Honey Run Academy Elementary,622 Pearson Road Paradise CA 95969-5133,NA,NA,NA,not tested,NA,Butte County,39.752153135083,-121.608521055945
+Paradise Unified,Honey Run Academy Secondary,622 Pearson Paradise CA 95969-5133,NA,NA,NA,not tested,NA,Butte County,39.752153135083,-121.608521055945
+Chico Unified,Hooker Oak Elementary,1238 Arbutus Avenue Chico CA 95926-3586,NA,NA,FALSE,tested,Chico,Butte County,39.7433284547409,-121.837160443902
+Chico Unified,Inspire School of Arts and Sciences,335 West Sacramento Avenue Chico CA 95926-3908,NA,NA,FALSE,tested,Chico,Butte County,39.7351009387755,-121.848630367347
+Feather Falls Union Elementary,Ipakanni Early College Charter,1459 Downer Street Oroville CA 95966-8887,NA,NA,NA,not tested,Oroville,Butte County,39.5132185089709,-121.553677113766
+Oroville Union High,Las Plumas High,2380 Las Plumas Avenue Oroville CA 95966-7305,NA,NA,NA,not tested,NA,Butte County,39.480425,-121.539593
+Chico Unified,Little Chico Creek Elementary,2090 Amanda Way Chico CA 95928-3700,NA,NA,FALSE,tested,Chico,Butte County,39.733627600581,-121.798825064512
+Chico Unified,Loma Vista,2404 Marigold Avenue Chico CA 95926-1615,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
+Chico Unified,Marigold Elementary,2446 Marigold Avenue Chico CA 95926-1697,NA,NA,FALSE,tested,Chico,Butte County,39.7642387,-121.8152684
+Chico Unified,Marsh (Harry M.) Junior High,2253 Humboldt Road Chico CA 95928-9132,NA,NA,FALSE,tested,Chico,Butte County,39.739052,-121.799303
+Gridley Unified,McKinley Elementary,1045 Sycamore Street Gridley CA 95948-3040,NA,NA,FALSE,tested,,Butte County,39.3631241392347,-121.698120556692
+Chico Unified,McManus (John A.) Elementary,988 East Avenue Chico CA 95926-1398,NA,NA,FALSE,tested,Chico,Butte County,39.7610169242793,-121.839320754287
+Butte County Office of Education,Mesa Vista School,2265 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.526,-121.578816863636
+Butte County Office of Education,Mountain View (Hearthstone) School,2280 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.5272042040816,-121.578600918367
+Chico Unified,Neal Dow Elementary,1420 Neal Dow Avenue Chico CA 95926-2441,NA,NA,FALSE,tested,Chico,Butte County,39.7492982222222,-121.833250814815
+Private,Notre Dame School,435 Hazel Street Chico CA 95928,NA,NA,FALSE,tested,Chico,Butte County,39.7256123061224,-121.843036632653
+Chico Unified,Oakdale,290 East Av Chico CA 95926-1122,NA,NA,NA,not tested,Chico,Butte County,39.7586287666101,-121.858362427726
+Oroville City Elementary,Oakdale Heights Elementary,2255 Las Plumas Avenue Oroville CA 95966-6940,NA,NA,FALSE,tested,NA,Butte County,39.480425,-121.539593
+Private,Oroville Christian School,3785 Olive Highway Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.5052590289295,-121.515961490943
+Oroville Union High,Oroville High,1535 Bridge Street Oroville CA 95966-5060,NA,NA,NA,not tested,Oroville,Butte County,39.513164,-121.545061
+Palermo Union Elementary,Palermo,7350 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.4358794333736,-121.546233422732
+Palermo Union Elementary,Palermo Special Education Preschool,7390 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.436259935483,-121.546221629164
+Palermo Union Elementary,Palermo Union Community Day (5-8),7350 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.4358794333736,-121.546233422732
+Palermo Union Elementary,Palermo Union Community Day (K-8),7350 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.4358794333736,-121.546233422732
+Paradise Unified,Paradise Adult,622 Pearson Rd Paradise CA 95969-5132,NA,NA,NA,not tested,NA,Butte County,39.752153135083,-121.608521055945
+Paradise Unified,Paradise Charter Middle,6473 Clark Rd Paradise CA 95969-3501,NA,NA,NA,not tested,NA,Butte County,39.7724304129002,-121.595886201483
+Paradise Unified,Paradise eLearning Charter Academy,5911 Maxwell Drive Paradise CA 95969-4023,NA,NA,NA,not tested,NA,Butte County,39.7620704859627,-121.612496748827
+Paradise Unified,Paradise Elementary,588 Pearson Rd Paradise CA 95969-5193,NA,NA,NA,not tested,NA,Butte County,39.752141,-121.611716
+Paradise Unified,Paradise Intermediate,5657 Recreation Dr Paradise CA 95969-5194,NA,NA,NA,not tested,NA,Butte County,39.75073285,-121.613180741937
+Paradise Unified,Paradise Senior High,5911 Maxwell Dr Paradise CA 95969-4023,NA,NA,NA,not tested,NA,Butte County,39.7620704859627,-121.612496748827
+Paradise Unified,Paradise Unified Special Education,6696 Clark Road Paradise CA 95969-2834,NA,NA,NA,not tested,NA,Butte County,39.778896436822,-121.589751369497
+Paradise Unified,Pine Ridge,13878 Compton Dr Magalia CA 95954-9430,NA,NA,FALSE,tested,NA,Butte County,39.81407,-121.603084
+Chico Unified,Pleasant Valley High,1475 East Avenue Chico CA 95926-1699,NA,NA,FALSE,tested,Chico,Butte County,39.7610943061225,-121.81856977551
+Thermalito Union,Plumas Avenue Elementary,440 Plumas Avenue Oroville CA 95965-3219,NA,NA,NA,not tested,Oroville,Butte County,39.5197987001187,-121.574886414304
+Paradise Unified,Ponderosa Elementary,6593 Pentz Rd Paradise CA 95969-3632,NA,NA,NA,not tested,NA,Butte County,39.7753530588681,-121.57967871962
+Paradise Unified,Ridgeview High (Continuation),13665 Skyway Magalia CA 95954-0640,NA,NA,FALSE,tested,NA,Butte County,39.806148,-121.57763
+Chico Unified,Rosedale Elementary,100 Oak Street Chico CA 95928-5046,NA,NA,FALSE,tested,Chico,Butte County,39.724058,-121.851349
+Chico Unified,Shasta Elementary,169 Leora Court Chico CA 95926-0252,NA,NA,FALSE,tested,Chico,Butte County,39.7803364777095,-121.88365579577
+Chico Unified,Sherwood Montessori,1071 East 16th St. Chico CA 95926-2009,NA,NA,FALSE,tested,Chico,Butte County,39.7260442857143,-121.815723428571
+Private,Sierra School of Butte County,2775 Yard Street Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.513495,-121.544521
+Chico Unified,Sierra View Elementary,1598 Hooker Oak Avenue Chico CA 95926-2961,NA,NA,FALSE,tested,Chico,Butte County,39.75087225,-121.812739034716
+Oroville City Elementary,Stanford Avenue Elementary,1801 Stanford Avenue Oroville CA 95966-5231,NA,NA,FALSE,tested,Oroville,Butte County,39.513065,-121.536031
+Oroville City Elementary,STREAM Charter,455E Oro Dam Blvd East Oroville CA 95965-5743,NA,NA,NA,not tested,Oroville,Butte County,39.4979703872603,-121.570794558077
+Gridley Unified,Sycamore Middle,1125 Sycamore Street Gridley CA 95948-2949,NA,NA,FALSE,tested,,Butte County,39.3630180549362,-121.699551187251
+Gridley Unified,Wilson Elementary,409 Magnolia Street Gridley CA 95948-2533,NA,NA,FALSE,tested,,Butte County,39.3630959117234,-121.691557653432
+Oroville City Elementary,Wyandotte Academy,2800 Wyandotte Avenue Oroville CA 95966-6583,NA,NA,FALSE,tested,Oroville,Butte County,39.500393,-121.5466087

@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Atwater Elementary,Aileen Colburn Elementary,2201 Heller Street Atwater CA 95301-3438,NA,NA,FALSE,tested,NA,NA,NA,NA
+Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,NA,NA,NA,not tested,Atwater,Merced County,37.355554,-120.612664
+Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584587607757
+Atwater Elementary,Elmer Wood Elementary,1271 West Bellevue Road Atwater CA 95301-2716,NA,NA,FALSE,tested,NA,NA,NA,NA
+Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,NA,NA,FALSE,tested,Atwater,Merced County,37.3529532,-120.6112958
+Atwater Elementary,Mitchell Intermediate,1753 Fifth Street Atwater CA 95301-3620,NA,NA,FALSE,tested,NA,NA,NA,NA
+Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,NA,NA,FALSE,tested,Atwater,Merced County,37.37076395,-120.593810259422
+Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,NA,NA,FALSE,tested,Atwater,Merced County,37.3468276,-120.597518052191
+Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,NA,NA,FALSE,tested,Atwater,Merced County,37.3546807,-120.59685909387

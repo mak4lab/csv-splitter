@@ -68,6 +68,7 @@ A. M. Winn Waldorf-Inspired
 Abbott Middle
 Abby Reinke Elementary
 ABC Adult
+Able Charter School
 Abraham Lincoln
 Abraham Lincoln Continuation
 Abraham Lincoln Elementary
@@ -184,7 +185,9 @@ Albert Einstein Continuation
 ALBERT EINSTEIN CONTINUATION HIGH SCHOOL
 Albert Einstein Middle
 Albert F. Biella Elementary
+Albert Powell Continuation
 Albert Schweitzer Elementary
+Alberta Martone Elementary
 ALBION EARLY EDUCATION CENTER
 ALBION ELEMENTARY
 Albion Street Elementary
@@ -219,6 +222,7 @@ Alicia Cortez Elementary
 Alicia Reyes Elementary
 Alila
 Alisal Community
+Alisal Elementary
 Alisal High
 Aliso Elementary
 Aliso Niguel High
@@ -234,6 +238,7 @@ Allen at Steinbeck
 Allen Avenue Elementary
 Allen Elementary School
 Allendale Elementary
+Allendale State Pre K
 Allensworth Elementary
 Allesandro Elementary
 ALLESANDRO STATE  PRE-SCHOOL SITE
@@ -309,6 +314,7 @@ Alta Sierra Elementary
 Alta Sierra Intermediate
 Alta Vista Academy
 Alta Vista Alternative High
+Alta Vista Community Charter
 Alta Vista Elementary
 Alta Vista High
 Alta Vista High (Continuation)
@@ -336,6 +342,8 @@ Alvord Alternative Continuation High
 Alvord Continuation High
 Alyce Norman Learning Center
 Amador High
+Amador Valley Adult and Community Education
+Amador Valley High
 AMANECER PRIMARY CENTER
 Amanecer Primary Center
 Amargosa Creek Middle
@@ -362,8 +370,8 @@ American Lakes Elementary
 American Legion High (Continuation)
 American River Charter
 Amesti Elementary
-AMESTOY ELEMENTARY
 Amestoy Elementary
+AMESTOY ELEMENTARY
 AMESTOY STATE PRESCHOOL
 Amistad High (Continuation)
 Amy B. Seibert Elementary
@@ -394,6 +402,7 @@ Andrew Carnegie Middle
 Andrew Jackson Elementary
 Andrew N. Christensen Middle
 Andrew P. Hill High
+Andros Karperos
 Angel's Gate (Continuation)
 ANGEL'S GATE CONTINUATION HIGH SCHOOL (@ FT. MACARTHUR)
 Angela Preschool & Kindergarten
@@ -435,10 +444,11 @@ Anna McKenney Intermediate
 Anna Yates Elementary
 Annalee Avenue Elementary
 ANNALEE ELEMENTARY
-Annandale Elementary
 ANNANDALE ELEMENTARY
+Annandale Elementary
 Anne Darling Elementary
 Annie E. Cheney Kindergarten
+Annie Pennycook Elementary
 Annie R. Mitchell
 Ansel Adams
 Ansgar Larsen Elementary
@@ -475,6 +485,7 @@ Apple Valley County Early Education Center
 Apple Valley High
 Applied Technology Center
 Apricot Valley Elementary
+April Lane Elementary
 Aptitud Community Academy at Goss
 Aptos Junior High
 Aptos Middle
@@ -623,6 +634,8 @@ Aspire University Charter
 Aspire Vanguard College Preparatory Academy
 Aspire Vincent Shalvey Academy
 Assumption
+Atascadero High
+Atascadero Middle
 Athenour Early Childhood Education Center
 Atherwood Elementary
 Atwater Avenue Elementary
@@ -631,6 +644,7 @@ Atwater High
 Atwater Senior Academy
 Auburn Community School
 Auburn Elementary
+Auburndale Intermediate
 Audeo Charter
 Audubon Elementary
 Audubon K-8
@@ -638,6 +652,7 @@ Audubon Middle
 AUDUBON MIDDLE SCHOOL
 August Boeger Middle
 August Elementary
+August Knodt Elementary
 August Schilling Elementary
 Augustus F. Hawkins High A Critical Design and Gaming
 Augustus F. Hawkins High B Community Health Advocates
@@ -647,10 +662,11 @@ Aurora Center
 Aurora Elementary
 Aurora High (Continuation)
 Aurora School
+Austin Creek Elementary
 AV Academy High School
 Avalon Elementary
-AVALON GARDENS ELEMENTARY
 Avalon Gardens Elementary
+AVALON GARDENS ELEMENTARY
 Avalon High
 Avalon K-12
 Avaxat Elementary
@@ -690,8 +706,8 @@ Balboa High
 Balboa Middle
 Baldwin (Julia) Elementary
 Baldwin Academy
-BALDWIN HILLS ELEMENTARY
 Baldwin Hills Elementary
+BALDWIN HILLS ELEMENTARY
 Baldwin Lane Elementary
 Baldwin Park High
 Baldwin Stocker Elementary
@@ -737,8 +753,8 @@ Barnard Elementary
 Barnett Elementary
 Barranca Elementary
 Barrel Springs Elementary
-Barrett Elementary
 BARRETT ELEMENTARY
+Barrett Elementary
 Barrett Ranch Elementary
 BARRETT STATE PRESCHOOL
 Barron Park Elementary
@@ -755,6 +771,7 @@ Bassett Adult
 BASSETT ELEMENTARY
 Bassett Senior High
 Bassett Street Elementary
+Bathgate Elementary
 Battles (Washington) Elementary
 Bautista Creek Elementary
 Bay Area Technology
@@ -777,8 +794,8 @@ Baywood Learning Centers
 be.tech
 Beach Elementary
 Beach High-Intensive Learning Program
-BEACHY AVENUE ELEMENTARY
 Beachy Avenue Elementary
+BEACHY AVENUE ELEMENTARY
 Beacon Classical Academy National City
 Beacon Park
 Beamer Elementary
@@ -815,8 +832,8 @@ Bell Gardens Intermediate
 Bell Hill Academy
 Bell Middle
 Bell Mountain Middle
-Bell Senior High
 BELL SENIOR HIGH
+Bell Senior High
 Bella Mente Montessori Academy
 Bella Vista CDC
 Bella Vista Elementary
@@ -908,6 +925,7 @@ BETHUNE MIDDLE SCHOOL
 Betty Gibbel RLC
 Betty Plasencia Elementary
 Beulah Payne Elementary
+Beverly Hills Elementary
 Beverly Hills High
 Beverly Vista Elementary
 Bidwell Continuation High
@@ -934,6 +952,7 @@ Bill E. Young Jr. Middle
 Bill L. Williams Elementary
 Billy Mitchell Elementary
 Bing Wong Elementary
+Binkley Elementary Charter
 Biola-Pershing Elementary
 Birch Grove Intermediate
 Birch Grove Primary
@@ -992,6 +1011,7 @@ Bobier Elementary
 Bodega Bay Elementary
 Bohannon Middle
 Bolinas Stinson Elementary School
+Bolinas-Stinson Elementary
 Bollinger Canyon Elementary
 Bolsa Grande High
 Bolsa Knolls Middle
@@ -1011,6 +1031,7 @@ Bonsall West Elementary
 Booksin Elementary
 Boone Elementary
 Borel Middle
+Boron Junior-Senior High
 Boronda Elementary
 Boronda Meadows
 Borrego Springs Elementary
@@ -1079,9 +1100,11 @@ BRIDGES Charter
 Bridges Community Based School, North County Consortium
 Bridges Community Day
 BRIDGES SPAN SCHOOL(SR SPAN K-8 #1)
+Bridgeway Island Elementary
 Brier Elementary
 Briggs Elementary
 BRIGHT ELEMENTARY
+Bright Horizons Preschool
 Bright Star Academy
 Bright Star Secondary Charter Academy
 Brightwood Elementary
@@ -1094,9 +1117,10 @@ Broad Avenue Elementary
 Broadacres Avenue Elementary
 BROADACRES ELEMENTARY
 BROADOUS EARLY EDUCATION CENTER
-BROADWAY ELEMENTARY
 Broadway Elementary
+BROADWAY ELEMENTARY
 Broadway High
+Broadway/ Headstart
 Brock Elliott Elementary
 BROCKTON AVE ELEMENTARY SCHOOL
 Brockton Avenue Elementary
@@ -1110,10 +1134,13 @@ Brookhurst Junior High
 BROOKLYN AVE. ELEMENTARY SCHOOL
 Brooklyn Avenue Elementary
 BROOKLYN EARLY EDUCATION CENTER
+Brooks Elementary
+Brookside
 Brookside Elementary
 Brooktree Elementary
 Brookvale Elementary
 Brown Jr. (Willie L) Middle
+Brownell Annex
 Brownell Middle
 Browning High School
 Browning Road Elementary
@@ -1130,6 +1157,7 @@ Bryte Career and College Training
 Brywood Elementary
 BSD-OPER-YALE
 BSD-SEPULVEDA BUS GARAGE
+Bubbling Wells Elementary
 BUCHANAN ELEMENTARY
 Buchanan High
 Buchanan Street Elementary
@@ -1181,14 +1209,15 @@ Burney Community Day
 Burney Elementary
 Burney Elementary Community Day
 Burney Junior-Senior High
+Burns Valley
 Burrell Pacific Sports Complex
 Burroughs Elementary
 Burroughs High
 BURROUGHS MIDDLE SCHOOL
 Bursch Elementary
 Burton (Phillip and Sala) Academic High
-BURTON ELEMENTARY
 Burton Elementary
+BURTON ELEMENTARY
 Burton Middle
 Burton Street Elementary
 Burton Valley Elementary
@@ -1200,6 +1229,7 @@ Business Learning Academy
 Butte County Community School - LEAD
 Butte Valley Elementary and Middle School
 Butte Valley High
+Butte Vista Elementary
 Buttercup Pre-School
 Butterfield Charter High
 Butterfield Elementary
@@ -1228,6 +1258,7 @@ Cadwallader Elementary
 Cahuenga Elementary
 CAHUENGA ELEMENTARY SCHOOL
 Cahuilla Desert Academy Junior High
+Cahuilla Elementary
 Cairns High School
 Cajon High
 Cajon Park Elementary
@@ -1257,6 +1288,7 @@ Caleb Greenwood Elementary
 Calero High
 Calexico High
 Calexico High School 9th Grade Campus
+Cali Calmecac Language Academy
 Caliber: Beta Academy
 California Academy of Mathematics and Science
 California Avenue Elementary
@@ -1275,6 +1307,8 @@ California School for the Deaf-Fremont
 California School for the Deaf-Riverside
 Calimesa Elementary
 Calipatria High
+Calistoga Elementary
+Calistoga Junior-Senior High
 Calla High
 Calle Mayor Middle
 Callie Kirkpatrick Elementary
@@ -1293,6 +1327,7 @@ Cambridge Continuation High
 Cambridge Elementary
 Cambridge Heights Elementary
 Cambridge High
+Cambridge International Preparatory School
 Camden Community Day
 Camellia Avenue Elementary
 Camellia Elementary
@@ -1322,6 +1357,7 @@ Camp Glenwood
 Camp Lockett Middle School
 Campbell Middle
 Campolindo High
+Camptonville Elementary
 Campus Canyon Elementary
 Campus Park Elementary
 Canalino Elementary
@@ -1331,8 +1367,8 @@ Canoas Elementary
 CANOGA PARK EARLY EDUCATION CENTER
 CANOGA PARK ELEMENTARY
 Canoga Park Elementary
-CANOGA PARK SENIOR HIGH
 Canoga Park Senior High
+CANOGA PARK SENIOR HIGH
 CANTARA ELEMENTARY
 Cantara Street Elementary
 Canterbury Avenue Elementary
@@ -1373,18 +1409,22 @@ Capri Elementary School
 Captain Jason M. Dahl Elementary
 Captain Leland Norton Elementary
 Captain Raymond Collins
+Carden Conservatory
 Cardiff Elementary
 Cardiff Elementary School
+Cardinal Newman High School
 Cardozo Middle
 Career Technical Education Charter High School at Kermit Kootz Education Complex
 Carl B. Munck Elementary
 Carl Dwire Jr Special School
 Carl E. Gilbert Elementary
 Carl H. Sundahl Elementary
+Carl Hankey Elementary
 Carl Harvey Elementary
 Carl Smith Middle
 Carle (William C.) High (Continuation)
 Carleton P. Lightfoot Elementary
+Carlin C. Coppin Elementary
 Carlmont High
 Carlos Santana Arts Academy
 CARLOS SANTANA ELEMENTARY (FRM: VRES #12)
@@ -1412,15 +1452,15 @@ Carmichael (Bessie)/FEC
 Carmichael Elementary
 CARNEGIE MIDDLE SCHOOL
 Carnelian Elementary
-CAROLDALE LEARNING COMMUNITY
 Caroldale Learning Community
+CAROLDALE LEARNING COMMUNITY
 Caroline Harris Elementary
 Caroline Wenzel Elementary
 Carolyn A. Clark Elementary
 Carpe Diem High (Continuation)
 Carpenter Community Charter
-CARPENTER ELEMENTARY
 Carpenter Elementary
+CARPENTER ELEMENTARY
 Carpinteria Family
 Carpinteria Middle
 Carpinteria Senior High
@@ -1435,8 +1475,8 @@ Carson Christian School
 Carson Elementary
 CARSON ELEMENTARY
 CARSON GORE ACADEMY OF ENVIRONMENTAL STUDIES (FRM:CRES #13)
-CARSON SENIOR HIGH
 Carson Senior High
+CARSON SENIOR HIGH
 Carson Street Elementary
 Carson-Gore Academy of Enviornmental Studies
 Carter G. Woodson Public Charter
@@ -1468,6 +1508,7 @@ Castaic Middle
 CASTELAR EARLY EDUCATION CENTER
 CASTELAR ELEMENTARY
 Castelar Street Elementary
+Castille Elementary
 Castillero Middle
 Castle Heights Elementary
 CASTLE HEIGHTS ELEMENTARY
@@ -1492,10 +1533,12 @@ Castroville Elementary
 Caswell Elementary
 Cathedral City Elementary
 Cathedral City High
+Catherine Everett Elementary
 Catherine L. Zane Middle
 Catheryn Gates Elementary
 Catskill Avenue Elementary
 CATSKILL ELEMENTARY
+Cave Language Academy
 Cawston Elementary
 Cayucos Elementary
 CCOE Extended Day Program
@@ -1569,11 +1612,14 @@ Ceres High
 Cerra Vista Elementary
 Cerritos Elementary
 Cerritos High
+Cerro Villa Middle
+Cesar Chavez Academy
 Cesar Chavez Community School
 Cesar Chavez Continuation High
 Cesar Chavez Elem. - RMS
 Cesar Chavez Elementary
 CESAR CHAVEZ ELEMENTARY SCHOOL
+Cesar Chavez High
 Cesar Chavez Intermediate
 Cesar Chavez Junior High
 Cesar Chavez Language Academy
@@ -1610,6 +1656,7 @@ CHANDLER ELEMENTARY
 Chandler Learning Academy
 Chandler School
 Chandler Tripp School
+Channel Islands High
 Chaparral Elementary
 Chaparral High
 Chaparral High (Continuation)
@@ -1661,8 +1708,8 @@ CHASE ELEMENTARY
 Chase Street Elementary
 Chatom Elementary
 Chatsworth Charter High
-Chatsworth Park Elementary
 CHATSWORTH PARK ELEMENTARY
+Chatsworth Park Elementary
 CHATSWORTH SENIOR HIGH
 Chautauqua High (Continuation)
 Chavez (Cesar) Elementary
@@ -1691,6 +1738,7 @@ Chicago Park Elementary
 Chico Country Day
 Chico High
 Chico Junior High
+Child Development Preschool Center
 Child's Primary, The
 Children of Promise Preparatory Academy
 Children's Community Center
@@ -1718,12 +1766,14 @@ Christ Lutheran
 Christ Lutheran Elementary
 Christa McAuliffe
 Christa McAuliffe Elementary
+Christa McAuliffe Middle
 Christian Brothers High School
 Christian Elementary West
 Christian Sorensen Elementary
 Christine Sipherd Elementary
 Christopher Columbus Middle
 Christopher Dena Elementary
+Christopher Elementary
 Christopher High
 Chrysalis Charter
 Chualar Elementary
@@ -1731,12 +1781,13 @@ Chula Vista Hills Elementary
 Chula Vista Learning Community Charter
 Chula Vista Middle
 Chula Vista Senior High
+Cielo Vista Charter
 Cielo Vista Elementary
-CIENEGA ELEMENTARY
 Cienega Elementary
+CIENEGA ELEMENTARY
 Cimarron Avenue Elementary
-CIMARRON ELEMENTARY
 Cimarron Elementary
+CIMARRON ELEMENTARY
 Cinnabar Charter
 Cinnabar Elementary
 Cinnamon Elementary
@@ -1754,6 +1805,7 @@ Citrus Glen Elementary
 Citrus High
 Citrus High (Continuation)
 Citrus Hill High
+Citrus Hills Intermediate
 Citrus Middle
 Citrus Valley High
 City Arts and Tech High
@@ -1763,14 +1815,15 @@ City Honors College Preparatory Academy
 City Language Immersion Charter
 City of Angels
 CITY OF ANGELS INDEPENDENT STUDIES
-CITY TERRACE ELEMENTARY
 City Terrace Elementary
+CITY TERRACE ELEMENTARY
 Civicorps Corpsmember Academy
 CIVITAS SCHOOL OF LEADERSHIP
 CJUSD District Office
 Clair Burgener Academy
 Clairemont High
 Clairmont Elementary
+Clara Barton Elementary
 Clara J. King Elementary
 Claremont Adult
 Claremont High
@@ -1784,6 +1837,7 @@ Classical Academy
 Classical Academy High
 Classical Academy Middle 7-8
 Classical Academy Online School
+Claudia Landeen
 Clay Elementary
 Clayton A. Record, Jr., Elementary
 Clayton Valley Charter High
@@ -1791,6 +1845,7 @@ CLEAR CREEK OUTDOOR EDUCATION CENTER
 Clear Lake High
 Clear Passage Educational Center
 Clear View
+Clearlake Creativity
 Clearwater Elementary
 Clement Middle
 Cleminson Elementary
@@ -1847,8 +1902,8 @@ Cohasset Street Elementary
 Col. J. K. Tuffree Middle
 Cold Spring Elementary
 Cold Stream Alternative
-COLDWATER CANYON ELEMENTARY
 Coldwater Canyon Elementary
+COLDWATER CANYON ELEMENTARY
 Cole Canyon Elementary
 Cole Elementary
 Coleman Elementary
@@ -1903,8 +1958,8 @@ Colusa High
 Come Back Kids
 Commodore Stockton Skills
 Commonwealth Avenue Elementary
-COMMONWEALTH ELEMENTARY
 Commonwealth Elementary
+COMMONWEALTH ELEMENTARY
 Community Adult
 COMMUNITY CHARTER EARLY COLLEGE HIGH SCHOOL
 COMMUNITY CHARTER MIDDLE SCHOOL
@@ -1926,6 +1981,7 @@ Community Outreach Academy-Skvarla
 Community Preparatory Academy
 Community Roots Academy
 Community School for Creative Education
+Community School/Independent Alternative Education
 Community Schools North
 Community United Elementary
 Compass High School
@@ -1948,6 +2004,7 @@ Conejo Middle
 Conejo Valley High (Continuation)
 Congressman Jerry Lewis Elementary
 Conley Elementary
+Connect Community Charter
 Connecting Waters Charter
 Connections Visual and Performing Arts Academy
 Conservatory of Vocal Instrumental Arts High
@@ -1971,6 +2028,7 @@ Cooper Middle
 Cope Middle
 Copper Hills Elementary
 Copperopolis Elementary
+Coral Mountain Academy
 Corcoran High
 Cordelia Hills Elementary
 Cordillera Elem
@@ -1992,9 +2050,13 @@ Cornerstone Fellowship Academy
 Corning High
 CORONA AVE.  ELEMENTARY SCHOOL
 Corona Avenue Elementary
+Corona Creek Elementary
 Corona del Mar High
 Corona Elementary
 Corona Elementary School
+Corona Fundamental Intermediate
+Corona High
+Corona Ranch Elementary
 Corona Vista High
 Corona-Norco Adult
 Corona-Norco Alternative
@@ -2004,6 +2066,7 @@ Coronado High (Continuation)
 Coronado Middle
 Coronado Unified Special Education Pre-K
 Coronado Village Elementary
+Coronita Elementary
 Corpus Christi Elementary
 Correia Middle
 Cortada Elementary
@@ -2020,6 +2083,7 @@ Cottage Elementary
 Cottage Hill Elementary
 Cottonwood Canyon Elementary
 Cottonwood Creek Elementary
+Cottonwood Creek School
 Cottonwood Elementary
 COUGHLIN ES STATE PRE-SCHOOL
 Country Christian School
@@ -2062,6 +2126,7 @@ Creekside High
 Creekside Junior High School
 Creekside Middle
 Creekside Middle School
+Creekside Oaks Elementary
 Creekview Ranch
 CRENSHAW ARTS - TECHNOLOGY HIGH SCHOOL @ AUDUBON MS
 Crenshaw Arts-Technology Charter High
@@ -2092,6 +2157,7 @@ Crocker Highlands Elementary
 Crocker Middle
 Crocker/Riverside Elementary
 Crossroads
+Crossroads Alternative Education Center
 Crossroads Charter
 Crossroads Christian School
 Crossroads Community Day
@@ -2123,6 +2189,7 @@ Cupertino High
 Cupertino Middle
 Curie Elementary
 Curran Middle
+Curren Elementary
 Curtis Middle
 CURTISS MIDDLE SCHOOL
 Curtner Elementary
@@ -2234,9 +2301,10 @@ Deer Valley High
 Deerfield Elementary
 Dehesa Elementary
 Del Amigo High (Continuation)
-DEL AMO ELEMENTARY
 Del Amo Elementary
+DEL AMO ELEMENTARY
 Del Campo High
+Del Cerro Elementary
 Del Cerro Elementary School
 Del Dayo Elementary
 Del Dios Academy of Arts and Sciences
@@ -2263,6 +2331,7 @@ Del Rey Elementary
 DEL REY TRI-C CONTINUATION HIGH
 Del Rey Woods Elementary
 Del Rio Elementary
+Del Roble Elementary
 Del Rosa Elementary
 Del Sol School
 Del Sur Elementary
@@ -2292,6 +2361,10 @@ Delta Vista Middle
 Demille Elementary
 Dena Boer
 DENA ELEMENTARY
+Denair Charter Academy
+Denair Elementary Charter Academy
+Denair High
+Denair Middle
 Denker Avenue Elementary
 DENKER ELEMENTARY
 Denman (James) Middle
@@ -2307,6 +2380,7 @@ Desert Oasis High (Continuation)
 Desert Pathways
 Desert Ridge Academy
 Desert Rose Elementary
+Desert Springs Middle
 Desert Trails Preparatory Academy
 Desert Valley High (Continuation)
 Desert View Elementary
@@ -2374,11 +2448,13 @@ Dominguez High
 Don Antonio Lugo High
 Don Benito Fundamental
 Don Callejon
+Don F. Kenny Regional Learning Center
 Don Juan Avila Elementary
 Don Juan Avila Middle
 Don Julian Elementary
 Don Pedro Elementary
 Don Pedro High
+Don Riggio
 Don Stowell Elementary
 Dona Merced Elementary
 Donald D. Lum Elementary
@@ -2389,6 +2465,7 @@ Donald J. Meyer Elementary
 Donald L. Rheem Elementary
 Donald S. Jordan Intermediate
 Donaldson Way Elementary
+Donlon Elementary
 Donn B. Chenoweth Elementary
 Dool Elementary
 Dooley Elementary
@@ -2413,6 +2490,7 @@ Dougherty Valley High
 Douglas (East Kern Community School)
 Douglas City Elementary
 Douglas J. Miller Elementary
+Douglas MacArthur Fundamental Intermediate
 Douglas Penfield School
 Douglass Middle
 Dove Hill Elementary
@@ -2436,12 +2514,13 @@ DOYLE CAREER & TRANSITION CENTER (FRM: SELLERY SPECIAL EDUCATION CENTER)
 Doyle Elementary
 Dozier-Libbey Medical High
 Dr. Albert Schweitzer
+Dr. Augustine Ramirez Intermediate
 Dr. Bernice Jameson Todd Academy
 Dr. Doug Sears Learning Center
 Dr. Douglas K. Fletcher Elementary
 Dr. J. Michael McGrath Elementary
-DR. JAMES EDWARD JONES PRIMARY CENTER
 Dr. James Edward Jones Primary Center
+DR. JAMES EDWARD JONES PRIMARY CENTER
 Dr. Julian Nava Learning Academies-School of Arts and Culture
 Dr. Julian Nava Learning Academies-School of Business and Technology
 Dr. Juliet Thorner Elementary
@@ -2461,9 +2540,12 @@ DR.. MAYA ANGELOU COMMUNITY HS :  GLOBAL ISSUES ACADEMY (FRM: SOCIAL JUSTICE SCH
 DR.. MAYA ANGELOU COMMUNITY HS : FINE ARTS ACADEMY (FRM: SOCIAL JUSTICE SCHOOLS - CRHS #16B))
 Drew (Charles) College Preparatory Academy
 DREW MIDDLE SCHOOL
+Driffill Elementary
 Dry Creek Elementary
 Dual Language Academy of the Monterey Peninsula
 Duarte High
+Dublin Elementary
+Dublin High
 Ducor Union Elementary
 Dunbar Elementary
 Duncan-Russell Continuation
@@ -2491,16 +2573,19 @@ E. J. Marshall Elementary
 E. L. Musick Elementary
 E. M. Grimmer Elementary
 E. Manfred Evans Community Adult
+E. Neal Roberts Elementary
 E. O. Green Junior High
 E. P. Foster Elementary
 E. Ruth Sheldon Academy of Innovative Learning
 e3 Civic High
 Eagle Canyon Elementary
+Eagle Canyon High
+Eagle Peak Middle
 Eagle Peak Montessori
 Eagle Prairie Elementary
 Eagle Ranch Elementary
-Eagle Rock Elementary
 EAGLE ROCK ELEMENTARY
+Eagle Rock Elementary
 Eagle Rock High
 EAGLE ROCK SENIOR HIGH
 Eagle Summit Community Day
@@ -2528,6 +2613,7 @@ East Avenue Middle
 East Bakersfield High
 East Bay Arts High
 East Bay Innovation Academy
+East Bay Innovation Academy Upper School
 East Bay Regional Occupation Center/Agency (ROC/P)
 East County Elementary Special Education
 East County Regional Education Center
@@ -2566,13 +2652,16 @@ EASTMAN ELEMENTARY
 Eastmont Intermediate
 Eastshore Elementary
 Eastside Academy/Transitional Learning Center
+Eastside College Preparatory School
 Eastside High
+Eastvale Elementary
 Eastwood Elementary
 Eaton Elementary
 eCademy Charter at Crane
 Ecole Bilingue De Berkeley
 Ecole Notre Dame Des Victoires
 Ed Center
+Ed Donaldson Education Center
 ED SUPP CNTR-REG D/H
 ED SUPP CNTR-REG E/F
 Eden Area ROP
@@ -2603,6 +2692,7 @@ Edna Maguire Elementary
 Educational Options Center State Preschool
 Educational Partnership High
 Educational Training Center
+EDUHSD Virtual Academy at Shenandoah
 Edward B. Cole Academy
 Edward C. Merlo Institute of Environmental Studies
 Edward Fitzgerald Elementary
@@ -2650,13 +2740,15 @@ El Centro Elementary School District Office
 El Centro Jr./Sr. High
 El Cerrito Elementary
 El Cerrito High
+El Cerrito Middle
 El Crystal Elementary
 El CVrystal Elementary School
 El Diamante High
 El Dorado Avenue Elementary
-El Dorado Elementary
 EL DORADO ELEMENTARY
+El Dorado Elementary
 El Dorado High
+El Dorado High School East Campus
 El Dorado Middle
 El Dorado Office of Education
 El Gabilan Elementary
@@ -2690,8 +2782,8 @@ El Segundo Middle
 El Segundo School
 El Sereno Alternative Education
 EL SERENO EARLY EDUCATION CENTER
-El Sereno Elementary
 EL SERENO ELEMENTARY
+El Sereno Elementary
 El Sereno Middle
 EL SERENO MIDDLE SCHOOL
 EL SERENO STATE PRESCHOOL
@@ -2702,13 +2794,17 @@ El Toro High
 El Toro High School
 El Toyon Elementary
 El Verano Elementary
+El Vista Elementary
 Elder Creek Elementary
 Elderberry Elementary
 Elderberry Elementary School
 Eldridge Elementary
 Eleanor J. Toll Middle
+Eleanor Murray Fallon
+Eleanor Roosevelt High
 ELEMENTARY CDS - BERKELEY
 Elevate Elementary
+Elihu Beard Elementary
 Elim Elementary
 Elinor Lincoln Hickey Jr./Sr. High
 Eliot Elementary
@@ -2752,6 +2848,7 @@ Elmhurst Community Prep
 Elmhurst Elementary
 Elmwood Elementary
 Elsa Widenmann Elementary
+Elsie Allen High
 Elsinore Elementary
 Elsinore High
 Elsinore Middle
@@ -2810,6 +2907,7 @@ Endeavour School of Exploration
 Enders Elementary
 Engineering and Technology Academy at Esteban E. Torres High No. 3
 English French Learning Academy
+Enlighten Chinese Preschool
 Enrique Camarena Jr. High
 Enslen Elementary
 Enterprise Alternative
@@ -2843,27 +2941,31 @@ Ernest Righetti High
 Ernest S. McBride, Sr. High
 Ernesto Galarza Elementary
 Ernie Pyle Elementary
-ERWIN ELEMENTARY
 Erwin Elementary
+ERWIN ELEMENTARY
 Escalon Charter Academy
 Escalon High
 Escalona Elementary
 Escondido Adult
+Escondido Charter High
 Escondido Community Day
+Escondido Elementary
 Escondido High
 Escondido Union High School District
 Escuela Bilingue Internacional San Pablo Emeryville Campus
 Escuela Bilingüe Internacional
 Escuela Popular Accelerated Family Learning
+Escuela Popular/Center for Training and Careers, Family Learning
 ESHELMAN AVE. ELEMENTARY SCHOOL
 Eshelman Avenue Elementary
 Esparto Elementary
 Esparto High
 Esparto Middle
 Esperanza
-ESPERANZA ELEMENTARY
 Esperanza Elementary
+ESPERANZA ELEMENTARY
 Esperanza High
+Esperanza High (Continuation)
 Esperanza Sp. Educ.
 Esplanade Elementary
 Estancia High
@@ -2885,6 +2987,7 @@ Ethel Dwyer Middle
 Ethel I. Baker Elementary
 Ethel Kucera Middle
 Ethel M. Evans Elementary
+Ethel Pearson Elementary
 Ethel Phillips Elementary
 Etiwanda Colony Elementary
 Etiwanda High
@@ -2902,6 +3005,7 @@ Euclid Elementary School
 Eugene Padan Elementary
 Eunice Sato Academy of Math and Science
 Eureka Senior High
+EV Cain 21st Century STEM Charter
 Evangeline Roberts Institute of Learning
 EVANS COMMUNITY ADULT SCHOOL
 Evans Ranch Elementary
@@ -2944,14 +3048,15 @@ Fairburn Avenue Elementary
 FAIRBURN ELEMENTARY
 Fairfax Elementary
 Fairfax Jr. High
-FAIRFAX SENIOR HIGH
 Fairfax Senior High
+FAIRFAX SENIOR HIGH
 Fairfield Christian School
 Fairfield High
 Fairfield-Suisun Adult
 Fairgrove Academy
 Fairgrove Elementary
 Fairhaven Elementary
+Fairlands Elementary
 Fairlawn Elementary
 Fairmead Elementary
 Fairmeadow Elementary
@@ -2963,6 +3068,7 @@ Fairvalley High (Continuation)
 Fairview Elementary
 Fairview Middle
 Fairwood Elementary
+Faith Academy
 Faith Ringgold School of Arts and Science
 Fall River Community Day
 Fall River Elementary
@@ -2972,6 +3078,7 @@ Fallbrook Street Elementary
 Faller Elementary
 Fallsvale School
 Family First Charter
+Family Partnership Charter School
 Family Partnership Home Study Charter
 Family Tree Learning Center
 Fammatre Elementary
@@ -2979,8 +3086,8 @@ Fancher Creek Elementary
 Farallone View Elementary
 Farallone View Elementary School
 Farb Middle
-FARMDALE ELEMENTARY
 Farmdale Elementary
+FARMDALE ELEMENTARY
 Farmersville High
 Farmersville Junior High
 Farmington Elementary
@@ -2991,7 +3098,9 @@ Father Keith B. Kenny
 Fay Elementary
 Faylane Elementary
 Feaster (Mae L.) Charter
+Feather River Academy
 Fedde (Pharis F.) Middle
+Federal Terrace Elementary
 Feinstein (Dianne) Elementary
 Felicita Elementary
 Felicitas and Gonzalo Mendez High
@@ -3006,8 +3115,8 @@ Fern Drive Elementary
 Fern Elementary
 Fernando R. Ledesma Continuation High
 Fernando Rivera Intermediate
-Fernangeles Elementary
 FERNANGELES ELEMENTARY
+Fernangeles Elementary
 FERNANGELES STATE PRE-SCHOOL
 Ferndale Elementary
 Ferndale High
@@ -3026,6 +3135,7 @@ Figarden Elementary
 Figueroa Street Elementary
 FIGUEROA STREET ELEMENTARY SCHOOL
 Fillmore Elementary
+Fine Arts Academy
 Finley Elementary
 Finney (Myrtle S.) Elementary
 Fipps Primary
@@ -3048,8 +3158,8 @@ Fletcher Hills Elementary
 Flora Vista Elementary
 Florence Avenue Elementary
 Florence E. Rata
-FLORENCE ELEMENTARY
 Florence Elementary
+FLORENCE ELEMENTARY
 FLORENCE GRIFFITH JOYNER ELEMENTARY
 Florence Griffith Joyner Elementary
 Florence Markofer Elementary
@@ -3129,6 +3239,7 @@ Foster Elementary
 Foster Road Elementary
 Foulks Ranch Elementary
 Fountain Valley High
+Four Creeks Elementary
 Fourth Street Elementary
 Fourth Street New Primary Center
 Foussat Elementary School
@@ -3175,6 +3286,7 @@ Franklin Elementary
 FRANKLIN ELEMENTARY
 Franklin Elementary School
 Franklin High
+Franklin Middle
 Franklin Preschool
 FRANKLIN SENIOR HIGH
 Fred C. Beyer High
@@ -3189,6 +3301,7 @@ Fred T. Korematsu Elementary School at Mace Ranch
 Fred T. Korematsu Middle
 Frederick Joyce Elementary
 Frederick Remington Elementary
+Frederiksen Elementary
 Free Will Christian Academy
 Freedom Crest Elementary
 Freedom Elementary
@@ -3205,9 +3318,11 @@ Fremont Elementary
 Fremont High
 Fremont Primary
 FREMONT SENIOR HIGH
+Fremont, Middle
 French American International School 1155 Page
 French American International School 66 Page
 French American School of Silicon Valley
+French Camp Elementary
 French Gulch-Whiskeytown Elementary
 French Valley Elementary
 Freshwater Charter Middle
@@ -3270,8 +3385,8 @@ Ganesha High
 Gant Elementary
 Garden Elementary
 Garden Gate Elementary
-Garden Grove Elementary
 GARDEN GROVE ELEMENTARY
+Garden Grove Elementary
 Garden Grove High
 Garden Park Elementary
 Garden Road Elementary
@@ -3279,14 +3394,14 @@ Garden Valley Elementary
 Garden Village Elementary
 GARDENA BUS GAR
 GARDENA EARLY EDUCATION CENTER
-GARDENA ELEMENTARY
 Gardena Elementary
-GARDENA SENIOR HIGH
+GARDENA ELEMENTARY
 Gardena Senior High
+GARDENA SENIOR HIGH
 Gardenhill Elementary
 Gardner Bullis Elementary
-GARDNER ELEMENTARY
 Gardner Elementary
+GARDNER ELEMENTARY
 Gardner Street Elementary
 Garey High
 GARFIELD COMMUNITY ADULT SATELLITE @ 5137 MARIANNA ES, IN PARKING LOT
@@ -3296,6 +3411,7 @@ Garfield High
 GARFIELD SENIOR HIGH
 Garin Elementary
 Garnet J. Robertson Intermediate
+Garretson Elementary
 Garvanza Elementary
 GARVANZA ELEMENTARY
 Garvey (Richard) Intermediate
@@ -3316,12 +3432,13 @@ Gateway High
 Gateway High (Continuation)
 Gateway International
 Gateway Middle
+Gateway School
 Gateway to College Academy
 Gateway to College at Laney College
 Gauer (Melbourne A.) Elementary
 Gauldin Elementary
-Gault Elementary
 GAULT ELEMENTARY
+Gault Elementary
 Gault Street Elementary
 Gavilan View Middle
 Gehringer Elementary
@@ -3361,6 +3478,7 @@ George Sargeant Elementary
 George T. Egling Middle
 George V. LeyVa Intermediate
 George Visual and Performing Arts Magnet and Middle
+George W. Bush Elementary
 George Washington Carver Elementary
 George Washington Carver Middle
 George Washington Carver School of Arts and Science
@@ -3368,6 +3486,7 @@ George Washington Charter
 George Washington Elementary
 George Washington Preparatory High
 George White Elementary
+George Y. Komure Elementary
 Georgetown Elementary
 Georgia Brown Elementary
 Georgia Morris Elementary
@@ -3405,8 +3524,8 @@ Gladys Poet-Christian Elementary
 Glankler Early Learning Center
 Glassbrook Elementary
 GLASSELL PARK EARLY EDUCATION CENTER
-GLASSELL PARK ELEMENTARY
 Glassell Park Elementary
+GLASSELL PARK ELEMENTARY
 GLEDHILL EARLY EDUCTION CENTER
 GLEDHILL ELEMENTARY
 GLEDHILL STATE PRESCHOOL
@@ -3416,6 +3535,7 @@ GLEN ALTA ELEMENTARY
 Glen Alta Elementary
 Glen Avon Elementary
 Glen City Elementary
+Glen Cove Elementary
 Glen Edwards Middle
 Glen H. Dysinger Sr. Elementary
 Glen Oak Elementary
@@ -3480,6 +3600,7 @@ Golden Valley Orchard
 Golden Valley River
 Golden View Elementary
 Golden West Elementary
+Golden West High
 Golden West Middle
 Goldenrod Elementary
 Goleta Union School District cafeteria
@@ -3494,6 +3615,7 @@ Gonzales High
 Gonzales, David Camp
 Gonzalo Felicitas Mendez Fundamental Intermediate
 Good Hope Elementary
+Good Shepherd Catholic School
 Goodwill High
 Gordon H. Beatty Elementary
 Gorman Learning Centers-Santa Clarita Resource Center
@@ -3501,17 +3623,20 @@ Goshen Elementary
 Grace High
 Grace Hopper STEM Academy
 Grace Hudson Elementary
+Grace Lutheran School
+Grace M. Davis High
 Grace Miller Elementary
+Grace Patterson Elementary
 Grace S. Thille Elementary
 Grace Smith Elementary
 Grace Yokley Middle
 Graciano Gomez Elementary
 GRAHAM EARLY EDUCATION CENTER
-GRAHAM ELEMENTARY
 Graham Elementary
+GRAHAM ELEMENTARY
 Granada Community Charter
-Granada Elementary
 GRANADA ELEMENTARY
+Granada Elementary
 Granada High
 Granada Hills Charter High
 GRANADA HILLS CHARTER HIGH SCHOOL
@@ -3522,8 +3647,8 @@ Grand Oaks Elementary
 Grand Terrace Elementary
 Grand Terrace High School at the Ray Abril Jr. Educational Complex
 Grand View Boulevard Elementary
-Grand View Elementary
 GRAND VIEW ELEMENTARY
+Grand View Elementary
 Grandview, College Preparatory Academy
 Grange Middle
 Granger Junior High
@@ -3534,8 +3659,8 @@ Granite Oaks Middle
 Granite Pointe Elementary
 Granite Ridge Intermediate
 GRANT EARLY EDUCATION CENTER
-GRANT ELEMENTARY
 Grant Elementary
+GRANT ELEMENTARY
 Grant Grover School
 Grant K-8
 GRANT SENIOR HIGH
@@ -3551,11 +3676,15 @@ GRATTS EARLY EDUCATION CENTER
 GRATTS ELEMENTARY SCHOOL
 Gratts Learning Academy for Young Scholars (GLAYS)
 GRATTS NEW PC
+Gray Avenue Middle
 Grayson Charter
 Graystone Elementary
 Grazide Elementary
 Great Oak High
+Great Valley Academy
 Great Valley Academy - Salida
+Great Valley Annex Elementary
+Great Valley Elementary
 Greater San Diego Academy
 Green Acres Elementary
 Green Acres Middle
@@ -3563,6 +3692,7 @@ Green Elementary
 Green Hills Elementary
 Green Oaks Fundamental Elementary
 Green Tree East Elementary
+Green Valley Charter
 Green Valley Elementary
 Green Valley High
 Green Valley Middle
@@ -3575,6 +3705,7 @@ Greengate Center for Exception
 Greenhills Elementary
 Greenleaf Elementary
 Greentree Elementary
+Greenville Fundamental Elementary
 Greenville Junior/Senior High
 Greenwood Academy
 Greenwood Elementary
@@ -3584,6 +3715,7 @@ Gregory Gardens Elementary
 Grenada Elementary
 Gretchen Higgins Elementary
 GRIDLEY ELEMENTARY
+Gridley High
 Gridley Street Elementary
 Griffin Academy
 Griffin Avenue Elementary
@@ -3618,6 +3750,7 @@ Gustine Middle
 Guy Jr. Emanuele Elementary
 H. A. Hyde Elementary
 H. A. Snow Elementary
+H. Allen Hight Elementary
 H. Clarke Powers Elementary
 H. Frank Dominguez Elementary
 H. Glenn Richardson
@@ -3636,6 +3769,7 @@ Hall District Elementary
 Hall Middle
 HALLDALE ELEMENTARY
 Halldale Elementary
+Hallmark Charter
 HAMASAKI ELEMENTARY
 Hamaski State Preschool
 Hamilton Adult Education Center
@@ -3648,8 +3782,8 @@ HAMILTON SENIOR HIGH
 Hamlin Charter Academy
 HAMLIN ELEMENTARY
 Hancock Elementary
-HANCOCK PARK ELEMENTARY
 Hancock Park Elementary
+HANCOCK PARK ELEMENTARY
 Handy Elementary
 Hanford Adult
 Hanford Community Day
@@ -3669,8 +3803,10 @@ Happy Camp Elementary
 Happy Camp High School
 Happy Days
 Happy Valley Elementary
-Harbor City Elementary
+Happy Valley Primary
+Harada Elementary
 HARBOR CITY ELEMENTARY
+Harbor City Elementary
 HARBOR COMMUNITY ADULT SCHOOL
 Harbor High
 Harbor Learning Center
@@ -3700,11 +3836,13 @@ HARMONY ELEMENTARY STATE PRESCHOOL
 Harmony Magnet Academy
 Harold Ambuehl Elementary
 Harold McAlister High (Opportunity)
+Harold William Kolb
 Harper
 Harriet G. Eddy Middle
 Harriet Tubman CDC
 Harriet Tubman Village Charter
 Harriette Kirschen Elementary
+Harrington Elementary
 Harris Newmark Continuation
 Harrison Elementary
 HARRISON SCHOOL
@@ -3728,6 +3866,7 @@ Harvest Elementary
 Harvest High
 Harvest Hill S.T.E.A.M. Academy
 Harvest Middle
+Harvest Park Middle
 Harvest Ridge Cooperative Charter/Placer Academy
 Harvest Valley Elementary
 Harvey Green Elementary
@@ -3739,8 +3878,8 @@ Haven Drive Middle
 Havens Elementary
 Hawaiian Avenue Elementary
 HAWAIIAN EARLY EDUCATION CENTER
-Hawaiian Elementary
 HAWAIIAN ELEMENTARY
+Hawaiian Elementary
 Hawes Elementary
 Hawthorne Elementary
 Hawthorne Elementary School
@@ -3762,6 +3901,7 @@ Hazel Strauch Elementary
 Hazeltine Avenue Elementary
 HAZELTINE ELEMENTARY
 Hazelton Elementary
+Head Start Plaza De La Raza
 Head-Royce School
 Heald Academy Child Development Center
 Healdsburg Charter
@@ -3846,6 +3986,7 @@ Heritage Elementary
 Heritage High
 Heritage Intermediate
 Heritage Junior High and Flex Academy
+Heritage K-8 Charter
 Heritage Oak Elementary
 Heritage Peak Charter
 Herk Bouris Elementary
@@ -3858,6 +3999,7 @@ Hermosa Valley Elementary
 Hermosa View Elementary
 Herndon-Barstow Elementary
 Heroes Elementary
+Heron
 Herrera Elementary
 Herrick Avenue Elementary
 HERRICK ELEMENTARY
@@ -3866,6 +4008,7 @@ HESBY OAKS SPAN SCHOOL
 Hesperia High
 Hesperia Junior High
 Hesperian Elementary
+Hester Site SCCOE
 Hewes Middle
 Hickman Charter
 Hickman Elementary
@@ -3899,6 +4042,7 @@ Highland
 Highland Academy
 Highland CDC
 Highland Elementary
+Highland Elementary School
 Highland Grove Elementary
 Highland High
 Highland Oaks Elementary
@@ -3916,8 +4060,8 @@ Hilda L. Solis Learning Academy School of Technology, Business and Education
 Hill Creek Elementary
 Hillcrest at Youth Services Center
 Hillcrest Drive Elementary
-HILLCREST ELEMENTARY
 Hillcrest Elementary
+HILLCREST ELEMENTARY
 Hillcrest High
 Hilldale School
 HILLERY T BROADOUS ELEMENTARY
@@ -3948,6 +4092,7 @@ Hobart Boulevard Elementary
 HOBART EARLY EDUCATION CENTER
 HOBART ELEMENTARY
 Hoffer Elementary
+Hogan Middle
 Holbrook Language Academy
 Holder Elementary
 Holland Elementary
@@ -3969,17 +4114,18 @@ Hollywood Beach Elementary
 Hollywood Community Adult
 HOLLYWOOD COMMUNITY ADULT SCHOOL
 Hollywood Park Elementary
-Hollywood Primary Center
 HOLLYWOOD PRIMARY CENTER
+Hollywood Primary Center
 HOLLYWOOD SENIOR HIGH
 Hollywood Senior High
 Holmes Avenue Elementary
 HOLMES EARLY EDUCATION CENTER
-HOLMES ELEMENTARY
 Holmes Elementary
+HOLMES ELEMENTARY
 HOLMES MIDDLE SCHOOL
 Holtville High
 Holtville Junior High
+Holy Angels Elementary
 Holy Name Elementary
 Holy Name of Mary
 Holy Names High School
@@ -3988,6 +4134,7 @@ Holy Trinity Elementary
 Homan Elementary
 Home & Hosp/Transition Support
 Home and Hospital Program
+Home Gardens Academy
 Home School Science Center
 Home Street Middle
 Homestead High
@@ -4002,8 +4149,8 @@ HOOPER EARLY EDUCATION CENTER
 HOOPER ELEMENTARY
 HOOPER NEW PRIMARY CENTER
 Hoover (Herbert) Middle
-HOOVER ELEMENTARY
 Hoover Elementary
+HOOVER ELEMENTARY
 Hoover Elementary School
 Hoover High
 Hoover Middle
@@ -4049,8 +4196,10 @@ Hudnall (Claude) Elementary
 Hudson K-8
 Hueneme Christian School
 Hueneme Elementary
+Hueneme High
 Hughes Middle
 Hughson Elementary
+Hughson High
 Hugo Reid Elementary
 Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4
 Humanities and Arts (HARTS) Academy of Los Angeles
@@ -4107,8 +4256,8 @@ Imperial Valley ROP
 Ina Arbuckle Elementary
 Independence Continuation
 INDEPENDENCE CONTINUATION HIGH
-INDEPENDENCE ELEMENTARY
 Independence Elementary
+INDEPENDENCE ELEMENTARY
 Independence High
 Independence High (Alternative)
 Independence High (Continuation)
@@ -4116,6 +4265,7 @@ Independent Elementary
 Independent Elementary School
 Independent Study Program
 Independent Study, Sojourner Truth
+Inderkum High
 Indian Creek Elementary
 Indian Hills Continuation High
 Indian Hills Elementary
@@ -4147,6 +4297,7 @@ Intellectual Virtues Academy of Long Beach
 Intensive Learning Center
 International Community
 International Polytechnic High
+International School of Monterey
 International Studies Academy
 International Studies High School
 International Studies Learning Center at Legacy High School Complex
@@ -4171,6 +4322,7 @@ Isaac L. Sowers Middle
 Isaac Newton Graham Middle
 Isabelle Jackson Elementary
 Isador Cohen Elementary
+Isana Nascent Academy
 Isbell Middle
 Ishi Hills Middle
 Isla Vista Elementary
@@ -4196,8 +4348,10 @@ J. Everett Barr Court
 J. H. Hull Middle
 J. H. McGaugh Elementary
 J. Haley Durham Elementary
+J. M. Amador Elementary
 J. Marion Roynon Elementary
 J. W. Oakley Elementary
+J. X. Wilson Elementary
 J.A. Ovick School
 Jack Franscioni Elementary
 Jack G. Desmond Middle
@@ -4213,6 +4367,7 @@ Jackson Heights Elementary
 Jackson Junior High
 Jackson Street Elementary
 Jacob Wiens Elementary
+Jacoby Creek
 JAIME ESCALANTE EARLY EDUCATION CENTER
 Jaime Escalante Elementary
 JAIME ESCALANTE ES (FRM: SRES #3)
@@ -4223,6 +4378,7 @@ James A. McKee Elementary
 James A. Whitaker Elementary
 James B. Davidson Middle
 James C. Enochs High
+James Dougherty Elementary
 James Dukes Elementary
 James E. Potter Intermediate
 James Earl Carter Elementary
@@ -4280,6 +4436,7 @@ Jefferson High
 Jefferson High (Continuation)
 Jefferson Leadership Academies
 Jefferson Middle
+Jefferson Preschool
 Jeffrey Trail Middle
 Jellick Elementary
 Jenny Lind Elementary
@@ -4294,7 +4451,9 @@ Jesse M. Bethel High
 Jessie Baker
 Jessie Hayden Elementary
 Jessie Nelson Academy
+Jill Kinmont Boothe
 Jim Maples Academy
+Jim Thorpe Fundamental
 Jimenez Roberto and Dr Francisco Elementary School
 JOAN ELAM EEC
 Joan MacQueen Middle
@@ -4347,10 +4506,12 @@ John F. Kennedy Middle
 John Finney High (Continuation)
 John Foster Dulles Elementary
 JOHN FRANCIS POLY FRESHMAN CENTER (FRM: VRMS #3 @ BYRD MS)
+John Fremont Elementary
 John G. Mattos Elementary
 John Gill Elementary
 John Glenn Middle School of International Studies
 John Gomes Elementary
+John Green Elementary
 John H Still Elementary
 John H. Eader Elementary
 John H. Francis Polytechnic
@@ -4374,6 +4535,7 @@ John Malcom Elementary
 John Marshall Elementary
 John Marshall Senior High
 John McCandless Charter
+John McCandless Riverbrook
 John Morse Therapeutic Center
 John Muir
 John Muir Elementary
@@ -4384,10 +4546,13 @@ John Murdy Elementary
 John O. Tynes Elementary
 JOHN R WOODEN HIGH SCHOOL
 John R. Peterson Elementary
+John R. Williams
 John R. Wooden High
+John Reed Primary
 John Reith Elementary
 John S. Wash Elementary
 John Sinnott Elementary
+John Stallings Elementary
 John Steinbeck Elementary
 John Sutter Middle
 John Swett Elementary
@@ -4402,6 +4567,7 @@ Johnson Middle
 JOHNSON OPPORTUNITY HS @ MARKHAM MS (FRM: ORG 8670))
 Johnson Park Elementary
 JOHNSTON COMMUNITY DAY SCHOOL (FRM:COOPER CDS)
+Johnston Cooper Elementary
 Joli Ann Leichtag Elementary
 Jonas E. Salk
 Jonas Salk Elementary
@@ -4416,6 +4582,7 @@ Jordan Secondary Learning Center
 JORDAN SENIOR HIGH (GREEN DOT)
 JORDAN-LOCKE ALTERNATIVE EDUC WORK CTR
 JORDAN-LOCKE COMM ADULT SCHOOL (@ FLOURNOY)
+Jose Sepulveda Elementary
 Joseph A. Gascon Elementary
 Joseph Arnold Elementary
 Joseph Azevada Elementary
@@ -4465,6 +4632,7 @@ Julien Elementary
 Julien Hathaway Elementary
 Juliet Morris Elementary
 Juliette Low
+Julius Corsini Elementary
 Junction Elementary
 Junction K-8
 Juniper
@@ -4497,6 +4665,7 @@ Katherine R. Smith Elementary
 Kathryn Hughes Elementary
 Kathy Binks Elementary
 Kavod Elementary Charter
+Kawana Elementary
 KC KIDS Pre-School
 Kearny Digital Media & Design
 Kearny Eng, Innov & Design
@@ -4509,6 +4678,8 @@ Kellogg (Karl H.) Elementary
 Kellogg Elementary
 Kellogg Polytechnic Elementary
 Kelly Elementary
+Kelseyville Elementary
+Kelseyville High
 Kelso (William H.) Elementary
 Kempton Elementary School
 Kempton Street Elementary
@@ -4517,8 +4688,8 @@ Kendall Elementary
 Kenilworth Junior High
 Kenmore Elementary
 Kennedy (John F.) Elementary
-KENNEDY ELEMENTARY
 Kennedy Elementary
+KENNEDY ELEMENTARY
 Kennedy Gardens Elementary
 Kennedy Middle
 KENNEDY SENIOR HIGH
@@ -4526,8 +4697,8 @@ KENNEDY-SAN FERNANDO COMMUNITY ADULT SCHOOL (RINALDI ADULT CENTER)
 Kensington Elementary
 KENTER CANYON ELEMENTARY
 Kenter Canyon Elementary Charter
-KENTWOOD ELEMENTARY
 Kentwood Elementary
+KENTWOOD ELEMENTARY
 KENTWOOD STATE PRE-SCHOOL
 Kenwood Elementary
 Kepler Neighborhood
@@ -4553,6 +4724,7 @@ Key (Francis Scott) Elementary
 Keyes Elementary
 Keyes to Learning Charter
 Khan Lab School
+Kid Street Learning Center Charter
 Killian Elementary
 Killybrooke Elementary
 Kimball
@@ -4564,11 +4736,13 @@ KinderCare
 Kinetic Academy
 King (Martin Luther) High (Continuation)
 King (Thomas Starr) Elementary
+King Avenue Elementary
 King Child Development
 King City Arts Magnet
 King City High
-KING ELEMENTARY
 King Elementary
+KING ELEMENTARY
+King Elementary School
 King Jr. (Martin Luther) Academic Middle
 KING MIDDLE SCHOOL
 King-Chavez Academy of Excellence
@@ -4586,13 +4760,14 @@ Kings County ROP
 Kings County SELPA Preschool
 Kings County Special Education
 Kings Lake Education Center
+Kings River High (Continuation)
 Kings Valley Academy
 Kingsburg High
 Kingsburg Independent Study High
 Kingsbury Elementary
 Kingsley Elementary
-Kingsley Elementary School
 KINGSLEY ELEMENTARY SCHOOL
+Kingsley Elementary School
 Kingston Elementary
 Kingswood K-8
 Kinney High (Continuation)
@@ -4628,8 +4803,8 @@ KIRK DOUGLAS HIGH SCHOOL @ GRANADA HILLS CHARTER SH
 Kirk Elementary
 Kit Carson Elementary
 Kit Carson Middle
-Kittridge Street Elementary
 KITTRIDGE STREET ELEMENTARY
+Kittridge Street Elementary
 Knight Prep Academy
 Knights Ferry Elementary
 Knob Hill Elementary
@@ -4642,6 +4817,7 @@ Knox Middle
 Kohl Open Elementary
 Kohler Elementary
 Kolb Middle
+Konocti Education Center
 Kornblum
 Kraemer Middle
 Kratt Elementary
@@ -4718,6 +4894,8 @@ LA SALLE ELEMENTARY
 La Serna High
 La Sierra High
 La Sierra High (Alternative)
+La Sierra Military Academy
+La Tercera Elementary
 La Tierra Early Childhood Center
 La Tijera K-8 Charter School Academy of Excellence
 La Verne Heights Elementary
@@ -4731,10 +4909,12 @@ LA's Promise Charter Middle 1
 Ladd Lane Elementary
 Ladera Elementary
 Ladera Palma Elementary
+Ladera Ranch Elementary
+Ladera Ranch Middle
 Ladera Vista Junior High School of the Arts
 Lafayette Elementary
-Lafayette Park Primary Center
 LAFAYETTE PARK PRIMARY CENTER
+Lafayette Park Primary Center
 Laguna Beach High
 Laguna Beach High School
 Laguna Creek High
@@ -4749,6 +4929,7 @@ Laguna Vista Elementary
 Lagunita Elementary
 Lagunitas Elementary
 Lairon College Preparatory Academy
+Lake Arrowhead Elementary
 Lake Canyon Elementary
 Lake Center Middle
 Lake County International Charter
@@ -4801,8 +4982,8 @@ Langdon Avenue Elementary
 LANGDON ELEMENTARY
 Lange (Dorothea) Elementary
 Language Academy
-Lankershim Elementary
 LANKERSHIM ELEMENTARY
+Lankershim Elementary
 LANTERMAN HIGH SCHOOL - TMR
 Larchmont Charter
 LARCHMONT CHARTER ES (WEST HOLLYWOOD 2ND SITE) @SELMA ES
@@ -4813,9 +4994,11 @@ Las Colinas Middle
 Las Flores Elementary
 Las Flores High (Alternative)
 Las Flores Home Education Independent Study Academy
+Las Flores Middle
 Las Juntas Elementary
 Las Lomas Elementary
 Las Lomas High
+Las Lomitas Elementary
 Las Palmas
 Las Palmas Elementary
 Las Palmas Middle
@@ -4828,8 +5011,8 @@ Lashon Academy
 Lassalette
 Lasselle Elementary
 Lassen County Juvenile Court
-Lassen Elementary
 LASSEN ELEMENTARY
+Lassen Elementary
 Lassen High
 LASSEN STATE PRESCHOOL
 Lassen View Elementary
@@ -4849,10 +5032,11 @@ Laurel CDC
 Laurel Creek Elementary
 Laurel Dell Elementary
 LAUREL EARLY EDUCATION CENTER
-LAUREL ELEMENTARY
 Laurel Elementary
+LAUREL ELEMENTARY
 Laurel Preparatory Academy
 Laurel Ruff Transition
+Laurel School Upper Campus
 Laurel Street Elementary
 Laurel Tree Charter
 Laurel Wood Elementary
@@ -4886,6 +5070,7 @@ LEAPWOOD ELEMENTARY
 Learning Choice Academy
 Learning Choice Academy – Chula Vista Resource Center
 Learning in an Urban Community with High Achievement (L.U.C.H.A.)
+Learning Pathways Kindergarten
 Learning Post High (Alternative)
 Learning Tree Preschool
 Learning Without Limits
@@ -4899,8 +5084,10 @@ LEE MEDICAL HEALTH MAGNET @ VIRGIL MS
 LEE MEDICAL MAGNET (FRM: CRES #20 @ VIRGIL MS)
 Lee Middle
 Lee Richmond Elementary
+Lee V. Pollard High
 Leffingwell Elementary
 Leffingwell High (Continuation)
+Legacy Christian School
 LEGACY SENIOR HIGH TECH ENGINEERING ARTS MATH (STEAM) incudes LEGACY SENIOR HIGH VISUAL PERFORMING ARTS AND INTERNATIONAL STUDIES LEARNING CENTER (LEGACY COMPLEX) (FRM: SOUTH REGION HS #8 @ SRHS #9)
 Legore Elementary
 Lehigh Elementary
@@ -4918,6 +5105,7 @@ Lemon Avenue Elementary
 Lemon Crest Elementary
 Lemon Grove Academy Elementary
 Lemon Grove Academy for the Sciences and Humanities
+Lemonwood Elementary
 Lemoore Elementary
 Lemoore High
 Lemoore Middle College High
@@ -4941,11 +5129,14 @@ Leonardo da Vinci Health Sciences Charter
 LEONIS CONTINUATION HIGH
 Leonora Fillmore Elementary
 Leontine Gracey Elementary
+LePort Schools - Huntington Harbor
 Lerner Academy
 Leroy Anderson Elementary
+Leroy Greene Academy
 Leroy Haynes Educational Center
 Leroy L. Doig Intermediate
 Leroy Nichols Elementary
+Letha Raney Intermediate
 Leuzinger High
 Levi H. Dickey Elementary
 LEWIS CONTINUATION HIGH
@@ -4954,16 +5145,16 @@ Lewis Elementary School
 Lewis H. Britton Middle
 Lewis Middle
 Lewiston Elementary
-LEXINGTON AVENUE PRIMARY CENTER
 Lexington Avenue Primary Center
+LEXINGTON AVENUE PRIMARY CENTER
 Lexington Elementary
 Lexington Junior High
 Libby Elementary
 Libertas College Preparatory Charter
 Liberty Adult Education
 Liberty Boulevard Elementary
-LIBERTY ELEMENTARY
 Liberty Elementary
+LIBERTY ELEMENTARY
 Liberty High
 Liberty High (Alternative)
 Liberty High (Continuation)
@@ -4985,6 +5176,7 @@ Lilac
 Lilienthal (Claire) Elementary
 Lilienthal, Claire (K-2 Madison Campus)
 LILLIAN ELEMENTARY
+Lillian Larsen Elementary
 Lillian Street Elementary
 Lime Street Elementary
 Limerick Avenue Elementary
@@ -4993,6 +5185,7 @@ Lincoln (Abraham) Elementary
 Lincoln (Abraham) High
 Lincoln (PAU)
 Lincoln Acres
+Lincoln Alternative Elementary
 Lincoln Crossing Elementary
 Lincoln Elementary
 Lincoln Elementary School
@@ -5001,6 +5194,7 @@ Lincoln High (Continuation)
 Lincoln Junior High
 Lincoln Middle
 Lincoln Street
+Lincrest Elementary
 Linda Elementary
 Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine
 Linda Esperanza Marquez High B LIBRA Academy
@@ -5087,6 +5281,7 @@ Loma Vista Adult Center
 LOMA VISTA AVE. ELEMENTARY SCHOOL
 Loma Vista Elementary
 Loma Vista Environmental Science Academy
+Loma Vista Immersion Academy
 Loma Vista Middle
 Lomarena Elem.
 Lomarena Elementary
@@ -5104,6 +5299,7 @@ Lone Pine High
 Lone Tree Elementary
 Long Barn High
 Long Valley Charter
+Longden Elementary
 Longfellow
 Longfellow (Henry W.) Elementary
 Longfellow Arts and Technology Middle
@@ -5126,10 +5322,12 @@ LORETO STREET  ELEMENTARY
 Loreto Street Elementary
 Loretta Lampton Elementary
 Lorin A. Eden Elementary
+Lorin Griset Academy
 LORNE ELEMENTARY
 Lorne Street Elementary
 Los Alamitos Elementary
 Los Alamitos High
+Los Alisos Intermediate
 Los Alisos Intermediate School
 Los Alisos Middle
 Los Altos Elementary
@@ -5145,8 +5343,8 @@ Los Angeles Center for Enriched Studies
 LOS ANGELES CENTER FOR ENRICHED STUDIES
 Los Angeles Community Adult
 LOS ANGELES COMMUNITY ADULT SCHOOL
-LOS ANGELES ELEMENTARY
 Los Angeles Elementary
+LOS ANGELES ELEMENTARY
 Los Angeles International Charter High
 Los Angeles Leadership Academy
 Los Angeles Leadership Primary Academy
@@ -5176,6 +5374,7 @@ Los Coyotes Middle
 Los Feliz Charter School for the Arts
 LOS FELIZ ELEMENTARY
 Los Feliz Science/Tech/Engineer/Math/Medicine Magnet
+Los Gatos High
 Los Medanos Elementary
 Los Molinos Community Day
 Los Molinos Elementary
@@ -5199,11 +5398,13 @@ Lost Hills Elementary
 LOU DANTZLER PREP ES @ BUDLONG ES
 LOU DANTZLER PREP HS @ WESTCHESTER HS
 Lou Dantzler Preparatory Charter Elementary
+Lou Henry Hoover Elementary
 Louis A. Bohn Elementary
 Louis E. Stocklmeir Elementary
 Louis G. Zeyen Elementary
 Louis J. Villalovoz Elementary
 Louis Pasteur Fundamental Middle
+Louis VanderMolen Fundamental Elementary
 Louise Foussat Elementary
 Louise Sandrini Elementary
 Louise Van Meter Elementary
@@ -5229,6 +5430,7 @@ Lu Sutton Elementary
 Lucas Elementary
 Lucerne Elementary
 Lucille J. Smith Elementary
+Lucille M. Nixon Elementary
 Lucille Roybal-Allard Elementary
 Lucille Whitehead Intermediate
 Ludlow Preschool
@@ -5245,6 +5447,9 @@ Luther Burbank Elementary
 Luther Burbank High
 Luther Burbank Middle
 Luther Elementary
+Lydia Jackson Elementary
+Lydia Romero-Cruz Elementary
+Lydiksen Elementary
 Lyle S. Briggs Fundamental
 Lyman Gilmore Middle
 Lynbrook High
@@ -5264,6 +5469,7 @@ M. Robert Adkison Elementary
 MAAC Community Charter
 Mabel L. Pendleton Elementary
 Mabel M. Paine Elementary
+Mable Barron
 MacArthur Elementary
 MacArthur Park Elementary School for the Visual and Performing Arts
 MACARTHUR PARK ES FOR THE VISUAL & PERFORMING ARTS (FMR: MACARTHUR PARK PRIMARY CENTER)
@@ -5288,12 +5494,13 @@ Madison Park Academy 6-12
 Madison Park Academy TK-5
 Madrona Elementary
 Madrona Middle
+Madrone Elementary
 Mae Hensley Junior High
 Maeola E. Beitzel Elementary
 Magee Academy of Arts & Sciences
 Magnolia Avenue Elementary
-MAGNOLIA ELEMENTARY
 Magnolia Elementary
+MAGNOLIA ELEMENTARY
 Magnolia High
 Magnolia Intermediate
 Magnolia Junior High
@@ -5344,6 +5551,7 @@ Mango Elementary
 Manhattan Beach Middle
 MANHATTAN ELEMENTARY
 Manhattan Place Elementary
+Manlio Silva Elementary
 Mann (Horace) Elementary
 Mann Elementary
 Mann Middle
@@ -5391,6 +5599,7 @@ Marco Antonio Firebaugh High
 Marco Forster Middle
 Marcy School
 Mardan School of Educational Therapy
+Mare Island Health and Fitness Academy
 Mare Island Technology Academy
 Marengo Elementary
 Marengo Ranch Elementary
@@ -5404,8 +5613,10 @@ Margaret Sheehy Elementary
 Margaret White Elementary
 Margarita Middle
 Marguerita Elementary
+Marguerite Hahn Elementary
 Marguerite Montgomery Elementary
 Marguerite Poindexter LaMotte Elementary
+Maria Carrillo High
 Maria Montessori Charter Academy
 Marian A. Peterson Middle
 Marian Bergeson Elementary
@@ -5456,6 +5667,7 @@ Mark Keppel
 Mark Keppel Elementary
 Mark Keppel High
 Mark Twain Elementary
+Mark Twain Junior High
 Mark Twain Middle
 MARK TWAIN MIDDLE SCHOOL
 Mark Twain Special Center
@@ -5485,8 +5697,8 @@ Marshall Pomeroy Elementary
 MARSHALL SENIOR HIGH
 Marston Middle
 Martha Baldwin Elementary
-Martha Escutia Primary Center
 MARTHA ESCUTIA PRIMARY CENTER
+Martha Escutia Primary Center
 Martha Negus Orthopedic Center
 Martin Elementary
 Martin Luther King Elementary
@@ -5500,10 +5712,12 @@ Martin Luther King, Jr.
 Martin Luther King, Jr. Elementary
 Martin Luther King, Jr. Middle
 Martin Murphy Middle
+Martin R. Heninger Elementary
 Martin Van Buren Elementary
 Martinez Early Intervention Preschool Program (MEIPP)
 Martinez Junior High
 Martinson Child Development Center
+Marvin A. Dutcher Middle
 MARVIN EARLY EDUCATION CENTER
 Marvin Elementary
 MARVIN ELEMENTARY
@@ -5522,6 +5736,7 @@ Mary Fay Pendleton Elementary
 Mary Lou Dieterich Elementary
 Mary McLeod Bethune Elementary
 Mary McLeod Bethune Middle
+Mary P. Henck Intermediate
 Mary Peacock Elementary
 Mary Tsukamoto Elementary
 Maryland Avenue Elementary
@@ -5532,6 +5747,7 @@ Marysville Community Day
 Marysville High
 Mason Elementary
 Masuda (Kazuo) Middle
+Mater Dei Catholic High School
 MATH & SCIENCE SCHOOL - COLLEGE READY
 Math and Science College Preparatory
 Math, Science, & Technology Magnet Academy at Roosevelt High
@@ -5543,9 +5759,11 @@ Matt Garcia Career and College Academy
 Matthew Gage Middle
 Matthew Turner Elementary
 Mattie Lou Maxwell
+Mattie Washburn Elementary
 Maude B. Davis Elementary
 Maurice Sendak Elementary
 MAURICE SENDAK ELEMENTARY SCHOOL
+Maxine Hong Kingston Elementary
 MAXINE WATERS ALTERNATIVE EDUCATION WORK CENTER
 MAXINE WATERS EMPLOYMENT CENTER
 Maxine Waters Employment Prep Center
@@ -5609,12 +5827,14 @@ McPherson Elementary
 McPherson Magnet
 McSweeny Elementary
 Mead Valley Elementary
+Meadow Elementary
 Meadow Green Elementary
 Meadow Heights Elementary
 Meadow Homes Elementary
 Meadow Lane Elementary
 Meadow Park Elementary
 Meadow View
+Meadow View Elementary
 Meadowbrook Middle
 Meadowlark Elementary
 Meadows Arts and Technology Elementary
@@ -5630,8 +5850,8 @@ Meiners Oaks Elementary
 Melbourne (Ella P.) Elementary
 Melinda Heights Elementary
 Melrose Avenue Elementary
-MELROSE ELEMENTARY
 Melrose Elementary
+MELROSE ELEMENTARY
 Melrose Leadership Academy
 Melva Davis Academy of Excellence
 Melville S. Jacobson Elementary
@@ -5705,10 +5925,11 @@ Middle College High
 MIDDLE COLLEGE HIGH SCHOOL (OLD SITE)
 MIDDLE COLLEGE SH (FMR: SRHS #6)
 MIDDLETON ELEMENTARY
-Middleton Primary Center
 MIDDLETON PRIMARY CENTER
+Middleton Primary Center
 Middleton Street Elementary
 Middletown Christian School
+Middletown High
 Midland Elementary
 Midway Elementary
 MIGUEL CONTRERAS LEARNING COMPLEX
@@ -5750,6 +5971,7 @@ Milor Continuation High
 Milpitas Adult
 Milpitas High
 Miner (George) Elementary
+Mineral King Elementary
 Minnie Cannon Elementary
 Mint Canyon Community Elementary
 Mintie White Elementary
@@ -5804,6 +6026,7 @@ Mitchell Child Development
 Mitchell Community Elementary
 Mitchell Elementary
 Mitchell Intermediate
+Miwok Valley Language Academy Charter
 Modesto High
 Modoc Community Adult
 Modoc High
@@ -5844,8 +6067,8 @@ Montair Elementary
 Montalvin Manor Elementary
 Montalvo Elementary
 Montara Avenue Elementary
-Montara Elementary
 MONTARA ELEMENTARY
+Montara Elementary
 Montclair Elementary
 Montclair High
 Montclaire Elementary
@@ -5863,6 +6086,9 @@ Monte Vista High
 Monte Vista Middle
 Monte Vista School
 Monte Vista Street Elementary
+Montebello Christian School
+Montebello High
+Montebello Intermediate
 Montebello Park Elementary
 Montecito High (Continuation)
 Montecito Union
@@ -5883,14 +6109,17 @@ Monterey Highlands Elementary
 Monterey Hills Elementary
 Monterey Park Elementary
 Monterey Ridge Elementary
+Monterey Road Elementary
 Monterey Trail High
 Monterey Vista Elementary
+Montessori Children's
 Montessori Children's House of Shady Oaks
 Montessori Country Day
 Montessori of Brea Inc.
 Montessori Project Orangevale campus
 Montevideo Elem.
 Montevideo Elementary
+Montezuma Elementary
 Montgomery (John J.) Elementary
 Montgomery Adult
 Montgomery Elementary
@@ -5898,6 +6127,7 @@ Montgomery High
 Montgomery High School
 Montgomery Middle
 Montgomery Senior High
+Monticello Academy
 Monticello Elementary
 Monticello School
 Montvue Elementary
@@ -5926,11 +6156,13 @@ MORNINGSIDE ELEMENTARY
 Morningside Elementary
 Morningside High School
 Morongo Valley Elementary
+Morrice Schaefer Charter
 Morrill Middle
 Morris E. Dailey Charter Elementary
 Morris Elementary
 Morris K. Hamasaki Elementary
 Morro Bay High
+Morro Elementary
 Morse Avenue Elementary
 Morse High
 Mosaica Online Academy of Southern California
@@ -5969,6 +6201,7 @@ MOUNTAIN VIEW STATE PRE-SCHOOL
 Mountain Vista Educational Center
 Mountain Vista Elementary
 Mountain Vista High
+Mountain Vista Middle
 Mountainview Elementary
 Mt. Baldy Joint Elementary
 Mt. Burney Special Education Center
@@ -6004,8 +6237,8 @@ Mulberry Early Education Center
 Mulberry Elementary
 Mulcahy Middle
 MULHOLLAND MIDDLE SCHOOL
-MULTICULTURAL LEARNING CENTER
 Multicultural Learning Center
+MULTICULTURAL LEARNING CENTER
 MULTNOMAH ELEMENTARY
 Multnomah Street Elementary
 Munsey Elementary
@@ -6018,6 +6251,7 @@ Murdock Elementary
 Murdock-Portal Elementary
 Murphy Elementary
 Murphy Ranch Elementary
+Murray Elementary
 Murray Manor Elementary
 Murray Middle
 Murrieta Canyon Academy
@@ -6057,8 +6291,12 @@ National University Academy
 National University Academy - Orange Center
 Natividad Elementary
 Natoma Station Elementary
+Natomas Charter
 Natomas Gateways Middle
+Natomas High
+Natomas Middle
 Natomas Pacific Pathways Prep
+Natomas Park Elementary
 Natural High (Continuation)
 NAVA College Preparatory Academy
 NAVA LA - SCHOOL OF ARTS & CULTURE (FRM: CRMS #7A)
@@ -6126,6 +6364,7 @@ New Temple
 New Traditions Elementary
 New Valley Continuation High
 New Village Girls Academy
+New Vision High
 New Vista Middle
 New West Charter
 Newark Junior High
@@ -6136,6 +6375,7 @@ Newcastle Elementary
 NEWCASTLE ELEMENTARY SCHOOL
 Newcomb Academy
 Newhall Elementary
+Newhart Middle
 Newhope Elementary
 Newland (William T.) Elementary
 NEWMAN CH NUTR CTR
@@ -6181,9 +6421,12 @@ Noddin Elementary
 Nogales High
 Nohl Canyon Elementary
 Nokomis Elementary
-Nora Sterry Elementary
 NORA STERRY ELEMENTARY
+Nora Sterry Elementary
 Noralto Elementary
+Norco Elementary
+Norco High
+Norco Intermediate
 Nordhoff High
 Nordstrom Elementary
 Noriega ES
@@ -6199,8 +6442,8 @@ Normandie Avenue Elementary
 NORMANDIE EARLY EDUCATION CENTER
 NORMANDIE ELEMENTARY
 NORMONT EARLY EDUCATION CENTER
-Normont Elementary
 NORMONT ELEMENTARY
+Normont Elementary
 Norris Elementary
 Norris Middle
 Norseman Elementary
@@ -6242,10 +6485,11 @@ North Terrace Elementary
 North Valley High
 North Valley High (Continuation)
 North Valley Military Institute College Preparatory Academy
-North Valley Occupational Center
 NORTH VALLEY OCCUPATIONAL CENTER
+North Valley Occupational Center
 NORTH VALLEY OCCUPATIONAL-AEWC
 North Valley School, Redding
+North Verdemont Elementary
 Northam Elementary
 Northcoast Performing Arts and Preparatory Academy Middle
 Northcoast Preparatory and Performing Arts Academy
@@ -6284,8 +6528,8 @@ Novato High
 Noyo High (Continuation)
 Nueva Continuation High
 Nueva Vista Continuation High
-NUEVA VISTA ELEMENTARY
 Nueva Vista Elementary
+NUEVA VISTA ELEMENTARY
 Nueva Vista Language Academy
 Nutrition Center
 Nutritional Services 083
@@ -6330,6 +6574,7 @@ Oak Park Independent
 Oak Park Neighborhood Learning
 Oak Park Preparatory Academy
 Oak Ridge Elementary
+Oak Ridge High
 Oak Street Elementary
 Oak Tree Community Day
 Oak Valley Elementary
@@ -6401,7 +6646,9 @@ Odyssey STEM Academy
 Oehl Elementary
 Ohlone Elementary
 Oka (Isojiro) Elementary
+Old Adobe Elementary Charter
 Old Mill Elementary
+Old Mission School
 Old Orchard Elementary
 Old River Elementary
 Old River Elementary School
@@ -6427,12 +6674,13 @@ Olivenhain Pioneer Elementary
 Oliver Wendell Holmes Junior High
 Oliver Wendell Holmes Middle
 Olivewood
+Olivewood Elementary
 Olivewood Elementary School
 Olympian High
 Olympic Continuation High
 Olympic High (Continuation)
-Olympic Primary Center
 OLYMPIC PRIMARY CENTER
+Olympic Primary Center
 Olympic View Elementary
 Olympus Junior High
 Onaga Elementary
@@ -6463,6 +6711,7 @@ OPEN CHARTER MAGNET SCHOOL
 Ophir Elementary
 Opportunities for Learning - Santa Clarita
 OPPORTUNITIES UNLIMITED CHARTER HIGH SCHOOL
+Opportunity for Learning
 Opportunity Program
 Opportunity School
 Opportunity Youth Academy
@@ -6478,9 +6727,11 @@ Orange County Department of Education Foothill HS Annex
 Orange County Educational Arts Academy
 Orange County Workforce Innovation High
 Orange Cove High
+Orange Elementary
 Orange Glen Elementary
 Orange Glen High
 Orange Grove Elementary
+Orange Grove High
 Orange Grove Middle
 Orange High
 Orange Unified Pre-K SDC
@@ -6528,6 +6779,7 @@ Oscar F. Loya Elementary
 OSCEOLA ELEMENTARY
 Osceola Street Elementary
 OSO ELEMENTARY - CLOSED SITE
+Oso Grande Elementary
 Oster Elementary
 Otay Elementary
 Otay Ranch Senior High
@@ -6539,6 +6791,7 @@ Our Lady of Grace School
 Our Lady of Mercy
 Our Lady of Mercy Elementary
 Our Lady of Perpetual Help
+Our Lady of the Angels Academy
 Our Lady of the Visitacion Elementary
 Our Savior Lutheran School
 OUSD Community Day
@@ -6554,6 +6807,7 @@ OWENSMOUTH CONTINUATION HIGH
 Oxford Academy
 Oxford Elementary
 Oxford Preparatory Academy
+Oxford Preparatory Academy - South Orange County
 Oxnard High
 OXNARD SELEMENTARY SCHOOL
 Oxnard Street Elementary
@@ -6584,6 +6838,7 @@ Pacific Grove Adult
 Pacific Grove High
 Pacific Grove Middle
 Pacific High
+Pacific Law Academy
 Pacific Lodge Residential Education Center
 PACIFIC PALISADES ELEMENTARY
 Pacific Rim Elementary
@@ -6597,8 +6852,8 @@ Pacifica High
 Pacifica Independent Home Study
 Packard Children's Hospital/Stanford
 PACOIMA ADULT SKILL CENTER
-Pacoima Charter Elementary
 PACOIMA CHARTER ELEMENTARY
+Pacoima Charter Elementary
 PACOIMA EARLY EDUCATION CENTER
 Pacoima Middle
 PACOIMA MIDDLE SCHOOL
@@ -6629,6 +6884,7 @@ Palm Elementary
 Palm Lane Elementary
 Palm Middle
 Palm Springs Community School
+Palm Springs High
 Palm Tree Elementary
 Palm View Elementary
 Palm Vista Elementary
@@ -6650,6 +6906,7 @@ Palo Alto Adult Education
 Palo Alto High
 Palo Verde Elementary
 Palo Verde High
+Paloma Creek High ACE
 Paloma Elementary
 Paloma Valley High
 Palomar Elementary
@@ -6710,6 +6967,7 @@ Parker Whitney Elementary
 Parklane Elementary
 Parkmead Elementary
 Parkmont Elementary
+Parkridge Elementary
 Parks (Rosa) Elementary
 PARKS/HUERTA EARLY EDUCATION CENTER
 Parkside Elementary
@@ -6727,8 +6985,8 @@ Parmelee Avenue Elementary
 PARMELEE ELEMENTARY
 Parras (Nick G.) Middle
 Parsons Junior High
-Parthenia Street Elementary
 PARTHENIA STREET ELEMENTARY
+Parthenia Street Elementary
 Pasadena Avenue Elementary
 Pasadena High
 Pasadena Rosebud Academy
@@ -6737,6 +6995,7 @@ PASEO DEL REY NATURAL SCIENCE MAGNET
 Paseo Grande Charter
 Paso Robles High
 Paso Verde School
+Passageway
 Pat Butler Elementary
 Pathway Community Day
 Pathway Elementary Community Day
@@ -6810,17 +7069,21 @@ Peter B Fitzgerald Community School
 Peter Burnett Elementary
 Peter Burnett Middle
 Peter J. Shields Elementary
+Peter Johansen High
 Peter Pendleton Elementary
 Peters Canyon Elementary
+Petersen Alternative Center for Education
 Phelan Elementary
 Phil D. Swing Elementary
 Philadelphia Elementary
+Philip J. Reilly Elementary/Special Education
 Philip Magruder Middle
 Phillip J Patino School of Entrepreneurship
 Phillip M. Stokoe Elementary
 Phillips Elementary
 Phineas Banning Senior High
 Phoebe A. Hearst Elementary
+Phoebe Apperson Hearst Elementary
 Phoenix Academy
 Phoenix Academy Community Day
 Phoenix Academy Residential Education Center
@@ -6847,6 +7110,7 @@ Pinacate Middle
 Pine Grove Elementary
 Pine Grove Elementary STEM Magnet
 Pine Hill Elementary
+Pine Hill School Second Start Learning D
 Pine Hills Adventist Academy
 Pine Hollow Middle
 Pine Ridge
@@ -6856,6 +7120,7 @@ Pine Valley Middle
 Pinedale Elementary
 Piner High
 Piner High School
+Piner-Olivet Charter
 Pinetree Community Elementary
 Pinewood Avenue Elementary
 PINEWOOD EARLY EDUCATION CENTER
@@ -6863,6 +7128,7 @@ Pinewood Elementary
 PINEWOOD ELEMENTARY
 Pinewood Private-Upper Campus
 PINEWOOD STATE PRE-SCHOOL
+Pinkham Elementary
 Pinnacle Academy Charter
 Pinnacles Community School
 Pinnacles High
@@ -6870,6 +7136,7 @@ Pinole Middle
 Pinole Valley High
 Pinon Hills Elementary
 Pinon Mesa Middle
+Pio Pico Elementary
 Pio Pico Middle
 PIO PICO SCHOOL
 Pioneer
@@ -6884,10 +7151,12 @@ Pioneer Magnet School for the Visual and Performing Arts
 Pioneer Middle
 Pioneer Valley High
 Piru Elementary
+Pittman Charter
 Pittsburg Adult Education Center
 Pittsburg Senior High
 Piute Middle
 Pivot Charter School North Valley
+Pivot Online Charter - North Bay
 Pixley Elementary
 Pixley Middle
 PLACE at Prescott Elementary
@@ -6924,6 +7193,7 @@ Pleasant Valley Middle
 Pleasant Valley School of Engineering and Arts
 Pleasant View
 Pleasant View Elementary
+Pleasanton Middle
 Plum Canyon Elementary
 Plumas Avenue Elementary
 Plumas Charter
@@ -6954,6 +7224,7 @@ Pomona Community Day
 Pomona Elementary
 Pomona High
 Ponderosa Elementary
+Ponderosa High
 Pony Express Elementary
 Pope Valley Elementary
 Poplar Avenue Elementary
@@ -6981,10 +7252,12 @@ Poway Adult
 Poway High
 Powell Academy for Success
 Powers-Ginsburg Elementary
+Prado View Elementary
 Prairie Elementary
 Prairie Vista Middle
 PREPA TEC - Los Angeles
 Preparatory Literary Academy of Cultural Excellence
+Preschool Autism and Assessment Center
 Preschool Early Education Program PEEP
 Preschool Grasp
 Preschool Village
@@ -7014,6 +7287,7 @@ Prisk Elementary
 Proctor Elementary
 Proctor Elementary School
 Proctor Terrace Elementary
+Promenade Elementary
 Prospect Education Center
 Prospect Elementary
 Prospect High
@@ -7044,6 +7318,7 @@ Pueblo Vista Elementary
 Puente Charter
 Puente Hills High
 Puesta del Sol Elementary
+Pulliam Elementary
 Purche Avenue Elementary
 Pyle Elementary
 Quail Glen Elementary
@@ -7091,6 +7366,7 @@ Rainbow Ridge Elementary
 Rainbow Springs
 Raincross High (Continuation)
 Raisin City Elementary
+Ralph A. Gates Elementary
 Ralph A. Gates Elementary School
 Ralph Bunche Elementary
 Ralph Dunlap Elementary
@@ -7167,6 +7443,7 @@ Rancho-Starbuck Intermediate
 Randall Pepper Elementary
 Ravenswood Child Development Center
 Ray Wiltsey Middle
+Raymond A. Villa Fundamental Intermediate
 Raymond Avenue Elementary
 Raymond Case Elementary
 Raymond Cree Middle
@@ -7250,6 +7527,7 @@ Revere (Paul) Elementary
 REVERE MIDDLE SCHOOL
 Reyburn Intermediate
 Reymouth Special Education Center
+Reyn Franca
 Reynolds Elementary
 RFK Community Schools-Ambassador School-Global Education
 RFK Community Schools-Ambassador-Global Leadership
@@ -7270,6 +7548,7 @@ Richard A. Alonzo Community Day
 RICHARD ALONZO COMMUNITY DAY SCHOOL (FRMR: JOHNSON CDS)
 Richard B. Haydock, Middle
 Richard Bard Elementary
+Richard Crane Elementary
 Richard E. Byrd Middle
 Richard Haynes Elementary
 Richard Henry Dana Elementary
@@ -7292,9 +7571,11 @@ Richland Junior High
 Richman Elementary
 Richmond Charter Academy
 Richmond Charter Elementary-Benito Juarez
+Richmond College Preparatory
 Richmond Elementary
 Richmond High
 Richmond Street Elementary
+Ridder Park Site
 Ridge Crest Elementary
 Ridgecrest Charter
 Ridgecrest Intermediate
@@ -7305,16 +7586,20 @@ Ridgeview High
 Ridgeview High (Continuation)
 Ridgeview Middle
 Ridgewood Elementary
+Ridgway High (Continuation)
 Riley Elementary
 RILEY HIGH SCHOOL - CYESIS
 RILEY HS (EAST BRANCH) @WILSON HS
 RILEY HS - GARDENA BRANCH (@ 186TH ST ES)
 Riley/New Dawn
+Rim of the World Senior High
 Rincon High (Continuation)
 Rincon Middle
+Rincon Valley Charter
 Rincon Valley Middle
 Rincon Valley Middle School
 Rio Americano High
+Rio Calaveras Elementary
 Rio Cazadero High (Continuation)
 Rio Del Mar
 Rio del Mar Elementary
@@ -7347,27 +7632,32 @@ Ripona Elementary
 Rise Community
 Rise Ko Hyang Middle
 Rise Kohyang High
+Rise University Preparatory
 Rising Star Montessori Cottage Campus
 Rising Star Montessori School
 Rising Sun Montessori
-Ritter Elementary
 RITTER ELEMENTARY
+Ritter Elementary
 River Bend
 River Bluff Elementary
 River Charter
 River Charter Schools Lighthouse Charter
+River City High
 River Glen
+River Heights Intermediate
 River Islands Technology Academy II
 River Montessori Elementary Charter
 River Oak Charter
 River Oaks Elementary
 River Springs Charter
 River Valley Charter
+River Valley High
 Rivera Elementary
 Rivera Middle
 Riverbank Elementary
 Riverbank High
 Riverbank Language Academy
+Riverbend Elementary
 Riverdale Elementary
 Riverdale High
 Riverside Adult
@@ -7379,8 +7669,8 @@ Riverside County Office of Education
 Riverside County ROP
 Riverside County Special Education
 Riverside Drive Charter
-Riverside Elementary
 RIVERSIDE ELEMENTARY
+Riverside Elementary
 Riverside Meadows Intermediate
 Riverside Preparatory
 Riverside STEM Academy
@@ -7412,6 +7702,7 @@ Robert J McGarvey Elementary School
 Robert J. Fite Elementary
 Robert J. Frank, Middle
 Robert L. McCaffrey Middle
+Robert L. Stevens Elementary
 Robert Louis Stevenson Intermediate
 Robert Louis Stevenson Middle
 Robert M. Pyles
@@ -7421,6 +7712,7 @@ Robert Sanders Elementary
 Robert Semple Elementary
 ROBERTI EARLY EDUCATION CENTER
 Robertson High (Continuation)
+Robertson Road Elementary
 Robinson Academy
 Robinson Elementary
 Robla Elementary
@@ -7441,6 +7733,7 @@ Rocketship Redwood City
 Rocketship Rising Stars
 Rocketship Si Se Puede Academy
 Rocketship Spark Academy
+Rocklin Academy at Meyers Street
 Rocklin Academy at Turnstone
 Rocklin Academy Gateway
 Rocklin Elementary
@@ -7451,6 +7744,7 @@ Rocky Hill Elementary
 Rod Kelley Elementary
 Rodeo Hills Elementary
 RODIA CONTINUATION HIGH
+Rodia High School
 Rodriguez Elementary
 Rodriguez, Zaida T. Early Education
 Roeding Elementary
@@ -7459,6 +7753,7 @@ Roger S. Oraze Elementary
 Rogers (Greg) Elementary
 ROGERS CONTINUATION HIGH @ VAN NUYS HS
 Rogers Middle
+Rohnert Park Educational Center
 Rohr (Fred H.) Elementary
 Rolando Elementary
 Rolando Park Elementary
@@ -7474,6 +7769,7 @@ Ron Nunn Elementary
 Ronald E. McNair High
 Ronald McNair Academy
 Ronald Reagan Elementary
+Ronald W. Reagan Elementary
 Rooftop Elementary
 Rooftop School
 Roosevelt
@@ -7486,6 +7782,7 @@ Roosevelt Elementary School
 Roosevelt High
 ROOSEVELT INFANT / EARLY EDUCATION CENTER
 Roosevelt International Middle
+Roosevelt Junior High
 Roosevelt Middle
 ROOSEVELT SENIOR HIGH
 ROOTS International Academy
@@ -7494,12 +7791,12 @@ ROP-Career Education
 Rorimer Elementary
 Rosa Parks Elementary
 Rosa Parks Environmental Science Magnet
-Rosa Parks Learning Center
 ROSA PARKS LEARNING CENTER
+Rosa Parks Learning Center
 Rosamond Elementary
 Rosary Academy
-Roscoe Elementary
 ROSCOE ELEMENTARY
+Roscoe Elementary
 ROSCOMARE ELEMENTARY
 Roscomare Road Elementary
 Rose Avenue Elementary
@@ -7541,8 +7838,8 @@ Rossmoor Elementary
 Rother Elementary
 Round Meadow Elementary
 Rowan Avenue Elementary
-ROWAN ELEMENTARY
 Rowan Elementary
+ROWAN ELEMENTARY
 Rowell Elementary
 Rowland Avenue Elementary
 Rowland Elementary
@@ -7596,6 +7893,7 @@ Sacramento High School
 Sacred Heart Academy
 Sacred Heart Cathedral Preparatory
 Sacred Heart Catholic
+Saddleback High
 Sage Canyon
 Saint Agnes
 Saint Anne School
@@ -7604,6 +7902,7 @@ Saint Helena Elementary
 Saint Helena High
 Saint Helena Primary
 Saint Jeanne de Lestonnac School
+Saint John of God
 Saint Kieran Catholic School
 Saint Leo the Great School
 Saint Monica School
@@ -7611,6 +7910,7 @@ Saint Raphael Elementary
 Saint Rose Catholic School
 Saint Vincent de Paul
 Saint Vincent's Day Home, Inc.
+Sakamoto Elementary
 Sal Castro Middle
 Salem Lutheran
 Salesian College Preparatory
@@ -7647,9 +7947,11 @@ San Ardo Elementary
 San Benancio Middle
 San Benito County Juvenile Hall Court
 San Benito County Regional Special Education Center
+San Benito Elementary
 San Benito High/San Benito Adult
 San Bernardino County Special Education
 San Bernardino High
+San Bernardino Nutrition Services
 San Carlos Charter Learning Center
 San Clemente High
 San Clemente Presbyterian Preschool
@@ -7694,6 +7996,7 @@ San Francisco University HS 3185 Washington
 San Francisco University HS 3220 Sacramento
 San Gabriel Avenue Elementary
 SAN GABRIEL ELEMENTARY
+San Gabriel Elementary
 San Gabriel High
 San Geronimo Valley Elementary
 San Gorgonio High
@@ -7710,6 +8013,8 @@ San Joaquin Elementary School
 San Joaquin High (Continuation)
 San Joaquin Valley High
 San Jose Charter Academy
+San Jose Conservation Corps Charter
+San Jose Conservation Corps Charter School – Senter Rd
 SAN JOSE ELEMENTARY
 San Jose Elementary
 San Jose High
@@ -7761,12 +8066,12 @@ San Pasqual Union Elementary
 SAN PEDRO / WILMINGTON EARLY EDUCATION CENTER
 SAN PEDRO CAS EARLY EDUCATION CENTER
 SAN PEDRO COMMUNITY ADULT SCHOOL AEWC
-SAN PEDRO ELEMENTARY
 San Pedro Elementary
+SAN PEDRO ELEMENTARY
 SAN PEDRO HLTH CNTR
 SAN PEDRO SCI CTR
-San Pedro Senior High
 SAN PEDRO SENIOR HIGH
+San Pedro Senior High
 SAN PEDRO STATE PRESCHOOL
 San Pedro Street Elementary
 SAN PEDRO/WILMINGTON ADULT SKL CTR
@@ -7797,12 +8102,15 @@ Sanger High
 Sanhedrin High
 Sankofa Academy
 Santa Ana High
+Santa Ana Unified School District Food and Nutrition Services
+Santa Ana Unified School District Office
 Santa Barbara Charter
 Santa Barbara Community Academy
 Santa Barbara High School
 Santa Barbara Jr.High School
 Santa Barbara Junior High
 Santa Barbara Senior High
+Santa Clara Christian
 Santa Clara Community Day
 Santa Clara County ROP-South
 Santa Clara High
@@ -7816,6 +8124,7 @@ Santa Cruz County ROP
 Santa Cruz County Special Education
 Santa Cruz Gardens Elementary
 Santa Cruz High
+Santa Cruz Montessori
 Santa Fe Elementary
 Santa Fe High
 Santa Fe Middle
@@ -7831,6 +8140,7 @@ Santa Monica High
 Santa Paula High
 Santa Rita Elementary
 Santa Rosa Academy
+Santa Rosa Accelerated Charter
 Santa Rosa Charter School for the Arts
 Santa Rosa French-American Charter (SRFACS)
 Santa Rosa French-American Charter School
@@ -7838,6 +8148,7 @@ Santa Rosa High
 Santa Rosa High School
 Santa Rosa Middle
 Santa Rosa Middle School
+Santa Rosa Road Academic Academy
 Santa Rosa Technology Magnet
 Santa Sophia Academy
 Santa Susana Elementary
@@ -7849,8 +8160,8 @@ Santa Ynez Valley Charter
 Santa Ynez Valley Union High
 Santana High
 Santana High (Continuation)
-SANTEE EDUCATION COMPLEX
 Santee Education Complex
+SANTEE EDUCATION COMPLEX
 Santee Elementary
 Santee Success Program
 Santiago Elementary
@@ -7865,8 +8176,8 @@ Saratoga Elementary
 Saratoga High
 Sartorette Charter
 Sassarini Elementary
-Saticoy Elementary
 SATICOY ELEMENTARY
+Saticoy Elementary
 SATURN ELEMENTARY
 Saturn Street Elementary
 Saugus High
@@ -7882,6 +8193,7 @@ Schallenberger Elementary
 Schendel Elementary
 Schmitt Elementary
 Scholarship Prep Charter School
+School for Adults
 School of Arts and Enterprise
 School of Business and Technology
 School of Business and Tourism at Contreras Learning Complex
@@ -7919,6 +8231,8 @@ Sebastian Questa Elementary
 Second Street Elementary
 SECONDARY CDS - INDIAN SPRINGS @ UNIVERSITY SH
 Seeley Elementary
+Segerstrom High
+Selby Lane Elementary
 Select Community Day (Secondary)
 Sellers Elementary
 Selma Avenue Elementary
@@ -7954,6 +8268,7 @@ Serrano Middle School
 Service Center
 Sessions Elementary
 Seven Hills, The
+Seven Trees Site
 Seventh Street Elementary
 Seventy-Fifth Street Elementary
 Seventy-Fourth Street Elementary
@@ -7972,8 +8287,8 @@ Shandon High
 Shannon Elementary
 Shannon Ranch Elementary
 Sharon Christa McAuliffe Middle
-SHARP AVENUE ELEMENTARY
 Sharp Avenue Elementary
+SHARP AVENUE ELEMENTARY
 Shasta Adult Education
 Shasta County Independent Study Charter
 Shasta County Special Education
@@ -7994,13 +8309,13 @@ Shenandoah Valley
 Shepherd of the Hills Lutheran
 Sheppard Elementary
 Sheridan
-Sheridan Elementary
 SHERIDAN ELEMENTARY
+Sheridan Elementary
 Sheridan Street Elementary
 Sheridan Way Elementary
 Sherman Elementary
-Sherman Oaks Center for Enriched Studies
 SHERMAN OAKS CENTER FOR ENRICHED STUDIES
+Sherman Oaks Center for Enriched Studies
 Sherman Oaks Elementary
 SHERMAN OAKS ELEMENTARY
 Sherman Oaks Elementary (Sherman Oaks Preschool)
@@ -8021,8 +8336,8 @@ Shore Acres Elementary
 Shorecliffs Middle
 Shoreline Middle
 Short Avenue Elementary
-Short Elementary
 SHORT ELEMENTARY
+Short Elementary
 SIATech
 SIATech at Treasure Island
 Sierra Alternative Learning Academy
@@ -8036,6 +8351,7 @@ Sierra High
 Sierra High (Continuation)
 Sierra House Elementary
 Sierra Lakes Elementary
+Sierra Linda Elementary
 Sierra Madre Elementary
 Sierra Madre High (Continuation)
 Sierra Madre Middle
@@ -8056,15 +8372,17 @@ Sierra School of Sonoma County Santa Rosa
 Sierra View Elementary
 Sierra Vista
 Sierra Vista Charter High
-Sierra Vista Elementary
 SIERRA VISTA ELEMENTARY
+Sierra Vista Elementary
 Sierra Vista High
 Sierra Vista High (Continuation)
+Sierra Vista High School
 Sierra Vista Junior High
 Sierra Vista Middle
 Sierramont Middle
 Signal Hill Elementary
 Silas Bartsch
+Silicon Valley Career Technical Education Center
 Sillect Community School
 Silva Valley Elementary
 Silver Creek High
@@ -8110,6 +8428,7 @@ Skycrest Elementary
 Skyline Elementary
 Skyline High
 Skyline North Elementary
+Skyridge Elementary
 Slater Elementary
 Slater Special Education Preschool
 Slauson Intermediate
@@ -8124,6 +8443,7 @@ Smith Elementary School
 Smythe Academy Middle School
 Smythe Academy of Arts and Sciences
 Smythe Elementary
+Snell Site
 Snow Elementary
 Snowline Adult
 Snowline Virtual
@@ -8154,6 +8474,8 @@ Somerset Continuation High
 Somerset Middle
 Somis Elementary
 Sonoma Charter
+Sonoma Elementary
+Sonoma Mountain Elementary
 Sonoma Mountain High (Continuation)
 Sonoma Valley High
 Sonora Elementary
@@ -8216,16 +8538,19 @@ SOUTHEAST MIDDLE SCHOOL
 Southeast ROP
 Southgate Elementary
 Southlands Christian Schools
+Southport Elementary
 Southridge Middle
 Southshore Elementary
 Southwest High
 Southwest Middle
 Southwest Senior High
 Space Aeronautics Gateway to Exploration (SAGE) Academy
+Spanos (Alex G.) Elementary
 Spark Charter
 Sparks Elementary
 Sparks Middle
 Special Education
+Special Education Department
 Special Education Preschool
 Special Education-Infant/Preschool Program
 Special Education-Preschool-Laurel
@@ -8236,6 +8561,8 @@ Spectrum Center, Inc.–Tara Hills
 spectrum Center, Oakland Campus
 SpectrumCenter Schools, Downey
 Spreckels Elementary
+Spring Creek Elementary School
+Spring Creek Matanzas Charter
 Spring Field Community Day
 Spring Grove Elementary
 Spring Valley Elementary
@@ -8248,6 +8575,7 @@ Springs Charter Schools
 Springs Charter Schools Lyndie Lane Campus
 Springville Union Elementary
 Spruce Elementary
+Spurgeon Intermediate
 St. Adelaide
 St. Aloysius
 St. Andrew Elementary
@@ -8258,6 +8586,7 @@ St. Anselm School
 St. Anthony of Padua
 St. Anthony School
 St. Anthony–Immaculate Conception
+St. Benedict Elementary
 St. Brendan Elementary
 St. Charles Elementary
 St. Cornelius Elementary
@@ -8284,6 +8613,7 @@ St. Lawrence Elementary School
 St. Leander
 St. Linus School
 St. Martin of Tours Academy
+St. Mary of the Angels
 St. Mary of the Immaculate Conception
 St. Mary's Elementary
 St. Patrick Catholic School
@@ -8295,7 +8625,9 @@ St. Perpetua
 St. Peter's School
 St. Philip Neri Elementary
 St. Philip School
+St. Raymond
 St. Robert
+St. Rose
 St. Stephen School
 St. Theresa School
 St. Thomas More
@@ -8303,6 +8635,7 @@ St. Thomas the Apostle School
 St. Timothy School
 St. Veronica Catholic School
 STAGG ELEMENTARY
+Stagg Senior High
 STAGG STATE PRESCHOOL
 Stagg Street Elementary
 Standard Elementary
@@ -8313,8 +8646,8 @@ Stanford Avenue Elementary
 Stanford Elementary
 STANFORD ELEMENTARY
 Stanford Middle
-STANFORD PRIMARY CENTER
 Stanford Primary Center
+STANFORD PRIMARY CENTER
 Stanislaus Elementary
 Stanley G. Oswalt Academy
 Stanley Middle
@@ -8322,6 +8655,7 @@ Stanley Mosk Elementary
 STANLEY MOSK ELEMENTARY (FMR: VRES #10)
 Stanton Elementary
 Stanton Elementary School
+STAR Academy
 Star of the Sea School
 Starlight Elementary
 Starr Elementary
@@ -8334,6 +8668,7 @@ STEAM Academy @ Burke
 Steele Canyon Adult Center
 Steele Canyon High
 Steele Lane Elementary
+Steffan Manor Elementary
 Stege Elementary
 Steindorf STEAM K-8 Magnet
 Stella Brockman Elementary
@@ -8342,6 +8677,7 @@ Stella Maris Academy
 Stella Middle Charter Academy
 Stellar Charter
 STEM Academy at Bernstein High
+STEM Preparatory Academy
 Stephen Foster Elementary
 Stephen M. White Middle
 Stephen R. Fitz Intermediate
@@ -8368,6 +8704,8 @@ Stockdale High
 Stockton (Commodore) Children Center
 Stockton Collegiate International Elementary
 Stockton Collegiate International Secondary
+Stockton High
+Stockton Unified Early College Academy
 Stoddard (Alexander J.) Elementary
 Stone Avenue Elementary
 Stone Bridge
@@ -8400,6 +8738,7 @@ Strathern Street Elementary
 Strathmore Community Day
 Strathmore Elementary
 Strathmore High
+Strawberry Elementary
 Strawberry Point Elementary
 STREAM Charter
 Street Academy (Alternative)
@@ -8411,7 +8750,9 @@ Studebaker Elementary
 STUDENT ASSESSMENT CENTER @ PLASENCIA ES
 STUDENT EMPOWERMENT ACADEMY @ JEFFERSON SH
 Student Information and Assessment Center (SIAC)
+Student Inverention Services
 Studio
+Sture Larsson High
 Success Academy
 Success One!
 Sugar Hill Elementary
@@ -8427,6 +8768,8 @@ Summerland Elementary
 Summerville Elementary
 Summerville High
 Summerwind Elementary
+Summit Charter Academy
+Summit Charter Collegiate Academy
 Summit Denali High School
 Summit Denali Middle School
 Summit Elementary
@@ -8477,10 +8820,11 @@ Sunnyside High
 Sunnyslope Elementary
 Sunnyvale Middle
 Sunol Glen Elementary
+Sunol Site
 Sunridge Charter
 Sunrise (Special Education)
-SUNRISE ELEMENTARY
 Sunrise Elementary
+SUNRISE ELEMENTARY
 Sunrise High (Continuation)
 Sunrise Middle
 Sunrise Tech Center
@@ -8533,6 +8877,7 @@ Sycamore Canyon Elementary
 Sycamore Elementary
 Sycamore Hills Elementary
 Sycamore Junior High
+Sycamore Middle
 Sycamore Ridge
 Sycamore Rocks Elementary
 Sycamore Valley Academy
@@ -8546,8 +8891,8 @@ SYLMAR SENIOR HIGH
 Sylvan Elementary
 Sylvan Middle
 SYLVAN PARK EARLY EDUCATION CENTER
-SYLVAN PARK ELEMENTARY
 Sylvan Park Elementary
+SYLVAN PARK ELEMENTARY
 Sylvandale Middle
 Sylvia Cassell Elementary
 Synapse School
@@ -8586,6 +8931,7 @@ Tamura (Hisamatsu) Elementary
 Taper Avenue Elementary
 TAPER ELEMENTARY
 Tara Hills Elementary
+Tara Redwood School
 Tarbut V Torah Community Day School
 Tarpey Elementary
 Tarzana Elementary
@@ -8595,7 +8941,9 @@ Taylion San Diego Academy
 Taylor (Bertha) Elementary
 Taylor (Edward R.) Elementary
 Taylor (Ida Redmond) Elementary
+Taylor Leadership Academy
 Taylor Middle
+Taylor Mountain Elementary
 Taylor Street Elementary
 TC McDaniel School
 TEACH Academy of Technologies
@@ -8604,7 +8952,9 @@ TEACH Tech Charter High
 Teague Elementary
 TEAM Charter
 TECH ANNEX / AREA-19 @SUNRISE EL (FRMR: ELA SKILL CENTER)
+Technology
 Technology High
+Technology Middle
 Ted Porter Elementary
 Tehama County ROP
 Tehama County Special Education
@@ -8629,8 +8979,12 @@ Temple (Roger W.) Intermediate
 Temple Academy
 Temple City Adult Education
 Temple City Alternative
+Temple City High
 Temple Heights Elementary
 TEMPLE ST. ADMINISTRATIVE SITE (FRMR: CHLD DEV BR. BLDG)
+Templeton Elementary
+Templeton High
+Templeton Middle
 Temporary Alternative Program & Young Adult Program
 Tenaya Elementary
 Tenaya Middle
@@ -8654,6 +9008,7 @@ Terrace Middle
 Terrace View Elementary
 Terrell Elementary
 Tesoro del Valle Elementary
+Tesoro High
 Tetzlaff (Martin B.) Middle
 Tevis Junior High
 The Academy
@@ -8668,6 +9023,7 @@ The Brandeis School of San Francisco
 The Bridge School
 The Cambridge School
 The Campbell community Center
+The Carey School
 The Child Unique Montessori School
 The Child Unique Montessori School Taylor Avenue
 The Children's School
@@ -8699,6 +9055,7 @@ Theuerkauf Elementary
 Think College Now
 Third Street Elementary
 Thirty-Second Street USC Performing Arts
+Thomas A. Edison Elementary
 Thomas B. Moffitt Elementary
 THOMAS BRADLEY ENVIRONMENTAL SCIENCE & HUMANITIES
 Thomas Downey High
@@ -8720,6 +9077,7 @@ Thomas Paine Elementary
 Thomas R. Pollicita Middle
 Thomas Riley High
 Thomas Russell Middle
+Thomas S. Hart Middle
 Thomas Starr King Middle School Film and Media Magnet
 Thompson Elementary
 Thompson Middle
@@ -8740,6 +9098,7 @@ Tice Creek
 Tiefort View Intermediate
 Tiefort View Intermediate School
 Tierra Bonita Elementary
+Tierra Buena Elementary
 Tierra Del Sol Continuation High
 Tierra del Sol Middle
 Tierra Linda Elementary
@@ -8748,6 +9107,7 @@ Tierra Pacifica Charter
 Tierra Vista Elementary
 Tierrasanta Elementary
 Tiffany (Burton C.) Elementary
+Tijeras Creek Elementary
 Timber Point Elementary
 Tincher Preparatory
 Tioga High
@@ -8759,8 +9119,8 @@ Toddy Thomas Elementary
 Tokay Elementary
 Tokay High
 TOLAND WAY EARLY EDUCATION CENTER
-Toland Way Elementary
 TOLAND WAY ELEMENTARY
+Toland Way Elementary
 Tolenas Elementary
 Toler Elementary
 TOLUCA LAKE EARLY EDUCATION CENTER
@@ -8801,6 +9161,7 @@ TownGate Elementary
 Township Elementary
 Toyon Elementary
 Trabuco Elementary
+Trabuco Hills High
 Trabuco Hills High School
 Trabuco Mesa Elementary
 TRACE
@@ -8825,6 +9186,7 @@ Tree of Life Charter
 Treeview Elementary
 Tremont Elementary
 Tres Pinos Elementary
+Tri Community
 Tri-C Community Day
 TRI-C COMMUNITY DAY SCHOOL (CDS) - CENTRAL OFFICE
 Tri-Cities ROP
@@ -8842,6 +9204,7 @@ Trinity Valley Elementary
 Triple Crown Elementary
 TRIUMPH ACADEMY MS @ OLIVE VISTA MS
 Trivium Charter
+Trona Elementary
 Trona High
 Tropico Middle
 Troth Street Elementary
@@ -8872,6 +9235,7 @@ Tuolumne County Superintendent of Schools Transitional Program Building
 Tuolumne Elementary
 Tuolumne Learning Center (TLC)
 Turlock High
+Turlock Junior High
 Turner Elementary
 Turning Point School
 Turtle Bay
@@ -8887,6 +9251,7 @@ Twain High
 Twain Mesa
 Twain Morse
 TWEEDY ELEMENTARY
+Tweedy Elementary
 Twelve Bridges Elementary
 Twelve Bridges Middle
 Twentieth Street Elementary
@@ -8897,6 +9262,7 @@ Twentynine Palms High
 Twentynine Palms Junior High
 Twila Reid Elementary
 Twin Creeks Elementary
+Twin Lakes Christian
 Twin Lakes Elementary
 Twin Oaks Elementary
 Twin Oaks High
@@ -8908,7 +9274,9 @@ Twin Rivers Charter
 Twinhill Elementary
 Two Bunch Palms Elementary
 Two Hundred Thirty-Second Place
+Two Rivers Elementary
 Two Rock Elementary
+Tyler Skills Elementary
 Tyrrell Elementary
 UCLA COMMUNITY SCHOOL @ CENTRAL LA NEW LEARNING CENTER #1, PHASE 2
 Ukiah Adult
@@ -8924,11 +9292,13 @@ Union Hill Elementary
 Union Hill Middle
 Union House Elementary
 Union Middle
+Union Mine High
 Union Street Charter
 United for Success Academy
 United Nation CDC
 University Child Education Center
 University City High
+University Elementary at La Fiesta
 University Heights Middle
 University High
 University Park Elementary
@@ -8936,8 +9306,8 @@ University Preparatory
 University Preparatory Academy Charter
 University Preparatory High
 University Preparatory Value High
-UNIVERSITY SENIOR HIGH
 University Senior High
+UNIVERSITY SENIOR HIGH
 Unsworth Elementary
 Upland Elementary
 Upland High
@@ -8974,6 +9344,7 @@ Valencia High
 Valencia Park Elementary
 Valencia Valley Elementary
 Valentine Elementary
+Valentine Peyton Elementary
 VALERIO ELEMENTARY
 Valerio Street Elementary
 Valhalla Elementary
@@ -8987,6 +9358,7 @@ Vallecito Elementary
 Vallecitos Elementary
 Vallejo Charter
 Vallejo Education Academy
+Vallejo High
 Vallejo High School AnnexISP
 Vallejo Mill Elementary
 Vallemar Elementary
@@ -9002,6 +9374,7 @@ Valley Center Middle
 Valley Center Prep
 Valley Center Primary
 Valley Charter Elementary
+Valley Charter High
 Valley Charter Middle
 VALLEY CHARTER MS @ MONROE HS
 Valley Community Day
@@ -9030,8 +9403,8 @@ VALLEY REGION SPAN K-8 #1
 Valley Springs Elementary
 Valley View Charter Prep
 Valley View Community Elementary
-Valley View Elementary
 VALLEY VIEW ELEMENTARY
+Valley View Elementary
 Valley View High
 Valley View High (Continuation)
 Valley View High School
@@ -9053,8 +9426,8 @@ VAN NESS ELEMENTARY
 VAN NUYS ALTERNATIVE EDUCATION WORK CENTER
 Van Nuys Community Adult
 VAN NUYS COMMUNITY ADULT SCHOOL
-VAN NUYS ELEMENTARY
 Van Nuys Elementary
+VAN NUYS ELEMENTARY
 Van Nuys Middle
 VAN NUYS MIDDLE SCHOOL
 Van Nuys Senior High
@@ -9074,8 +9447,8 @@ Vantage Point Charter
 Vargas Elementary
 Vasquez High
 VAUGHN EARLY EDUCATION CENTER
-Vaughn Next Century Learning Center
 VAUGHN NEXT CENTURY LEARNING CENTER
+Vaughn Next Century Learning Center
 Vejar Elementary
 Vena Avenue Elementary
 VENA ELEMENTARY
@@ -9087,12 +9460,13 @@ VENICE ALTERNATIVE EDUCATION WORK CENTER
 VENICE CAS-AEWC @ 98TH STREET AEWC
 VENICE COMMUNITY ADULT SCHOOL
 VENICE HLTH CNTR
-VENICE SENIOR HIGH
 Venice Senior High
+VENICE SENIOR HIGH
 Venice Skills Center
 Ventura County ROP
 Ventura High
 Venture (Alternative)
+Venture Academy
 Verde Elementary
 Verdugo Hills Senior High
 VERDUGO HILLS SENIOR HIGH
@@ -9107,15 +9481,18 @@ Vernon E. Greer Elementary
 Vernon Middle
 Vernon Middle School
 Veterans Elementary
+Veva Blunt Elementary
 Vicente Martinez High
+Vicentia Elementary
 Vichy Elementary
 Victor Elementary
 Victor F. Hodge Elementary
 Victor Valley High
 Victor Valley SDA
 Victor Valley Union High
-VICTORIA ELEMENTARY
+Victoria Avenue Elementary
 Victoria Elementary
+VICTORIA ELEMENTARY
 Victoria Groves Elementary
 Victoria Magathan Elementary
 Victoriano Elementary
@@ -9123,7 +9500,9 @@ Victorville Education Center
 Victory Baptist Christian School
 Victory Boulevard Elementary
 VICTORY ELEMENTARY
+Victory Elementary
 Victory High
+Victress Bower School for Exceptional Students
 Vieja Valley Elementary
 Viejo Elementary
 View Park Continuation
@@ -9131,16 +9510,20 @@ View Park Preparatory Accelerated Charter Middle
 View Park Preparatory Accelerated High
 Vieweg Elementary
 Viking Elementary
+Villa Park Elementary
+Villa Park High
 Villacorta Elementary
 Village
 Village Academy High School at Indian Hill
 Village Charter Academy
 Village Elementary
+Village Elementary Charter
 Village Oaks High School
 Village Park Preschool
 Village View Elementary
 Vina Danks Middle
 Vina Danks Middle School
+Vincent Academy
 Vinci Park Elementary
 VINE EARLY EDUCATION CENTER
 Vine Elementary
@@ -9191,6 +9574,7 @@ Vista Continuation High
 Vista del Lago High
 Vista Del Mar
 Vista del Mar Elementary
+Vista del Mar Middle
 Vista del Monte Elementary
 Vista del Valle Dual Language Academy
 VISTA DEL VALLE DUAL LANGUAGE ACADEMY (FMR: VRES #8)
@@ -9242,10 +9626,13 @@ WADSWORTH EARLY EDUCATION CENTER
 WADSWORTH ELEMENTARY
 Wagner Ranch Elementary
 Wagner-Holt Elementary
+Wagon Wheel Elementary
 Waha Montessori
 Wakefield Elementary
 Wakeham Elementary
+Walden Academy
 Walden Center and School
+Waldo Rohnert Intermediate
 Waldorf School of Orange County
 Walgrove Avenue Elementary
 WALGROVE ELEMENTARY
@@ -9272,6 +9659,7 @@ Walnutwood High (Independent Study)
 Walt Disney
 Walt Disney Elementary
 Walter Colton
+Walter F. Dexter Middle
 Walter Hays Elementary
 Walter M. Brown Elementary
 Walter Reed Middle
@@ -9280,6 +9668,7 @@ Walter White Elementary
 Walter Woodward Elementary
 Walter Zimmerman Elementary
 Walteria Elementary
+Walton Development Center
 Wanda Hirsch Elementary
 Wangenheim Middle
 Ward Elementary
@@ -9311,9 +9700,11 @@ Washington Intermediate
 Washington Irving Middle School Math, Music and Engineering Magnet
 Washington Manor Middle
 Washington Middle
+Washington Middle College High
 WASHINGTON PREPARATORY SENIOR HIGH SCHOOL
 Washington Primary Center
 WASHINGTON PRIMARY CENTER
+Washington Unified School District Office
 Waterford Adult Education Center
 Waterford Child Development
 Waterford Elementary
@@ -9333,6 +9724,7 @@ Weathersfield Elementary
 Weaver Middle
 Weaverville Elementary
 Webber Elementary
+Weber Institute
 Webster (Daniel) Elementary
 Webster Elementary
 WEBSTER MIDDLE SCHOOL
@@ -9359,8 +9751,9 @@ Wesley Gaines
 WESM Health/Sports Medicine
 West Adams Preparatory High
 WEST ADAMS PREPATORY SENIOR HIGH
-WEST ATHENS ELEMENTARY
 West Athens Elementary
+WEST ATHENS ELEMENTARY
+West Boron Elementary
 West Campus
 West Contra Costa Adult Education
 West County Charter Middle
@@ -9403,8 +9796,8 @@ West Street Elementary
 West Valley Elementary
 West Valley High
 WEST VALLEY OCCUPATIONAL ALTERNATIVE EDUCATION WOR
-WEST VALLEY OCCUPATIONAL CENTER
 West Valley Occupational Center
+WEST VALLEY OCCUPATIONAL CENTER
 WEST VALLEY SPECIAL EDUCATION CENTER
 WEST VALLEY STATE PRESCHOOL
 West Vernon Avenue Elementary
@@ -9423,6 +9816,7 @@ Western High
 Western Sierra Collegiate Academy
 Westfield Elementary
 Westfield Village Elementary
+Westlake Charter
 Westlake Charter Middle
 Westlake Elementary
 Westlake High
@@ -9436,11 +9830,13 @@ Westminster High
 Westmont Elementary
 Westmont High
 Westmoor High
+Westmore Oaks Elementary
 Westmorland Elementary
 Weston Elementary
+Weston Ranch High
 Westpark Elementary
-Westport Heights Elementary
 WESTPORT HEIGHTS ELEMENTARY
+Westport Heights Elementary
 WESTSIDE COMMMUNITY ADULT SCHOOL
 Westside Elementary
 Westside Global Awareness Magnet
@@ -9469,6 +9865,7 @@ White Oaks Elementary
 WHITE POINT ELEMENTARY
 White Point Elementary
 White Rock Elementary
+Whited Elementary Charter
 Whiteford (June) Special Education Preschool
 Whitman Continuation
 Whitman Elementary
@@ -9520,6 +9917,7 @@ William Faria Elementary
 William Finch
 William G. Jehue Middle
 William G. Paden Elementary
+William Garrison Elementary
 William Green Elementary
 William H. Frazier Elementary
 William Hopkins Junior High
@@ -9585,8 +9983,8 @@ WILMINGTON PARK EARLY EDUCATION CENTER
 WILMINGTON PARK ELEMENTARY
 Wilmington Park Elementary
 WILMINGTON PARK STATE PRESCHOOL
-WILSHIRE CREST ELEMENTARY
 Wilshire Crest Elementary
+WILSHIRE CREST ELEMENTARY
 Wilshire Park Elementary
 WILSHIRE PARK ELEMENTARY SCHOOL
 Wilson Alternative
@@ -9597,17 +9995,21 @@ Wilson Jr. High
 Wilson Middle
 WILSON SENIOR HIGH
 WILSON-LINCOLN COMMUNITY ADULT SCHOOL
+Wilsona Achievement Academy
 WILTON PLACE EARLY EDUCATION CENTER
-WILTON PLACE ELEMENTARY
 Wilton Place Elementary
+WILTON PLACE ELEMENTARY
 Wiltsey Middle School
 Winchell Elementary
 Winchester Elementary
 Windemere Ranch Middle
 Windmill Springs Elementary
 Windrows Elementary
+Windsor Creek Elementary
+Windsor High
 Windsor Hills Math Science
 Windsor Middle
+Windsor Oaks Academy
 Winfield Elementary
 Wing Lane Elementary
 Wingland Elementary
@@ -9625,6 +10027,7 @@ WISDOM ACADEMY FOR YOUNG SCIENTISTS
 Wisdom Elementary
 Wishon Elementary
 Withrow Elementary
+Witter Ranch Elementary
 Wittmann (Helen) Elementary
 Wolf Canyon Elementary
 Wolfe Education
@@ -9718,8 +10121,8 @@ Young Scholar Education Center
 Yountville Elementary
 Youth Development Center
 YOUTH DEVELOPMENT PROGRAM - VALLEY
-Youth Opportunities Unlimited
 YOUTH OPPORTUNITIES UNLIMITED
+Youth Opportunities Unlimited
 YOUTH SRVS - SOUTH
 YOUTH SRVS - WEST
 YPI Valley Public Charter High
@@ -9732,6 +10135,8 @@ Ysmael Villegas Middle
 Yu (Alice Fong) Elementary
 Yu Ming Charter
 Yu Ming Charter MLK Campus
+Yuba City Charter
+Yuba City High
 Yuba City Special Education Preschool
 Yuba County Career Preparatory Charter
 Yuba County Special Education
@@ -9748,6 +10153,7 @@ Yucca Valley Elementary
 Yucca Valley High
 Yuk Yau CDC
 Yukon Elementary
+Yulupa Elementary
 Yvonne Harmon
 Zamora Elementary
 Zamorano Elementary

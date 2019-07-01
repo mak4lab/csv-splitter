@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Morongo Unified,Condor Elementary,2551 Condor Road Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.205315,-116.0455792
+Morongo Unified,Oasis Elementary,73175 El Paseo Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.1356915,-116.0543506
+Morongo Unified,Palm Vista Elementary,74350 Baseline Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.1213949291004,-116.04237201062
+Morongo Unified,Twentynine Palms High,72750 Wildcat Way Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.141834327167,-116.075093536471
+Morongo Unified,Twentynine Palms Junior High,5798 Utah Trail Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.153743,-116.036645

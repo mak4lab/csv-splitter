@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Tahoe Unified,Al Tahoe,1100 Lyons Ave South Lake Tahoe CA 96150,32,ppb,TRUE,tested,South Lake Tahoe,El Dorado County,38.9379568214319,-119.975354272734
+Lake Tahoe Unified,Bijou Community,3501 Spruce Avenue South Lake Tahoe CA 96150-8317,NA,NA,FALSE,tested,South Lake Tahoe,El Dorado County,38.941982,-119.955815
+Buckeye Union Elementary,Buckeye Elementary,4561 Buckeye Road Shingle Springs CA 95682-9503,9,ppb,TRUE,tested,NA,El Dorado County,38.6687002563008,-120.915846765535
+Buckeye Union Elementary,California Montessori Project-Shingle Springs Campus,4645 Buckeye Road Shingle Springs CA 95682-9505,NA,NA,NA,not tested,NA,El Dorado County,38.6690282620101,-120.907462995576
+Camino Union Elementary,Camino Elementary,3060 Snows Road Camino CA 95709-9578,NA,NA,FALSE,tested,NA,El Dorado County,38.7324576990073,-120.676039970764
+El Dorado Union High,EDUHSD Virtual Academy at Shenandoah,6540 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6763373,-120.8353572
+Placerville Union Elementary,Edwin Markham Middle,2800 Moulton Drive Placerville CA 95667-4334,NA,NA,NA,not tested,Placerville,El Dorado County,38.734454,-120.816235
+El Dorado Union High,El Dorado High,561 Canal Street Placerville CA 95667-4312,NA,NA,NA,not tested,Placerville,El Dorado County,38.7324462339639,-120.813015957887
+El Dorado Office of Education,El Dorado High School East Campus,3440 Pondorado Road Camino  CA 95709,NA,NA,FALSE,tested,,El Dorado County,38.7364619,-120.7063322
+El Dorado County Office of Education,El Dorado Office of Education,6767 Green Valley Rd Placerville CA 95667,NA,NA,FALSE,tested,Placerville,El Dorado County,38.7254482,-120.840355
+Gold Trail Union Elementary,Gold Trail,889 Cold Springs Road Placerville CA 95667-9312,NA,NA,FALSE,tested,Placerville,El Dorado County,38.7747199274028,-120.892030405599
+Black Oak Mine Unified,Golden Sierra Junior Senior High,5101 Garden Valley Road Garden Valley CA 95633-0175,NA,NA,NA,not tested,NA,El Dorado County,38.8491789,-120.8563006
+Mother Lode Union Elementary,Herbert C. Green Middle,3781 Forni Road Placerville CA 95667-6207,NA,NA,FALSE,tested,Placerville,El Dorado County,38.7207108,-120.832134
+El Dorado Union High,Independence Continuation,385 Pleasant Valley Rd. Diamond Springs CA 95619-1450,NA,NA,FALSE,tested,,El Dorado County,38.6939927,-120.8170909
+Mother Lode Union Elementary,Indian Creek Elementary,6701 Green Valley Road Placerville CA 95667-8984,NA,NA,FALSE,tested,Placerville,El Dorado County,38.7254482,-120.840355
+Rescue Union Elementary,Jackson Elementary,2561 Francisco Drive El Dorado Hills CA 95762-8201,NA,NA,FALSE,tested,NA,El Dorado County,38.7267889,-121.090391
+Placerville Union Elementary,Louisiana Schnell Elementary,2871 Schnell School Road Placerville CA 95667-4935,NA,NA,NA,not tested,Placerville,El Dorado County,38.7374569044595,-120.779457390737
+Rescue Union Elementary,Marina Village Middle,1901 Francisco Drive El Dorado Hills CA 95762-3736,7.6,ppb,TRUE,tested,NA,El Dorado County,38.7231879425728,-121.08811188241
+Pollock Pines Elementary,Pinewood Elementary,6181 Pine Street Pollock Pines CA 95726-9608,11,ppb,TRUE,tested,NA,El Dorado County,38.7646682959083,-120.591661805495
+Rescue Union Elementary,Pleasant Grove Middle,2540 Green Valley Road Rescue CA 95672-9415,NA,NA,FALSE,tested,NA,El Dorado County,38.7070612,-120.9658751
+Rescue Union Elementary,Rescue Elementary,3880 Green Valley Road Rescue CA 95672-9403,NA,NA,FALSE,tested,NA,El Dorado County,38.707000337455,-120.964965913446
+Private,Sierra Boys Ranch,4300 Forni Rd Placerville CA 95667,NA,NA,NA,not tested,Placerville,El Dorado County,38.7207108,-120.832134
+Placerville Union Elementary,Sierra Elementary,1100 Thompson Way Placerville CA 95667-5726,NA,NA,NA,not tested,Placerville,El Dorado County,38.727918,-120.79413
+El Dorado Union High,Union Mine High,6530 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6768064,-120.8386778
+Buckeye Union Elementary,William Brooks Elementary,3610 Park Drive El Dorado Hills CA 95762-4544,NA,NA,FALSE,tested,NA,El Dorado County,38.6559342,-121.073374

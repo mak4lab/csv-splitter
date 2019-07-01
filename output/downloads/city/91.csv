@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+El Centro Elementary,Ballington Academy for the Arts and Sciences,1525 West Main Street El Centro CA 92243-2211,NA,NA,NA,not tested,El Centro,Imperial County,32.7927569663914,-115.571547780969
+Central Union High,Central Union High School District Office,351 W Ross Ave El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7814068979592,-115.551371591837
+El Centro Elementary,De Anza Magnet,1530 South Waterman Avenue El Centro CA 92243-4142,NA,NA,FALSE,tested,El Centro,Imperial County,32.7784806,-115.575131392135
+Imperial Unified,Frank M. Wright Middle,885 North Imperial Avenue Imperial CA 92251-1105,NA,NA,FALSE,tested,El Centro,Imperial County,32.8003449653167,-115.569821002093
+El Centro Elementary,Hedrick Elementary School,550 South Waterman Avenue El Centro CA 92243-3139,NA,NA,NA,not tested,El Centro,Imperial County,32.787992,-115.575492739455
+El Centro Elementary,Home School Science Center,2370 W Main St El Centro CA 92243,NA,NA,NA,not tested,El Centro,Imperial County,32.7929361598722,-115.582206349858
+El Centro Elementary,Imagine Schools at Imperial Valley,1150 North Imperial Avenue El Centro CA 92243-1740,NA,NA,NA,not tested,El Centro,Imperial County,32.8031178227687,-115.569767647473
+El Centro Elementary,Margaret Hedrick Elementary,550 South Waterman Avenue El Centro CA 92243,NA,NA,FALSE,tested,El Centro,Imperial County,32.787992,-115.575492739455
+El Centro Elementary,Martin Luther King Jr. Elementary,1950 Villa Avenue El Centro CA 92243-1268,NA,NA,FALSE,tested,El Centro,Imperial County,32.8048954,-115.57745426228
+Central Union High,Southwest High,2001 Ocotillo Drive El Centro CA 92243-9451,NA,NA,FALSE,tested,El Centro,Imperial County,32.777308,-115.578517
+El Centro Elementary,Wilson Jr. High,600 South Wilson El Centro CA 92243-2799,16.5,ppb,TRUE,tested,El Centro,Imperial County,32.786875,-115.566859

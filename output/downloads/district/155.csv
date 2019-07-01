@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+College Elementary,College Elementary,3525 Pine St. Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,NA,Santa Barbara County,34.615702,-120.08251475
+College Elementary,Santa Ynez Elementary,3325 Pine Street Santa Ynez CA 93460-0188,6.1,ppb,TRUE,tested,NA,Santa Barbara County,34.6158834397782,-120.088232020381
+College Elementary,Santa Ynez Valley Charter,3525 Pine Street Santa Ynez CA 93460-9425,NA,NA,FALSE,tested,NA,Santa Barbara County,34.615702,-120.08251475

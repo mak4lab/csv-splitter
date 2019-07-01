@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,AGBU Vatche and Tamar Manoukian High School,2495 East Mountain Street Pasadena CA 91104,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1616230872483,-118.100106107383
+Private,Chandler School,1005 Armada Drive Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1594511,-118.1628495
+Pasadena Unified,Cleveland Elementary,524 Palisade Street Pasadena CA 91103-2056,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1712122,-118.1629175
+Pasadena Unified,Daniel Webster,2101 East Washington Boulevard Pasadena CA 91104-1899,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1689457,-118.1371227
+Pasadena Unified,Don Benito Fundamental,3700 Denair Street Pasadena CA 91107-1303,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1711776491116,-118.072203168182
+LAUSD,EAST LA REGIONAL SCIENCE CENTER,"961 S EUCLID AVE, LOS ANGELES,    CA 90023",NA,NA,NA,exempt,Pasadena,Los Angeles County,34.1290919411765,-118.142859470588
+Pasadena Unified,Field (Eugene) Elementary,3600 Sierra Madre Boulevard Pasadena CA 91107-1969,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1616127009235,-118.075703017719
+Pasadena Unified,Hamilton Elementary,2089 Rose Villa Street Pasadena CA 91107-5078,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.140888,-118.108228307692
+Pasadena Unified,Jefferson Elementary,1500 East Villa Street Pasadena CA 91106-1322,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1542637017544,-118.119481280702
+Pasadena Unified,Learning Works,90 North Daisy Avenue Pasadena CA 91107-3704,NA,NA,NA,not tested,Pasadena,Los Angeles County,34.1477575789474,-118.092907894737
+LAUSD,LOGAN ELEMENTARY,"1711 W MONTANA ST, LOS ANGELES,    CA 90026",NA,NA,NA,exempt,Pasadena,Los Angeles County,34.1808264,-118.1629868
+Los Angeles Unified,Logan Street Elementary,1711 West Montana Street Los Angeles CA 90026-3311,NA,NA,NA,not tested,Pasadena,Los Angeles County,34.1808264,-118.1629868
+Pasadena Unified,Longfellow (Henry W.) Elementary,1065 East Washington Boulevard Pasadena CA 91104-2498,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1698564,-118.128436518311
+Pasadena Unified,Madison Elementary,515 Ashtabula Street Pasadena CA 91104-4306,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1590834,-118.1437857
+Pasadena Unified,Marshall Fundamental,990 North Allen Avenue Pasadena CA 91104-4025,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1631047143851,-118.112999504865
+Pasadena Unified,McKinley,325 South Oak Knoll Avenue Pasadena CA 91101-3418,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1412371010101,-118.135270848485
+Private,New Horizon School Pasadena,651 North Orange Grove Boulevard Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1547130068813,-118.156365931319
+Pasadena Unified,Norma Coombs Elementary,2600 Paloma Street Pasadena CA 91107-2642,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159225,-118.098312
+Private,Polytechnic School,1030 East California Boulevard Pasadena CA 91106,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1358277692308,-118.12903974359
+Pasadena Unified,Roosevelt,315 North Pasadena Avenue Pasadena CA 91103-3567,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1514858763998,-118.1573227191
+Pasadena Unified,San Rafael Elementary,1090 Nithsdale Road Pasadena CA 91105-1499,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1371194237288,-118.172974694915
+Private,St. Andrew Elementary,42 Chestnut Street Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.1503246666667,-118.1498195
+Pasadena Unified,Washington Accelerated Elementary,1520 North Raymond Avenue Pasadena CA 91103-1819,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171637,-118.1490216
+Pasadena Unified,Washington Middle,1505 North Marengo Avenue Pasadena CA 91103-1813,8.1,ppb,TRUE,tested,Pasadena,Los Angeles County,34.1711807755102,-118.146256693878
+Pasadena Unified,Willard Elementary,301 South Madre Street Pasadena CA 91107-4635,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.14211,-118.08165

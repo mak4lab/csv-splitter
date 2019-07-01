@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Eastside Union Elementary,Columbia Elementary,2640 East Avenue J-4 Lancaster CA 93535-2882,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6860723636364,-118.084286727273
+Eastside Union Elementary,Eastside Academy/Transitional Learning Center,44958 30th Street East Lancaster CA 93535,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.699958223641,-118.076951850981
+Eastside Union Elementary,Enterprise Elementary,3730 East Avenue J-4 Lancaster CA 93535,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6861541,-118.0836378
+Eastside Union Elementary,Gifford C. Cole Middle,3126 East Avenue I Lancaster CA 93535-7849,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.7043615653987,-118.074891397696
+Eastside Union Elementary,Tierra Bonita Elementary,44820 North 27th Street East Lancaster CA 93535-2820,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6975358928571,-118.081299035714

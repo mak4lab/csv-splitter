@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ramona City Unified,Barnett Elementary,23925 Couna Way Ramona CA 92065-4120,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Future Bound Independent Study Secondary,720 Ninth Street Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Hanson Elementary,2520 Boundary Avenue Ramona CA 92065-3106,NA,NA,FALSE,tested,NA,San Diego County,33.019244,-116.89176
+Ramona City Unified,James Dukes Elementary,24908 Abalar Way Ramona CA 92065-4649,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Montecito High (Continuation),720 Ninth Str. Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Mountain Valley Academy,1010 Ramona Street Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Ramona City Unified,Mt. Woodson Elementary,17427 Archie Moore Road Ramona CA 92065-6907,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Olive Peirce Middle,1521 Hanson Lane Ramona CA 92065-3306,NA,NA,FALSE,tested,NA,San Diego County,33.026693,-116.871608
+Ramona City Unified,Ramona Adult,720 Ninth St. Ramona CA 92065-2348,14,ppb,TRUE,tested,NA,NA,NA,NA
+Ramona City Unified,Ramona Community Montessori,1010 Ramona St Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Ramona City Unified,Ramona Elementary,415 Eighth Street Ramona CA 92065-2346,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ramona City Unified,Ramona High,1401 Hanson Lane Ramona CA 92065-3304,NA,NA,FALSE,tested,NA,San Diego County,33.027578,-116.86871

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Amador County Unified,Amador High,330 Spanish Street Sutter Creek CA 95685-9701,6.9,ppb,TRUE,tested,Sutter Creek,Amador County,38.3987968151248,-120.809836688249
+Amador County Unified,Independence High (Continuation),525 Independence Drive Sutter Creek CA 95685-9669,NA,NA,FALSE,tested,Sutter Creek,Amador County,38.3771716,-120.8080483
+Amador County Unified,Sutter Creek Elementary,340 Spanish Street Sutter Creek CA 95685-9701,6.4,ppb,TRUE,tested,Sutter Creek,Amador County,38.3988136302495,-120.809929376497
+Amador County Unified,Sutter Creek Primary,110 Broad Street Sutter Creek CA 95685,NA,NA,FALSE,tested,Sutter Creek,Amador County,38.394792779661,-120.801527610169

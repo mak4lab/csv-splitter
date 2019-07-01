@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain View Elementary,Cogswell Elementary,11050 Fineview Street El Monte CA 91733-2817,NA,NA,NA,not tested,South El Monte,Los Angeles County,34.0542680061391,-118.035134489534
+El Monte Union High,South El Monte High,1001 Durfee Avenue South El Monte CA 91733-4409,NA,NA,FALSE,tested,South El Monte,Los Angeles County,34.035434,-118.044582

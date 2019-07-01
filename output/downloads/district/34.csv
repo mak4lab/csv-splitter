@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Aromas/San Juan Unified,Aromas,365 Vega Street Aromas CA 95004-0216,6.9,ppb,TRUE,tested,NA,Monterey County,36.8896740612245,-121.644161081633
+Aromas/San Juan Unified,San Juan,100 Nyland Drive San Juan Bautista CA 95045-9573,NA,NA,NA,not tested,San Juan Bautista,San Benito County,36.841408,-121.533877

@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redwood City Elementary,Adelante Spanish Immersion,3150 Granger Way Redwood City CA 94061-2457,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4540341,-122.244109029617
+Redwood City Elementary,Hawes Elementary,909 Roosevelt Avenue Redwood City CA 94061-1513,NA,NA,NA,not tested,Redwood City,San Mateo County,37.473045234469,-122.233047700401
+Redwood City Elementary,Henry Ford Elementary,2498 Massachusetts Avenue Redwood City CA 94061-3263,NA,NA,NA,not tested,Redwood City,San Mateo County,37.456154,-122.233613
+Redwood City Elementary,John F. Kennedy Middle,2521 Goodwin Avenue Redwood City CA 93239-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4602471579171,-122.238908466709
+Redwood City Elementary,John Gill Elementary,555 Avenue Del Ora Redwood City CA 94062-2259,NA,NA,NA,not tested,Redwood City,San Mateo County,37.47449155,-122.240796586672
+Redwood City Elementary,KIPP Excelencia Community Preparatory,2521 Goodwin Ave Redwood City CA 94061-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4602471579171,-122.238908466709
+Redwood City Elementary,McKinley Institute of Technology,400 Duane Street Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4808078,-122.23499545
+Redwood City Elementary,North Star Academy,400 Duane St. Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4808078,-122.23499545
+Redwood City Elementary,Orion Alternative,815 Allerton Street Redwood City CA 94063-1360,NA,NA,NA,not tested,Redwood City,San Mateo County,37.49011575,-122.234204847474
+Sequoia Union High,Redwood High,1968 Old County Road Redwood City CA 94063-1073,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.4943089,-122.2442135
+Belmont-Redwood Shores Elementary,Redwood Shores Elementary,225 Shearwater Parkway Redwood City CA 94065-7449,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.5433285,-122.2462674
+Redwood City Elementary,Roy Cloud Elementary,3790 Red Oak Way Redwood City CA 94061-1133,NA,NA,NA,not tested,Redwood City,San Mateo County,37.4589434,-122.2560516
+San Mateo County ROP,San Mateo County ROP,101 Twin Dolphin Drive Redwood City CA 94065-1064,NA,NA,NA,not tested,Redwood City,San Mateo County,37.5257965,-122.263051241603
+San Mateo County Office of Education,San Mateo County Special Education,101 Twin Dolphin Dr Redwood City CA 94065-1064,NA,NA,NA,not tested,Redwood City,San Mateo County,37.5257965,-122.263051241603
+Belmont-Redwood Shores Elementary,Sandpiper Elementary,801 Redwood Shores Parkway Redwood City CA 94065-2279,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.530382,-122.24563
+Sequoia Union High,Sequoia High,1201 Brewster Avenue Redwood City CA 94062-1378,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.48287815,-122.236770310149
+Sequoia Union High,Summit Preparatory Charter High,890 Broadway Redwood City CA 94063-3105,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.4867378,-122.21018215

@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alameda County Office of Education,Alameda County Community,313 West Winton Avenue Hayward CA 94544-1136,NA,NA,NA,not tested,Hayward,Alameda County,37.6582036357633,-122.097208738841
+Alameda County Office of Education,Alameda County Juvenile Hall/Court,2500 Fairmont Avenue San Leandro CA 94578-1005,NA,NA,NA,not tested,NA,NA,NA,NA
+Alameda County Office of Education,Burke Academy,612 West A Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6660715560796,-122.111167647648
+Alameda County Office of Education,Community School for Creative Education,2111 International Boulevard Oakland CA 94606-4903,NA,NA,FALSE,tested,Oakland,Alameda County,37.78501547203,-122.238761251892
+Alameda County Office of Education,Cox Academy,9860 Sunnyside St Oakland CA 94603-2750,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
+Alameda County Office of Education,Envision Academy for Arts & Technology,1515 Webster Street Oakland CA 94612-3355,NA,NA,FALSE,tested,Oakland,Alameda County,37.8045567263168,-122.268201447303
+Alameda County Office of Education,Lazear Charter Academy,824 29th Avenue Oakland CA 94601-2205,NA,NA,FALSE,tested,Oakland,Alameda County,37.7754618023055,-122.232648231622
+Alameda County Office of Education,Oakland Unity Middle,6038 Brann Street Oakland CA 94605-1544,NA,NA,FALSE,tested,Oakland,Alameda County,37.77327,-122.184973
+Alameda County Office of Education,Urban Montessori Charter,5328 Brann Street Oakland CA 94619-3312,NA,NA,FALSE,tested,Oakland,Alameda County,37.7785115757576,-122.190238353535
+Alameda County Office of Education,Yu Ming Charter,1086 Alcatraz Avenue Oakland CA 94608-1265,NA,NA,FALSE,tested,Oakland,Alameda County,37.8469338,-122.2850706
+Alameda County Office of Education,Yu Ming Charter MLK Campus,675 41st St Oakland CA 94609,NA,NA,FALSE,tested,NA,Alameda County,37.8304871020408,-122.268096387755

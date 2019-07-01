@@ -1,0 +1,50 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Chula Vista Elementary,Allen (Ella B.) Elementary,4300 Allen School Road Bonita CA 91902-2309,6,ppb,TRUE,tested,Chula Vista,San Diego County,32.658951,-117.034477
+Chula Vista Elementary,Arroyo Vista Charter,2491 School House Road Chula Vista CA 91915-2534,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6386973,-116.9534647
+Chula Vista Elementary,Bayfront Charter High School,830 Bay Boulevard  Chula Vista CA 91911,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.617184,-117.09274
+Chula Vista Elementary,Camarena (Enrique S.) Elementary,1650 Exploration Falls Drive Chula Vista CA 91915-1961,NA,NA,NA,not tested,Chula Vista,San Diego County,32.622847,-116.958245
+Chula Vista Elementary,Casillas (Joseph) Elementary,1130 East J Street Chula Vista CA 91910-7164,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6299619148379,-117.010853745854
+Chula Vista Elementary,Castle Park Elementary,25 Emerson Street Chula Vista CA 91910-3309,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.615009125,-117.057331275
+Chula Vista Elementary,Chula Vista Hills Elementary,980 Buena Vista Way Chula Vista CA 91910-7133,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6369104919512,-117.002981818245
+Chula Vista Elementary,Chula Vista Learning Community Charter,590 K Street Chula Vista CA 91911-1118,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6210676129897,-117.083452417193
+Chula Vista Elementary,Clear View,455 Windrose Way Chula Vista CA 91910-7400,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6446456928681,-117.045022909682
+Chula Vista Elementary,Cook (Hazel Goes) Elementary,875 Cuyamaca Avenue Chula Vista CA 91911-1501,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6262118223713,-117.056271880903
+Chula Vista Elementary,Discovery Charter,1100 Camino Biscay Chula Vista CA 91910-7737,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.641995,-117.013665
+Chula Vista Elementary,EastLake Elementary,1955 Hillside Drive Chula Vista CA 91913-1263,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6574921814847,-116.98281122224
+Chula Vista Elementary,Feaster (Mae L.) Charter,670 Flower Street Chula Vista CA 91910-1327,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6423118346041,-117.097073078886
+Chula Vista Elementary,Finney (Myrtle S.) Elementary,3950 Byrd Street San Diego CA 92154-1799,NA,NA,FALSE,tested,San Diego,San Diego County,32.585131,-117.048401
+Chula Vista Elementary,Halecrest Elementary,475 East J Street Chula Vista CA 91910-6499,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6345406995236,-117.042709534988
+Chula Vista Elementary,Harborside Elementary,681 Naples Street Chula Vista CA 91911-1619,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.610552,-117.080313
+Chula Vista Elementary,Hedenkamp (Anne and William) Elementary,930 East Palomar Chula Vista CA 91913-2895,NA,NA,FALSE,tested,NA,NA,NA,NA
+Chula Vista Elementary,Heritage Elementary,1450 Santa Lucia Road Chula Vista CA 91913-1480,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6298554117647,-116.992815647059
+Chula Vista Elementary,Hilltop Drive Elementary,30 Murray Street Chula Vista CA 91910-6020,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6318819529881,-117.065290117245
+Chula Vista Elementary,Howard Gardner Community Charter,647 E Street Chula Vista CA 91910-2119,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.641121,-117.09545
+Chula Vista Elementary,Juarez-Lincoln Elementary,849 Twining Avenue San Diego CA 92154-2599,NA,NA,FALSE,tested,San Diego,San Diego County,32.58074,-117.04418
+Chula Vista Elementary,Kellogg (Karl H.) Elementary,229 East Naples Street Chula Vista CA 91911-2399,7.5,ppb,TRUE,tested,Chula Vista,San Diego County,32.623978,-117.032089
+Chula Vista Elementary,Lauderbach (J. Calvin) Elementary,390 Palomar Street Chula Vista CA 91911-3182,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.60620832,-117.06879796
+Chula Vista Elementary,Learning Choice Academy – Chula Vista Resource Center,881 Kuhn Drive Suite 106 Chula Vista CA 94914,NA,NA,FALSE,tested,NA,NA,NA,NA
+Chula Vista Elementary,Leonardo da Vinci Health Sciences Charter,229 East Naples Chula Vista CA 91911-2332,NA,NA,NA,not tested,Chula Vista,San Diego County,32.623978,-117.032089
+Chula Vista Elementary,Liberty Elementary,2175 Proctor Valley Road Chula Vista CA 91914-4026,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.662275,-116.9482891
+Chula Vista Elementary,Loma Verde Elementary,1450 Loma Lane Chula Vista CA 91911-5310,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6011857337619,-117.04892699026
+Chula Vista Elementary,Los Altos Elementary,1332 Kenalan Drive San Diego CA 92154-3731,NA,NA,FALSE,tested,San Diego,San Diego County,32.57258982324,-117.048929868625
+Chula Vista Elementary,Marshall (Thurgood) Elementary,2295 MacKenzie Creek Road Chula Vista CA 91914-3537,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6586313174641,-116.966371927444
+Chula Vista Elementary,McMillin (Corky) Elementary,1201 Santa Cora Avenue Chula Vista CA 91913-1799,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.631836,-116.985261
+Chula Vista Elementary,Montgomery (John J.) Elementary,1601 Fourth Avenue Chula Vista CA 91911-5799,NA,NA,FALSE,tested,NA,NA,NA,NA
+Chula Vista Elementary,Mueller Charter (Robert L.),715 I Street Chula Vista CA 91910-5112,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6262449334741,-117.092894650138
+Chula Vista Elementary,Olympic View Elementary,1220 South Greensview Drive Chula Vista CA 91915-2127,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6378405,-116.965196
+Chula Vista Elementary,Otay Elementary,1651 Albany Avenue Chula Vista CA 91911-5801,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.597535469405,-117.05820281117
+Chula Vista Elementary,Palomar Elementary,300 East Palomar Street Chula Vista CA 91911-3799,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.613974,-117.041951
+Chula Vista Elementary,Parkview Elementary,575 Juniper Street Chula Vista CA 91911-3826,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6130004956672,-117.031207881164
+Chula Vista Elementary,Rice (Lilian J.) Elementary,915 Fourth Avenue Chula Vista CA 91911-2098,NA,NA,FALSE,tested,NA,NA,NA,NA
+Chula Vista Elementary,Rogers (Greg) Elementary,510 East Naples Street Chula Vista CA 91911-2519,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.623978,-117.032089
+Chula Vista Elementary,Rohr (Fred H.) Elementary,1540 Malta Avenue Chula Vista CA 91911-5999,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.602433,-117.040581
+Chula Vista Elementary,Rosebank Elementary,80 Flower Street Chula Vista CA 91911-1997,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6436299,-117.0921018
+Chula Vista Elementary,Salt Creek Elementary,1055 Hunte Parkway Chula Vista CA 91914-3622,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6477134,-116.9486797
+Chula Vista Elementary,Silver Wing Elementary,3730 Arey Drive San Diego CA 92154-2422,NA,NA,FALSE,tested,San Diego,San Diego County,32.579792,-117.052581
+Chula Vista Elementary,Sunnyside Elementary,5430 San Miguel Road Bonita CA 91902-2209,9,ppb,TRUE,tested,NA,NA,NA,NA
+Chula Vista Elementary,Tiffany (Burton C.) Elementary,1691 Elmhurst Street Chula Vista CA 91913-2612,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6445088054993,-116.993032005448
+Chula Vista Elementary,Valle Lindo Elementary,1515 Oleander Avenue Chula Vista CA 91911-5699,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6049090193139,-117.032717688969
+Chula Vista Elementary,Valley Vista Elementary,3724 Valley Vista Way Bonita CA 91902-1139,11,ppb,TRUE,tested,NA,San Diego County,32.6596913815669,-117.049093611856
+Chula Vista Elementary,Veterans Elementary,1550 Magdalena Avenue Chula Vista CA 91913-3948,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.62434,-116.977637
+Chula Vista Elementary,Vista Square Elementary,540 G Street Chula Vista CA 91910-3604,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6350257342819,-117.088268321333
+Chula Vista Elementary,Wolf Canyon Elementary,1950 Wolf Canyon Loop Chula Vista CA 91913-3948,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.611599,-116.974779

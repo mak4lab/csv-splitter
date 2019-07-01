@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Gabriel Unified,Coolidge Elementary,421 North Mission Drive San Gabriel CA 91775-2731,11.6,ppb,TRUE,tested,NA,NA,NA,NA
+San Gabriel Unified,Del Mar High,312 South Del Mar Avenue San Gabriel CA 91776-1356,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Gabriel Unified,Gabrielino High,1327 South San Gabriel Boulevard San Gabriel CA 91776-3308,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.0840180665736,-118.09086154759
+San Gabriel Unified,Jefferson Middle,1372 East Las Tunas Drive San Gabriel CA 91776-1791,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.1034686,-118.0812706
+San Gabriel Unified,Options for Youth San Gabriel,405 South San Gabriel Boulevard Suite A San Gabriel CA 91776-1966,NA,NA,NA,not tested,NA,NA,NA,NA
+San Gabriel Unified,Wilson Elementary,8317 East Sheffield Road San Gabriel CA 91775-1799,NA,NA,FALSE,tested,NA,NA,NA,NA

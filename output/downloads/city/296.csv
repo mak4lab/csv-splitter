@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Selma Unified,Abraham Lincoln Middle,1239 Nelson Boulevard Selma CA 93662-4112,NA,NA,FALSE,tested,Selma,Fresno County,36.5838525652174,-119.600500869565
+Selma Unified,Andrew Jackson Elementary,2220 Huntsman Avenue Selma CA 93662-2422,NA,NA,FALSE,tested,Selma,Fresno County,36.5835526915413,-119.614279721343
+Selma Unified,Eric White Elementary,2001 Mitchell Selma CA 93662-9601,NA,NA,FALSE,tested,Selma,Fresno County,36.561768,-119.624356
+Selma Unified,Hearland Alternative School,2269 Sylvia Street Selma CA 93662-3436,NA,NA,NA,not tested,Selma,Fresno County,36.5696121912909,-119.619009185364
+Selma Unified,Heartland High (Continuation),2269 Sylvia St Selma CA 93662-3488,NA,NA,FALSE,tested,Selma,Fresno County,36.5696121912909,-119.619009185364
+Selma Unified,James Garfield Elementary,2535 B Street Selma CA 93662-3108,NA,NA,FALSE,tested,Selma,Fresno County,36.5710718370399,-119.608623971605
+Selma Unified,Selma High,3125 Wright St Selma CA 93662-2429,8.3,ppb,TRUE,tested,Selma,Fresno County,36.5811902347223,-119.615020769921
+Selma Unified,Theodore Roosevelt Elementary,1802 Floral Avenue Selma CA 93662-2808,NA,NA,FALSE,tested,Selma,Fresno County,36.5762791083407,-119.608647142758
+Selma Unified,Woodrow Wilson Elementary,1325 Stillman Street Selma CA 93662-3221,NA,NA,FALSE,tested,Selma,Fresno County,36.5723969417063,-119.602489977736

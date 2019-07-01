@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,NA,NA,FALSE,tested,Alturas,Modoc County,41.4908952624821,-120.557703580067
+Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,NA,NA,FALSE,tested,Alturas,Modoc County,41.4910993877551,-120.539912285714
+Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,NA,NA,FALSE,tested,Alturas,Modoc County,41.488601,-120.542501
+Surprise Valley Joint Unified,Surprise Valley Elementary,790 High Street Cedarville CA 96104,NA,NA,FALSE,tested,NA,Modoc County,41.5323345242258,-120.17517891303
+Surprise Valley Joint Unified,Surprise Valley High,470 Lincoln Street Cedarville CA 96104,NA,NA,FALSE,tested,NA,Modoc County,41.5272288163265,-120.178364602041

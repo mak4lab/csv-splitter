@@ -1,0 +1,32 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Manteca Unified,August Knodt Elementary,3939 EWS Woods Boulevard Stockton CA 95206-5231,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9061770389051,-121.303873088501
+Manteca Unified,be.tech,2271 West Louise Ave Manteca CA 95337-8381,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8124828,-121.256742175
+Manteca Unified,Brock Elliott Elementary,1110 Stonum Lane Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7856437346939,-121.239753714286
+Manteca Unified,Calla High,130 South Austin Road Manteca CA 95336-9710,NA,NA,NA,not tested,Manteca,San Joaquin County,37.7743376,-121.1792834
+Manteca Unified,East Union High,1700 North Union Road Manteca CA 95336-9217,NA,NA,NA,not tested,Manteca,San Joaquin County,37.82307,-121.235662
+Manteca Unified,French Camp Elementary,241 East Fourth Street French Camp CA 95231-9672,NA,NA,FALSE,tested,NA,NA,NA,NA
+Manteca Unified,George McParland Annex,1370 London Ave Manteca CA 95366,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8188273353497,-121.244568670909
+Manteca Unified,George McParland Elementary,1601 Northgate Drive Manteca CA 95336-6255,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.820393972973,-121.243567243243
+Manteca Unified,George Y. Komure Elementary,2121 Henry Long Boulevard Stockton CA 95206-6166,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.90414145,-121.31855629987
+Manteca Unified,Golden West Elementary,1031 North Main Street Manteca CA 95336-3207,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8112879883243,-121.21716672297
+Manteca Unified,Great Valley Annex Elementary,4550 Star Way Stockton CA 95206,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.904536,-121.298239
+Manteca Unified,Great Valley Elementary,4223 McDougald Boulevard Stockton CA 95206-6237,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.906231,-121.295494
+Manteca Unified,"Joseph Widmer, Jr., Elementary",751 Stonebridge Lane Lathrop CA 95330-8928,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.83762,-121.280408421081
+Manteca Unified,Joshua Cowell Elementary,740 Pestana Avenue Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.807386,-121.1891717
+Manteca Unified,Lathrop Elementary,15851 South Fifth Street Lathrop CA 95330-0160,NA,NA,NA,not tested,NA,NA,NA,NA
+Manteca Unified,Lathrop High,647 West Lathrop Road Lathrop CA 95330-9770,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.8263086,-121.2857326
+Manteca Unified,Lincoln Elementary,750 East Yosemite Avenue Manteca CA 95336-5827,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7973528571429,-121.206918857143
+Manteca Unified,Manteca Adult,2271 West Louise Avenue Manteca CA 95337,NA,NA,NA,not tested,Manteca,San Joaquin County,37.8124828,-121.256742175
+Manteca Unified,Manteca Community Day (7-12),737 West Yosemite Avenue Manteca CA 95337-5403,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797499,-121.226223666667
+Manteca Unified,Manteca Community Day (K-6),737 West Yosemite Avenue Manteca CA 95337-5403,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797499,-121.226223666667
+Manteca Unified,Manteca High,450 East Yosemite Avenue Manteca CA 95336-5718,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797339,-121.211058
+Manteca Unified,Mossdale Elementary,455 Brookhurst Boulevard Lathrop CA 95330-8688,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.80195315,-121.306306580197
+Manteca Unified,Neil Hafley Elementary,849 Northgate Avenue Manteca CA 95336-2721,NA,NA,FALSE,tested,NA,NA,NA,NA
+Manteca Unified,New Vision High,4726 McCuen Avenue Stockton CA 95206-6397,7.9,ppb,TRUE,tested,Stockton,San Joaquin County,37.89811275,-121.307969036536
+Manteca Unified,Sequoia Elementary,710 Martha Street Manteca CA 95337-5430,7.5,ppb,TRUE,tested,Manteca,San Joaquin County,37.7910986666667,-121.224973555556
+Manteca Unified,Shasta Elementary,751 East Edison Street Manteca CA 95336-3803,NA,NA,FALSE,tested,NA,NA,NA,NA
+Manteca Unified,Sierra High,1700 Thomas Street Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.793619,-121.24646
+Manteca Unified,Stella Brockman Elementary,763 Silverado Drive Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.8094113333333,-121.245440666667
+Manteca Unified,Veritas Elementary,1600 Pagola Street Manteca CA 95337-8603,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7744779,-121.230803
+Manteca Unified,Walter Woodward Elementary,575 Tannehill Drive Manteca CA 95337-8709,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.7694658332224,-121.208538237193
+Manteca Unified,Weston Ranch High,4606 McCuen Avenue Stockton CA 95206-6388,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9016679,-121.30707460187

@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Azusa Unified,Alice M. Ellington Elementary,5034 North Clydebank Covina CA 91722-1115,NA,NA,FALSE,tested,NA,NA,NA,NA
+Azusa Unified,Azusa High,240 North Cerritos Avenue Azusa CA 91702-3733,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.1242608,-117.89783576576
+Azusa Unified,Center Middle,5500 North Cerritos Avenue Azusa CA 91702-5731,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.1130026111111,-117.898814666667
+Azusa Unified,Charles H. Lee Elementary,550 North Cerritos Avenue Azusa CA 91702-3013,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.1309773333333,-117.900134227273
+Azusa Unified,Clifford D. Murray Elementary,505 East Renwick Road Azusa CA 91702-5664,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.1109651434526,-117.902117909
+Azusa Unified,Foothill Middle,151 North Fenimore Avenue Azusa CA 91702-3921,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.123352821032,-117.89334289063
+Azusa Unified,Gladstone High,1340 North Enid Covina CA 91722-1214,NA,NA,FALSE,tested,Covina,Los Angeles County,34.091794,-117.9144782
+Azusa Unified,Gladstone Street Elementary,1040 East Gladstone Street Azusa CA 91702-4837,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.114302244898,-117.886457081633
+Azusa Unified,Henry Dalton Elementary,500 East 10th Street Azusa CA 91702-2417,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.138918,-117.90223400000001
+Azusa Unified,Longfellow,245 West 10th Street Azusa CA 91702-2310,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.1391198333333,-117.909241916667
+Azusa Unified,Magnolia Elementary,945 East Nearfield Azusa CA 91702-4752,NA,NA,FALSE,tested,NA,NA,NA,NA
+Azusa Unified,Mountain View Elementary,201 North Vernon Avenue Azusa CA 91702-4335,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.125835,-117.916213
+Azusa Unified,Paramount Elementary,409 West Paramount Street Azusa CA 91702-4423,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.118102,-117.912043
+Azusa Unified,Sierra High,1134 South Barranca rd Glendora CA 91740-4916,NA,NA,FALSE,tested,NA,NA,NA,NA
+Azusa Unified,Slauson Intermediate,340 West Fifth Street Azusa CA 91702-2912,NA,NA,FALSE,tested,NA,NA,NA,NA
+Azusa Unified,Valleydale Elementary,700 South Lark Ellen Azusa CA 91702-5499,7.4,ppb,TRUE,tested,Azusa,Los Angeles County,34.108393,-117.916439
+Azusa Unified,Victor F. Hodge Elementary,700 West 11th Street Azusa CA 91702-1909,NA,NA,FALSE,tested,Azusa,Los Angeles County,34.140799,-117.915105
+Azusa Unified,W. R. Powell Elementary,1035 East Mauna Loa Azusa CA 91702-4025,NA,NA,FALSE,tested,NA,NA,NA,NA

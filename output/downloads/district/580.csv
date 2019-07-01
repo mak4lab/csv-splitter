@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Piedmont City Unified,Beach Elementary,100 Lake Ave Piedmont CA 94611-4340,NA,NA,FALSE,tested,NA,Alameda County,37.82398955,-122.246413579084
+Piedmont City Unified,Havens Elementary,323 Highland Avenue Piedmont CA 94611-4023,NA,NA,FALSE,tested,NA,Alameda County,37.8252126,-122.23322857236
+Piedmont City Unified,Millennium High Alternative,760 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,FALSE,tested,NA,Alameda County,37.8229051,-122.2336783
+Piedmont City Unified,Piedmont Adult Education,800 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,FALSE,tested,NA,Alameda County,37.8231652,-122.23308181336
+Piedmont City Unified,Piedmont High,800 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,NA,not tested,NA,Alameda County,37.8231652,-122.23308181336
+Piedmont City Unified,Piedmont Middle,740 Magnolia Avenue Piedmont CA 94611-4047,NA,NA,FALSE,tested,NA,Alameda County,37.82269795,-122.234672518989
+Piedmont City Unified,Piedmont Preschool,760 Magnolia Avenue Piedmont CA 94611-4047,NA,NA,NA,not tested,NA,Alameda County,37.8229051,-122.2336783
+Piedmont City Unified,Wildwood Elementary,301 Wildwood Ave Piedmont CA 94611-3817,NA,NA,FALSE,tested,NA,Alameda County,37.8198037,-122.23526602559

@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Victor Valley Union High,Adelanto High,15620 Joshua Street Adelanto CA 92392-5600,NA,NA,FALSE,tested,NA,San Bernardino County,34.600268,-117.448553
+Victor Valley Union High,Cobalt Institute of Math and Science Academy,13801 Cobalt Road Victorville CA 92392-9373,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5010412307692,-117.372980923077
+Victor Valley Union High,Excelsior Charter,18422 Bear Valley Road Building 11 Victorville CA 92395-5850,NA,NA,NA,not tested,NA,NA,NA,NA
+Victor Valley Union High,Goodwill High,16350 Mojave Drive Victorville CA 92395-3655,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5290896967165,-117.306241591848
+Victor Valley Union High,Imogene Garner Hook Junior High,15000 Hook Boulevard Victorville CA 92394-2121,NA,NA,NA,not tested,Victorville,San Bernardino County,34.521423,-117.339662
+Victor Valley Union High,Lakeview Leadership Academy,12484 Tamarisk Road Victorville CA 92395-5101,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4779377438705,-117.272897288108
+Victor Valley Union High,Options for Youth-Victorville Charter,15048 Bear Valley Road Victorville CA 92392-9235,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4707327,-117.3123244
+Victor Valley Union High,Silverado High,14048 Cobalt Road Victorville CA 92392-9316,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5060073627154,-117.373222123762
+Victor Valley Union High,University Preparatory,13853 Seneca Rd Victorville CA 92392-9339,6.7,ppb,TRUE,tested,Victorville,San Bernardino County,34.5139800876771,-117.360712469309
+Victor Valley Union High,Victor Valley High,16500 Mojave Drive Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5291032499758,-117.303687368973
+Victor Valley Union High,Victor Valley Union High,12484 Tamarisk Victorville CA 92395,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4779377438705,-117.272897288108

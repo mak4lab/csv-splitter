@@ -1,0 +1,31 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rialto Unified,Bemis Elementary,774 East Etiwanda Avenue Rialto CA 92376-4508,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1141721366329,-117.356009750431
+Rialto Unified,"Bloomington Christian School, East Campus",955 S. Bloomington Ave. Bloomington CA 92316,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0769077477621,-117.388616750195
+Rialto Unified,Boyd Elementary,310 East Merrill Street Rialto CA 92376-6536,NA,NA,NA,not tested,NA,NA,NA,NA
+Rialto Unified,Casey Elementary,219 North Eucalyptus Avenue Rialto CA 92376-6025,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1021447645659,-117.357180616923
+Rialto Unified,Charlotte N. Werner Elementary,1050 West Rialto Avenue Rialto CA 92376-9007,NA,NA,NA,not tested,Rialto,San Bernardino County,34.099592,-117.391440758077
+Rialto Unified,Dunn Elementary,830 North Lilac Avenue Rialto CA 92376-4098,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1147122514701,-117.37926463897401
+Rialto Unified,Edward Fitzgerald Elementary,2568 West Terra Vista Drive Rialto CA 92377-3698,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1666168507865,-117.42569014397
+Rialto Unified,Eisenhower Senior High,1321 North Lilac Avenue Rialto CA 92376-3201,6.050000000000001,ppb,TRUE,tested,Rialto,San Bernardino County,34.1246647152014,-117.379088539072
+Rialto Unified,Elizabeth T. Hughbanks Elementary,2241 North Apple Avenue Rialto CA 92377-4615,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.14177525,-117.378987128447
+Rialto Unified,Ethel Kucera Middle,2140 West Buena Vista Drive Rialto CA 92377-4837,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1613975643436,-117.41523173387
+Rialto Unified,Frisbie Middle,1442 North Eucalyptus Avenue Rialto CA 92376-2913,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.125884009016,-117.357450668571
+Rialto Unified,Georgia Morris Elementary,1900 West Randall Avenue Colton CA 92324-6642,NA,NA,FALSE,tested,Colton,San Bernardino County,34.084928,-117.359718
+Rialto Unified,Helen L. Dollahan Elementary,1060 West Etiwanda Avenue Rialto CA 92376-4769,NA,NA,NA,not tested,Rialto,San Bernardino County,34.114126885578,-117.391431991666
+Rialto Unified,Henry Elementary,470 East Etiwanda Avenue Rialto CA 92376-4446,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1141641764255,-117.362261467524
+Rialto Unified,Kelley Elementary,380 South Meridian Avenue Rialto CA 92376-6713,10.5,ppb,TRUE,tested,NA,NA,NA,NA
+Rialto Unified,Kolb Middle,2351 North Spruce Street Rialto CA 92377-4505,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rialto Unified,Milor Continuation High,266 West Randall Rialto CA 92376-6926,NA,NA,NA,not tested,NA,NA,NA,NA
+Rialto Unified,Morgan Elementary,1571 North Sycamore Avenue Rialto CA 92376-3665,5.7,ppb,TRUE,tested,Rialto,San Bernardino County,34.1282025712393,-117.365993593985
+Rialto Unified,Myers Elementary,975 North Meridian Avenue Rialto CA 92376-3771,NA,NA,NA,not tested,Rialto,San Bernardino County,34.1179200769231,-117.348494538462
+Rialto Unified,Nancy R. Kordyak Elementary,4580 Mango Avenue Fontana CA 92336-4700,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.17055525,-117.435117453672
+Rialto Unified,Preston Elementary,1750 North Willow Avenue Rialto CA 92376-2758,5.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.1317790214711,-117.37497
+Rialto Unified,Rialto Alternative (Adult) Education,324 North Palm Avenue Unit G-1 Rialto CA 92376-5828,NA,NA,NA,not tested,NA,NA,NA,NA
+Rialto Unified,Rialto High,595 South Eucalyptus Avenue Rialto CA 92376-7207,11,ppb,TRUE,tested,Rialto,San Bernardino County,34.0955501,-117.3572894
+Rialto Unified,Rialto Middle,1262 West Rialto Avenue Rialto CA 92376-5828,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0995850539492,-117.395747726027
+Rialto Unified,Sam V. Curtis Elementary,451 South Lilac Avenue Rialto CA 92376-2016,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0933817581737,-117.378968382126
+Rialto Unified,Samuel W. Simpson Elementary,1050 South Lilac Avenue Rialto CA 92376-7826,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0823676703375,-117.379124998774
+Rialto Unified,Trapp Elementary,2750 North Riverside Avenue Rialto CA 92377-3983,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1423986,-117.3769814
+Rialto Unified,William G. Jehue Middle,1500 North Eucalyptus Avenue Colton CA 92324-6650,21,ppb,TRUE,tested,Colton,San Bernardino County,34.0847585245902,-117.357142393443
+Rialto Unified,Wilmer Amina Carter High,2630 North Linden Avenue Rialto CA 92377-8446,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1465737,-117.403231725496
+Rialto Unified,Zupanic High,266 West Randall Avenue Rialto CA 92376-6926,NA,NA,NA,not tested,Rialto,San Bernardino County,34.0851207094268,-117.366681673377

@@ -1,0 +1,78 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Juan Unified,Albert Schweitzer Elementary,4350 Glenridge Drive Carmichael CA 95608-2043,NA,NA,FALSE,tested,NA,Sacramento County,38.6425584208075,-121.300276287382
+San Juan Unified,Andrew Carnegie Middle,5820 Illinois Avenue Orangevale CA 95662-4418,NA,NA,FALSE,tested,NA,Sacramento County,38.6727144761905,-121.234895
+San Juan Unified,Arcade Fundamental Middle,3500 Edison Avenue Sacramento CA 95821-2710,NA,NA,NA,not tested,NA,Sacramento County,38.634023,-121.382758
+San Juan Unified,Arden Middle,1640 Watt Avenue Sacramento CA 95864-2964,NA,NA,FALSE,tested,NA,Sacramento County,38.5943848,-121.381668092777
+San Juan Unified,Arlington Heights Elementary,6401 Trenton Way Citrus Heights CA 95621-4821,6.3,ppb,TRUE,tested,Citrus Heights,Sacramento County,38.6852414134505,-121.315988133986
+San Juan Unified,Aspire Alexander Twilight College Preparatory Academy,2360 El Camino Avenue Sacramento CA 95821-5611,NA,NA,NA,not tested,NA,Sacramento County,38.6106381666667,-121.408233541667
+San Juan Unified,Aspire Alexander Twilight Secondary Academy,2360 El Camino Ave Sacramento CA 95821-5611,NA,NA,NA,not tested,NA,Sacramento County,38.6106381666667,-121.408233541667
+San Juan Unified,Bella Vista High,8301 Madison Avenue Fair Oaks CA 95628-3823,NA,NA,FALSE,tested,NA,Sacramento County,38.663896,-121.2572873
+San Juan Unified,California Montessori Project-San Juan Campus,5330A Gibbons Drive Suite 700 Carmichael CA 95608-2117,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Juan Unified,Cambridge Heights Elementary,5555 Fleetwood Drive Citrus Heights CA 95621-7313,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.6662925,-121.2952281
+San Juan Unified,Cameron Ranch Elementary,4333 Hackberry Lane Carmichael CA 95608-1329,NA,NA,NA,not tested,NA,Sacramento County,38.6432501320755,-121.332187679245
+San Juan Unified,Carmichael Elementary,6141 Sutter Avenue Carmichael CA 95608-2799,6.449999999999999,ppb,TRUE,tested,NA,Sacramento County,38.6332543265306,-121.323179163265
+San Juan Unified,Carriage Drive Elementary,7519 Carriage Drive Citrus Heights CA 95621-2000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.70251255,-121.295789054491
+San Juan Unified,Casa Roble Fundamental High,9151 Oak Avenue Orangevale CA 95662-2730,NA,NA,FALSE,tested,NA,Sacramento County,38.700187,-121.21316325
+San Juan Unified,Charles Peck Elementary,6230 Rutland Drive Carmichael CA 95608-0721,NA,NA,NA,not tested,NA,NA,NA,NA
+San Juan Unified,Cottage Elementary,2221 Morse Avenue Sacramento CA 95825-7829,NA,NA,NA,not tested,NA,Sacramento County,38.6057383333333,-121.392345666667
+San Juan Unified,Coyle Avenue Elementary,6330 Coyle Avenue Carmichael CA 95608-0439,NA,NA,NA,not tested,NA,NA,NA,NA
+San Juan Unified,Del Campo High,4925 Dewey Dr. Fair Oaks CA 95628-4402,NA,NA,FALSE,tested,NA,Sacramento County,38.6550882307692,-121.308407538462
+San Juan Unified,Del Dayo Elementary,1301 McClaren Drive Carmichael CA 95608-6119,NA,NA,NA,not tested,NA,Sacramento County,38.587997,-121.337683
+San Juan Unified,Del Paso Manor Elementary,2700 Maryal Drive Sacramento CA 95821-6621,NA,NA,FALSE,tested,NA,Sacramento County,38.612711,-121.369335
+San Juan Unified,Dyer-Kelly Elementary,2236 Edison Avenue Sacramento CA 95821-1607,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6227100294118,-121.412421441176
+San Juan Unified,Earl Legette Elementary,4623 Kenneth Avenue Fair Oaks CA 95628-6242,NA,NA,FALSE,tested,NA,Sacramento County,38.649454,-121.244259142857
+San Juan Unified,El Camino Fundamental High,4300 El Camino Avenue Sacramento CA 95821-6702,NA,NA,FALSE,tested,NA,Sacramento County,38.610152,-121.364387
+San Juan Unified,El Sereno Alternative Education,10700 Fair Oaks Boulevard Fair Oaks CA 95628-7213,5.3,ppb,TRUE,tested,Citrus Heights,Sacramento County,38.644918,-121.264116
+San Juan Unified,Encina Preparatory High,1400 Bell Street Sacramento CA 95825-2303,NA,NA,FALSE,tested,NA,Sacramento County,38.590769,-121.410613
+San Juan Unified,Gateway International,900 Morse Avenue Sacramento CA 95864-7710,NA,NA,FALSE,tested,NA,Sacramento County,38.581499,-121.392142
+San Juan Unified,"General Davie, Jr. Primary Center",1500 Dom Way Sacramento CA 95864-2705,NA,NA,FALSE,tested,NA,Sacramento County,38.5920447972973,-121.389125324324
+San Juan Unified,Gold River Discovery Center K-8,2200 Roaring Camp Drive Gold River CA 95670-7677,7.6,ppb,TRUE,tested,NA,Sacramento County,38.624404,-121.245613
+San Juan Unified,Golden Valley Orchard,6550 Filbert Avenue Orangeville CA 95662-4112,7.1,ppb,TRUE,tested,NA,NA,NA,NA
+San Juan Unified,Golden Valley River,9601 Lake Natoma Drive Orangevale CA 95662-5022,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Juan Unified,Grand Oaks Elementary,7901 Rosswood Drive Citrus Heights CA 95621-1246,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.7102180806137,-121.300523202123
+San Juan Unified,Green Oaks Fundamental Elementary,7145 Filbert Avenue Orangevale CA 95662-2716,NA,NA,FALSE,tested,NA,Sacramento County,38.697123,-121.215772
+San Juan Unified,Greer Elementary,2301 Hurley Way Sacramento CA 95825-3516,NA,NA,FALSE,tested,NA,Sacramento County,38.588915,-121.410565
+San Juan Unified,Harry Dewey Fundamental Elementary,7025 Falcon Road Fair Oaks CA 95628-4515,NA,NA,FALSE,tested,NA,Sacramento County,38.6531167959184,-121.299692346939
+San Juan Unified,Howe Avenue Elementary,2404 Howe Avenue Sacramento CA 95825-0132,NA,NA,NA,not tested,NA,Sacramento County,38.608256,-121.415158
+San Juan Unified,James R. Cowan Fundamental Elementary,3350 Becerra Way Sacramento CA 95821-3706,NA,NA,NA,not tested,NA,Sacramento County,38.6257189,-121.372568553264
+San Juan Unified,John Barrett Middle,4243 Barrett Road Carmichael CA 95608-2463,NA,NA,FALSE,tested,NA,Sacramento County,38.6415008307667,-121.312772284024
+San Juan Unified,Kingswood K-8,5700 Primrose Drive Citrus Heights CA 95610-7543,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.670662,-121.27839
+San Juan Unified,La Entrada Continuation High,5320 Hemlock Street Sacramento CA 95841-2703,NA,NA,NA,not tested,NA,Sacramento County,38.664332,-121.341165
+San Juan Unified,La Vista Center,4501 Bannister Road Fair Oaks CA 95628-5703,9.3,ppb,TRUE,tested,NA,Sacramento County,38.647859,-121.287772
+San Juan Unified,Laurel Ruff Transition,5325 Garfield Avenue Sacramento CA 95841-3103,NA,NA,NA,not tested,NA,Sacramento County,38.6610545745478,-121.337209282911
+San Juan Unified,Lichen K-8,8319 Lichen Drive Citrus Heights CA 95621-1123,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.7190424081633,-121.305411612245
+San Juan Unified,Louis Pasteur Fundamental Middle,8935 Elm Avenue Orangevale CA 95662-3522,NA,NA,FALSE,tested,NA,Sacramento County,38.6930609552888,-121.223675639341
+San Juan Unified,Mariemont Elementary,1401 Corta Way Sacramento CA 95864-3055,5.3,ppb,TRUE,tested,NA,Sacramento County,38.590835,-121.367028
+San Juan Unified,Mariposa Avenue Elementary,7940 Mariposa Avenue Citrus Heights CA 95610-1513,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.7098696,-121.281073
+San Juan Unified,Marvin Marshall Preschool and Children's Center,5309 Kenneth Avenue Carmichael CA 95608-4716,NA,NA,FALSE,tested,NA,Sacramento County,38.6137517391304,-121.341058130435
+San Juan Unified,Mary Deterding Elementary,6000 Stanley Avenue Carmichael CA 95608-4032,NA,NA,FALSE,tested,NA,Sacramento County,38.622254,-121.32485
+San Juan Unified,Mesa Verde High,7501 Carriage Drive Citrus Heights CA 95621-2000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.70173835,-121.298405867178
+San Juan Unified,Mira Loma High,4000 Edison Avenue Sacramento CA 95821-2825,NA,NA,NA,not tested,NA,Sacramento County,38.6342166868687,-121.372212141414
+San Juan Unified,Mission Avenue Open Elementary,2925 Mission Avenue Carmichael CA 95608-3511,NA,NA,NA,not tested,NA,Sacramento County,38.6178638571429,-121.355369755102
+San Juan Unified,Northridge Elementary,5150 Cocoa Palm Way Fair Oaks CA 95628-3798,NA,NA,FALSE,tested,NA,Sacramento County,38.6590576854918,-121.258012807124
+San Juan Unified,Oakview Community Elementary,7229 Beech Avenue Orangevale CA 95662-2420,NA,NA,FALSE,tested,NA,Sacramento County,38.6969207234043,-121.230116234043
+San Juan Unified,Options for Youth-San Juan,5825 Windmill Way Carmichael CA 95608-1300,NA,NA,NA,not tested,NA,Sacramento County,38.6480434545455,-121.329008767677
+San Juan Unified,Orangevale Open K-8,5630 Illinois Avenue Fair Oaks CA 95628-2948,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Juan Unified,Ottomon Way Elementary,9460 Ottomon Way Orangevale CA 95662-2845,NA,NA,FALSE,tested,NA,Sacramento County,38.69773,-121.202845
+San Juan Unified,Pasadena Avenue Elementary,4330 Pasadena Avenue Sacramento CA 95821-2919,NA,NA,NA,not tested,Sacramento,Sacramento County,38.638242570426,-121.362725686469
+San Juan Unified,Pershing Elementary,9010 Pershing Avenue Orangevale CA 95662-4739,NA,NA,FALSE,tested,NA,Sacramento County,38.6706003333333,-121.221312277778
+San Juan Unified,Ralph Richardson Center,4848 Cottage Way B Carmichael CA 95608-5612,NA,NA,NA,not tested,NA,Sacramento County,38.6028013180561,-121.3531682221
+San Juan Unified,Rio Americano High,4540 American River Drive Sacramento CA 95864-6104,NA,NA,NA,not tested,NA,Sacramento County,38.57850715,-121.354692641748
+San Juan Unified,San Juan Central,3700 Garfield Ave Carmichael CA 95608,6.5,ppb,TRUE,tested,NA,Sacramento County,38.631897,-121.33667
+San Juan Unified,San Juan Choices Charter,4425 Laurelwood Way Sacramento CA 95864-0881,NA,NA,NA,not tested,NA,Sacramento County,38.605472,-121.358792975189
+San Juan Unified,San Juan High,7551 Greenback Lane Citrus Heights CA 95610-5614,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.6783576,-121.2834098
+San Juan Unified,Sierra Oaks K-8,171 Mills Road Sacramento CA 95864-5647,NA,NA,FALSE,tested,NA,Sacramento County,38.56983,-121.393593
+San Juan Unified,Skycrest Elementary,5641 Mariposa Avenue Citrus Heights CA 95610-7441,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.6783472,-121.2847331
+San Juan Unified,Starr King K-8,4848 Cottage Way Carmichael CA 95608-5612,NA,NA,NA,not tested,NA,Sacramento County,38.6028013180561,-121.3531682221
+San Juan Unified,Sunrise Tech Center,7322 Sunrise Boulevard Citrus Heights CA 95610-3000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.699272,-121.2716545
+San Juan Unified,Sylvan Middle,7137 Auburn Boulevard Citrus Heights CA 95610-3824,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.6978956698113,-121.290429471698
+San Juan Unified,Thomas Edison Language Institute K-8,2950 Hurley Way Sacramento CA 95864-3760,NA,NA,NA,not tested,NA,Sacramento County,38.5885685454545,-121.394761909091
+San Juan Unified,Thomas Kelly Elementary,6301 Moraga Drive Carmichael CA 95608-1128,NA,NA,NA,not tested,NA,Sacramento County,38.651862,-121.315816
+San Juan Unified,Trajan Elementary,6601 Trajan Drive Orangevale CA 95662-3220,NA,NA,FALSE,tested,NA,Sacramento County,38.686887,-121.249779
+San Juan Unified,Twin Lakes Elementary,5515 Main Avenue Orangevale CA 95662-5314,NA,NA,FALSE,tested,NA,Sacramento County,38.6794283,-121.2032828
+San Juan Unified,Valley Oaks,3555 Auburn Boulevard Sacramento CA 95821-2005,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6377305454545,-121.381680636364
+San Juan Unified,Visions In Education,5030 El Camino Avenue Carmichael CA 95608-4650,NA,NA,FALSE,tested,NA,Sacramento County,38.6099585,-121.347075363636
+San Juan Unified,Whitney Avenue Elementary,4248 Whitney Avenue Sacramento CA 95821-3253,NA,NA,NA,not tested,NA,Sacramento County,38.6284261020408,-121.365248795918
+San Juan Unified,Will Rogers Middle,4924 Dewey Drive Fair Oaks CA 95628-4403,NA,NA,FALSE,tested,NA,Sacramento County,38.654718,-121.308198
+San Juan Unified,Winston Churchill Middle,4900 Whitney Avenue Carmichael CA 95608-2937,NA,NA,NA,not tested,NA,Sacramento County,38.628209,-121.349812
+San Juan Unified,Woodside K-8,8248 Villa Oak Drive Citrus Heights CA 95610-2616,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.705743125,-121.2542034375

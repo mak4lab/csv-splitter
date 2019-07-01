@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Stanislaus County Office of Education,Great Valley Academy,3200 Tully Road Modesto CA 95350-0811,5.2,ppb,TRUE,tested,Modesto,Stanislaus County,37.684189,-121.012328
+Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.496501,-120.876183
+Stanislaus County Office of Education,Petersen Alternative Center for Education,2209 Blue Gum Avenue Modesto CA 95358-1052,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.660523,-121.040449
+Stanislaus County Office of Education,Valley Charter High,108 Campus Way Modesto CA 95350-5803,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6472166326531,-121.010612938776

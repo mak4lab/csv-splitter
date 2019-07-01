@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Golden Plains Unified,Cantua Elementary,29288 West Clarkson Cantua Creek CA 93608,NA,NA,NA,not tested,NA,NA,NA,NA
+Golden Plains Unified,Helm Elementary,13883 South Lassen Avenue Helm CA 93627-9900,NA,NA,NA,not tested,NA,Fresno County,36.53315055,-120.099579153673
+Golden Plains Unified,San Joaquin Elementary,8535 South Ninth San Joaquin CA 93660,NA,NA,FALSE,tested,NA,NA,NA,NA
+Golden Plains Unified,Tranquillity Elementary,6116 South Daniels Tranquillity CA 93668-0520,NA,NA,NA,not tested,NA,NA,NA,NA
+Golden Plains Unified,Tranquillity High,6052 Juanche Street Tranquillity CA 93668,NA,NA,NA,not tested,NA,Fresno County,36.6459347,-120.253201738002

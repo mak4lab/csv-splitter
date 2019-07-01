@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Napa Valley Unified,Alta Heights Elementary,15 Montecito Boulevard Napa CA 94559-2122,8.6,ppb,TRUE,tested,Napa,Napa County,38.3015032,-122.270468
+Napa Valley Unified,American Canyon High,3000 Newell Drive American Canyon CA 94503-1279,NA,NA,FALSE,tested,American Canyon,Napa County,38.173897,-122.2426785
+Napa Valley Unified,American Canyon Middle,300 Benton Way American Canyon CA 94589-4254,NA,NA,FALSE,tested,American Canyon,Napa County,38.169874,-122.267233
+Napa Valley Unified,Bel Aire Park Elementary,3580 Beckworth Drive Napa CA 94558-2846,NA,NA,FALSE,tested,Napa,Napa County,38.3268074,-122.306732257081
+Napa Valley Unified,Browns Valley Elementary,1001 Buhman Avenue Napa CA 94558-5202,NA,NA,FALSE,tested,Napa,Napa County,38.30482125,-122.340498952007
+Napa Valley Unified,Canyon Oaks Elementary,475 Silver Oak Trail American Canyon CA 94503-3190,NA,NA,FALSE,tested,American Canyon,Napa County,38.1683389387755,-122.244565163265
+Napa Valley Unified,Donaldson Way Elementary,430 Donaldson Way American Canyon CA 94589-1130,NA,NA,FALSE,tested,American Canyon,Napa County,38.172532,-122.2633551
+Napa Valley Unified,El Centro Elementary,1480 El Centro Avenue Napa CA 94558-1945,NA,NA,FALSE,tested,Napa,Napa County,38.336615,-122.312322
+Napa Valley Unified,Harvest Middle,2449 Old Sonoma Road Napa CA 94558-6006,NA,NA,FALSE,tested,Napa,Napa County,38.2876877277193,-122.303287047508
+Napa Valley Unified,McPherson Elementary,2670 Yajome Street Napa CA 94558-5039,NA,NA,FALSE,tested,Napa,Napa County,38.31577915,-122.291760019537
+Napa Valley Unified,Mt. George International,1019 Second Avenue Napa CA 94558-3938,NA,NA,FALSE,tested,NA,NA,NA,NA
+Napa Valley Unified,Napa High,2475 Jefferson Street Napa CA 94558-4931,NA,NA,FALSE,tested,Napa,Napa County,38.3103381009174,-122.296402963303
+Napa Valley Unified,Napa Junction Elementary,300 Napa Junction Road American Canyon CA 94589-1223,NA,NA,FALSE,tested,American Canyon,Napa County,38.184992,-122.257822
+Napa Valley Unified,Napa Valley Adult,1600 Lincoln Avenue Napa CA 94558-6006,NA,NA,FALSE,tested,Napa,Napa County,38.3080635151515,-122.297993616162
+Napa Valley Unified,Napa Valley Independent Studies,3310 Linda Vista Avenue Napa CA 94558-3147,NA,NA,NA,not tested,Napa,Napa County,38.3174354805652,-122.317609103909
+Napa Valley Unified,Napa Valley Language Academy,2700 Kilburn Avenue Napa CA 94558-5623,NA,NA,FALSE,tested,Napa,Napa County,38.29726495,-122.304842984746
+Napa Valley Unified,New Technology High,920 Yount Street Napa CA 94559-1808,NA,NA,FALSE,tested,Napa,Napa County,38.30504915,-122.289113701948
+Napa Valley Unified,Northwood Elementary,2214 Berks Street Napa CA 94558-2714,NA,NA,FALSE,tested,Napa,Napa County,38.3258648,-122.321381167492
+Napa Valley Unified,Phillips Elementary,1210 Shetler Avenue Napa CA 94559-4205,NA,NA,FALSE,tested,Napa,Napa County,38.282770122449,-122.263440020408
+Napa Valley Unified,Pueblo Vista Elementary,1600 Barbara Road Napa CA 94558-4500,NA,NA,FALSE,tested,Napa,Napa County,38.31701645,-122.316347168725
+Napa Valley Unified,Redwood Middle,3600 Oxford Street Napa CA 94558-2735,5.4,ppb,TRUE,tested,Napa,Napa County,38.32267675,-122.314697734216
+Napa Valley Unified,River Charter,2447 Old Sonoma Road Napa CA 94558-6006,NA,NA,FALSE,tested,Napa,Napa County,38.287688,-122.303221
+Napa Valley Unified,Salvador Elementary,1850 Salvador Avenue Napa CA 94558-1633,NA,NA,FALSE,tested,Napa,Napa County,38.3401048841008,-122.322686408926
+Napa Valley Unified,Shearer Elementary,1590 Elm Street Napa CA 94559-3924,8.2,ppb,TRUE,tested,Napa,Napa County,38.2898723505734,-122.290976288116
+Napa Valley Unified,Silverado Middle,1133 Coombsville Road Napa CA 94558-3906,6,ppb,TRUE,tested,Napa,Napa County,38.2944489,-122.260225044182
+Napa Valley Unified,Snow Elementary,1130 Foster Road Napa CA 94558-6522,6.4,ppb,TRUE,tested,Napa,Napa County,38.2789896308658,-122.305784278478
+Napa Valley Unified,Stone Bridge,1680 Los Carneros Way Napa CA 94558-9741,NA,NA,FALSE,tested,NA,NA,NA,NA
+Napa Valley Unified,Valley Oak High,1600 Myrtle Avenue Napa CA 94558-4743,6.1,ppb,TRUE,tested,Napa,Napa County,38.313858,-122.302467
+Napa Valley Unified,Vichy Elementary,3261 Vichy Avenue Napa CA 94558-2113,NA,NA,FALSE,tested,NA,Napa County,38.3350101481482,-122.256463074074
+Napa Valley Unified,Vintage High,1375 Trower Avenue Napa CA 94558-2420,NA,NA,FALSE,tested,Napa,Napa County,38.3343622,-122.303036268739
+Napa Valley Unified,West Park Elementary,2315 West Park Avenue Napa CA 94558-4431,NA,NA,FALSE,tested,Napa,Napa County,38.309858177719,-122.316043418727
+Napa Valley Unified,Yountville Elementary,6554 Yount Street Yountville CA 94599-1271,NA,NA,NA,not tested,NA,Napa County,38.403806,-122.361952

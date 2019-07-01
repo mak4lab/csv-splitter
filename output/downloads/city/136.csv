@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Desert Sands Unified,John F. Kennedy Elementary,45-100 Clinton Street Indio CA 92201-3807,NA,NA,FALSE,tested,Indio,Riverside County,33.7109603,-116.2426149
+Alvord Unified,Terrace Elementary,6601 Rutland Street Riverside CA 92503-1299,11,ppb,TRUE,tested,Indio,Riverside County,33.7773062,-116.2684003
+Desert Sands Unified,Thomas Jefferson Middle,83-089 Highway 111 Indio CA 92201-5643,NA,NA,NA,not tested,Indio,Riverside County,33.7147904,-116.2267487

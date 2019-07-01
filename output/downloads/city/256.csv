@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cotati-Rohnert Park Unified,Evergreen Elementary,1125 Emily Avenue Rohnert Park CA 94928-1913,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3575797156252,-122.691092148062
+Cotati-Rohnert Park Unified,John Reed Primary,390 Arlen Drive Rohnert Park CA 94928-8001,11,ppb,TRUE,tested,Rohnert Park,Sonoma County,38.3400273614711,-122.706113146529
+Cotati-Rohnert Park Unified,Lawrence E. Jones Middle,5164 Snyder Lane Rohnert Park CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3515977906322,-122.685450632059
+Cotati-Rohnert Park Unified,Marguerite Hahn Elementary,825 Hudis Street Rohnert Park CA 94928-1445,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.367512,-122.692698
+Cotati-Rohnert Park Unified,Monte Vista Elementary,1400 Magnolia Avenue Rohnert Park CA 94928-8129,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.328788,-122.681958
+Cotati-Rohnert Park Unified,Rancho Cotate High,5450 Snyder Lane Rohnert Park CA 94928-2906,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3423384982918,-122.685586137046
+Cotati-Rohnert Park Unified,Richard Crane Elementary,1290 Southwest Blvd Rohnert Park CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3399272715514,-122.691226836481
+Cotati-Rohnert Park Unified,Rohnert Park Educational Center,5860 Labath Ave Rohnert Park  CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.35388095,-122.720618556105
+Cotati-Rohnert Park Unified,Technology High,1801 East Cotati Avenue Rohnert Park CA 94928-3613,NA,NA,NA,not tested,Rohnert Park,Sonoma County,38.33908395,-122.67538218386
+Cotati-Rohnert Park Unified,Technology Middle,7165 Burton Avenue Rohnert Park CA 94928-3316,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.33752355,-122.700842171154
+Cotati-Rohnert Park Unified,University Elementary at La Fiesta,8511 Liman Way Rohnert Park CA 94928-4686,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.32541305,-122.693251844689
+Cotati-Rohnert Park Unified,Waldo Rohnert Intermediate,550 Bonnie Avenue Rohnert Park CA 94928-3897,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3344882,-122.699508725045

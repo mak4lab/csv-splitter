@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Angeles County Office of Education,Animo City of Champions Charter High,933 S Eighth AVE Inglewood CA 90305,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Aspire Antonio Maria Lugo Academy,6100 Carmelita Avenue Huntington Park CA 90255-4138,NA,NA,NA,not tested,NA,Los Angeles County,33.984528,-118.197032
+Los Angeles County Office of Education,Aspire Ollin University Preparatory Academy,2540 East 58th Street Huntington Park CA 90255-2659,NA,NA,FALSE,tested,NA,Los Angeles County,33.9900914081633,-118.226972244898
+Los Angeles County Office of Education,Central Juvenile Hall,1605 Eastlake Avenue Los Angeles CA 90033,NA,NA,NA,not tested,LA,Los Angeles County,34.0648732626263,-118.207824873737
+Los Angeles County Office of Education,East Los Angeles County Community,1260 South Monterey Pass Road Monterey Park CA 91754-3617,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.0489246423235,-118.160416116664
+Los Angeles County Office of Education,Environmental Charter Middle,812 West 165th Place Gardena CA 90247-5105,NA,NA,NA,not tested,Gardena,Los Angeles County,33.8808066,-118.309161
+Los Angeles County Office of Education,Environmental Charter Middle - Inglewood,3600 West Imperial Highway Inglewood CA 90303-2714,NA,NA,FALSE,tested,Inglewood,Los Angeles County,33.930857,-118.335289
+Los Angeles County Office of Education,"Gonzales, David Camp",1301 North Las Virgenes Road Calabasas CA 91302,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.1470056,-118.6977536
+Los Angeles County Office of Education,Head Start Plaza De La Raza,12830 Columbia Way. Downey CA 90242,NA,NA,FALSE,tested,Downey,Los Angeles County,33.9216971,-118.1341079
+Los Angeles County Office of Education,International Polytechnic High,3801 West Temple Avenue Building 128-16 Pomona CA 91768-2557,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Jardin de la Infancia,307 East Seventh Street Los Angeles CA 90014-2209,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,"Kirby, Dorothy Camp",1500 South McDonnell Avenue City Of Commerce CA 90040,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,L.A. County High School for the Arts,5151 State University Drive Los Angeles CA 90032-4221,NA,NA,NA,not tested,LA,Los Angeles County,34.0618164,-118.1726781
+Los Angeles County Office of Education,LA's Promise Charter Middle 1,1755 West 52nd St Los Angeles CA 90062-2347,NA,NA,NA,not tested,LA,Los Angeles County,33.9951542898236,-118.307872889154
+Los Angeles County Office of Education,Los Angeles International Charter High,625 Coleman Avenue Los Angeles CA 90042-4903,NA,NA,NA,not tested,LA,Los Angeles County,34.1024095102041,-118.183195489796
+Los Angeles County Office of Education,"Nidorf, Barry J.",16350 Filbert Street Sylmar CA 91342,NA,NA,NA,not tested,LA,Los Angeles County,34.319771624527,-118.484836428901
+Los Angeles County Office of Education,Odyssey Charter,725 West Altadena Drive Altadena CA 91001-4103,5.3,ppb,TRUE,tested,NA,Los Angeles County,34.1990515384615,-118.161114923077
+Los Angeles County Office of Education,Optimist Charter,6957 North Figueroa Street Los Angeles CA 90042-1245,NA,NA,NA,not tested,LA,Los Angeles County,34.114833,-118.184983
+Los Angeles County Office of Education,Pacific Lodge Residential Education Center,4900 Serrania Avenue Woodland Hills CA 91364,NA,NA,NA,not tested,LA,Los Angeles County,34.159099472973,-118.588252675676
+Los Angeles County Office of Education,Phoenix Academy Residential Education Center,11600 Eldrige Avenue Lakeview Terrace CA 91342-6522,NA,NA,NA,not tested,NA,NA,NA,NA
+Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.899387,-118.332901
+Los Angeles County Office of Education,Soledad Enrichment Action Charter High,222 North Virgil Avenue Los Angeles CA 90004-3622,NA,NA,NA,not tested,LA,Los Angeles County,34.0755916538462,-118.286704076923
+Los Angeles County Office of Education,Westchester Secondary Charter,8540 La Tijera Blvd Los Angeles CA 90045-4811,NA,NA,NA,not tested,LA,Los Angeles County,33.9565192,-118.4160503

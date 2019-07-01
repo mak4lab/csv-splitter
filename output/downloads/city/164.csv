@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Livingston Union,Campus Park Elementary,1845 H Street Livingston CA 95334-1799,NA,NA,NA,not tested,Livingston,Merced County,37.38073045,-120.717630464449
+Merced Union High,Livingston High,1617 Main Street Livingston CA 95334-1250,NA,NA,FALSE,tested,Livingston,Merced County,37.3769706510067,-120.723355308725
+Livingston Union,Livingston Middle,101 F Street Livingston CA 95334-9588,NA,NA,NA,not tested,Livingston,Merced County,37.382359,-120.739839
+Livingston Union,Selma Herndon Elementary,714 Prusso Street Livingston CA 95334-1199,NA,NA,NA,not tested,Livingston,Merced County,37.3848152,-120.727833183557
+Livingston Union,Yamato Colony Elementary,800 North Main Street Livingston CA 95334-9304,NA,NA,NA,not tested,Livingston,Merced County,37.382401,-120.723446

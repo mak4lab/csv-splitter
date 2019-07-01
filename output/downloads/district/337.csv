@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Julian Union Elementary,Diego Valley Charter,511 North 2nd Street El Cajon CA 92021-6449,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800568,-116.935298
+Julian Union Elementary,"Julian charter School, Innovation Centre La Mesa",5300 Jackson Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.775649,-117.013906
+Julian Union Elementary,Julian Elementary,1704 Cape Horn D Julian CA 92036-0337,NA,NA,NA,not tested,NA,NA,NA,NA
+Julian Union Elementary,Julian Junior High,1704 Cape Horn C Julian CA 92036-0337,NA,NA,NA,not tested,NA,NA,NA,NA

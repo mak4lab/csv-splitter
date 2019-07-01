@@ -1,0 +1,46 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Jose Unified,Abraham Lincoln High,555 Dana Avenue San Jose CA 95126-2002,NA,NA,FALSE,tested,San José,Santa Clara County,37.3292183571287,-121.923881790079
+San Jose Unified,ACE Inspire Academy,110 East Hedding Street San Jose CA 95112-6334,NA,NA,FALSE,tested,San José,Santa Clara County,37.3549071521506,-121.899958680927
+San Jose Unified,Allen at Steinbeck,820 Steinbeck Drive San Jose CA 95123-2634,NA,NA,FALSE,tested,San José,Santa Clara County,37.247349,-121.856932
+San Jose Unified,Almaden Elementary,1295 Dentwood Drive San Jose CA 95118-3018,NA,NA,FALSE,tested,San José,Santa Clara County,37.2508391933773,-121.884821016743
+San Jose Unified,Anne Darling Elementary,333 North 33rd Street San Jose CA 95133-1634,NA,NA,FALSE,tested,San José,Santa Clara County,37.35637455,-121.865491610903
+San Jose Unified,Bachrodt Charter Academy,102 Sonora Avenue San Jose CA 95110-1457,7,ppb,TRUE,tested,San José,Santa Clara County,37.3633124351186,-121.912851256734
+San Jose Unified,Booksin Elementary,1590 Dry Creek Road San Jose CA 95125-4618,NA,NA,FALSE,tested,San José,Santa Clara County,37.28794055,-121.905667607594
+San Jose Unified,Bret Harte Middle,7050 Bret Harte Drive San Jose CA 95120-3205,NA,NA,FALSE,tested,San José,Santa Clara County,37.2093188519832,-121.837914423203
+San Jose Unified,Broadway High,4825 Speak Lane San Jose CA 95118-3769,NA,NA,FALSE,tested,San José,Santa Clara County,37.2612624,-121.8798853338
+San Jose Unified,Canoas Elementary,880 Wren Drive San Jose CA 95125-2950,7.5,ppb,TRUE,tested,San José,Santa Clara County,37.2846416026873,-121.876335026552
+San Jose Unified,Castillero Middle,6384 Leyland Park Drive San Jose CA 95120-4516,NA,NA,FALSE,tested,San José,Santa Clara County,37.2210324415723,-121.881753389025
+San Jose Unified,Downtown College Preparatory,1402 Monterey Rd San Jose CA 95110,NA,NA,NA,not tested,San José,Santa Clara County,37.3163961894701,-121.873621541661
+San Jose Unified,Downtown College Preparatory Middle,1155 East Julian Street San Jose CA 95116-1005,NA,NA,NA,not tested,San José,Santa Clara County,37.3510843516163,-121.871275248205
+San Jose Unified,Empire Gardens Elementary,1060 East Empire Street San Jose CA 95112-1715,NA,NA,FALSE,tested,San José,Santa Clara County,37.3545936578636,-121.876181227877
+San Jose Unified,Ernesto Galarza Elementary,1610 Bird Avenue San Jose CA 95125-1821,6.5,ppb,TRUE,tested,San José,Santa Clara County,37.303716789498,-121.887008179368
+San Jose Unified,Gardner Elementary,502 Illinois Avenue San Jose CA 95125-1534,14,ppb,TRUE,tested,San José,Santa Clara County,37.3220981203575,-121.896272066292
+San Jose Unified,Grant Elementary,470 East Jackson Street San Jose CA 95112-3211,NA,NA,FALSE,tested,San José,Santa Clara County,37.3526871,-121.8865322
+San Jose Unified,Graystone Elementary,6982 Shearwater Drive San Jose CA 95120-2123,NA,NA,FALSE,tested,San José,Santa Clara County,37.2108050667027,-121.837715314563
+San Jose Unified,Gunderson High,620 Gaundabert Lane San Jose CA 95136-2830,NA,NA,FALSE,tested,San José,Santa Clara County,37.2585155393881,-121.853155323133
+San Jose Unified,Hacienda Science/Environmental Magnet,1290 Kimberly Drive San Jose CA 95118-1536,11.05,ppb,TRUE,tested,San José,Santa Clara County,37.2698104297871,-121.88388518662
+San Jose Unified,Herbert Hoover Middle,1635 Park Avenue San Jose CA 95126-2123,NA,NA,FALSE,tested,San José,Santa Clara County,37.3323651234999,-121.922282989138
+San Jose Unified,Hester Site SCCOE,1460 The Alameda San Jose CA 95126,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.3338130412903,-121.914578757434
+San Jose Unified,Horace Mann Elementary,55 North Seventh Street San Jose CA 95112-5429,5.6,ppb,TRUE,tested,NA,NA,NA,NA
+San Jose Unified,John Muir Middle,1260 Branham Lane San Jose CA 95118-3703,NA,NA,FALSE,tested,San José,Santa Clara County,37.26027745,-121.881463646473
+San Jose Unified,Leland High,6677 Camden Ave San Jose CA 95120-2142,NA,NA,FALSE,tested,San José,Santa Clara County,37.2216001385711,-121.851259861516
+San Jose Unified,Liberty High (Alternative),5845 Allen Avenue Suite 2 San Jose CA 95123-2619,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Jose Unified,Los Alamitos Elementary,6130 Silberman Avenue San Jose CA 95120-3931,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Jose Unified,Lowell Elementary,625 South Seventh Street San Jose CA 95112-3829,7.1,ppb,TRUE,tested,NA,NA,NA,NA
+San Jose Unified,Merritt Trace Elementary,651 Dana Avenue San Jose CA 95126-2003,NA,NA,FALSE,tested,San José,Santa Clara County,37.3308925767421,-121.925842621494
+San Jose Unified,Middle College High,2101 Moorpark Avenue San Jose CA 95128,NA,NA,NA,not tested,San José,Santa Clara County,37.316418,-121.928977
+San Jose Unified,Peter Burnett Middle,850 North Second Street San Jose CA 95112-6317,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Jose Unified,Pioneer High,1290 Blossom Hill Road San Jose CA 95118-3126,NA,NA,FALSE,tested,San José,Santa Clara County,37.2484425594634,-121.88219622854
+San Jose Unified,Rachel Carson Elementary,4245 Meg Drive San Jose CA 95136-1959,NA,NA,FALSE,tested,San José,Santa Clara County,37.270596653921,-121.855122603088
+San Jose Unified,Reed Elementary,1524 Jacob Avenue San Jose CA 95118-1613,6.2,ppb,TRUE,tested,San José,Santa Clara County,37.2645203735563,-121.894646965936
+San Jose Unified,River Glen,1088 Broadway San Jose CA 95125-2232,7.9,ppb,TRUE,tested,NA,NA,NA,NA
+San Jose Unified,San Jose High,275 North 24th Street San Jose CA 95116-1143,NA,NA,FALSE,tested,San José,Santa Clara County,37.3504239441135,-121.871216439546
+San Jose Unified,Schallenberger Elementary,1280 Koch Lane San Jose CA 95125-4199,5.9,ppb,TRUE,tested,San José,Santa Clara County,37.2805536788635,-121.888359429612
+San Jose Unified,Selma Olinder Elementary,890 East William San Jose CA 95116-3102,7.25,ppb,TRUE,tested,NA,NA,NA,NA
+San Jose Unified,Simonds Elementary,6515 Grapevine Way San Jose CA 95120-4020,NA,NA,FALSE,tested,San José,Santa Clara County,37.2204824503583,-121.868420375718
+San Jose Unified,Terrell Elementary,3925 Pearl Avenue San Jose CA 95136-1531,5.35,ppb,TRUE,tested,San José,Santa Clara County,37.2698286875,-121.86799934375
+San Jose Unified,Washington Elementary,100 Oak Street San Jose CA 95110-2817,7.3,ppb,TRUE,tested,San José,Santa Clara County,37.32077435,-121.882288151311
+San Jose Unified,Williams Elementary,1150 Rajkovich Way San Jose CA 95120-3145,NA,NA,FALSE,tested,San José,Santa Clara County,37.20835,-121.850801857143
+San Jose Unified,Willow Glen Elementary,1425 Lincoln Avenue San Jose CA 95125-3398,NA,NA,FALSE,tested,San José,Santa Clara County,37.3032133089713,-121.896923589465
+San Jose Unified,Willow Glen High,2001 Cottle Avenue San Jose CA 95125-3502,11.15,ppb,TRUE,tested,San José,Santa Clara County,37.2920937219339,-121.896812872636
+San Jose Unified,Willow Glen Middle,2105 Cottle Avenue San Jose CA 95125-3504,9.4,ppb,TRUE,tested,San José,Santa Clara County,37.2918848135063,-121.896671652487

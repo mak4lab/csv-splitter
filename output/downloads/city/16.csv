@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Atascadero Unified,Atascadero High,1 High School Hill Atascadero CA 93422-4189,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4816769,-120.671776600641
+Atascadero Unified,Atascadero Middle,6501 Lewis Avenue Atascadero CA 93422-4222,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4901829,-120.6665823
+Atascadero Unified,Fine Arts Academy,6100 Olmeda Avenue Atascadero CA 93422-4204,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4923913,-120.6682082
+Atascadero Unified,Monterey Road Elementary,3355 Monterey Road Atascadero CA 93422-1869,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4996208,-120.692738805249
+Atascadero Unified,Paloma Creek High ACE,10801 El Camino Real Atascadero CA 93422,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.45803065,-120.638821873319
+Atascadero Unified,San Benito Elementary,4300 San Benito Road Atascadero CA 93422-1938,10,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.5150072,-120.6844953
+Atascadero Unified,San Gabriel Elementary,8500 San Gabriel Road Atascadero CA 93422-4940,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.458173,-120.669652205046
+Atascadero Unified,Santa Rosa Road Academic Academy,8655 Santa Rosa Road Atascadero CA 93422-4910,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.46544675,-120.655987757525
+Atascadero Unified,Technology,5601 West Mall Atascadero CA 93422,5.6,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.4926125,-120.6653253

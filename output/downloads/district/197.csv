@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dry Creek Joint Elementary,Antelope Crossing Middle,9200 Palmerson Drive Sacramento CA 95843-4616,NA,NA,FALSE,tested,NA,Sacramento County,38.717094,-121.33975
+Dry Creek Joint Elementary,Antelope Meadows Elementary,8343 Palmerson Drive Antelope CA 95843-5195,NA,NA,FALSE,tested,NA,NA,NA,NA
+Dry Creek Joint Elementary,Barrett Ranch Elementary,7720 Ocean Park Drive Antelope CA 95843-6034,NA,NA,FALSE,tested,NA,NA,NA,NA
+Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,NA,NA,NA,not tested,NA,NA,NA,NA
+Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,NA,NA,FALSE,tested,Roseville,Placer County,38.7504229,-121.3370225
+Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,NA,NA,NA,not tested,Roseville,Placer County,38.757743,-121.314099
+Dry Creek Joint Elementary,Olive Grove Elementary,7926 Firestone Way Antelope CA 95843-4633,NA,NA,FALSE,tested,NA,Sacramento County,38.7109648371051,-121.341648859843
+Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,NA,NA,NA,not tested,Roseville,Placer County,38.773471,-121.334963628827
+Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,NA,NA,NA,not tested,Roseville,Placer County,38.7578031374372,-121.3263566886

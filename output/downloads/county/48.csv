@@ -1,0 +1,34 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Butte Valley Unified,Cascade High,615 West 3rd St Dorris CA 96023-0709,NA,NA,NA,not tested,Dorris,Siskiyou County,41.9641881,-121.922629
+Yreka Union High,Discovery High,504 West Lennox St Yreka CA 96097-2359,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7368872377049,-122.638642303279
+Dunsmuir Elementary,Dunsmuir Elementary,4760 Siskiyou Avenue Dunsmuir CA 96025-1902,NA,NA,NA,not tested,Dunsmuir,Siskiyou County,41.2296961491273,-122.274380619019
+Dunsmuir Joint Union High,Dunsmuir High,5805 High School Way Dunsmuir CA 96025-2202,NA,NA,NA,not tested,Dunsmuir,Siskiyou County,41.210414,-122.275896
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
+National Elementary,El Toyon Elementary,2000 East Division Street National City CA 91950-1823,6,ppb,TRUE,tested,Weed,Siskiyou County,41.425149,-122.383445
+Scott Valley Unified,Etna Community Day,220 Collier Way Etna CA 96027-9576,NA,NA,NA,not tested,Etna,Siskiyou County,41.459379,-122.895668
+Scott Valley Unified,Etna Elementary,220 Collier Wy Etna CA 96027-0490,NA,NA,NA,not tested,Etna,Siskiyou County,41.459379,-122.895668
+Scott Valley Unified,Etna Union High,400 Howell Avenue Etna CA 96027-0721,NA,NA,NA,not tested,Etna,Siskiyou County,41.459376,-122.898418
+Yreka Union Elementary,Evergreen Elementary,416 Evergreen Lane Yreka CA 96097-3204,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.72514165,-122.643907404569
+Scott Valley Unified,Fort Jones Elementary,11501 Mathews Street Fort Jones CA 96032,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.6037750855165,-122.845652629893
+Grenada Elementary,Grenada Elementary,516 Shasta Boulevard Grenada CA 96038-0010,NA,NA,NA,not tested,NA,Siskiyou County,41.6455186530612,-122.524056122449
+Happy Camp Union Elementary,Happy Camp Elementary,114 Park Way Happy Camp CA 96039-0467,5.5,ppb,TRUE,tested,NA,Siskiyou County,41.7959078888889,-123.372837055556
+Siskiyou County Office of Education,Happy Camp High School,234 Indian Creek Rd Happy Camp CA 96039,9,ppb,TRUE,tested,NA,Siskiyou County,41.7963551285437,-123.37822731712
+Siskiyou County Office of Education,J. Everett Barr Court,269 Sharps Lane Yreka CA 96097,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7093450057997,-122.639355397706
+Yreka Union Elementary,Jackson Street Elementary,405 Jackson Street Yreka CA 96097-2898,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.7276448,-122.640826848832
+Siskiyou Union High,Jefferson High (Continuation),720 Rockfellow Drive Mount Shasta CA 96067-9405,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.3198062700491,-122.305298161006
+McCloud Union Elementary School District,McCloud Union Elementary School,332 Hamilton Way McCloud CA 96057,12.25,ppb,TRUE,tested,NA,Siskiyou County,41.2539834897959,-122.130281755102
+Montague Elementary,Montague Elementary,430 East Prather Street Montague CA 96064,NA,NA,NA,not tested,Montague,Siskiyou County,41.728142472973,-122.523492108108
+Mt. Shasta Union Elementary,Mt. Shasta Elementary,501 Cedar Street Mount Shasta CA 96067-2106,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.313205,-122.317493
+Siskiyou Union High,Mt. Shasta High,710 Everitt Memorial Highway Mount Shasta CA 96067-2042,8.6,ppb,TRUE,tested,Mount Shasta,Siskiyou County,41.3208827484876,-122.306010272607
+National Elementary,Rancho de la Nacion,1830 East Division Street National City CA 91950-1850,NA,NA,FALSE,tested,Weed,Siskiyou County,41.425149,-122.383445
+Scott Valley Unified,Scott Valley Junior High,237 Butte Street Fort Jones CA 96032-0607,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.609119,-122.842254
+Siskiyou County Office of Education,Siskiyou County Special Education,609 South Gold Street Yreka CA 96097-3110,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7291005454545,-122.642646636364
+Mt. Shasta Union Elementary,Sisson,601 East Alma Street Mount Shasta CA 96067-2316,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.3185517,-122.309096392683
+Tulelake Basin Joint Unified School District,Tulelake Basin Elementary School,461 2nd St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9544152373737,-121.477843080808
+Tulelake Basin Joint Unified School District,Tulelake High School,850 Main St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.9495295102041,-121.476478387755
+Weed Union Elementary,Weed Elementary,575 White Avenue Weed CA 96094-2431,NA,NA,FALSE,tested,Weed,Siskiyou County,41.429103972475,-122.382240158113
+Siskiyou Union High,Weed High,909 Hillside Weed CA 96094-2415,NA,NA,FALSE,tested,Weed,Siskiyou County,41.4279257177985,-122.374967673917
+Yreka Union Elementary,Yreka Community Day,309 Jackson Street Yreka CA 96097-3369,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.7280117653061,-122.639064387755
+Yreka Union High,Yreka Union High Adult,431 Knapp St. Yreka CA 96097-2365,NA,NA,NA,not tested,Yreka,Siskiyou County,41.738513936147,-122.636393780679
+Yreka Union High,Yreka Union High Community Day,504 West Lennox Street Yreka CA 96097-2359,NA,NA,NA,not tested,Yreka,Siskiyou County,41.7368872377049,-122.638642303279

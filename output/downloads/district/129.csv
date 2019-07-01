@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Central Unified,Biola-Pershing Elementary,4885 North Biola Avenue Fresno CA 93723-9428,NA,NA,NA,not tested,NA,Fresno County,36.8055416659774,-120.01665602462
+Central Unified,Central High East Campus,3535 North Cornelia Avenue Fresno CA 93722-7020,NA,NA,FALSE,tested,Fresno,Fresno County,36.7874329047619,-119.88048
+Central Unified,Central Unified Alternative/Opportunity,2698 North Brawley rd Fresno CA 93722-5113,NA,NA,FALSE,tested,NA,NA,NA,NA
+Central Unified,El Capitan Middle,4443 West Weldon Avenue Fresno CA 93722-5440,NA,NA,FALSE,tested,Fresno,Fresno County,36.768103,-119.873168441512
+Central Unified,Glacier Point Middle,4055 North Bryan Avenue Fresno CA 93723-9212,NA,NA,FALSE,tested,Fresno,Fresno County,36.7956427959184,-119.907504673469
+Central Unified,Hanh Phan Tilley Elementary,2280 North Valentine Avenue Fresno CA 93722-5553,NA,NA,FALSE,tested,Fresno,Fresno County,36.7697193728653,-119.853211738348
+Central Unified,Harvest Elementary,6514 West Gettysburg Avenue Fresno CA 93723-3013,NA,NA,FALSE,tested,Fresno,Fresno County,36.800704,-119.9074395
+Central Unified,Herndon-Barstow Elementary,6265 North Grantland Avenue Fresno CA 93723-9334,NA,NA,FALSE,tested,Fresno,Fresno County,36.8269033333638,-119.916656235772
+Central Unified,James K. Polk Elementary,2195 North Polk Avenue Fresno CA 93722-5052,NA,NA,FALSE,tested,Fresno,Fresno County,36.7739235,-119.8892333
+Central Unified,John Steinbeck Elementary,3550 North Milburn Avenue Fresno CA 93722-7016,NA,NA,FALSE,tested,Fresno,Fresno County,36.7885704934029,-119.875935817181
+Central Unified,McKinley Elementary,4444 West McKinley Avenue Fresno CA 93722-5431,8.4,ppb,TRUE,tested,Fresno,Fresno County,36.764636,-119.873802
+Central Unified,Norman Liddell Elementary,5455 West Alluvial Avenue Fresno CA 93722-2361,NA,NA,FALSE,tested,Fresno,Fresno County,36.8441687770597,-119.887799011295
+Central Unified,Pathway Community Day,11 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.7428599183673,-119.821965877551
+Central Unified,Pathway Elementary Community Day,21 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.7427808367347,-119.821964755102
+Central Unified,Pershing Continuation High,855 West Nielsen Fresno CA 93706-1700,NA,NA,FALSE,tested,NA,NA,NA,NA
+Central Unified,Rio Vista Middle,6240 West Palo Alto Fresno CA 93722-2001,NA,NA,FALSE,tested,NA,Fresno County,36.8335932,-119.8336038
+Central Unified,River Bluff Elementary,6150 West Palo Alto Fresno CA 93722-2000,NA,NA,FALSE,tested,NA,Fresno County,36.8335932,-119.8336038
+Central Unified,Roosevelt Elementary,2600 North Garfield Ave Fresno CA 93723-9229,NA,NA,NA,not tested,NA,Fresno County,36.7774760365601,-119.925165617192
+Central Unified,Teague Elementary,4725 North Polk Avenue Fresno CA 93722-5319,NA,NA,FALSE,tested,Fresno,Fresno County,36.805201,-119.889554
+Central Unified,William Saroyan Elementary,5650 West Escalon Avenue Fresno CA 93722-3154,5.8,ppb,TRUE,tested,Fresno,Fresno County,36.8262586,-119.8806

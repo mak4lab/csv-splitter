@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+SGUSD,Angela Preschool & Kindergarten,5708 N Muscatel Ave San Gabriel CA 91775,NA,NA,NA,not tested,Temple City,Los Angeles County,34.1037836122449,-118.077115408163
+El Monte City,Cleminson Elementary,5213 North Daleview Avenue Temple City CA 91780-3524,NA,NA,NA,not tested,Temple City,Los Angeles County,34.0989323909188,-118.032160841233
+Temple City Unified,Cloverly Elementary,5476 Cloverly Avenue Temple City CA 91780-3107,6.45,ppb,TRUE,tested,Temple City,Los Angeles County,34.0994649246327,-118.062414841031
+Temple City Unified,Dr. Doug Sears Learning Center,9229 Pentland Street Temple City CA 91780-3736,5.8,ppb,TRUE,tested,Temple City,Los Angeles County,34.0940757782453,-118.066708041871
+El Monte City,Gidley Elementary,10226 East Lower Azusa Road El Monte CA 91731-1175,NA,NA,NA,not tested,Temple City,Los Angeles County,34.0913245808239,-118.044054213684
+Temple City Unified,La Rosa Elementary,9301 La Rosa Drive Temple City CA 91780-3734,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.092887,-118.064999
+TCUSD,Longden Elementary,9501 E. Wendon St. Temple City CA 91780,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.112024,-118.065005
+Arcadia Unified,Longley Way Elementary,2601 Longley Way Arcadia CA 91007-5099,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.109195,-118.041087
+Temple City Unified,Oak Avenue Intermediate,6623 Oak Avenue Temple City CA 91780-1310,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.1189898979592,-118.067865734694
+Temple City Unified,Temple City Alternative,9229 Pentland Street Temple City CA 91780-3736,NA,NA,NA,not tested,Temple City,Los Angeles County,34.0940757782453,-118.066708041871
+Temple City Unified,Temple City High,9501 Lemon Avenue Temple City CA 91780-1305,8.4,ppb,TRUE,tested,Temple City,Los Angeles County,34.1170697,-118.0655418

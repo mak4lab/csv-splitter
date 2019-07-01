@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Milpitas Unified,Alexander Rose Elementary,250 Roswell Drive Milpitas CA 95035-5945,7.800000000000001,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4331699246334,-121.877515449654
+Milpitas Unified,Anthony Spangler Elementary,140 North Abbott Milpitas CA 95035-4849,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.4306902815324,-121.914574034922
+Milpitas Unified,Calaveras Hills,1331 East Calaveras Blvd. Milpitas CA 95035-5707,11,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4362486,-121.883107607177
+Milpitas Unified,Curtner Elementary,275 Redwood Milpitas CA 95035-3843,9.9,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4400136938776,-121.911950877551
+Milpitas Unified,John Sinnott Elementary,2025 Yellowstone Avenue Milpitas CA 95035-6951,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.4250465888664,-121.871749939432
+Milpitas Unified,Marshall Pomeroy Elementary,1505 Escuela Parkway Milpitas CA 95035-3213,6.6,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4539634451557,-121.902097566027
+Milpitas Unified,Milpitas Adult,1331 East Calaveras Boulevard Milpitas CA 95035-5707,NA,NA,NA,not tested,Milpitas,Santa Clara County,37.4362486,-121.883107607177
+Milpitas Unified,Milpitas High,1285 Escuela Parkway Milpitas CA 95035-3221,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.452521,-121.901234
+Milpitas Unified,Pearl Zanker Elementary,1585 Fallen Leaf Drive Milpitas CA 95035-6762,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.40770145,-121.905725904895
+Milpitas Unified,Rancho Milpitas Middle,1915 Yellowstone Avenue Milpitas CA 95035-6992,10,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4248144704266,-121.872772565229
+Milpitas Unified,Robert Randall Elementary,1300 Edsel Drive Milpitas CA 95035-5701,NA,NA,FALSE,tested,Milpitas,Santa Clara County,37.430487,-121.882394
+Milpitas Unified,Sunnyhills Child Development Center,365 Dixon Road Milpitas CA 95035,8.55,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4599192105263,-121.904596210526
+Milpitas Unified,Thomas Russell Middle,1500 Escuela Parkway Milpitas CA 95035-3220,6.75,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4536345696025,-121.90165951926
+Milpitas Unified,William Burnett Elementary,400 Fanyon Milpitas CA 95035-4630,7.5,ppb,TRUE,tested,Milpitas,Santa Clara County,37.4407099142633,-121.881859570008

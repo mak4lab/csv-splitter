@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,13900 Estero Road La Mirada CA 90638-3615,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.904473,-118.024705
+Norwalk-La Mirada Unified,Eastwood Elementary,15730 Pescados Drive La Mirada CA 90638-4999,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8974504529979,-117.995794434422
+Norwalk-La Mirada Unified,Escalona Elementary,15135 Escalona Road La Mirada CA 90638-4601,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8942125,-118.0117244
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9233967356266,-118.002488053892
+Private,"Heights Christian Schools, Bluefield Campus",12900 Bluefield Avenue La Mirada CA 90638,7.7,ppb,TRUE,tested,La Mirada,Los Angeles County,33.914311,-118.007616
+Norwalk-La Mirada Unified,La Mirada High,13520 Adelfa Drive La Mirada CA 90638-3103,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9084999220344,-118.004162971681
+Norwalk-La Mirada Unified,La Pluma Elementary,14420 La Pluma Drive La Mirada CA 90638-4029,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9018642727273,-118.001138818182
+Norwalk-La Mirada Unified,Los Coyotes Middle,14640 Mercado Avenue La Mirada CA 90638-4210,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8985770700044,-117.990351004967

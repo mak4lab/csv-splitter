@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Cruz City Elementary,Bay View Elementary,1231 Bay Street Santa Cruz CA 95060-4708,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9656226400402,-122.039004899297
+Santa Cruz City Elementary,De Laveaga Elementary,1145 Morrissey Boulevard Santa Cruz CA 95065-1498,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9897425600716,-121.994825246833
+Santa Cruz City Elementary,Gault Elementary,1320 Seabright Avenue Santa Cruz CA 95062-2525,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.9756449940181,-122.008589305668
+Santa Cruz City Elementary,Santa Cruz City Elementary Alternative Education-Monarch,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.9805684310477,-122.014299208516
+Santa Cruz City Elementary,Westlake Elementary,1000 High Street Santa Cruz CA 95060-2596,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.977915,-122.047988

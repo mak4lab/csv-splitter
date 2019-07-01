@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Glendale Unified,Abraham Lincoln Elementary,4310 New York Avenue La Crescenta CA 91214-2567,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.2282280055799,-118.252939012874
+Glendale Unified,Anderson W. Clark Magnet High,4747 New York Avenue La Crescenta CA 91214-1841,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.2368488571429,-118.253082
+Glendale Unified,Balboa Elementary,1844 Bel Aire Drive Glendale CA 91201-1173,NA,NA,FALSE,tested,Burbank,Los Angeles County,34.1804596516374,-118.285502303369
+Glendale Unified,Benjamin Franklin Elementary,1610 Lake Street Glendale CA 91201-2610,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1628051836735,-118.296996020408
+Glendale Unified,Cerritos Elementary,120 East Cerritos Avenue Glendale CA 91205-3107,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1254906765174,-118.254382463348
+Glendale Unified,Cloud Preschool,4444 Cloud Avenue La Crescenta CA 91214,NA,NA,NA,not tested,NA,Los Angeles County,34.2261851538462,-118.246389846154
+Glendale Unified,College View,440 West Lomita Ave. Glendale CA 91204-1512,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1398582337282,-118.261520779537
+Glendale Unified,Columbus Elementary,425 West Milford Street Glendale CA 91203-1708,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1529954,-118.2619254
+Glendale Unified,Crescenta Valley High,2900 Community Avenue La Crescenta CA 91214-3471,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.224843,-118.244165
+Glendale Unified,Daily (Allan F.) High (Continuation),220 North Kenwood Glendale CA 91206-4209,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1484423673469,-118.251265020408
+Glendale Unified,Dunsmore Elementary,4717 Dunsmore Avenue La Crescenta CA 91214-1814,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.2396706469024,-118.257441356331
+Glendale Unified,Eleanor J. Toll Middle,700 Glenwood Road Glendale CA 91202-1524,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1647644,-118.2710795
+Glendale Unified,Glendale High,1440 East Broadway Glendale CA 91205-1503,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1460874081633,-118.232861959184
+Glendale Unified,Glenoaks Elementary,2015 East Glenoaks Boulevard Glendale CA 91206-2911,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1515573211267,-118.222413263363
+Glendale Unified,Herbert Hoover High,651 Glenwood Road Glendale CA 91202-1552,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.16625125,-118.27077407891
+Glendale Unified,Horace Mann Elementary,501 East Acacia Avenue Glendale CA 91205-2823,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.134975,-118.248882
+Glendale Unified,John C. Fremont Elementary,3320 Las Palmas Avenue Glendale CA 91208-1525,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1995565051002,-118.232389748962
+Glendale Unified,John Marshall Elementary,1201 East Broadway Glendale CA 91205-1407,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.146304,-118.23946
+Glendale Unified,John Muir Elementary,912 South Chevy Chase Drive Glendale CA 91205-2540,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.135774999227,-118.239471527262
+Glendale Unified,La Crescenta Elementary,4343 La Crescenta Avenue La Crescenta CA 91214-3806,NA,NA,FALSE,tested,NA,Los Angeles County,34.2205156973757,-118.240031717731
+Glendale Unified,Mark Keppel Elementary,730 Glenwood Road Glendale CA 91202-1524,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1652956,-118.272377
+Glendale Unified,Monte Vista Elementary,2620 Orange Avenue La Crescenta CA 91214-2199,NA,NA,FALSE,tested,NA,Los Angeles County,34.23023815,-118.236491740446
+Glendale Unified,Mountain Avenue Elementary,2307 Mountain Avenue La Crescenta CA 91214-3135,NA,NA,FALSE,tested,NA,Los Angeles County,34.2241555714286,-118.228617571429
+Glendale Unified,Pacific Avenue - Early Bird Preschool,440 West Lomita Avenue Glendale CA 91204-1512,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1398582337282,-118.261520779537
+Glendale Unified,R. D. White Elementary,744 East Doran Street Glendale CA 91206-2422,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.15379645,-118.245752877745
+Glendale Unified,Rosemont Middle,4725 Rosemont Avenue La Crescenta CA 91214-3146,NA,NA,FALSE,tested,NA,Los Angeles County,34.22634245,-118.2364362837
+Glendale Unified,Theodore Roosevelt Middle,222 East Acacia Avenue Glendale CA 91206-2805,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1343861700238,-118.257068557993
+Glendale Unified,Thomas Edison Elementary,435 South Pacific Avenue Glendale CA 91204-1441,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1400596,-118.265543173151
+Glendale Unified,Thomas Jefferson Elementary,1540 Fifth Street Glendale CA 91201-1925,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.1694586,-118.2846105
+Glendale Unified,Valley View Elementary,4900 Maryland Avenue La Crescenta CA 91214-1245,NA,NA,FALSE,tested,Glendale,Los Angeles County,34.238425,-118.250687
+Glendale Unified,Verdugo Woodlands Elementary,1751 North Verdugo Road Glendale CA 91208-2999,6.5,ppb,TRUE,tested,Glendale,Los Angeles County,34.1738369069161,-118.226343807964
+Glendale Unified,Woodrow Wilson Middle,1221 Monterey Road Glendale CA 91206-2521,5.7,ppb,TRUE,tested,Glendale,Los Angeles County,34.155396,-118.238999

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sacramento County Office of Education,El Centro Jr./Sr. High,9601 Keifer Boulevard Sacramento CA 95827,NA,NA,NA,not tested,NA,NA,NA,NA
+Sacramento County Office of Education,Elinor Lincoln Hickey Jr./Sr. High,2040 Ethan Wy Sacramento CA 95825-0118,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6027503428571,-121.419852171429
+Sacramento County Office of Education,Fortune,6829 Stockton Boulevard  380C Sacramento CA 95823-2395,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sacramento County Office of Education,Palmiter Special Education,2040 Ethan Way Sacramento CA 95825-0118,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6027503428571,-121.419852171429

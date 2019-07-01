@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lemoore Union High,Jamison (Donald C.) High (Continuation),351 East Bush Street Lemoore CA 93245-3601,NA,NA,FALSE,tested,NA,Kings County,36.2982125074578,-119.772359246901
+Lemoore Union High,Lemoore High,101 East Bush Street Lemoore CA 93245-3601,11,ppb,TRUE,tested,NA,Kings County,36.298223,-119.77882
+Lemoore Union High,Lemoore Middle College High,555 College Avenue Lemoore CA 93245-9248,13,ppb,TRUE,tested,NA,Kings County,36.2944061632653,-119.821676

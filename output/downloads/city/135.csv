@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South Bay Union,Bayside Elementary,490 Emory Street Imperial Beach CA 91932-1524,7.3,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5882451702128,-117.113152
+South Bay Union,Central Elementary,1290 Ebony Avenue Imperial Beach CA 91932-2920,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.577586,-117.107706959184
+South Bay Union,Friendship School,601 Elm Ave Imperial Beach CA 91932,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.58003555,-117.120155137868
+Sweetwater Union High,Imperial Beach Adult School,170 Palm Avenue Imperial Beach CA 92132,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5837708,-117.1021516
+South Bay Union,Imperial Beach Charter,650 Imperial Beach Boulevard Imperial Beach CA 91932-2706,12,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5764918727355,-117.119371152329
+South Bay Union Elementary,Imperial Beach Charter School West Campus,525 3rd Street Imperial Beach CA 91932,6.6,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5867241822015,-117.127307529124
+Sweetwater Union High,Mar Vista Senior High,505 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5780756,-117.122803963135
+South Bay Union,VIP Village Preschool,1001 Fern Avenue Imperial Beach CA 91932-3353,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5746400979038,-117.112139657091

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Luis Coastal Unified,Del Mar Elementary,501 Sequoia Street Morro Bay CA 93442-1436,NA,NA,FALSE,tested,Morro Bay,San Luis Obispo County,35.3970943,-120.858448530622
+San Luis Coastal Unified,Morro Bay High,235 Atascadero Road Morro Bay CA 93442-1516,5.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.3815231,-120.8577301
+San Lorenzo Valley Unified,Morro Elementary,1130 Napa  Morro Bay CA 93442,15.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.36887875,-120.84801435

@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9862586,-118.0417634
+East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.9632923731076,-118.041670627856
+Whittier Union High,Frontier High (Continuation),9401 South Painter Avenue Whittier CA 90605-2729,10,ppb,TRUE,tested,Whittier,Los Angeles County,33.9523234995066,-118.043887290466
+Lowell Joint,Jordan Elementary,10654 Jordan Road Whittier CA 90603-2931,5.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.93794965,-117.979863942761
+Whittier Union High,La Serna High,15301 East Youngwood Drive Whittier CA 90605-1345,9.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.954667,-117.999174
+East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
+Whittier City Elementary,Mill Elementary,4030 South Workman Mill Road Whittier CA 90601-1795,NA,NA,FALSE,tested,Whittier,Los Angeles County,34.0021373,-118.0562563
+East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.9465699334663,-117.98781436306
+Whittier City Elementary,West Whittier Elementary,6411 South Norwalk Boulevard Whittier CA 90606-1598,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9862491818182,-118.067535772727
+Whittier City Elementary,Whittier Area Community Day,5777 Lockheed Avenue Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828
+Whittier City Elementary,Whittier Independent Study,5777 Lockheed Ave Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.9952113062891,-118.064718627828

@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Joaquin County Office of Education,"John F. Cruikshank, Jr.",2707 Transworld Drive Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,one.Charter,2707 Transworld Dr Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.7995458,-121.3188311
+San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,NA,NA,NA,not tested,Stockton,San Joaquin County,37.9545612,-121.342491074837
+San Joaquin County Office of Education,San Joaquin County Community,2707 Transworld D Stockton CA 95206-3948,NA,NA,NA,not tested,NA,NA,NA,NA
+San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906898750694,-121.22875362555
+San Joaquin County Office of Education,Venture Academy,2829 Transworld Drive Stockton CA 95206-3950,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.9076065008119,-121.230580248738

@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newman-Crows Landing Unified,Bonita Elementary,425 Fink Road Crows Landing CA 95313-9771,NA,NA,NA,not tested,NA,Stanislaus County,37.3914276488294,-121.076685648829
+Newman-Crows Landing Unified,Hunt Elementary,907 R Street Newman CA 95360-1124,6.49,ppb,TRUE,tested,NA,Stanislaus County,37.3195973,-121.029849370919
+Newman-Crows Landing Unified,Hurd Barrington Elementary,838 Eucalyptus Avenue Newman CA 95360-9503,NA,NA,FALSE,tested,NA,Stanislaus County,37.32307225,-121.014481934676
+Newman-Crows Landing Unified,Orestimba High,707 Hardin Road Newman CA 95360-1144,NA,NA,FALSE,tested,NA,Stanislaus County,37.3217707777778,-121.030888
+Newman-Crows Landing Unified,Von Renner Elementary,1388 Patchett Drive Newman CA 95360-1434,NA,NA,FALSE,tested,NA,Stanislaus County,37.3094278877551,-121.026672928571
+Newman-Crows Landing Unified,West Side Valley High (Continuation),908 Main Street Newman CA 95360-1120,NA,NA,FALSE,tested,NA,Stanislaus County,37.3202046938776,-121.024227510204
+Newman-Crows Landing Unified,Yolo Junior High,901 Hoyer Road Newman CA 95360-1124,NA,NA,FALSE,tested,NA,Stanislaus County,37.3130903,-121.034730012386

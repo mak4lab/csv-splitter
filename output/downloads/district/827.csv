@@ -1,0 +1,58 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Twin Rivers Unified,Community Collaborative Charter,5715 Skvarla Avenue McClellan CA 95652-2424,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Community Outreach Academy-5640 Dudley,5640 Dudley Blvd McClellan CA 95652,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Community Outreach Academy-5712 Dudley,5712 Dudley Blvd McClellan CA 95652,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Community Outreach Academy-Bolivar,3800 Bolivar Avenue North Highlands CA 95660,NA,NA,NA,not tested,NA,Sacramento County,38.67854,-121.378534
+Twin Rivers Unified,Community Outreach Academy-Skvarla,5637 Skvarla Avenue McClellan CA 95652-2439,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Creative Connections Arts Academy,7201 Arutas Drive North Highlands CA 95660-2809,5.8,ppb,TRUE,tested,NA,Sacramento County,38.701107,-121.368899
+Twin Rivers Unified,Creative Connections Arts Academy-Walerga,6444 Walerga Rd              North Highlands CA 95660,NA,NA,FALSE,tested,NA,Sacramento County,38.6827617346249,-121.363669224745
+Twin Rivers Unified,D. W. Babcock Elementary,2400 Cormorant Way Sacramento CA 95815-2715,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.609906,-121.426781
+Twin Rivers Unified,Del Paso Heights Elementary,590 Morey Avenue Sacramento CA 95838-3332,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6347016842875,-121.452924825051
+Twin Rivers Unified,Dry Creek Elementary,1230 G Street Rio Linda CA 95673-4414,NA,NA,FALSE,tested,NA,Sacramento County,38.6800004102564,-121.437038641026
+Twin Rivers Unified,Fairbanks Elementary,227 Fairbanks Avenue Sacramento CA 95838-4799,10.1,ppb,TRUE,tested,Sacramento,Sacramento County,38.6260615076923,-121.461779892308
+Twin Rivers Unified,Foothill High,5000 McCloud Drive Sacramento CA 95842-2815,NA,NA,FALSE,tested,NA,Sacramento County,38.6807424324324,-121.348854810811
+Twin Rivers Unified,Foothill Oaks Elementary,5520 Lancelot Drive Sacramento CA 95842-2100,NA,NA,FALSE,tested,NA,Sacramento County,38.6919297142857,-121.336266857143
+Twin Rivers Unified,Foothill Ranch Middle,5001 Diablo Drive Sacramento CA 95842-3119,NA,NA,FALSE,tested,NA,Sacramento County,38.676108,-121.34593
+Twin Rivers Unified,Frederick Joyce Elementary,6050 Watt Avenue North Highlands CA 95660-4212,NA,NA,FALSE,tested,NA,Sacramento County,38.6760422307692,-121.382789589744
+Twin Rivers Unified,Frontier Elementary,6691 Silverthorne Circle Sacramento CA 95842-2654,NA,NA,FALSE,tested,NA,Sacramento County,38.6845767477298,-121.344355965916
+Twin Rivers Unified,Futures High,3701 Stephen Drive North Highlands CA 95660-4532,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Garden Valley Elementary,3601 Larchwood Drive Sacramento CA 95834-2212,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6328515153407,-121.477045022845
+Twin Rivers Unified,Grant Union High,1400 Grand Avenue Sacramento CA 95838-3624,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.636462,-121.4352285
+Twin Rivers Unified,Hagginwood Elementary,1418 Palo Verde Avenue Sacramento CA 95815-1417,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.623399,-121.434257
+Twin Rivers Unified,Harmon Johnson Elementary,577 Las Palmas Avenue Sacramento CA 95815-2040,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6187973673469,-121.452922530612
+Twin Rivers Unified,Hazel Strauch Elementary,3141 Northstead Drive Sacramento CA 95833-1218,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6242225227273,-121.480382113636
+Twin Rivers Unified,Heritage Peak Charter,6450 20th Street Rio Linda CA 95673-3718,5.5,ppb,TRUE,tested,Sacramento,Sacramento County,38.6848049865772,-121.419749147651
+Twin Rivers Unified,Highlands High,6601 Guthrie Way North Highlands CA 95660-3911,8.3,ppb,TRUE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Hillsdale Elementary,6469 Guthrie Way North Highlands CA 95660-3995,5.3,ppb,TRUE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Kohler Elementary,4004 Bruce Way North Highlands CA 95660-4404,NA,NA,FALSE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Madison Elementary,5241 Harrison Street North Highlands CA 95660-5444,NA,NA,FALSE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Martin Luther King Jr. Technology Academy,3051 Fairfield Street Sacramento CA 95815-1199,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.623412071428604,-121.451312
+Twin Rivers Unified,Michael J. Castori Elementary,1801 South Avenue Sacramento CA 95838-4636,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.632876,-121.425185
+Twin Rivers Unified,Miles P. Richmond,4330 Keema Avenue North Highlands CA 95660-3948,NA,NA,FALSE,tested,NA,Sacramento County,38.6848467919463,-121.363026624161
+Twin Rivers Unified,Morey Avenue Early Childhood Development,155 Morey Avenue Sacramento CA 95838-3219,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6348558770492,-121.465015778689
+Twin Rivers Unified,Noralto Elementary,477 Las Palmas Avenue Sacramento CA 95815-1605,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6188155918367,-121.455235755102
+Twin Rivers Unified,Northwood Elementary,2630 Taft Street Sacramento CA 95815-2335,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.613829,-121.437987
+Twin Rivers Unified,Norwood Junior High,4601 Norwood Avenue Sacramento CA 95838-2283,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6501692735043,-121.457008880342
+Twin Rivers Unified,Nova Opportunity,2035 North Avenue Sacramento CA 95838-1329,8.9,ppb,TRUE,tested,Sacramento,Sacramento County,38.640050625,-121.418933958333
+Twin Rivers Unified,Oakdale Elementary,3708 Myrtle Avenue North Highlands CA 95660-5204,NA,NA,FALSE,tested,NA,Sacramento County,38.6539769795918,-121.377912163265
+Twin Rivers Unified,Orchard Elementary,1040 Q Street Rio Linda CA 95673-1532,NA,NA,FALSE,tested,NA,Sacramento County,38.6981461010101,-121.441949222222
+Twin Rivers Unified,Pacific Career and Technology High,6560 Melrose Drive North Highlands CA 95660-4375,NA,NA,FALSE,tested,NA,Sacramento County,38.6843025886416,-121.372955058519
+Twin Rivers Unified,Pathways Community Day,6560 Melrose Dr. North Highlands CA 95660-4375,NA,NA,FALSE,tested,NA,Sacramento County,38.6843025886416,-121.372955058519
+Twin Rivers Unified,Pioneer Elementary,5816 Pioneer Way Sacramento CA 95841-2215,NA,NA,FALSE,tested,NA,Sacramento County,38.673198938479,-121.343329174294
+Twin Rivers Unified,Regency Park Elementary,5901 Bridgecross Drive Sacramento CA 95835-1956,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6810608,-121.5005348
+Twin Rivers Unified,Ridgepoint Elementary,4680 Monument Drive Sacramento CA 95842-4343,NA,NA,FALSE,tested,NA,Sacramento County,38.7006790526316,-121.355754157895
+Twin Rivers Unified,Rio Linda High,6309 Dry Creek Road Rio Linda CA 95673-4412,7.7,ppb,TRUE,tested,Sacramento,Sacramento County,38.6820908183069,-121.438437510598
+Twin Rivers Unified,Rio Linda Preparatory Academy,1101 G Street Rio Linda CA 95673-4327,NA,NA,FALSE,tested,NA,Sacramento County,38.68019,-121.439233
+Twin Rivers Unified,Rio Tierra Junior High,3201 Northstead Drive Sacramento CA 95833-1216,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.624568,-121.480475
+Twin Rivers Unified,SAVA: Sacramento Academic and Vocational Academy,5330 Power Inn Road Suite D Sacramento CA 95820-6757,NA,NA,NA,not tested,NA,NA,NA,NA
+Twin Rivers Unified,Sierra View Elementary,3638 Bainbridge Drive North Highlands CA 95660-2765,NA,NA,FALSE,tested,NA,Sacramento County,38.698752,-121.380204
+Twin Rivers Unified,Smythe Academy Middle School,700 Dos Rios St Sacramento CA 95811,5.6,ppb,TRUE,tested,Sacramento,Sacramento County,38.5966651006711,-121.483277691275
+Twin Rivers Unified,Smythe Academy of Arts and Sciences,2781 Northgate Boulevard Sacramento CA 95833-2208,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6153701836735,-121.475651102041
+Twin Rivers Unified,St. Lawrence Elementary School,4325 Don Julio Blvd North Highlands CA 95660,NA,NA,NA,not tested,NA,Sacramento County,38.6887553829409,-121.364775809978
+Twin Rivers Unified,Village Elementary,6845 Larchmont Drive North Highlands CA 95660-3506,NA,NA,FALSE,tested,NA,Sacramento County,38.6915185293983,-121.370039239709
+Twin Rivers Unified,Vista Nueva Career and Technology High,2035 North Avenue Sacramento CA 95838-3129,NA,NA,NA,not tested,Sacramento,Sacramento County,38.640050625,-121.418933958333
+Twin Rivers Unified,Warren A. Allison Elementary,4315 Don Julio Boulevard North Highlands CA 95660-3838,NA,NA,FALSE,tested,NA,Sacramento County,38.6887048232865,-121.364890061664
+Twin Rivers Unified,Westside Elementary,6537 West Second Street Rio Linda CA 95673-3231,NA,NA,FALSE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Westside Preparatory Charter,6469 Guthrie Way B North Highlands CA 95660,NA,NA,FALSE,tested,NA,NA,NA,NA
+Twin Rivers Unified,Woodlake Elementary,700 Southgate Road Sacramento CA 95815-3895,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.603108,-121.452223
+Twin Rivers Unified,Woodridge Elementary,5761 Brett Drive Sacramento CA 95842-3161,NA,NA,FALSE,tested,NA,Sacramento County,38.6730135,-121.352962

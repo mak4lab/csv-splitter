@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,NA,NA,NA,not tested,Atwater,Merced County,37.36825045,-120.61656785643
+Merced Union High,Buhach Colony High,1800 Buhach Road Atwater CA 95301-4592,NA,NA,NA,not tested,NA,Merced County,37.3363289,-120.5818606
+Merced Union High,El Capitan High,100 West Farmland Merced CA 95348-8632,NA,NA,FALSE,tested,Merced,Merced County,37.3683983,-120.4701616
+Merced Union High,Golden Valley High,2121 East Childs Avenue Merced CA 95344-0188,NA,NA,FALSE,tested,NA,Merced County,37.2877479166667,-120.449756458333
+Merced Union High,Livingston High,1617 Main Street Livingston CA 95334-1250,NA,NA,FALSE,tested,Livingston,Merced County,37.3769706510067,-120.723355308725
+Merced Union High,Merced High,205 West Olive Avenue Merced CA 95348-3100,NA,NA,FALSE,tested,Merced,Merced County,37.3189843248799,-120.473001871416
+Merced Union High,Sequoia High,1900 G St Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.300512,-120.474283232149
+Merced Union High,Yosemite High (Continuation),1900 G Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.3029568,-120.4843269

@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Brentwood Union Elementary,Adams (J. Douglas) Middle,401 American Avenue Brentwood CA 94513-4611,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9180043,-121.75887350000001
+Brentwood Union Elementary,Brentwood Elementary,200 Griffith Lane Brentwood CA 94513-1137,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9277681,-121.7064318
+Brentwood Union Elementary,Edna Hill Middle,140 Birch Street Brentwood CA 94513-1646,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9315570377358,-121.690817
+Brentwood Union Elementary,Garin Elementary,250 First Street Brentwood CA 94513-1610,13,ppb,TRUE,tested,NA,NA,NA,NA
+Brentwood Union Elementary,Loma Vista Elementary,2110 San Jose Avenue Brentwood CA 94513-5930,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9399329269566,-121.73772071101
+Brentwood Union Elementary,Marsh Creek Elementary,601 Grant Street Brentwood CA 94513-2259,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9527556,-121.707289183952
+Brentwood Union Elementary,Mary Casey Black Elementary,480 Farmington Drive Brentwood CA 94513-5548,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9491404897959,-121.687629142857
+Brentwood Union Elementary,Pioneer Elementary,2010 Shady Willow Lane Brentwood CA 94513-5309,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9545125699813,-121.736855964
+Brentwood Union Elementary,R. Paul Krey Elementary,190 Crawford Drive Brentwood CA 94513-5628,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918370352778,-121.738353186855
+Brentwood Union Elementary,Ron Nunn Elementary,1755 Central Boulevard Brentwood CA 94513-1734,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9302871120152,-121.728606119667
+Brentwood Union Elementary,William B. Bristow Middle,855 Minnesota Avenue Brentwood CA 94513-1802,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.9374816114342,-121.714649242929

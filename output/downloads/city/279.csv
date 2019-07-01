@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sanger Unified,Community Day,818 L Street Sanger CA 93657-3201,NA,NA,FALSE,tested,Sanger,Fresno County,36.7051315118322,-119.554013028955
+Sanger Unified,Lincoln Elementary,1700 14th Street Sanger CA 93657-3442,7,ppb,TRUE,tested,Sanger,Fresno County,36.697031,-119.560185
+Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,NA,NA,NA,not tested,Sanger,Fresno County,36.70125325,-119.57777875281
+Fresno Unified,Susan B. Anthony Elementary,1542 East Webster Street Fresno CA 93728-3701,NA,NA,FALSE,tested,Sanger,Fresno County,36.7049319,-119.5665926

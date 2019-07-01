@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Vacaville Unified,Adult Education,100-A McClellan Street Vacaville CA 95688-3937,NA,NA,NA,not tested,Vacaville,Solano County,38.358743,-121.983293
+Vacaville Unified,Alamo Elementary,500 South Orchard Avenue Vacaville CA 95688-4334,NA,NA,FALSE,tested,Vacaville,Solano County,38.3528513102819,-122.001698425364
+Vacaville Unified,Alternative Cooperative Education Charter,400 Hemlock St. Vacaville CA 95688-2616,NA,NA,NA,not tested,Vacaville,Solano County,38.364589,-122.003501
+Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,NA,NA,NA,not tested,Vacaville,Solano County,38.33321,-121.952134
+Vacaville Unified,Cooper Elementary,750 Christine Drive Vacaville CA 95687-4163,NA,NA,FALSE,tested,Vacaville,Solano County,38.355046,-121.94699
+Vacaville Unified,Country High,100-B McClellan Street Vacaville CA 95688-3937,6.2,ppb,TRUE,tested,Vacaville,Solano County,38.358743,-121.983293
+Vacaville Unified,Edwin Markham Elementary,101 Markham Avenue Vacaville CA 95688-2312,6,ppb,TRUE,tested,Vacaville,Solano County,38.370765,-121.977633
+Vacaville Unified,Ernest Kimme Charter Academy for Independent Learning,1949 Peabody Road Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3356998673881,-121.970264483491
+Vacaville Unified,Eugene Padan Elementary,200 Padan School Road Vacaville CA 95687-5444,NA,NA,FALSE,tested,Vacaville,Solano County,38.3407045886217,-121.983745155975
+Vacaville Unified,Fairmont Charter Elementary,1355 Marshall Road Vacaville CA 95687-5519,NA,NA,FALSE,tested,Vacaville,Solano County,38.346292877551,-121.967196918367
+Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,NA,NA,NA,not tested,Vacaville,Solano County,38.326433,-121.966739
+Vacaville Unified,Hemlock Elementary,400 Hemlock Street Vacaville CA 95688-2616,13,ppb,TRUE,tested,Vacaville,Solano County,38.364589,-122.003501
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3333769740071,-121.977052131863
+Vacaville Unified,Jean Callison Elementary,6261 Vanden Road Vacaville CA 95687-7294,NA,NA,FALSE,tested,Vacaville,Solano County,38.340241,-121.94298
+Vacaville Unified,Kairos Public School Vacaville Academy,129 Elm Street Vacaville CA 95688-6925,NA,NA,FALSE,tested,Vacaville,Solano County,38.3524699662494,-121.990783179069
+Vacaville Unified,Orchard Elementary,805 North Orchard Avenue Vacaville CA 95688-2138,10,ppb,TRUE,tested,Vacaville,Solano County,38.3754582784993,-122.004471300067
+Vacaville Unified,Sierra Vista,301 Bel Air Drive Vacaville CA 95687-6343,5.8,ppb,TRUE,tested,Vacaville,Solano County,38.3365411933904,-121.957502026808
+Vacaville Unified,Vaca Pena Middle,200 Keith Way Vacaville CA 95687-5189,NA,NA,FALSE,tested,Vacaville,Solano County,38.3486306846519,-121.948152563587
+Vacaville Unified,Will C. Wood High,998 Marshall Road Vacaville CA 95687-5735,NA,NA,FALSE,tested,Vacaville,Solano County,38.3460680391454,-121.975014508414
+Vacaville Unified,Willis Jepson Middle,580 Elder Street Vacaville CA 95688-2531,NA,NA,FALSE,tested,Vacaville,Solano County,38.3626725377325,-122.007205647745

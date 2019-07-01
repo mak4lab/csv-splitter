@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Apple Valley Unified,Apple Valley Adult Education,21950 Nisqually Rd Apple Valley CA 92308,NA,NA,NA,not tested,NA,San Bernardino County,34.4861457495172,-117.185135438716
+Apple Valley Unified,Apple Valley High,11837 Navajo Road Apple Valley CA 92308-7653,NA,NA,FALSE,tested,NA,San Bernardino County,34.4668834017834,-117.190075459773
+Apple Valley Unified,Desert Knolls Elementary,18213 Symeron Drive Apple Valley CA 92307-4537,NA,NA,FALSE,tested,NA,NA,NA,NA
+Apple Valley Unified,Granite Hills High,22900 Esaws Road Apple Valley CA 92307-4305,NA,NA,FALSE,tested,NA,NA,NA,NA
+Apple Valley Unified,High Desert Premier Academy,12555 Navajo Rd Apple Valley CA 92308-7256,NA,NA,FALSE,tested,NA,San Bernardino County,34.4798916513951,-117.19010269049
+Apple Valley Unified,Mariana Academy,10601 Manhasset Road Apple Valley CA 92308-8048,NA,NA,FALSE,tested,NA,San Bernardino County,34.4443785646021,-117.187821340236
+Apple Valley Unified,Phoenix Academy,20700 Thunderbird Road Apple Valley CA 92307-3322,NA,NA,FALSE,tested,NA,San Bernardino County,34.5315967,-117.2152726
+Apple Valley Unified,Rancho Verde Elementary,14334 Pioneer Road Apple Valley CA 92307-4122,NA,NA,FALSE,tested,NA,San Bernardino County,34.5125678445584,-117.179397086756
+Apple Valley Unified,Rio Vista School of Applied Learning,13590 Havasu Road Apple Valley CA 92308-6037,NA,NA,FALSE,tested,NA,San Bernardino County,34.4986170806792,-117.250650683355
+Apple Valley Unified,Sandia Elementary,21331 Sandia Road Apple Valley CA 92308-7722,NA,NA,FALSE,tested,NA,San Bernardino County,34.4642276034069,-117.199053347803
+Apple Valley Unified,Sitting Bull Academy,19445 Sitting Bull Road Apple Valley CA 92308-5002,NA,NA,FALSE,tested,NA,San Bernardino County,34.4857180620128,-117.240941787771
+Apple Valley Unified,Sycamore Rocks Elementary,23450 South Rd. Apple Valley CA 923072075,NA,NA,NA,not tested,NA,NA,NA,NA
+Apple Valley Unified,Vanguard Preparatory,12951 Mesquite Road Apple Valley CA 92308-5433,NA,NA,FALSE,tested,NA,San Bernardino County,34.489614,-117.163836
+Apple Valley Unified,Yucca Loma Elementary,21351 Yucca Loma Road Apple Valley CA 92307-5844,NA,NA,FALSE,tested,NA,San Bernardino County,34.5003962085039,-117.198588847112

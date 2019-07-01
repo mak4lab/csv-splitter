@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alhambra Unified,Alhambra High,101 South Second Street Alhambra CA 91801-3716,5.6,ppb,TRUE,tested,NA,NA,NA,NA
+Alhambra Unified,Brightwood Elementary,1701 Brightwood Street Monterey Park CA 91754-5100,12,ppb,TRUE,tested,NA,NA,NA,NA
+Alhambra Unified,Century High,20 South Marengo Avenue Alhambra CA 91801-1947,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.0911904729597,-118.141923921646
+Alhambra Unified,Emery Park Elementary,2821 West Commonwealth Avenue Alhambra CA 91803-1099,5.8,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0878860575557,-118.154417360236
+Alhambra Unified,Fremont Elementary,2001 South Elm Street Alhambra CA 91803-2905,NA,NA,FALSE,tested,NA,NA,NA,NA
+Alhambra Unified,Garfield Elementary,110 West McLean Street Alhambra CA 91801-1364,6.05,ppb,TRUE,tested,Alhambra,Los Angeles County,34.1014241428571,-118.132933
+Alhambra Unified,Granada Elementary,100 South Granada Avenue Alhambra CA 91801-4021,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.098323,-118.116877
+Alhambra Unified,Marguerita Elementary,1603 South Marguerita Avenue Alhambra CA 91803-3199,6.1,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0753707785235,-118.138245731544
+Alhambra Unified,Mark Keppel High,501 East Hellman Avenue Alhambra CA  91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
+Alhambra Unified,Mark Keppel High,501 East Hellman Ave Alhambra CA 91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
+Alhambra Unified,Martha Baldwin Elementary,900 South Almansor Street Alhambra CA 91801-4854,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.085618,-118.116848
+Alhambra Unified,Monterey Highlands Elementary,400 Casuda Canyon Drive Monterey Park CA 91754-2204,NA,NA,FALSE,tested,Monterey Park,Los Angeles County,34.058178,-118.15633
+Alhambra Unified,Park Elementary,301 North Marengo Avenue Alhambra CA 91801-1917,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.09536,-118.142151
+Alhambra Unified,Ramona Elementary,509 West Norwood Place Alhambra CA 91803-3217,NA,NA,FALSE,tested,NA,NA,NA,NA
+Alhambra Unified,Repetto Elementary,650 South Grandridge Avenue Monterey Park CA 91754-3921,7.5,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.0539590634408,-118.12827254428
+Alhambra Unified,San Gabriel High,801 Ramona Street San Gabriel CA 91776-2342,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.0956689,-118.1078152
+Alhambra Unified,William Northrup Elementary,409 South Atlantic Boulevard Alhambra CA 91801-3643,8.2,ppb,TRUE,tested,Alhambra,Los Angeles County,34.08602005,-118.135552395614
+Alhambra Unified,Ynez Elementary,120 South Ynez Avenue Monterey Park CA 91754-2822,17,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.0621465570148,-118.129011740786

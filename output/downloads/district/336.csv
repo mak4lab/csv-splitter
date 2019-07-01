@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+John Swett Unified,Carquinez Middle,1099 Pomona Street Crockett CA 94525-1427,NA,NA,FALSE,tested,NA,Contra Costa County,38.0527529,-122.2135201
+John Swett Unified,John Swett High,1098 Pomona Street Crockett CA 94525-1426,NA,NA,FALSE,tested,NA,Contra Costa County,38.0527529,-122.2135201
+John Swett Unified,Rodeo Hills Elementary,545 Garretson Street Rodeo CA 94572-1418,NA,NA,FALSE,tested,NA,NA,NA,NA
+John Swett Unified,Willow High,1650 Crockett Boulevard Crockett CA 94525-0916,NA,NA,FALSE,tested,NA,Contra Costa County,38.0466947907982,-122.220158522082

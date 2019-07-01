@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Maria-Bonita,Alvin Elementary,301 East Alvin Avenue Santa Maria CA 93454-3703,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9610525,-120.43294599857
+Santa Maria-Bonita,Battles (Washington) Elementary,605 East Battles Road Santa Maria CA 93454-7211,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9314820612155,-120.428629003864
+Santa Maria-Bonita,Bruce (Robert) Elementary,601 West Alvin Avenue Santa Maria CA 93458-3012,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9614031,-120.442883903974
+Santa Barbara County Office of Education,Dos Puertas School Juvenile Court School Santa Maria,4263 California Blvd Santa Maria CA 93455,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.8809298401803,-120.445778352663
+Santa Maria-Bonita,Fesler (Isaac) Junior High,1100 East Fesler Street Santa Maria CA 93454-4611,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.956393,-120.418817
+Santa Maria-Bonita,Jimenez Roberto and Dr Francisco Elementary School,1970 South Biscayne Street Santa Maria CA 93458,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9278579,-120.4524001
+Santa Maria-Bonita,Kunst (Tommie) Junior High,930 Hidden Pines Way Santa Maria CA 93458-1419,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.98597,-120.444016
+Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,930 West Rancho Verde Santa Maria CA 93458-8224,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.977159,-120.448125
+Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9114784,-120.4348852
+Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.960991,-120.400264
+Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9418775,-120.435834102041

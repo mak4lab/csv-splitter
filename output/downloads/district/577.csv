@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Perris Union High,California Military Institute,755 North A Street Perris CA 92570-1958,NA,NA,FALSE,tested,Perris,Riverside County,33.7933597329832,-117.234713640829
+Perris Union High,Extended Learning Center,755 North A Street Perris CA 92570-1958,NA,NA,NA,not tested,Perris,Riverside County,33.7933597329832,-117.234713640829
+Perris Union High,Heritage High,26000 Briggs Road Romoland CA 92585-3230,NA,NA,FALSE,tested,Menifee,Riverside County,33.7503788,-117.1365374
+Perris Union High,Paloma Valley High,31375 Bradley Road Menifee CA 92584-9368,NA,NA,FALSE,tested,Menifee,Riverside County,33.66505645,-117.192035578967
+Perris Union High,Perris High,175 East Nuevo Road Perris CA 92571-2910,NA,NA,NA,not tested,Perris,Riverside County,33.8010345859902,-117.224950306042
+Perris Union High,Perris Lake High (Continuation),418 West Ellis Perris CA 92570-4544,6,ppb,TRUE,tested,NA,Riverside County,33.771964,-117.2192027
+Perris Union High,Pinacate Middle,1990 South A Street Perris CA 92570-4507,NA,NA,FALSE,tested,NA,NA,NA,NA

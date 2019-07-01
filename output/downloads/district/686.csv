@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Mateo Union High,Aragon High,900 Alameda de Las Pulgas San Mateo CA 94402-3357,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.3471674
+San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.5978274018288,-122.379961310625
+San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.5322051997906,-122.315061292243
+San Mateo Union High,Mills High,400 Murchison Drive Millbrae CA 94030-3024,NA,NA,FALSE,tested,Millbrae,San Mateo County,37.5946883176698,-122.388001015798
+San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.609176988407,-122.430573360337
+San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.5760917529282,-122.329722844373

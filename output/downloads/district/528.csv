@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Nuview Union,Excel Prep Charter - IE,25560 Alessandro Boulevard Moreno Valley CA 92583-3236,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.917422,-117.216386615385
+Nuview Union,Mountain Shadows Middle,30401 Reservoir Avenue Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
+Nuview Union,Nuview Bridge Early College High,30401 Reservoir Ave Nuevo CA 92567-9361,NA,NA,NA,not tested,NA,Riverside County,33.8076784,-117.147397
+Nuview Union,Nuview Elementary,29680 Lakeview Avenue Nuevo CA 92567-9140,NA,NA,NA,not tested,NA,Riverside County,33.8193473680546,-117.131310041958
+Nuview Union,Valley View Elementary,21220 Maurice Street Nuevo CA 92567-9010,NA,NA,FALSE,tested,NA,Riverside County,33.8103141644973,-117.109440201404

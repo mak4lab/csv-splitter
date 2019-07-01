@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+LAUSD,BILL CRUZ EARLY EDUCATION CENTER,"1020 S. VALENCIA ST., LOS ANGELES, CA 90015",NA,NA,NA,exempt,Alhambra,Los Angeles County,34.0840006060606,-118.113063676768
+Alhambra Unified,Century High,20 South Marengo Avenue Alhambra CA 91801-1947,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.0911904729597,-118.141923921646
+Alhambra Unified,Emery Park Elementary,2821 West Commonwealth Avenue Alhambra CA 91803-1099,5.8,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0878860575557,-118.154417360236
+Alhambra Unified,Garfield Elementary,110 West McLean Street Alhambra CA 91801-1364,6.05,ppb,TRUE,tested,Alhambra,Los Angeles County,34.1014241428571,-118.132933
+Alhambra Unified,Granada Elementary,100 South Granada Avenue Alhambra CA 91801-4021,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.098323,-118.116877
+Alhambra Unified,Marguerita Elementary,1603 South Marguerita Avenue Alhambra CA 91803-3199,6.1,ppb,TRUE,tested,Alhambra,Los Angeles County,34.0753707785235,-118.138245731544
+Alhambra Unified,Mark Keppel High,501 East Hellman Avenue Alhambra CA  91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
+Alhambra Unified,Mark Keppel High,501 East Hellman Ave Alhambra CA 91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
+Alhambra Unified,Martha Baldwin Elementary,900 South Almansor Street Alhambra CA 91801-4854,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.085618,-118.116848
+Alhambra Unified,Park Elementary,301 North Marengo Avenue Alhambra CA 91801-1917,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.09536,-118.142151
+Alhambra Unified,William Northrup Elementary,409 South Atlantic Boulevard Alhambra CA 91801-3643,8.2,ppb,TRUE,tested,Alhambra,Los Angeles County,34.08602005,-118.135552395614

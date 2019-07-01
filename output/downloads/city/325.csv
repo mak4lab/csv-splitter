@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5099790408163,-120.847363816327
+Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4780957890701,-120.855047506613
+Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5306867,-120.84112669357
+Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,NA,NA,NA,not tested,Turlock,Stanislaus County,37.5135164054054,-120.848777165541
+Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.496501,-120.876183
+Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,TRUE,tested,Turlock,Stanislaus County,37.5000412525253,-120.826862484848
+Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.5060972011503,-120.835376899075
+Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4940283892617,-120.862359993289
+Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.53370445,-120.856631564079
+Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5000421081081,-120.831606810811
+Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5280623939394,-120.867056424242
+Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.4854449090909,-120.851497727273
+Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.5326107532131,-120.866760524031
+Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,NA,NA,NA,not tested,Turlock,Stanislaus County,37.543972,-120.879111

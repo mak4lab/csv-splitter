@@ -1,0 +1,35 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sweetwater Union High,Alta Vista Academy,730 Medical Center Court Chula Vista CA 91911-6618,NA,NA,NA,not tested,Chula Vista,San Diego County,32.618192,-117.024892
+Sweetwater Union High,Bonita Vista Middle,650 Otay Lakes Road Chula Vista CA 91910-6910,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6478323,-117.0064147
+Sweetwater Union High,Bonita Vista Senior High,751 Otay Lakes Road Chula Vista CA 91913-2004,NA,NA,NA,not tested,Chula Vista,San Diego County,32.64473,-116.998681
+Sweetwater Union High,Castle Park Middle,160 Quintard Street Chula Vista CA 91911-4414,8.975,ppb,TRUE,tested,Chula Vista,San Diego County,32.6048458572664,-117.059339306224
+Sweetwater Union High,Castle Park Senior High,1395 Hilltop Drive Chula Vista CA 91911-4529,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6069908059038,-117.052821283881
+Sweetwater Union High,Chula Vista Middle,415 Fifth Avenue Chula Vista CA 91910-4305,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sweetwater Union High,Chula Vista Senior High,820 Fourth Avenue Chula Vista CA 91911-1102,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sweetwater Union High,East Hills Academy,1791 Rock Mountain Road Chula Vista CA 91913,NA,NA,NA,not tested,Chula Vista,San Diego County,32.607148,-116.9720968
+Sweetwater Union High,Eastlake High,1120 Eastlake Parkway Chula Vista CA 91915-2102,NA,NA,NA,not tested,Chula Vista,San Diego County,32.629563,-116.9648934
+Sweetwater Union High,Eastlake Middle,900 Duncan Ranch Road Chula Vista CA 91914-2626,NA,NA,NA,not tested,Chula Vista,San Diego County,32.65441085,-116.948044305246
+Sweetwater Union High,Granger Junior High,2101 Granger Avenue National City CA 91950-6299,5.46,ppb,TRUE,tested,National City,San Diego County,32.672624772425,-117.073805062153
+Sweetwater Union High,Hilltop Middle,44 East J Street Chula Vista CA 91910-6115,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.63011495,-117.059059081035
+Sweetwater Union High,Hilltop Senior High,555 Claire Avenue Chula Vista CA 91910-6105,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6375400217113,-117.060136471112
+Sweetwater Union High,Imperial Beach Adult School,170 Palm Avenue Imperial Beach CA 92132,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5837708,-117.1021516
+Sweetwater Union High,MAAC Community Charter,1385 Third Avenue Chula Vista CA 91911-4302,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.604521,-117.064632
+Sweetwater Union High,Mar Vista Academy,1267 Thermal Avenue San Diego CA 92154-2802,NA,NA,FALSE,tested,San Diego,San Diego County,32.574883,-117.095952
+Sweetwater Union High,Mar Vista Senior High,505 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5780756,-117.122803963135
+Sweetwater Union High,Montgomery Adult,3240 Palm Avenue San Diego CA 92154-1507,NA,NA,FALSE,tested,San Diego,San Diego County,32.5838899974895,-117.064303073102
+Sweetwater Union High,Montgomery Middle,1051 Picador Boulevard San Diego CA 92154-3548,7.165,ppb,TRUE,tested,San Diego,San Diego County,32.576755,-117.055404693385
+Sweetwater Union High,Montgomery Senior High,3250 Palm Avenue San Diego CA 92154-1507,NA,NA,FALSE,tested,San Diego,San Diego County,32.585893,-117.064215
+Sweetwater Union High,National City Middle,1701 D Avenue National City CA 91950-4535,6.49,ppb,TRUE,tested,National City,San Diego County,32.672688,-117.101128
+Sweetwater Union High,Olympian High,1925 Magdalena Avenue Chula Vista CA 91913-3973,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6090498,-116.973117128795
+Sweetwater Union High,Options Secondary,467 Moss Street Chula Vista CA 91911-1705,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6150991557835,-117.077415263139
+Sweetwater Union High,Otay Ranch Senior High,1250 Olympic Parkway Chula Vista CA 91913-1900,NA,NA,NA,not tested,Chula Vista,San Diego County,32.62045,-116.990644298645
+Sweetwater Union High,Palomar High,480 Palomar Street Chula Vista CA 91911-3098,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6048209752506,-117.073768879389
+Sweetwater Union High,Rancho del Rey Middle,1174 East J Street Chula Vista CA 91910-7040,NA,NA,NA,not tested,Chula Vista,San Diego County,32.635067,-117.036926
+Sweetwater Union High,San Ysidro Adult Education Center,4220 Otay Mesa Road San Ysidro CA 92173,NA,NA,NA,not tested,San Diego,San Diego County,32.5598622302277,-117.04080430723
+Sweetwater Union High,San Ysidro High,5353 Airway Road San Diego CA 92154-4806,NA,NA,NA,not tested,San Diego,San Diego County,32.565561,-117.017775
+Sweetwater Union High,Southwest Middle,2710 Iris Street San Diego CA 92154-3338,NA,NA,FALSE,tested,Santee,San Diego County,32.8317399,-116.9540066
+Sweetwater Union High,Southwest Senior High,1685 Hollister Street San Diego CA 92154-4548,NA,NA,FALSE,tested,San Diego,San Diego County,32.568056,-117.081321
+Sweetwater Union High,Stephen W. Hawking Charter,465 L Street Chula Vista CA 91911-1142,NA,NA,NA,not tested,Chula Vista,San Diego County,32.61921245,-117.078430798392
+Sweetwater Union High,"Stephen W. Hawkings II Science, Technology, Engineering, Art and Math Charter",2710 Iris Avenue San Diego CA 92154-3338,NA,NA,NA,not tested,San Diego,San Diego County,32.5691095,-117.0646919
+Sweetwater Union High,Sweetwater Community Day,505 1/2 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sweetwater Union High,Sweetwater High,2900 Highland Avenue National City CA 91950-7415,10.6,ppb,TRUE,tested,National City,San Diego County,32.660733,-117.092041

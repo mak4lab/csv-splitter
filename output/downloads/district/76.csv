@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Blochman Union Elementary,Benjamin Foxen Elementary,4949 Foxen Canyon Rd. Santa Maria CA 93454-9666,NA,NA,FALSE,tested,NA,Santa Barbara County,34.923294,-120.365326
+Blochman Union Elementary,Family Partnership Charter School,1981 Vicente drive Building C San Luis Obispo CA 93405,8.3,ppb,TRUE,tested,NA,NA,NA,NA
+Blochman Union Elementary,Family Partnership Home Study Charter,625 South McClelland Santa Maria CA 93454-5120,NA,NA,NA,not tested,NA,NA,NA,NA
+Blochman Union Elementary,Trivium Charter,4949 Foxen Canyon Road Santa Maria CA 93454-9145,NA,NA,NA,not tested,NA,Santa Barbara County,34.923294,-120.365326

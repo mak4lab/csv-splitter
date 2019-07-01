@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Poway Unified,Abraxas Continuation High,12450 Glenoak Road Poway CA 92064-3299,NA,NA,FALSE,tested,Poway,San Diego County,32.9737394897959,-117.062147959184
+Poway Unified,Chaparral Elementary,17250 Tannin Drive Poway CA 92064-1123,NA,NA,FALSE,tested,Poway,San Diego County,33.022469,-117.051173
+Private,Country Montessori School of Poway,12642 Monte Vista Road Poway CA 92064,NA,NA,FALSE,tested,Poway,San Diego County,32.9945691245867,-117.054579491734
+Poway Unified,Garden Road Elementary,14614 Garden Road Poway CA 92064-5299,NA,NA,FALSE,tested,Poway,San Diego County,32.9571024,-117.011635877937
+Poway Unified,Meadowbrook Middle,12320 Meadowbrook Lane Poway CA 92064-3599,NA,NA,FALSE,tested,Poway,San Diego County,32.9634023712347,-117.06338445178
+Poway Unified,Midland Elementary,13910 Midland Road Poway CA 92064-4024,NA,NA,FALSE,tested,Poway,San Diego County,32.9661810613227,-117.036236694472
+Poway Unified,Painted Rock Elementary,16711 Martincoit Road Poway CA 92064-1628,NA,NA,FALSE,tested,Poway,San Diego County,33.0174967495821,-117.039705382864
+Poway Unified,Poway Adult,13626 Twin Peaks Road Poway CA 92064-3034,6.07,ppb,TRUE,tested,Poway,San Diego County,32.9784381037096,-117.035684337836
+Poway Unified,Poway High,15500 Espola Road Poway CA 92064-2299,NA,NA,FALSE,tested,Poway,San Diego County,32.994117,-117.024753
+Poway Unified,Tierra Bonita Elementary,14678 Tierra Bonita Road Poway CA 92064-3090,NA,NA,FALSE,tested,Poway,San Diego County,32.9800791334081,-117.027725128198
+Poway Unified,Twin Peaks Middle,14640 Tierra Bonita Road Poway CA 92064-3091,NA,NA,FALSE,tested,Poway,San Diego County,32.9788365047825,-117.027704658894
+Poway Unified,Valley Elementary,13000 Bowron Road Poway CA 92064-5799,NA,NA,FALSE,tested,Poway,San Diego County,32.954844,-117.045289

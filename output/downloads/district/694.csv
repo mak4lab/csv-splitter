@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sanger Unified,Community Day,818 L Street Sanger CA 93657-3201,NA,NA,FALSE,tested,Sanger,Fresno County,36.7051315118322,-119.554013028955
+Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sanger Unified,Hallmark Charter,2445 Ninth Street Sanger CA 93657-2780,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sanger Unified,Jackson Elementary,1810 Third Street Sanger CA 93657-2302,6.3,ppb,TRUE,tested,NA,NA,NA,NA
+Sanger Unified,Jefferson Elementary,1110 Tucker Street Sanger CA 93657-3338,6.65,ppb,TRUE,tested,NA,NA,NA,NA
+Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,NA,NA,FALSE,tested,Fresno,Fresno County,36.7333318287666,-119.675720166214
+Sanger Unified,Kings River High (Continuation),1801 Seventh Street Sanger CA 93657-2895,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sanger Unified,Lincoln Elementary,1700 14th Street Sanger CA 93657-3442,7,ppb,TRUE,tested,Sanger,Fresno County,36.697031,-119.560185
+Sanger Unified,Madison Elementary,2324 Cherry Street Sanger CA 93657-3608,6.6,ppb,TRUE,tested,NA,NA,NA,NA
+Sanger Unified,Quail Lake Environmental Charter,4087 North Quail Lake Drive Clovis CA 93611-4646,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sanger Unified,Ronald W. Reagan Elementary,1586 South Indianola Sanger CA 93657-9731,NA,NA,FALSE,tested,NA,NA,NA,NA
+Sanger Unified,Sanger Academy Charter,2207 Ninth Street Sanger CA 93657-2711,5.6,ppb,TRUE,tested,NA,NA,NA,NA
+Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,NA,NA,NA,not tested,Sanger,Fresno County,36.70125325,-119.57777875281
+Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,NA,NA,FALSE,tested,Fresno,Fresno County,36.71037085,-119.671306150078
+Sanger Unified,Washington Academic Middle,1705 Tenth Street Sanger CA 93657-2799,NA,NA,NA,not tested,NA,NA,NA,NA
+Sanger Unified,Wilson Elementary,610 Faller Street Sanger CA 93657-2553,NA,NA,FALSE,tested,NA,NA,NA,NA

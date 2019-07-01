@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Paula Unified,Barbara Webster Elementary,1150 Saticoy Street Santa Paula CA 93060-0710,6.8,ppb,TRUE,tested,Santa Paula,Ventura County,34.359989,-119.059108
+Santa Paula Unified,Blanchard Elementary,115 Peck Road Santa Paula CA 93060-3013,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Paula Unified,Glen City Elementary,141 Steckel Drive Santa Paula CA 93060-0710,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Paula Unified,Grace S. Thille Elementary,1144 Ventura Street Santa Paula CA 93060-2910,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Paula Unified,Isbell Middle,221 South Fourth Street Santa Paula CA 93060-3301,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Paula Unified,McKevett Elementary,955 East Pleasant Street Santa Paula CA 93060-2158,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.3580956122449,-119.063934346939
+Santa Paula Unified,Renaissance High,333 North Palm Avenue Santa Paula CA 93060,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.3540888265364,-119.073435201906
+Santa Paula Unified,Santa Paula High,404 North Sixth Street Santa Paula CA 93060-2008,NA,NA,FALSE,tested,NA,NA,NA,NA
+Santa Paula Unified,Thelma B. Bedell Elementary,1305 Laurel Road Santa Paula CA 93060-0710,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.3742434552239,-119.062244880597

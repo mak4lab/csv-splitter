@@ -1,0 +1,37 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cajon Valley Union,Anza Elementary,1005 South Anza Street El Cajon CA 92020-8602,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7822118407299,-116.948110919585
+Cajon Valley Union,Cajon Valley Community Day,165 Roanoke Road El Cajon CA 92021-4015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7957281579641,-116.95478090755
+Grossmont Union High,Chaparral High/IDEA Center,1600 North Cuyamaca Street El Cajon CA 92021,5.5,ppb,TRUE,tested,El Cajon,San Diego County,32.812329,-116.9796032
+Cajon Valley Union,Chase Avenue Elementary,195 East Chase Avenue El Cajon CA 92020-6201,NA,NA,FALSE,tested,El Cajon,San Diego County,32.780303,-116.96129944898
+Private,Dayspring Christian Learning Center,1150 Greenfield Drive El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813712,-116.942208
+Dehesa Elementary,Dehesa Elementary,4612 Dehesa Road B El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Julian Union Elementary,Diego Valley Charter,511 North 2nd Street El Cajon CA 92021-6449,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800568,-116.935298
+Grossmont Union High,East County Regional Education Center,924 East Main St El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7950011540584,-116.949071192215
+Cajon Valley Union,EJE Academies,851 South Johnson Avenue El Cajon CA 92020-5811,NA,NA,FALSE,tested,El Cajon,San Diego County,32.791306,-116.970947
+Private,El Cajon Seventh-day Adventist,1640 East Madison Avenue El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803004,-116.920893
+Grossmont Union High,El Cajon Valley High,1035 East Madison Avenue El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+Grossmont Union High,El Cajon Valley High/EC Adult Center,1035 East Madison Ave El Cajon CA 92021-6226,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+La Mesa-Spring Valley,Fletcher Hills Elementary,2330 Center Place El Cajon CA 92020-2809,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8004926595616,-116.996583553591
+Cajon Valley Union,Flying Hills Elementary,1251 Finch Street El Cajon CA 92020-1433,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8118393356476,-116.982374495146
+Grossmont Union High,Foothills Adult Education Center,1550 Melody Lane El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Grossmont Union High,Foothills and Grossmont Adult Education Centers,1550 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Private,Foothills Christian High School,2321 Dryden Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7984689275381,-116.995918742953
+Grossmont Union High,Granite Hills High,1719 East Madison Avenue El Cajon CA 92019-1052,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001269952629,-116.916925978708
+Cajon Valley Union,Greenfield Middle,1495 Greenfield Drive El Cajon CA 92021-3414,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813188,-116.931424
+Private,Holy Trinity Elementary,509 Ballard Street El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.790389270017,-116.941252360463
+Dehesa Elementary,Inspire Charter School - South,4612 Dehesa Road El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Cajon Valley Union,Lexington Elementary,1145 Redwood Ave El Cajon CA 92019-4739,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79122,-116.942009914739
+San Diego County Office of Education,Literacy First Charter,799 East Washington Avenue El Cajon CA 92020-5327,NA,NA,FALSE,tested,El Cajon,San Diego County,32.787118,-116.952022
+San Diego County Office of Education,Literacy First Charter School Jr Academy,1012 E. Bradley Ave El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.820737,-116.946714
+San Diego County Office of Education,Literacy First Charter School Liberty Academy,698 W. Main St. El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.795491,-116.970497
+Cajon Valley Union,Madison Avenue Elementary,1615 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800116,-116.922195328052
+Cajon Valley Union,Magnolia Elementary,650 Greenfield Drive El Cajon CA 92021-2957,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8134135649439,-116.953733351052
+Dehesa Elementary,MethodSchools,4612 Dehesa Rd El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Cajon Valley Union,Montgomery Middle,1570 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79656,-116.924821
+Dehesa Elementary,Mosaica Online Academy of Southern California,4612 Dehesa Road C El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Cajon Valley Union,Naranca Elementary,1030 Naranca Avenue El Cajon CA 92021-5615,NA,NA,FALSE,tested,El Cajon,San Diego County,32.804018,-116.947147305407
+Private,Our Lady of Grace School,2766 Navajo Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803908,-117.004108
+Santee,Pepper Drive Elementary,1935 Marlinda Way El Cajon CA 92020-1155,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8268486030357,-116.953984065406
+Private,Saint Kieran Catholic School,1347 Camillo Way El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8140042769667,-116.928629158742
+Cajon Valley Union,Sevick Special Education,1609 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79931605,-116.921475745467
+Cajon Valley Union,W. D. Hall Elementary,1376 Pepper Drive El Cajon CA 92021-1460,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8209052986809,-116.931059248338

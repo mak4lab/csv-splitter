@@ -1,0 +1,688 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Poway Unified,Abraxas Continuation High,12450 Glenoak Road Poway CA 92064-3299,NA,NA,FALSE,tested,Poway,San Diego County,32.9737394897959,-117.062147959184
+Cardiff Elementary,Ada Harris Elementary,"1888 Montgomery Ave, Cardiff, CA 92007",NA,NA,NA,exempt,Encinitas,San Diego County,33.0250716494141,-117.28230770271
+San Diego Unified,Adams Elementary,4672 35th Street San Diego CA 92116-3536,NA,NA,FALSE,tested,San Diego,San Diego County,32.761807,-117.118439
+Poway Unified,Adobe Bluffs Elementary,8707 Adobe Bluffs Drive San Diego CA 92129-4448,NA,NA,NA,not tested,San Diego,San Diego County,32.973184,-117.140377
+Vista Unified,Alamosa Park Elementary,5130 Alamosa Park Drive Oceanside CA 92057-6301,NA,NA,FALSE,tested,Oceanside,San Diego County,33.23907475,-117.282004845108
+San Diego Unified,ALBA,4041 Oregon St San Diego CA 92104-1706,NA,NA,FALSE,tested,San Diego,San Diego County,32.7511123299711,-117.135014104307
+San Diego Unified,Alcott Elementary,4680 Hidalgo Avenue San Diego CA 92117-2503,NA,NA,FALSE,tested,San Diego,San Diego County,32.832911,-117.221565
+Chula Vista Elementary,Allen (Ella B.) Elementary,4300 Allen School Road Bonita CA 91902-2309,6,ppb,TRUE,tested,Chula Vista,San Diego County,32.658951,-117.034477
+Alpine Union Elementary,Alpine Elementary,1850 Alpine Boulevard Alpine CA 91901-3898,NA,NA,FALSE,tested,NA,San Diego County,32.8375629339905,-116.774421031358
+Sweetwater Union High,Alta Vista Academy,730 Medical Center Court Chula Vista CA 91911-6618,NA,NA,NA,not tested,Chula Vista,San Diego County,32.618192,-117.024892
+San Marcos Unified,Alvin M. Dunn Elementary,3697 La Mirada Drive San Marcos CA 92078-2312,NA,NA,NA,not tested,San Marcos,San Diego County,33.1439377850954,-117.204279024211
+San Diego Unified,America's Finest Charter,730 45th Street San Diego CA 92102-3619,NA,NA,FALSE,tested,San Diego,San Diego County,32.7131839079359,-117.097944127646
+San Diego Unified,Angier Elementary,8450 Hurlbut Street San Diego CA 92123-2013,10.2,ppb,TRUE,tested,San Diego,San Diego County,32.805969,-117.145306
+Cajon Valley Union,Anza Elementary,1005 South Anza Street El Cajon CA 92020-8602,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7822118407299,-116.948110919585
+San Diego Unified,Arroyo Paseo Charter High,3773 El Cajon Boulevard San Diego CA 92105,NA,NA,FALSE,tested,San Diego,San Diego County,32.7564304,-117.0895321
+Chula Vista Elementary,Arroyo Vista Charter,2491 School House Road Chula Vista CA 91915-2534,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6386973,-116.9534647
+Del Mar Union Elementary,Ashley Falls Elementary,13030 Ashley Falls Drive San Diego CA 92130-3717,NA,NA,FALSE,tested,San Diego,San Diego County,32.957282,-117.209555
+San Diego Unified,Audeo Charter,10170 Huennekens Street San Diego CA 92121-2964,NA,NA,NA,not tested,San Diego,San Diego County,32.902766,-117.184084
+Carlsbad Unified,Aviara Oaks Elementary,6900 Ambrosia Lane Carlsbad CA 92009-2430,NA,NA,NA,not tested,Carlsbad,San Diego County,33.101104559633,-117.276366972477
+San Diego Unified,Baker Elementary,4041 T Street San Diego CA 92113-1808,NA,NA,FALSE,tested,San Diego,San Diego County,32.698221,-117.107136
+San Diego Unified,Balboa Elementary,1844 South 40th Street San Diego CA 92113-4017,NA,NA,FALSE,tested,National City,San Diego County,32.686937,-117.109207
+San Diego Unified,Bandini Elementary,3550 Logan Avenue  San Diego CA 92113,NA,NA,FALSE,tested,San Diego,San Diego County,32.698091,-117.118052
+San Diego Unified,Barnard Elementary,2445 Fogg Street San Diego CA 92109-4855,NA,NA,FALSE,tested,San Diego,San Diego County,32.802426,-117.22365
+San Diego Unified,Bay Park Elementary,2433 Denver Street San Diego CA 92110-3338,NA,NA,FALSE,tested,San Diego,San Diego County,32.786369,-117.203438
+Chula Vista Elementary,Bayfront Charter High School,830 Bay Boulevard  Chula Vista CA 91911,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.617184,-117.09274
+South Bay Union,Bayside Elementary,490 Emory Street Imperial Beach CA 91932-1524,7.3,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5882451702128,-117.113152
+National Elementary,Beacon Classical Academy National City,2400 Euclid Avenue National City CA 91950-7715,NA,NA,NA,not tested,National City,San Diego County,32.668357,-117.076856
+Escondido Union,Bear Valley Middle,3003 Bear Valley Parkway Escondido CA 92025-7618,NA,NA,FALSE,tested,Escondido,San Diego County,33.0942124,-117.0589004
+Vista Unified,Beaumont Elementary,550 Beaumont Drive Vista CA 92084-6321,NA,NA,FALSE,tested,Vista,San Diego County,33.199654,-117.22493
+San Diego Unified,Bell Middle,620 Briarwood Road San Diego CA 92139-1399,NA,NA,FALSE,tested,San Diego,San Diego County,32.689125,-117.038487
+Vista Unified,Bella Mente Montessori Academy,1737 West Vista Way Vista CA 92083-2112,NA,NA,NA,not tested,Vista,San Diego County,33.1896628,-117.2784951
+San Diego Unified,Benchley/Weinberger Elementary,6269 Twin Lake Drive San Diego CA 92119-3051,NA,NA,FALSE,tested,La Mesa,San Diego County,32.794213,-117.03119
+Escondido Union,Bernardo Elementary,1122 Mountain Heights Drive Escondido CA 92029-5634,NA,NA,FALSE,tested,Escondido,San Diego County,33.0861079,-117.091661350032
+Poway Unified,Bernardo Heights Middle,12990 Paseo Lucido San Diego CA 92128-4479,NA,NA,NA,not tested,San Diego,San Diego County,32.9973074381296,-117.067509412843
+San Diego Unified,Bethune K-8,6835 Benjamin Holt Road San Diego CA 92114-7827,NA,NA,FALSE,tested,San Diego,San Diego County,32.6897380933936,-117.050097039421
+San Diego Unified,Bird Rock Elementary,5371 La Jolla Hermosa Avenue La Jolla CA 92037-8016,10.5,ppb,TRUE,tested,San Diego,San Diego County,32.8102020528354,-117.263967177231
+San Diego Unified,Birney Elementary,4345 Campus Avenue San Diego CA 92103-2406,9.48,ppb,TRUE,tested,San Diego,San Diego County,32.7565444,-117.1478096
+Poway Unified,Black Mountain Middle,9353 Oviedo Street San Diego CA 92129-2198,NA,NA,NA,not tested,San Diego,San Diego County,32.9692681925591,-117.126508143231
+Vista Unified,Bobier Elementary,220 West Bobier Drive Vista CA 92083-1903,NA,NA,FALSE,tested,Vista,San Diego County,33.221056,-117.248442
+Sweetwater Union High,Bonita Vista Middle,650 Otay Lakes Road Chula Vista CA 91910-6910,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6478323,-117.0064147
+Sweetwater Union High,Bonita Vista Senior High,751 Otay Lakes Road Chula Vista CA 91913-2004,NA,NA,NA,not tested,Chula Vista,San Diego County,32.64473,-116.998681
+Bonsall Unified,Bonsall Elementary,31555 Old River Road Bonsall CA 92003-5112,NA,NA,NA,not tested,NA,San Diego County,33.287173,-117.219226
+Bonsall Unified,Bonsall High,7350 West Lilac Road Bonsall CA 92003-4316,NA,NA,NA,not tested,NA,San Diego County,33.297398,-117.175002
+Bonsall Unified,Bonsall West Elementary,5050 El Mirlo Drive Oceanside CA 92057-2704,NA,NA,NA,not tested,Oceanside,San Diego County,33.264143,-117.292342
+San Diego Unified,Boone Elementary,7330 Brookhaven Road San Diego CA 92114-7115,NA,NA,FALSE,tested,San Diego,San Diego County,32.695775,-117.037003
+Borrego Springs Unified,Borrego Springs Elementary,1315 Palm Canyon Drive Borrego Springs CA 92004-0235,NA,NA,NA,not tested,NA,San Diego County,33.255189,-116.346824
+Borrego Springs Unified,Borrego Springs High,2281 Diegueno Road Borrego Springs CA 92004-0235,NA,NA,NA,not tested,NA,San Diego County,33.265478,-116.381535
+Borrego Springs Unified,Borrego Springs Middle,2255 Diegueno Road Borrego Springs CA 92004,NA,NA,NA,not tested,NA,San Diego County,33.27158,-116.383812
+Alpine Union Elementary,Boulder Oaks Elementary,2320 Tavern Road Alpine CA 91901-3134,5.95,ppb,TRUE,tested,NA,San Diego County,32.8201631158861,-116.776323745351
+Vista Unified,Breeze Hill Elementary,1111 Melrose Way Vista CA 92083-6505,NA,NA,FALSE,tested,Vista,San Diego County,33.1852698,-117.254515437546
+Carlsbad Unified,Buena Vista Elementary,1330 Buena Vista Way Carlsbad CA 92008-1535,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.168797,-117.342657912543
+San Diego Unified,Burbank Elementary,2146 Julian Avenue San Diego CA 92113-1237,NA,NA,FALSE,tested,San Diego,San Diego County,32.7005186,-117.138509923678
+San Diego Unified,Cabrillo Elementary,3120 Talbot Street San Diego CA 92106-2447,8.69,ppb,TRUE,tested,San Diego,San Diego County,32.721614,-117.233363
+San Diego Unified,Cadman Elementary,4370 Kamloop Avenue San Diego CA 92117-4543,NA,NA,FALSE,tested,San Diego,San Diego County,32.821319,-117.215342
+Cajon Valley Union,Cajon Valley Community Day,165 Roanoke Road El Cajon CA 92021-4015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7957281579641,-116.95478090755
+Carlsbad Unified,Calavera Hills Elementary,4100 Tamarack Avenue Carlsbad CA 92008-7101,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1499363,-117.3412066
+Vista Unified,California Avenue Elementary,215 West California Avenue Vista CA 92083-3622,6.8,ppb,TRUE,tested,Vista,San Diego County,33.2074402,-117.2448994
+Chula Vista Elementary,Camarena (Enrique S.) Elementary,1650 Exploration Falls Drive Chula Vista CA 91915-1961,NA,NA,NA,not tested,Chula Vista,San Diego County,32.622847,-116.958245
+Poway Unified,Canyon View Elementary,9225 Adolphia Street San Diego CA 92129-3525,NA,NA,NA,not tested,San Diego,San Diego County,32.9469609148556,-117.128528453186
+Encinitas Union Elementary,Capri Elementary,941 Capri Road Encinitas CA 92024-1214,NA,NA,NA,not tested,Encinitas,San Diego County,33.0760018771224,-117.288832459455
+Encinitas Union Elementary,Capri Elementary School," 941 Capri Rd, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0760018771224,-117.288832459455
+Cardiff Elementary,Cardiff Elementary,1888 Montgomery Avenue Cardiff-by-the-Sea CA 92007-2313,NA,NA,NA,not tested,Encinitas,San Diego County,33.0250716494141,-117.28230770271
+Cardiff Elementary,Cardiff Elementary School,"1888 Montgomery Ave, Cardiff, CA 92007",NA,NA,NA,exempt,Encinitas,San Diego County,33.0250716494141,-117.28230770271
+Carlsbad Unified,Carlsbad High,3557 Monroe Street B Carlsbad CA 92008-2729,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1623891364635,-117.32700991592
+Santee,Carlton Hills Elementary,9353 Pike Road Santee CA 92071-2515,NA,NA,FALSE,tested,Santee,San Diego County,32.8492522469269,-116.996533959936
+Santee,Carlton Oaks Elementary,9353 Wethersfield Road Santee CA 92071-2354,NA,NA,FALSE,tested,Santee,San Diego County,32.8439779214554,-117.014616734294
+Solana Beach Elementary,Carmel Creek Elementary,4210 Carmel Center Road San Diego CA 92130-2480,NA,NA,NA,not tested,San Diego,San Diego County,32.951361,-117.225728
+Del Mar Union Elementary,Carmel Del Mar Elementary,12345 Carmel Park Drive San Diego CA 92130-2222,NA,NA,FALSE,tested,San Diego,San Diego County,32.940702,-117.228672
+Carmel Unified,Carmel Middle,4380 Carmel Valley Road Carmel CA 93922-2740,NA,NA,FALSE,tested,San Diego,San Diego County,32.9337398,-117.2387092
+San Dieguito Union High,Carmel Valley Middle,3800 Mykonos Lane San Diego CA 92130-3572,NA,NA,FALSE,tested,San Diego,San Diego County,32.9466601,-117.2316515
+San Marcos Unified,Carrillo Elementary,2875 Poinsettia Lane Carlsbad CA 92009-3041,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.118598,-117.245056
+San Diego Unified,Carson Elementary,6905 Kramer Street San Diego CA 92111-7021,NA,NA,FALSE,tested,San Diego,San Diego County,32.775914,-117.170981
+San Diego Unified,Carver Elementary,3251 Juanita Street San Diego CA 92105-3807,NA,NA,FALSE,tested,San Diego,San Diego County,32.739748,-117.06923
+La Mesa-Spring Valley,Casa de Oro Elementary,10227 Ramona Drive Spring Valley CA 91977-1720,NA,NA,FALSE,tested,NA,San Diego County,32.747738,-116.972387
+Chula Vista Elementary,Casillas (Joseph) Elementary,1130 East J Street Chula Vista CA 91910-7164,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6299619148379,-117.010853745854
+Chula Vista Elementary,Castle Park Elementary,25 Emerson Street Chula Vista CA 91910-3309,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.615009125,-117.057331275
+Sweetwater Union High,Castle Park Middle,160 Quintard Street Chula Vista CA 91911-4414,8.975,ppb,TRUE,tested,Chula Vista,San Diego County,32.6048458572664,-117.059339306224
+Sweetwater Union High,Castle Park Senior High,1395 Hilltop Drive Chula Vista CA 91911-4529,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6069908059038,-117.052821283881
+Escondido Union,Central Elementary,122 West Fourth Avenue Escondido CA 92025-4134,8.3,ppb,TRUE,tested,Escondido,San Diego County,33.1186479,-117.080291163996
+National Elementary,Central Elementary,933 E Avenue National City CA 91950-3416,8.3,ppb,TRUE,tested,National City,San Diego County,32.6761171087557,-117.101229774365
+San Diego Unified,Central Elementary,4063 Polk Avenue San Diego CA 92105-1436,NA,NA,FALSE,tested,San Diego,San Diego County,32.750873,-117.107178
+South Bay Union,Central Elementary,1290 Ebony Avenue Imperial Beach CA 91932-2920,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.577586,-117.107706959184
+Oceanside Unified,Cesar Chavez Middle,202 Oleander Dr Oceanside CA 92057-6122,12,ppb,TRUE,tested,Oceanside,San Diego County,33.241429,-117.302909
+Los Angeles Unified,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),1001 Arroyo Avenue San Fernando CA 91340-1817,NA,NA,NA,not tested,NA,San Diego County,33.4471984,-117.5697828
+Los Angeles Unified,Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,1001 Arroyo Ave San Fernando CA 91340-1817,NA,NA,NA,not tested,NA,San Diego County,33.4471984,-117.5697828
+San Diego Unified,Challenger Middle,10810 Parkdale Avenue San Diego CA 92126-2599,NA,NA,FALSE,tested,San Diego,San Diego County,32.913728,-117.158171
+Oceanside Unified,Challenges Community Day,707 Carey Road Oceanside CA 92058,NA,NA,NA,not tested,Oceanside,San Diego County,33.204617,-117.359413
+Poway Unified,Chaparral Elementary,17250 Tannin Drive Poway CA 92064-1123,NA,NA,FALSE,tested,Poway,San Diego County,33.022469,-117.051173
+Grossmont Union High,Chaparral High/IDEA Center,1600 North Cuyamaca Street El Cajon CA 92021,5.5,ppb,TRUE,tested,El Cajon,San Diego County,32.812329,-116.9796032
+San Diego Unified,Charter School of San Diego,10170 Huennekens St San Diego CA 92121-2964,NA,NA,NA,not tested,San Diego,San Diego County,32.902766,-117.184084
+Cajon Valley Union,Chase Avenue Elementary,195 East Chase Avenue El Cajon CA 92020-6201,NA,NA,FALSE,tested,El Cajon,San Diego County,32.780303,-116.96129944898
+San Diego Unified,Chavez Elementary,1404 South 40th Street San Diego CA 92113-4037,NA,NA,FALSE,tested,National City,San Diego County,32.6917277476517,-117.108216786886
+San Diego Unified,Cherokee Point Elementary,3735 38th Street San Diego CA 92105-2414,NA,NA,FALSE,tested,San Diego,San Diego County,32.746769,-117.111806
+San Diego Unified,Chesterton Elementary,7335 Wheatley Street San Diego CA 92111-5824,5.154999999999999,ppb,TRUE,tested,San Diego,San Diego County,32.79333,-117.162849
+Santee,Chet F. Harritt Elementary,8120 Arlette Street Santee CA 92071-3513,NA,NA,FALSE,tested,Santee,San Diego County,32.8314132729823,-117.019563648427
+Private,"Child's Primary, The",3811 Mt. Acadia Boulevard San Diego CA 92111,6.76,ppb,TRUE,tested,San Diego,San Diego County,32.811171,-117.18071
+San Diego Unified,Chollas/Mead Elementary,401 North 45th Street San Diego CA 92102-4732,7.73,ppb,TRUE,tested,San Diego,San Diego County,32.7048687,-117.0979672
+Private,Christ Lutheran Elementary,7929 La Mesa Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.764886,-117.026574
+Oceanside Unified,Christa McAuliffe Elementary,3701 Kelton Drive Oceanside CA 92056-6311,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1997221,-117.306953735099
+Chula Vista Elementary,Chula Vista Hills Elementary,980 Buena Vista Way Chula Vista CA 91910-7133,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6369104919512,-117.002981818245
+Chula Vista Elementary,Chula Vista Learning Community Charter,590 K Street Chula Vista CA 91911-1118,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6210676129897,-117.083452417193
+San Diego Unified,City Heights Preparatory Charter,3770 Altadena Avenue San Diego CA 92105-3007,NA,NA,NA,not tested,San Diego,San Diego County,32.746641,-117.085707
+Oceanside Unified,Clair Burgener Academy,707 Carey Rd Oceanside CA 92058,8.55,ppb,TRUE,tested,Oceanside,San Diego County,33.204617,-117.359413
+San Diego Unified,Clairemont High,4150 Ute Drive San Diego CA 92117-5853,NA,NA,FALSE,tested,San Diego,San Diego County,32.807012,-117.203035
+San Diego Unified,Clark Middle,4388 Thorn Street San Diego CA 92105-4238,NA,NA,FALSE,tested,San Diego,San Diego County,32.740348,-117.100622
+Escondido Union,Classical Academy,2950 South Bear Valley Parkway Escondido CA 92025-7446,6.4,ppb,TRUE,tested,Escondido,San Diego County,33.0942124,-117.0589004
+Escondido Union High,Classical Academy High,207 E Pennsylvania Ave Escondido CA 92025-2808,NA,NA,FALSE,tested,Escondido,San Diego County,33.1242454,-117.0809507
+Escondido Union High,Classical Academy Online School,130 Woodward Avenue Escondido CA 92025,NA,NA,FALSE,tested,Escondido,San Diego County,33.12562,-117.085205
+San Diego Unified,Clay Elementary,6506 Solita Avenue San Diego CA 92115-4244,10.5,ppb,TRUE,tested,La Mesa,San Diego County,32.763605,-117.057842
+Chula Vista Elementary,Clear View,455 Windrose Way Chula Vista CA 91910-7400,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6446456928681,-117.045022909682
+Oceanside Unified,Coastal Academy,4096 Calle Platino Oceanside CA 92056-5805,NA,NA,NA,not tested,Oceanside,San Diego County,33.207338,-117.29282
+San Diego Unified,Coleman Tech Charter High,3540 Aero Court San Diego CA 92123-1711,NA,NA,NA,not tested,San Diego,San Diego County,32.807485592432,-117.148612686407
+Mountain Empire Unified,College Preparatory Middle,5150 Jackson Drive La Mesa CA 91942-9001,NA,NA,NA,not tested,La Mesa,San Diego County,32.7778015,-117.018335
+San Diego Community College,Community Schools North,2037 Mission Avenue B Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.2047180755737,-117.36357093239
+Escondido Union,Conway Elementary,1325 Conway Drive Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1464681,-117.075476731287
+Chula Vista Elementary,Cook (Hazel Goes) Elementary,875 Cuyamaca Avenue Chula Vista CA 91911-1501,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6262118223713,-117.056271880903
+Coronado Unified,Coronado High,650 D Avenue Coronado CA 92118-2113,NA,NA,FALSE,tested,Coronado,San Diego County,32.69141538438,-117.178213272213
+Coronado Unified,Coronado Middle,550 F Avenue Coronado CA 92118-2110,NA,NA,FALSE,tested,Coronado,San Diego County,32.6937758506021,-117.17958126693
+Coronado Unified,Coronado Unified Special Education Pre-K,201 6th Street Coronado CA 92118-1638,NA,NA,NA,not tested,Coronado,San Diego County,32.696178,-117.187148
+San Diego Unified,Correia Middle,4302 Valeta Street San Diego CA 92107-1510,NA,NA,FALSE,tested,San Diego,San Diego County,32.7473546,-117.230966785944
+Private,Country Montessori School of Poway,12642 Monte Vista Road Poway CA 92064,NA,NA,FALSE,tested,Poway,San Diego County,32.9945691245867,-117.054579491734
+San Diego Unified,Crawford High,4191 Colts Way San Diego CA 92115-6023,NA,NA,FALSE,tested,San Diego,San Diego County,32.7529122194047,-117.076829563107
+San Diego Unified,"Creative, Performing, and Media Arts",5050 Conrad Avenue San Diego CA 92117-1401,NA,NA,FALSE,tested,San Diego,San Diego County,32.83846,-117.182041
+Poway Unified,Creekside Elementary,12362 Springhurst Drive San Diego CA 92128-6366,NA,NA,NA,not tested,San Diego,San Diego County,32.943732,-117.076703
+Cajon Valley Union,Crest Elementary,2000 Suncrest Boulevard El Cajon CA 92021-4249,NA,NA,FALSE,tested,NA,San Diego County,32.8042186,-116.8644688
+San Diego Unified,Crown Point Elementary,4033 Ingraham Street San Diego CA 92109-5946,NA,NA,FALSE,tested,San Diego,San Diego County,32.793446,-117.237981
+San Diego Unified,Cubberley Elementary,3201 Marathon Drive San Diego CA 92123-2638,NA,NA,FALSE,tested,San Diego,San Diego County,32.802082,-117.126381
+San Diego Unified,Curie Elementary,4080 Governor Drive San Diego CA 92122-2523,NA,NA,FALSE,tested,San Diego,San Diego County,32.8559032,-117.203013
+San Diego Unified,Dailard Elementary,6425 Cibola Road San Diego CA 92120-2125,NA,NA,FALSE,tested,San Diego,San Diego County,32.8045454262316,-117.05388583233
+San Diego Unified,Dana,1775 Chatsworth Boulevard San Diego CA 92106-3709,NA,NA,FALSE,tested,San Diego,San Diego County,32.7328328603378,-117.23438700301
+San Diego Unified,Darnall Charter,6020 Hughes Street San Diego CA 92115-6520,NA,NA,FALSE,tested,San Diego,San Diego County,32.746704,-117.066776
+San Diego County Office of Education,Davila Day,540 G St Chula Vista CA 91910-3604,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6350257342819,-117.088268321333
+Private,Dayspring Christian Learning Center,1150 Greenfield Drive El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813712,-116.942208
+San Diego Unified,De Portola Middle,11010 Clairemont Mesa Boulevard San Diego CA 92124-1507,NA,NA,FALSE,tested,San Diego,San Diego County,32.829395,-117.087109
+Poway Unified,Deer Canyon Elementary,13455 Russet Leaf Lane San Diego CA 92129-4411,NA,NA,NA,not tested,San Diego,San Diego County,32.9639710571772,-117.143677307664
+Dehesa Elementary,Dehesa Elementary,4612 Dehesa Road B El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Escondido Union,Del Dios Academy of Arts and Sciences,1400 West Ninth Avenue Escondido CA 92025-2204,NA,NA,FALSE,tested,Escondido,San Diego County,33.1115172,-117.0822445
+Escondido Union High,Del Dios Middle School,1400 W. 9th Ave Escondido CA 92025,NA,NA,NA,not tested,Escondido,San Diego County,33.1115172,-117.0822445
+Escondido Union High,Del Lago Academy - Campus of Applied Science,1740 Scenic Trail Way Escondido CA 92029-4211,NA,NA,NA,not tested,Escondido,San Diego County,33.0973332,-117.1035246
+Del Mar Union Elementary,Del Mar Heights Elementary,13555 Boquita Drive Del Mar CA 92014-3453,NA,NA,FALSE,tested,San Diego,San Diego County,32.94459,-117.249454
+Del Mar Union Elementary,Del Mar Hills Elementary,14085 Mango Drive Del Mar CA 92014-0640,NA,NA,FALSE,tested,San Diego,San Diego County,32.954051,-117.246195
+Poway Unified,Del Norte High School,16601 Nighthawk Lane San Diego CA 92127-4457,NA,NA,NA,not tested,San Diego,San Diego County,33.0140216,-117.122462730676
+Oceanside Unified,Del Rio Elementary,5200 North River Road Oceanside CA 92057-3811,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2546691,-117.2978228
+Poway Unified,Del Sur Elementary,15665 Paseo Del Sur San Diego CA 92127-6144,NA,NA,NA,not tested,San Diego,San Diego County,33.0184101,-117.1407298
+Mountain Empire Unified,Descanso Elementary,24842 Viejas Boulevard Descanso CA 91916-9757,NA,NA,FALSE,tested,NA,San Diego County,32.858949,-116.613497
+San Diego Unified,Dewey Elementary,3251 Rosecrans Street San Diego CA 92110-4835,NA,NA,FALSE,tested,San Diego,San Diego County,32.747233,-117.208336
+Dehesa Elementary,Diego Hills Charter,4585 College Avenue San Diego CA 92115-4011,NA,NA,NA,not tested,San Diego,San Diego County,32.760648,-117.066633
+Borrego Springs Unified,Diego Springs Academy,310 Broadway Chula Vista CA 91910-3502,NA,NA,NA,not tested,Chula Vista,San Diego County,32.63706,-117.092533
+Julian Union Elementary,Diego Valley Charter,511 North 2nd Street El Cajon CA 92021-6449,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800568,-116.935298
+San Dieguito Union High,Diegueno Middle,2150 Village Park Way Encinitas CA 92024-5400,NA,NA,FALSE,tested,Encinitas,San Diego County,33.0579584,-117.2421122
+San Diego Unified,Dingeman Elementary,11840 Scripps Creek Drive San Diego CA 92131-3701,NA,NA,FALSE,tested,San Diego,San Diego County,32.933447,-117.0912524
+Chula Vista Elementary,Discovery Charter,1100 Camino Biscay Chula Vista CA 91910-7737,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.641995,-117.013665
+San Marcos Unified,Discovery Elementary,730 Applewilde Drive San Marcos CA 92078-4969,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1287692958176,-117.189883328064
+Oceanside Unified,Ditmar Elementary School,1125 South Ditmar St. Oceanside CA 92054,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1860653744257,-117.368470109982
+San Marcos Unified,Double Peak K8 School,111 San Elijo Road San Marcos CA 92078,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1056914,-117.166995784126
+San Diego Unified,Doyle Elementary,3950 Berino Court San Diego CA 92122-1601,NA,NA,FALSE,tested,San Diego,San Diego County,32.863748,-117.221924
+Coronado Unified,Early Childhood Development Center (ECDC),199 6th St. Coronado CA 92118,NA,NA,FALSE,tested,Coronado,San Diego County,32.696596,-117.188154
+Grossmont Union High,East County Regional Education Center,924 East Main St El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7950011540584,-116.949071192215
+Sweetwater Union High,East Hills Academy,1791 Rock Mountain Road Chula Vista CA 91913,NA,NA,NA,not tested,Chula Vista,San Diego County,32.607148,-116.9720968
+San Diego Unified,East Village High,1405 Park Blvd. San Diego CA 92101-4717,NA,NA,FALSE,tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
+Chula Vista Elementary,EastLake Elementary,1955 Hillside Drive Chula Vista CA 91913-1263,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6574921814847,-116.98281122224
+Sweetwater Union High,Eastlake High,1120 Eastlake Parkway Chula Vista CA 91915-2102,NA,NA,NA,not tested,Chula Vista,San Diego County,32.629563,-116.9648934
+Sweetwater Union High,Eastlake Middle,900 Duncan Ranch Road Chula Vista CA 91914-2626,NA,NA,NA,not tested,Chula Vista,San Diego County,32.65441085,-116.948044305246
+San Diego Unified,Edison Elementary,4077 35th Street San Diego CA 92104-2291,NA,NA,FALSE,tested,San Diego,San Diego County,32.751088650067,-117.117895547743
+San Diego Unified,Einstein Academy,3035 Ash Street San Diego CA 92102-1718,NA,NA,FALSE,tested,San Diego,San Diego County,32.7201480464489,-117.128966901263
+Cajon Valley Union,EJE Academies,851 South Johnson Avenue El Cajon CA 92020-5811,NA,NA,FALSE,tested,El Cajon,San Diego County,32.791306,-116.970947
+Private,El Cajon Seventh-day Adventist,1640 East Madison Avenue El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803004,-116.920893
+Grossmont Union High,El Cajon Valley High,1035 East Madison Avenue El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+Grossmont Union High,El Cajon Valley High/EC Adult Center,1035 East Madison Ave El Cajon CA 92021-6226,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001047665226,-116.947573014211
+Encinitas Union Elementary,El Camino Creek Elementary,7885 Paseo Aliso Carlsbad CA 92009-9028,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0770263568538,-117.258967618608
+Oceanside Unified,El Camino High,400 Rancho del Oro Drive Oceanside CA 92057-8316,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2212015044746,-117.319613061267
+Grossmont Union High,El Capitan High,10410 Ashwood Street Lakeside CA 92040-2406,NA,NA,FALSE,tested,NA,San Diego County,32.8681,-116.916664
+San Diego Unified,Elevate Elementary,2285 Murray Ridge Road San Diego CA 92123-3934,NA,NA,NA,not tested,San Diego,San Diego County,32.786391,-117.144214
+Grossmont Union High,Elite/REACH Academy,230 Jamacha Boulevard El Cajon CA 92019-2359,NA,NA,FALSE,tested,NA,San Diego County,32.7209813,-116.9723311
+San Diego Unified,Emerson Elementary,3510 Newton Avenue San Diego CA 92113-3118,NA,NA,FALSE,tested,San Diego,San Diego County,32.6950388620772,-117.118655240948
+South Bay Union,Emory Elementary,1915 Coronado Avenue San Diego CA 92154-2021,NA,NA,FALSE,tested,San Diego,San Diego County,32.575662,-117.091608
+San Diego Unified,Empower Charter,2230 East Jewett Street San Diego CA 92111-6013,NA,NA,NA,not tested,San Diego,San Diego County,32.785814,-117.172658
+San Diego Unified,Encanto Elementary,822 65th Street San Diego CA 92114-2818,5.73,ppb,TRUE,tested,San Diego,San Diego County,32.714535,-117.058052
+Private,English French Learning Academy,3219 Clairemont Mesa Boulevard San Diego CA 92117,NA,NA,FALSE,tested,San Diego,San Diego County,32.830619,-117.216093
+San Diego Unified,Ericson Elementary,11174 Westonhill Drive San Diego CA 92126-1943,NA,NA,FALSE,tested,San Diego,San Diego County,32.92775,-117.136964
+Escondido Union High,Escondido Charter High,1868 East Valley Parkway Escondido CA 92027-2525,NA,NA,FALSE,tested,Escondido,San Diego County,33.1361487280138,-117.054955856624
+Escondido Union High,Escondido High,1535 North Broadway Escondido CA 92026-2015,NA,NA,NA,not tested,Escondido,San Diego County,33.14630115,-117.091930978854
+Escondido Union High,Escondido Union High School District,302 N. Midway Drive Escondido CA 92027,NA,NA,NA,not tested,Escondido,San Diego County,33.1360694231855,-117.050777548464
+Lakeside Union Elementary,Eucalyptus Hills Elementary,11838 Valle Vista Road Lakeside CA 92040-1046,NA,NA,FALSE,tested,NA,San Diego County,32.873768,-116.935333
+San Diego Unified,Euclid Elementary,4166 Euclid Avenue San Diego CA 92105-1910,6.65,ppb,TRUE,tested,San Diego,San Diego County,32.752196,-117.093156
+San Diego Unified,Evangeline Roberts Institute of Learning,6785 Imperial Avenue San Diego CA 92114-1103,NA,NA,NA,not tested,San Diego,San Diego County,32.710869,-117.051676
+Fallbrook Union High,Fallbrook High,2400 South Stage Coach Lane Fallbrook CA 92028-4429,NA,NA,NA,not tested,NA,San Diego County,33.348525,-117.241815
+Fallbrook Union Elementary,Fallbrook Street Elementary,405 West Fallbrook Street Fallbrook CA 92028-2108,NA,NA,NA,not tested,NA,San Diego County,33.3767548158966,-117.254329554167
+San Diego Unified,Farb Middle,4880 La Cuenta Drive San Diego CA 92124-3015,6.97,ppb,TRUE,tested,San Diego,San Diego County,32.8202015868869,-117.099905805634
+Escondido Union,Farr Avenue Elementary,933 Farr Avenue Escondido CA 92026-3121,NA,NA,FALSE,tested,Escondido,San Diego County,33.13779645,-117.077605928183
+San Diego Unified,Fay Elementary,4080 52nd Street San Diego CA 92105-2209,NA,NA,FALSE,tested,San Diego,San Diego County,32.747334,-117.083618
+Chula Vista Elementary,Feaster (Mae L.) Charter,670 Flower Street Chula Vista CA 91910-1327,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6423118346041,-117.097073078886
+Escondido Union,Felicita Elementary,737 West 13th Avenue Escondido CA 92025-5510,NA,NA,FALSE,tested,Escondido,San Diego County,33.10521315,-117.083059386673
+San Diego Unified,Field Elementary,4375 Bannock Avenue San Diego CA 92117-2810,NA,NA,FALSE,tested,San Diego,San Diego County,32.831963,-117.198439
+Chula Vista Elementary,Finney (Myrtle S.) Elementary,3950 Byrd Street San Diego CA 92154-1799,NA,NA,FALSE,tested,San Diego,San Diego County,32.585131,-117.048401
+San Diego Unified,Fletcher Elementary,7666 Bobolink Way San Diego CA 92123-3701,8.22,ppb,TRUE,tested,San Diego,San Diego County,32.7894,-117.159065
+La Mesa-Spring Valley,Fletcher Hills Elementary,2330 Center Place El Cajon CA 92020-2809,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8004926595616,-116.996583553591
+Encinitas Union Elementary,Flora Vista Elementary,1690 Wandering Road Encinitas CA 92024-2417,NA,NA,NA,not tested,Encinitas,San Diego County,33.056895,-117.252276
+Cajon Valley Union,Flying Hills Elementary,1251 Finch Street El Cajon CA 92020-1433,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8118393356476,-116.982374495146
+Vista Unified,Foothill Oak Elementary,1370 Oak Drive Vista CA 92084-4001,NA,NA,FALSE,tested,Vista,San Diego County,33.2200197,-117.2218213
+Grossmont Union High,Foothills Adult Education Center,1550 Melody Lane El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Grossmont Union High,Foothills and Grossmont Adult Education Centers,1550 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7965571666757,-116.925288198421
+Private,Foothills Christian High School,2321 Dryden Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.7984689275381,-116.995918742953
+San Diego Unified,Foster Elementary,6550 51st Street San Diego CA 92120-2794,NA,NA,FALSE,tested,San Diego,San Diego County,32.792195,-117.085227
+Oceanside Unified,Foussat Elementary School,3800 Pala Road Oceanside CA 92058,NA,NA,FALSE,tested,Oceanside,San Diego County,33.238121292397,-117.328829404465
+San Diego Unified,Franklin Elementary,4481 Copeland Avenue San Diego CA 92116-4802,6.1,ppb,TRUE,tested,San Diego,San Diego County,32.758067,-117.103418
+San Diego Unified,Freese Elementary,8140 Greenlawn Drive San Diego CA 92114-7309,NA,NA,FALSE,tested,San Diego,San Diego County,32.704803,-117.027006
+South Bay Union,Friendship School,601 Elm Ave Imperial Beach CA 91932,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.58003555,-117.120155137868
+Cajon Valley Union,Fuerte Elementary,11625 Fuerte Drive El Cajon CA 92020-8309,NA,NA,FALSE,tested,NA,San Diego County,32.766094,-116.971848
+San Diego Unified,Fulton K-8,7055 Skyline Drive San Diego CA 92114-5930,5.41,ppb,TRUE,tested,San Diego,San Diego County,32.701251,-117.04836
+Poway Unified,Garden Road Elementary,14614 Garden Road Poway CA 92064-5299,NA,NA,FALSE,tested,Poway,San Diego County,32.9571024,-117.011635877937
+San Diego Unified,Garfield Elementary,4487 Oregon Street San Diego CA 92116-3018,6.05,ppb,TRUE,tested,San Diego,San Diego County,32.758205,-117.134511
+San Diego Unified,Garfield High,1255 16th Street San Diego CA 92101-4759,NA,NA,FALSE,tested,San Diego,San Diego County,32.718735,-117.149051
+South Bay Union,George Nicoloff Elementary,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,FALSE,tested,San Diego,San Diego County,32.5659912,-117.0667302
+South Bay Union,George Nicoloff North,1777 Howard Avenue San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
+South Bay Union,George Nicoloff South,1777 Howard Ave San Ysidro CA 92173-1235,NA,NA,NA,not tested,San Diego,San Diego County,32.5659912,-117.0667302
+Escondido Union,Glen View Elementary,2201 East Mission Avenue Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1464585,-117.05251009808
+San Diego Unified,Golden Hill K-8,1240 33rd Street San Diego CA 92102-2409,NA,NA,FALSE,tested,San Diego,San Diego County,32.7182202013353,-117.12327813622301
+San Diego Unified,Gompers Preparatory Academy,1005 47th Street San Diego CA 92102-3626,NA,NA,FALSE,tested,San Diego,San Diego County,32.716096,-117.091366
+Sweetwater Union High,Granger Junior High,2101 Granger Avenue National City CA 91950-6299,5.46,ppb,TRUE,tested,National City,San Diego County,32.672624772425,-117.073805062153
+Grossmont Union High,Granite Hills High,1719 East Madison Avenue El Cajon CA 92019-1052,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8001269952629,-116.916925978708
+San Diego Unified,Grant K-8,1425 Washington Place San Diego CA 92103-1792,NA,NA,FALSE,tested,San Diego,San Diego County,32.749181,-117.175613
+Vista Unified,Grapevine Elementary,630 Grapevine Road Vista CA 92083-5599,11.5,ppb,TRUE,tested,Vista,San Diego County,33.199727,-117.273777
+Jamul-Dulzura Union Elementary,Greater San Diego Academy,13881 Campo Road Jamul CA 91935-3208,NA,NA,NA,not tested,NA,San Diego County,32.7188197533433,-116.878766947398
+Cajon Valley Union,Greenfield Middle,1495 Greenfield Drive El Cajon CA 92021-3414,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813188,-116.931424
+Grossmont Union High,Grossmont High,1100 Murray Drive La Mesa CA 91944-1043,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7800118,-116.9998195
+Vista Unified,Guajome Learning Center,2000 North Santa Fe Avenue Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
+Vista Unified,Guajome Park Academy Charter,2000 North Santa Fe Ave Vista CA 92083-1534,NA,NA,NA,not tested,Vista,San Diego County,33.2037523,-117.2446349
+San Diego Unified,Hage Elementary,9750 Galvin Avenue San Diego CA 92126-4823,NA,NA,FALSE,tested,San Diego,San Diego County,32.9205682945602,-117.122225662301
+Chula Vista Elementary,Halecrest Elementary,475 East J Street Chula Vista CA 91910-6499,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6345406995236,-117.042709534988
+San Diego Unified,Hamilton Elementary,2807 Fairmount Avenue San Diego CA 92105-4635,NA,NA,FALSE,tested,San Diego,San Diego County,32.736124,-117.100004
+San Diego Unified,Hancock Elementary,3303 Taussig Street San Diego CA 92124-3501,NA,NA,FALSE,tested,San Diego,San Diego County,32.805840054133,-117.107559947877
+Vista Unified,Hannalei Elementary,120 Hannalei Drive Vista CA 92083-7625,NA,NA,FALSE,tested,Vista,San Diego County,33.177448,-117.217137
+Ramona City Unified,Hanson Elementary,2520 Boundary Avenue Ramona CA 92065-3106,NA,NA,FALSE,tested,NA,San Diego County,33.019244,-116.89176
+Chula Vista Elementary,Harborside Elementary,681 Naples Street Chula Vista CA 91911-1619,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.610552,-117.080313
+San Diego Unified,Hardy Elementary,5420 Montezuma Road San Diego CA 92115-1329,NA,NA,FALSE,tested,San Diego,San Diego County,32.7716712,-117.079301
+San Diego Unified,Harriet Tubman Village Charter,6880 Mohawk Street San Diego CA 92115-1728,9.84,ppb,TRUE,tested,San Diego,San Diego County,32.7697980126626,-117.049788394354
+San Diego Unified,Hawthorne Elementary,4750 Lehrer Drive San Diego CA 92117-1358,NA,NA,FALSE,tested,San Diego,San Diego County,32.839099,-117.188634
+San Diego Unified,Hearst Elementary,6230 Del Cerro Boulevard San Diego CA 92120-4604,NA,NA,FALSE,tested,San Diego,San Diego County,32.783883,-117.064309
+Private,"Heartland Christian Homeschool Center, Inc.",3327 Kenora Drive Spring Valley CA 91977,NA,NA,FALSE,tested,NA,San Diego County,32.740985,-116.987769
+Grossmont Union High,Helix High,7323 University Avenue La Mesa CA 91941-6055,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7684756,-117.0145661
+San Diego Unified,Henry High,6702 Wandermere Drive San Diego CA 92120-3250,6.34,ppb,TRUE,tested,San Diego,San Diego County,32.798811,-117.05185
+Chula Vista Elementary,Heritage Elementary,1450 Santa Lucia Road Chula Vista CA 91913-1480,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6298554117647,-116.992815647059
+Escondido Union,Heritage Junior High and Flex Academy,2255 East Valley Parkway Escondido CA 92027-2713,NA,NA,NA,not tested,Escondido,San Diego County,33.139991,-117.04618175
+Escondido Union,Heritage K-8 Charter,1855 East Valley Parkway Escondido CA 92027-2517,NA,NA,FALSE,tested,Escondido,San Diego County,33.1363433723773,-117.054129618445
+San Diego Unified,Hickman Elementary,10850 Montongo Street San Diego CA 92126-2629,5.02,ppb,TRUE,tested,San Diego,San Diego County,32.914994,-117.153358
+Escondido Union,Hidden Valley Middle,2700 Reed Road Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.133776,-117.033272
+San Diego Unified,High Tech Elementary,2150 Cushing Road San Diego CA 92106,NA,NA,FALSE,tested,San Diego,San Diego County,32.73194675,-117.217756809885
+San Diego Unified,High Tech High,2861 Womble Road San Diego CA 92106-6025,NA,NA,FALSE,tested,San Diego,San Diego County,32.7348702,-117.2175097
+San Diego Unified,High Tech High International,2855 Farragut Road San Diego CA 92106-6029,NA,NA,FALSE,tested,San Diego,San Diego County,32.733136,-117.219148
+San Diego Unified,High Tech High Media Arts 2,2291 Truxtun Road San Diego CA 92106,NA,NA,FALSE,tested,San Diego,San Diego County,32.735382,-117.21782
+San Diego Unified,High Tech Middle,2359 Truxtun Road San Diego CA 92106-6049,NA,NA,FALSE,tested,San Diego,San Diego County,32.734224,-117.218947
+San Diego Unified,High Tech Middle Media Arts,2230 Truxtun Road San Diego CA 92106-6125,NA,NA,NA,not tested,San Diego,San Diego County,32.7346398,-117.219715
+La Mesa-Spring Valley,Highlands Elementary,3131 South Barcelona Street Spring Valley CA 91977-3003,NA,NA,FALSE,tested,NA,San Diego County,32.7374083494138,-116.981658330615
+Santee,Hill Creek Elementary,9665 Jeremy Street Santee CA 92071-2836,NA,NA,FALSE,tested,Santee,San Diego County,32.8529404992461,-116.963236453914
+Chula Vista Elementary,Hilltop Drive Elementary,30 Murray Street Chula Vista CA 91910-6020,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6318819529881,-117.065290117245
+Sweetwater Union High,Hilltop Middle,44 East J Street Chula Vista CA 91910-6115,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.63011495,-117.059059081035
+Sweetwater Union High,Hilltop Senior High,555 Claire Avenue Chula Vista CA 91910-6105,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6375400217113,-117.060136471112
+San Diego Unified,Holly Drive Leadership Academy,4801 Elm Street San Diego CA 92102-1354,NA,NA,FALSE,tested,San Diego,San Diego County,32.723334,-117.092405
+San Diego Unified,Holmes Elementary,4902 Mount Ararat Drive San Diego CA 92111-3808,NA,NA,FALSE,tested,San Diego,San Diego County,32.811331,-117.189324
+Private,Holy Trinity Elementary,509 Ballard Street El Cajon CA 92019,NA,NA,FALSE,tested,El Cajon,San Diego County,32.790389270017,-116.941252360463
+San Diego Unified,Hoover High,4474 El Cajon Boulevard San Diego CA 92115-4312,NA,NA,FALSE,tested,San Diego,San Diego County,32.757235,-117.097984
+Carlsbad Unified,Hope Elementary,3010 Tamarack Avenue Carlsbad CA 92008-2430,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.169678,-117.303104
+San Diego Unified,Horton Elementary,5050 Guymon Street San Diego CA 92102-3734,NA,NA,FALSE,tested,San Diego,San Diego County,32.712474,-117.086406
+Chula Vista Elementary,Howard Gardner Community Charter,647 E Street Chula Vista CA 91910-2119,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.641121,-117.09545
+South Bay Union,Howard Pence Elementary,877 Via Tonga Court San Diego CA 92154-2256,NA,NA,FALSE,tested,San Diego,San Diego County,32.578412,-117.062334
+San Diego Unified,Ibarra Elementary,4877 Orange Avenue San Diego CA 92115-4947,NA,NA,FALSE,tested,San Diego,San Diego County,32.7531633953127,-117.08976852816
+San Diego Unified,Iftin Charter,5465 El Cajon Boulevard San Diego CA 92115-3620,NA,NA,FALSE,tested,San Diego,San Diego County,32.7579410660755,-117.07804516743
+San Diego Unified,iHigh Virtual Academy,3939 Conde Street San Diego CA 92110-3012,NA,NA,NA,not tested,San Diego,San Diego County,32.7511342002363,-117.194783282736
+Sweetwater Union High,Imperial Beach Adult School,170 Palm Avenue Imperial Beach CA 92132,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5837708,-117.1021516
+South Bay Union,Imperial Beach Charter,650 Imperial Beach Boulevard Imperial Beach CA 91932-2706,12,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5764918727355,-117.119371152329
+South Bay Union Elementary,Imperial Beach Charter School West Campus,525 3rd Street Imperial Beach CA 91932,6.6,ppb,TRUE,tested,Imperial Beach,San Diego County,32.5867241822015,-117.127307529124
+San Diego Unified,Ingenuity Charter,6130 Skyline Dr San Diego CA 92114-5620,NA,NA,FALSE,tested,San Diego,San Diego County,32.702541,-117.064835
+San Diego Unified,Innovation Middle,5095 Arvinels Avenue San Diego CA 92117-2303,NA,NA,FALSE,tested,San Diego,San Diego County,32.836739,-117.175061
+San Diego Unified,Innovations Academy,10380 Spring Canyon Road San Diego CA 92131-3699,NA,NA,FALSE,tested,San Diego,San Diego County,32.9318847,-117.0965369
+Dehesa Elementary,Inspire Charter School - South,4612 Dehesa Road El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+National Elementary,Integrity Charter,701 National City Boulevard National City CA 91950-1123,NA,NA,NA,not tested,National City,San Diego County,32.676347,-117.106743
+Oceanside Unified,Ivey Ranch Elementary,4275 Via Rancho Road Oceanside CA 92057-8534,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2203965976019,-117.306682377829
+Cajon Valley Union,Jamacha Elementary,2962 Jamul Drive El Cajon CA 92019-4640,NA,NA,FALSE,tested,NA,San Diego County,32.7169988,-116.8761347
+Fallbrook Union Elementary,James E. Potter Intermediate,1743 Reche Road Fallbrook CA 92028-2108,NA,NA,NA,not tested,NA,San Diego County,33.367626,-117.221651
+Jamul-Dulzura Union Elementary,Jamul Intermediate,14545 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,NA,San Diego County,32.7300021271653,-116.855385648302
+Jamul-Dulzura Union Elementary,Jamul Primary,14567 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,NA,San Diego County,32.7300274987195,-116.854937291285
+Carlsbad Unified,Jefferson Elementary,3743 Jefferson Street Carlsbad CA 92008-3336,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.163296,-117.347221
+San Diego Unified,Jefferson Elementary,3770 Utah Street San Diego CA 92104-3532,NA,NA,FALSE,tested,San Diego,San Diego County,32.747219,-117.13324
+San Diego Unified,Jerabek Elementary,10050 Avenida Magnifica San Diego CA 92131-1426,NA,NA,FALSE,tested,San Diego,San Diego County,32.9081290066637,-117.083634065182
+Alpine Union Elementary,Joan MacQueen Middle,2001 Tavern Road Alpine CA 91901-3129,NA,NA,FALSE,tested,NA,San Diego County,32.8245809047947,-116.775383763639
+National Elementary,John A. Otis Elementary,621 East 18th Street National City CA 91950-4630,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+San Diego Unified,John Muir,4431 Mount Herbert Avenue San Diego CA 92117-4728,NA,NA,FALSE,tested,San Diego,San Diego County,32.8244630939739,-117.193368391598
+San Diego Unified,Johnson Elementary,1355 Kelton Road San Diego CA 92114-1229,NA,NA,FALSE,tested,San Diego,San Diego County,32.719465,-117.074361
+San Marcos Unified,Joli Ann Leichtag Elementary,653 Poinsettia Avenue Vista CA 92081-8113,NA,NA,FALSE,tested,NA,San Diego County,33.1573544373369,-117.209919567507
+San Diego Unified,Jonas Salk Elementary,7825 Flanders Drive San Diego CA 92126-3449,NA,NA,FALSE,tested,San Diego,San Diego County,32.9066836508225,-117.154988246869
+San Diego Unified,Jones Elementary,2751 Greyling Drive San Diego CA 92123-2836,NA,NA,FALSE,tested,San Diego,San Diego County,32.795803,-117.14129
+San Diego Unified,Joyner Elementary,4271 Myrtle Avenue San Diego CA 92105-3426,NA,NA,FALSE,tested,San Diego,San Diego County,32.742068,-117.102967238095
+San Diego Unified,Juarez Elementary,2633 Melbourne Drive San Diego CA 92123-3535,5.02,ppb,TRUE,tested,San Diego,San Diego County,32.7941230586105,-117.124803701215
+Chula Vista Elementary,Juarez-Lincoln Elementary,849 Twining Avenue San Diego CA 92154-2599,NA,NA,FALSE,tested,San Diego,San Diego County,32.58074,-117.04418
+Julian Union Elementary,"Julian charter School, Innovation Centre La Mesa",5300 Jackson Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.775649,-117.013906
+Escondido Union,Juniper Elementary,1809 South Juniper Street Escondido CA 92025-6240,5.8,ppb,TRUE,tested,Escondido,San Diego County,33.1052383049834,-117.067316787255
+San Diego Unified,Kavod Elementary Charter,3201 Marathon Dr San Diego CA 92123-2638,NA,NA,FALSE,tested,San Diego,San Diego County,32.802082,-117.126381
+San Diego Unified,Keiller Leadership Academy,7270 Lisbon Street San Diego CA 92114-3007,5.12,ppb,TRUE,tested,San Diego,San Diego County,32.713622,-117.042435
+Chula Vista Elementary,Kellogg (Karl H.) Elementary,229 East Naples Street Chula Vista CA 91911-2399,7.5,ppb,TRUE,tested,Chula Vista,San Diego County,32.623978,-117.032089
+Carlsbad Unified,Kelly Elementary,4885 Kelly Drive Carlsbad CA 92008-3734,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1493542263387,-117.311346177366
+La Mesa-Spring Valley,Kempton Street Literacy Academy,740 Kempton Street Spring Valley CA 91977-5017,NA,NA,NA,not tested,NA,San Diego County,32.710521,-117.002882
+National Elementary,Kimball,302 West 18th Street National City CA 91950-5526,8,ppb,TRUE,tested,National City,San Diego County,32.666477,-117.1061333
+San Diego Unified,Kimbrough Elementary,321 Hoitt Street San Diego CA 92102-3132,5.05,ppb,TRUE,tested,San Diego,San Diego County,32.7087833604008,-117.13286073654
+San Diego Unified,King-Chavez Academy of Excellence,2850 Logan Avenue San Diego CA 92113-2412,NA,NA,NA,not tested,San Diego,San Diego County,32.6970608300323,-117.1327075044
+San Diego Unified,King-Chavez Arts Academy,415 31st St. San Diego CA 92102-4236,NA,NA,NA,not tested,San Diego,San Diego County,32.709866,-117.126339
+San Diego Unified,King-Chavez Athletics Academy,415 31st Street B San Diego CA 92102-4236,NA,NA,NA,not tested,San Diego,San Diego County,32.709866,-117.126339
+San Diego Unified,King-Chavez Community High,201 A Street San Diego CA 92101-4003,NA,NA,NA,not tested,San Diego,San Diego County,32.7185382,-117.162644785276
+San Diego Unified,King-Chavez Preparatory Academy,500 30th Street San Diego CA 92102-3090,NA,NA,NA,not tested,San Diego,San Diego County,32.710744,-117.130515
+San Diego Unified,King-Chavez Primary Academy,415 31st Street San Diego CA 92102-4236,NA,NA,FALSE,tested,San Diego,San Diego County,32.709866,-117.126339
+San Marcos Unified,Knob Hill Elementary,1825 Knob Hill Road San Marcos CA 92069-3301,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1387588566379,-117.117799498691
+San Diego Unified,Knox Middle,1098 South 49th Street San Diego CA 92113-3599,NA,NA,FALSE,tested,San Diego,San Diego County,32.695229,-117.090575
+San Diego Unified,Kumeyaay Elementary,6475 Antigua Boulevard San Diego CA 92124-4031,NA,NA,FALSE,tested,San Diego,San Diego County,32.835866,-117.090669
+Escondido Union,L. R. Green Elementary,3115 Las Palmas Avenue Escondido CA 92025-7300,NA,NA,FALSE,tested,Escondido,San Diego County,33.08508845,-117.059876949067
+Encinitas Union Elementary,La Costa Heights Elementary,3035 Levante Street Carlsbad CA 92009-8331,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0809196720078,-117.243387041512
+San Marcos Unified,La Costa Meadows Elementary,6889 El Fuerte Street Carlsbad CA 92009-5923,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.104528141052,-117.239976933974
+San Diego Unified,La Jolla Elementary,1111 Marine Street La Jolla CA 92037-5131,NA,NA,FALSE,tested,San Diego,San Diego County,32.839127,-117.270964
+San Diego Unified,La Jolla High,750 Nautilus Street La Jolla CA 92037-6103,8.42,ppb,TRUE,tested,San Diego,San Diego County,32.833784,-117.273018
+La Mesa-Spring Valley,La Mesa Arts Academy,4200 Parks Avenue La Mesa CA 91942-6212,10,ppb,TRUE,tested,La Mesa,San Diego County,32.755398,-117.030379
+La Mesa-Spring Valley,La Mesa Dale Elementary,4370 Parks Avenue La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7577150678382,-117.032242083058
+La Mesa-Spring Valley,La Mesa-Spring Valley Home Independent Study,4811 Glen Street La Mesa CA 91942-5474,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7664661384374,-117.008799369655
+San Ysidro Elementary,La Mirada Elementary,222 Avenida de la Madrid San Ysidro CA 92173-1508,NA,NA,NA,not tested,San Diego,San Diego County,32.562946,-117.046105
+Fallbrook Union Elementary,La Paloma Elementary,300 Heald Lane Fallbrook CA 92028-2108,NA,NA,NA,not tested,NA,San Diego County,33.378028,-117.235365
+San Diego Unified,Lafayette Elementary,6125 Printwood Way San Diego CA 92117-3346,NA,NA,FALSE,tested,San Diego,San Diego County,32.826168,-117.16915
+Vista Unified,Lake Elementary,4950 Lake Boulevard Oceanside CA 92056-4749,NA,NA,FALSE,tested,Oceanside,San Diego County,33.173625,-117.259967
+Lakeside Union Elementary,Lakeside Early Advantage Preschool,9745 Marilla Drive Lakeside CA 92040-2807,NA,NA,FALSE,tested,NA,San Diego County,32.8542574484887,-116.940620350743
+Lakeside Union Elementary,Lakeside Farms Elementary,11915 Lakeside Avenue Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.866098,-116.935984
+Lakeside Union Elementary,Lakeside Middle,11833 Woodside Avenue Lakeside CA 92040-0578,14,ppb,TRUE,tested,NA,San Diego County,32.8549967570611,-116.938333644421
+Lakeside Union Elementary,Lakeview Elementary,9205 Lakeview Road Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.858303,-116.904602
+San Diego Unified,Language Academy,4961 64th Street San Diego CA 92115-2602,6.13,ppb,TRUE,tested,San Diego,San Diego County,32.7678612407845,-117.061894011888
+National Elementary,Las Palmas,1900 East 18th Street National City CA 91950-5013,NA,NA,FALSE,tested,National City,San Diego County,32.668922,-117.097397
+Chula Vista Elementary,Lauderbach (J. Calvin) Elementary,390 Palomar Street Chula Vista CA 91911-3182,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.60620832,-117.06879796
+Oceanside Unified,Laurel Elementary,1410 Laurel Street Oceanside CA 92058-2217,NA,NA,FALSE,tested,Oceanside,San Diego County,33.208361,-117.374996
+San Diego Unified,Laurel Preparatory Academy,10170 Huennekens St B San Diego CA 92121-2964,NA,NA,NA,not tested,San Diego,San Diego County,32.902766,-117.184084
+San Diego Unified,Lee Elementary,6196 Childs Avenue San Diego CA 92139-3612,NA,NA,NA,not tested,San Diego,San Diego County,32.671305,-117.057536
+La Mesa-Spring Valley,Lemon Avenue Elementary,8787 Lemon Avenue La Mesa CA 91941-5214,10,ppb,TRUE,tested,La Mesa,San Diego County,32.7681206040709,-117.008402702386
+Lakeside Union Elementary,Lemon Crest Elementary,12463 Lemon Crest Drive Lakeside CA 92040-0578,NA,NA,FALSE,tested,NA,San Diego County,32.852336,-116.921157
+Lemon Grove,Lemon Grove Academy Elementary,7885 Golden Avenue Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7418482325659,-117.028459000829
+Lemon Grove,Lemon Grove Academy for the Sciences and Humanities,7866 Lincoln Street Lemon Grove CA 91945-2542,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7382249705882,-117.029315117647
+Chula Vista Elementary,Leonardo da Vinci Health Sciences Charter,229 East Naples Chula Vista CA 91911-2332,NA,NA,NA,not tested,Chula Vista,San Diego County,32.623978,-117.032089
+San Diego Unified,Lewis Middle,5170 Greenbrier Avenue San Diego CA 92120-1220,NA,NA,FALSE,tested,San Diego,San Diego County,32.797058,-117.080658
+Cajon Valley Union,Lexington Elementary,1145 Redwood Ave El Cajon CA 92019-4739,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79122,-116.942009914739
+Oceanside Unified,Libby Elementary,423 West Redondo Drive Oceanside CA 92057-4316,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2520565500941,-117.304965910019
+Chula Vista Elementary,Liberty Elementary,2175 Proctor Valley Road Chula Vista CA 91914-4026,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.662275,-116.9482891
+Valley Center-Pauma Unified,Lilac,30109 Lilac Road Valley Center CA 92082-3318,NA,NA,FALSE,tested,NA,San Diego County,33.2560817389783,-117.068014878735
+Escondido Union,Lincoln Elementary,1029 North Broadway Escondido CA 92026-3043,NA,NA,FALSE,tested,Escondido,San Diego County,33.1344576,-117.088817751002
+San Diego Unified,Lincoln High,4777 Imperial Avenue San Diego CA 92113-2071,NA,NA,FALSE,tested,San Diego,San Diego County,32.70225955,-117.091403951161
+Oceanside Unified,Lincoln Middle,2000 California Street Oceanside CA 92054-5683,NA,NA,FALSE,tested,Oceanside,San Diego County,33.188804,-117.35346
+San Diego Unified,Linda Vista Elementary,2772 Ulric Street San Diego CA 92111-5530,NA,NA,FALSE,tested,San Diego,San Diego County,32.793205,-117.174335
+San Diego Unified,Lindbergh/Schweitzer Elementary West,4133 Mount Albertine Avenue San Diego CA 92111-3128,NA,NA,FALSE,tested,San Diego,San Diego County,32.8197124108897,-117.171411578624
+Lakeside Union Elementary,Lindo Park Elementary,12824 Lakeshore Drive Lakeside CA 92040-0578,6.1,ppb,TRUE,tested,NA,San Diego County,32.859907,-116.913845
+San Diego County Office of Education,Literacy First Charter,799 East Washington Avenue El Cajon CA 92020-5327,NA,NA,FALSE,tested,El Cajon,San Diego County,32.787118,-116.952022
+San Diego County Office of Education,Literacy First Charter School Jr Academy,1012 E. Bradley Ave El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.820737,-116.946714
+San Diego County Office of Education,Literacy First Charter School Liberty Academy,698 W. Main St. El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.795491,-116.970497
+San Diego County Office of Education,Literacy First Charter School Liberty High School,8425 Palm St. Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7345531323508,-117.019964013406
+Fallbrook Union Elementary,Live Oak Elementary,1978 Reche Road Fallbrook CA 92028-2108,NA,NA,NA,not tested,NA,San Diego County,33.370116,-117.21745
+San Diego Unified,Logan K-8,2875 Ocean View Boulevard San Diego CA 92113-1399,NA,NA,FALSE,tested,San Diego,San Diego County,32.7010780493809,-117.132295824404
+La Mesa-Spring Valley,Loma Elementary,10355 Loma Lane Spring Valley CA 91978-1517,NA,NA,NA,not tested,NA,San Diego County,32.736646,-116.96885
+La Mesa-Spring Valley,Loma Elementary School,"10355 Loma Ln, Spring Valley, CA 91978",NA,NA,NA,exempt,NA,San Diego County,32.736646,-116.96885
+San Diego Unified,Loma Portal Elementary,3341 Browning Street San Diego CA 92106-1599,NA,NA,FALSE,tested,San Diego,San Diego County,32.739955,-117.221472
+Chula Vista Elementary,Loma Verde Elementary,1450 Loma Lane Chula Vista CA 91911-5310,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6011857337619,-117.04892699026
+San Diego Unified,Longfellow K-8,5055 July Street San Diego CA 92110-1114,NA,NA,FALSE,tested,San Diego,San Diego County,32.782889,-117.188552
+Chula Vista Elementary,Los Altos Elementary,1332 Kenalan Drive San Diego CA 92154-3731,NA,NA,FALSE,tested,San Diego,San Diego County,32.57258982324,-117.048929868625
+Poway Unified,Los Penasquitos Elementary,14125 Cuca Street San Diego CA 92129-1852,NA,NA,NA,not tested,San Diego,San Diego County,32.96979,-117.097159
+Oceanside Unified,Louise Foussat Elementary,3800 Pala Road Oceanside CA 92058-0678,NA,NA,NA,not tested,Oceanside,San Diego County,33.238121292397,-117.328829404465
+Sweetwater Union High,MAAC Community Charter,1385 Third Avenue Chula Vista CA 91911-4302,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.604521,-117.064632
+Cajon Valley Union,Madison Avenue Elementary,1615 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800116,-116.922195328052
+San Diego Unified,Madison High,4833 Doliva Drive San Diego CA 92117-3211,NA,NA,FALSE,tested,San Diego,San Diego County,32.831029,-117.173545
+Vista Unified,Madison Middle,4930 Lake Boulevard Oceanside CA 92056-4749,NA,NA,FALSE,tested,Oceanside,San Diego County,33.175027,-117.258284
+Carlsbad Unified,Magnolia Elementary,1905 Magnolia Avenue Carlsbad CA 92008-2632,5.7,ppb,TRUE,tested,Carlsbad,San Diego County,33.1600610763636,-117.326672756782
+Cajon Valley Union,Magnolia Elementary,650 Greenfield Drive El Cajon CA 92021-2957,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8134135649439,-116.953733351052
+San Diego Unified,Magnolia Science Academy San Diego,6365 Lake Atlin Avenue San Diego CA 92119-3206,NA,NA,NA,not tested,San Diego,San Diego County,32.796716,-117.011759078319
+Fallbrook Union Elementary,Maie Ellis Elementary,400 West Elder St. Fallbrook CA 92028-2108,NA,NA,NA,not tested,NA,San Diego County,33.378485,-117.255279
+Vista Unified,Major General Raymond Murray High,215 North Melrose Drive Vista CA 92083-5720,NA,NA,FALSE,tested,Vista,San Diego County,33.198329,-117.254895
+San Diego Unified,Mann Middle,4345 54th Street San Diego CA 92115-5336,8.145,ppb,TRUE,tested,San Diego,San Diego County,32.756588,-117.077393
+Sweetwater Union High,Mar Vista Academy,1267 Thermal Avenue San Diego CA 92154-2802,NA,NA,FALSE,tested,San Diego,San Diego County,32.574883,-117.095952
+Sweetwater Union High,Mar Vista Senior High,505 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5780756,-117.122803963135
+Private,Maranatha Christian School,9050 Maranatha Drive San Diego CA 92127,NA,NA,FALSE,tested,San Diego,San Diego County,33.023794,-117.13691
+San Diego Unified,Marcy School,2716 Marcy Ave San Diego CA 92113,NA,NA,FALSE,tested,San Diego,San Diego County,32.69799065,-117.136145762628
+Chula Vista Elementary,Marshall (Thurgood) Elementary,2295 MacKenzie Creek Road Chula Vista CA 91914-3537,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6586313174641,-116.966371927444
+San Diego Unified,Marshall Elementary,3550 Altadena Avenue San Diego CA 92105-3698,NA,NA,FALSE,tested,San Diego,San Diego County,32.7424548101005,-117.086460016257
+San Diego Unified,Marshall Middle,9700 Avenue of Nations San Diego CA 92131-2135,NA,NA,FALSE,tested,San Diego,San Diego County,32.89629935,-117.099360705095
+San Diego Unified,Marston Middle,3799 Clairemont Drive San Diego CA 92117-5915,NA,NA,FALSE,tested,San Diego,San Diego County,32.808038,-117.199297
+Oceanside Unified,Martin Luther King Jr. Middle,1290 Ivey Ranch Road Oceanside CA 92057-8535,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2197420170433,-117.309783393515
+San Diego Unified,Marvin Elementary,5720 Brunswick Avenue San Diego CA 92120-1905,NA,NA,FALSE,tested,San Diego,San Diego County,32.797,-117.068147
+La Mesa-Spring Valley,Maryland Avenue Elementary,5400 Maryland Avenue La Mesa CA 91941-5214,13,ppb,TRUE,tested,La Mesa,San Diego County,32.777703,-117.03826
+Vista Unified,Maryland Elementary,700 North Avenue Vista CA 92084-2906,NA,NA,FALSE,tested,Vista,San Diego County,33.21551,-117.258029
+San Diego Unified,Mason Elementary,10340 San Ramon Drive San Diego CA 92126-3235,NA,NA,FALSE,tested,San Diego,San Diego County,32.906083,-117.140734
+San Diego Unified,McGill School of Success,3025 Fir Street San Diego CA 92102-1123,NA,NA,NA,not tested,San Diego,San Diego County,32.725016,-117.129705
+San Diego Unified,McKinley Elementary,3045 Felton Street San Diego CA 92104-5218,8.4,ppb,TRUE,tested,San Diego,San Diego County,32.736627,-117.121142
+Chula Vista Elementary,McMillin (Corky) Elementary,1201 Santa Cora Avenue Chula Vista CA 91913-1799,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.631836,-116.985261
+Poway Unified,Meadowbrook Middle,12320 Meadowbrook Lane Poway CA 92064-3599,NA,NA,FALSE,tested,Poway,San Diego County,32.9634023712347,-117.06338445178
+San Diego Unified,Memorial Scholars and Athletes,2850 Logan Ave San Diego CA 92113-2412,NA,NA,NA,not tested,San Diego,San Diego County,32.6970608300323,-117.1327075044
+Poway Unified,Mesa Verde Middle,8375 Entreken Way San Diego CA 92129-4405,NA,NA,NA,not tested,San Diego,San Diego County,32.961478,-117.146717
+Dehesa Elementary,MethodSchools,4612 Dehesa Rd El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Poway Unified,Midland Elementary,13910 Midland Road Poway CA 92064-4024,NA,NA,FALSE,tested,Poway,San Diego County,32.9661810613227,-117.036236694472
+Fallbrook Union Elementary,Mike Choate Center,407 South Mission Rd Fallbrook CA 92028,NA,NA,NA,not tested,NA,San Diego County,33.379493,-117.253713
+San Diego Unified,Millennial Tech Middle,1110 Carolina Lane San Diego CA 92102-3713,NA,NA,FALSE,tested,San Diego,San Diego County,32.717252,-117.08861
+Escondido Union,Miller Elementary,1975 Miller Avenue Escondido CA 92025-5932,NA,NA,FALSE,tested,Escondido,San Diego County,33.09664835,-117.080017740558
+San Diego Unified,Miller Elementary,4343 Shields Street San Diego CA 92124-2933,5.37,ppb,TRUE,tested,San Diego,San Diego County,32.81857520345,-117.107511456604
+San Diego Unified,Mira Mesa High,10510 Reagan Road San Diego CA 92126-3275,NA,NA,FALSE,tested,San Diego,San Diego County,32.910639,-117.141525
+San Diego Unified,Miramar Ranch Elementary,10770 Red Cedar Drive San Diego CA 92131-1204,NA,NA,FALSE,tested,San Diego,San Diego County,32.9093915112206,-117.098623564284
+San Diego Unified,Mission Bay High,2475 Grand Avenue San Diego CA 92109-4825,NA,NA,FALSE,tested,San Diego,San Diego County,32.7991984,-117.2340992
+Private,Mission Bay Montessori Academy,2640 Soderblom Avenue San Diego CA 92122,NA,NA,FALSE,tested,San Diego,San Diego County,32.8435009,-117.2295797
+Oceanside Unified,Mission Elementary,2100 Mission Avenue Oceanside CA 92058-2327,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2056316187385,-117.362999373667
+Encinitas Union Elementary,Mission Estancia Elementary,3330 Calle Barcelona Carlsbad CA 92009-9319,NA,NA,NA,not tested,Carlsbad,San Diego County,33.0723301,-117.240137
+San Marcos Unified,Mission Hills High,1 Mission Hills Court San Marcos CA 92069-1965,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1433095,-117.14101556847
+Vista Unified,Mission Meadows Elementary,5657 Spur Avenue Oceanside CA 92056-5714,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2464193,-117.256493148806
+Escondido Union,Mission Middle,939 East Mission Avenue Escondido CA 92026-2216,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1978082477411,-117.376120261189
+Vista Unified,Mission Vista High,1306 Melrose Drive Oceanside CA 92057-4649,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2548202,-117.263553105657
+San Diego County Office of Education,Monarch,1625 Newton Avenue San Diego CA 92113-1012,NA,NA,NA,not tested,San Diego,San Diego County,32.7029547892635,-117.150464909774
+Vista Unified,Monte Vista Elementary,1720 Monte Vista Road Vista CA 92084-7122,6.300000000000001,ppb,TRUE,tested,NA,San Diego County,32.7621250885664,-116.942490789692
+Grossmont Union High,Monte Vista High,3230 Sweetwater Springs Boulevard Spring Valley CA 91977-6934,NA,NA,FALSE,tested,NA,San Diego County,32.737742,-116.973713
+Lemon Grove,Monterey Heights Elementary,7550 Canton Drive Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.722212067296,-117.033495714316
+Poway Unified,Monterey Ridge Elementary,17117 4S Ranch Parkway San Diego CA 92127-8853,NA,NA,NA,not tested,NA,San Diego County,33.0080902,-117.1157989
+Sweetwater Union High,Montgomery Adult,3240 Palm Avenue San Diego CA 92154-1507,NA,NA,FALSE,tested,San Diego,San Diego County,32.5838899974895,-117.064303073102
+Sweetwater Union High,Montgomery Middle,1051 Picador Boulevard San Diego CA 92154-3548,7.165,ppb,TRUE,tested,San Diego,San Diego County,32.576755,-117.055404693385
+San Diego Unified,Montgomery Middle,2470 Ulric Street San Diego CA 92111-6099,NA,NA,FALSE,tested,San Diego,San Diego County,32.787837,-117.173017
+Cajon Valley Union,Montgomery Middle,1570 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79656,-116.924821
+Sweetwater Union High,Montgomery Senior High,3250 Palm Avenue San Diego CA 92154-1507,NA,NA,FALSE,tested,San Diego,San Diego County,32.585893,-117.064215
+San Diego Unified,Morse High,6905 Skyline Drive San Diego CA 92114-5928,NA,NA,FALSE,tested,San Diego,San Diego County,32.7025731669489,-117.048648507958
+Dehesa Elementary,Mosaica Online Academy of Southern California,4612 Dehesa Road C El Cajon CA 92019-2922,NA,NA,NA,not tested,El Cajon,San Diego County,32.786068,-116.911613
+Ramona City Unified,Mountain Valley Academy,1010 Ramona Street Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Poway Unified,Mt. Carmel High,9550 Carmel Mountain Road San Diego CA 92129-2799,NA,NA,NA,not tested,San Diego,San Diego County,32.967446,-117.120433
+San Diego Unified,Mt. Everest Academy,4350 Mount Everest Boulevard San Diego CA 92117-4847,8.88,ppb,TRUE,tested,San Diego,San Diego County,32.819994,-117.187193
+Private,Mt. Helix Academy,5955 Severin Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7867843211031,-116.99873819204
+Lemon Grove,Mt. Vernon Elementary,8350 Mount Vernon Street Lemon Grove CA 91945-3336,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7319280566999,-117.020446527466
+Chula Vista Elementary,Mueller Charter (Robert L.),715 I Street Chula Vista CA 91910-5112,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6262449334741,-117.092894650138
+San Diego Unified,Muirlands Middle,1056 Nautilus Street La Jolla CA 92037-6299,NA,NA,FALSE,tested,San Diego,San Diego County,32.833098,-117.269193
+La Mesa-Spring Valley,Murray Manor Elementary,8305 El Paso Street La Mesa CA 91942-2704,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7883216733128,-117.019806576683
+San Diego Unified,Museum,211 Maple Street San Diego CA 92103-6527,NA,NA,NA,not tested,San Diego,San Diego County,32.7323399507181,-117.162827141351
+Cajon Valley Union,Naranca Elementary,1030 Naranca Avenue El Cajon CA 92021-5615,NA,NA,FALSE,tested,El Cajon,San Diego County,32.804018,-116.947147305407
+Sweetwater Union High,National City Middle,1701 D Avenue National City CA 91950-4535,6.49,ppb,TRUE,tested,National City,San Diego County,32.672688,-117.101128
+Lakeside Union Elementary,National University Academy,2030 University Drive Vista CA 92083-7736,NA,NA,FALSE,tested,Vista,San Diego County,33.173183,-117.219722
+South Bay Union,Nestor Language Academy Charter,1455 Hollister Street San Diego CA 92154-4063,7.3500000000000005,ppb,TRUE,tested,San Diego,San Diego County,32.570376,-117.08274
+Oceanside Unified,Nichols Elementary,4250 Old Grove Road Oceanside CA 92057-6539,NA,NA,FALSE,tested,Oceanside,San Diego County,33.238136,-117.315986
+Escondido Union,Nicolaysen Community Day,420 North Falconer Rd. Escondido CA 92027,NA,NA,NA,not tested,Escondido,San Diego County,33.1385570507568,-117.032684755859
+San Diego Unified,Normal Heights Elementary,3750 Ward Road San Diego CA 92116-3737,NA,NA,FALSE,tested,San Diego,San Diego County,32.761005765625,-117.11330209375
+Bonsall Unified,Norman L. Sullivan Middle,7350 West Lilac Road Bonsall CA 92003-5112,NA,NA,NA,not tested,NA,San Diego County,33.297398,-117.175002
+Escondido Union,North Broadway Elementary,2301 North Broadway Escondido CA 92026-1412,NA,NA,FALSE,tested,Escondido,San Diego County,33.161119,-117.092927
+Oceanside Unified,North Terrace Elementary,141 Santa Rosa Drive Oceanside CA 92058-6880,NA,NA,FALSE,tested,NA,San Diego County,33.2209026418525,-117.380903730374
+La Mesa-Spring Valley,Northmont Elementary,9405 Gregory Street La Mesa CA 91942-3811,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7908434078948,-116.993913126317
+San Diego Unified,Nye Elementary,981 Valencia Parkway San Diego CA 92114-6574,NA,NA,FALSE,tested,San Diego,San Diego County,32.696037,-117.068544
+San Dieguito Union High,Oak Crest Middle,675 Balour Dr Encinitas CA 92024-3996,NA,NA,NA,not tested,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+San Dieguito Union High,Oak Crest Middle School,675 Balour Dr.,NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+San Dieguito Union High,Oak Crest Middle School,"675 Balour Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0430139990273,-117.268293252612
+Jamul-Dulzura Union Elementary,Oak Grove Middle,14344 Olive Vista Drive Jamul CA 91935-3223,NA,NA,NA,not tested,NA,San Diego County,32.723145,-116.861659
+Escondido Union,Oak Hill Elementary,1820 Oak Hill Drive Escondido CA 92027-1629,NA,NA,FALSE,tested,Escondido,San Diego County,33.1295381480193,-117.051305474358
+San Diego Unified,Oak Park Elementary,2606 54th Street San Diego CA 92105-4999,NA,NA,FALSE,tested,San Diego,San Diego County,32.732618,-117.081187
+Poway Unified,Oak Valley Middle School,16055 Winecreek Road San Diego CA 92127-3719,NA,NA,NA,not tested,San Diego,San Diego County,33.0004155,-117.1093551
+Del Mar Union Elementary,Ocean Air,11444 Canter Heights Drive San Diego CA 92130-6974,NA,NA,FALSE,tested,San Diego,San Diego County,32.927201419055,-117.213980850676
+San Diego Unified,Ocean Beach Elementary,4741 Santa Monica Avenue San Diego CA 92107-2297,5.31,ppb,TRUE,tested,San Diego,San Diego County,32.744714,-117.246525
+Encinitas Union Elementary,Ocean Knoll Elementary,910 Melba Road Encinitas CA 92024-3901,NA,NA,NA,not tested,Encinitas,San Diego County,33.0403032,-117.2722253
+Encinitas Union Elementary,Ocean Knoll Elementary School,"910 Melba Rd.Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0403032,-117.2722253
+Oceanside Unified,Ocean Shores High (Continuation),3131 Oceanside Boulevard Oceanside CA 92056-2799,NA,NA,FALSE,tested,Oceanside,San Diego County,33.201129,-117.330387
+San Ysidro Elementary,Ocean View Hills,4919 Del Sol Boulevard San Diego CA 92154-8488,NA,NA,NA,not tested,San Diego,San Diego County,32.57148325,-117.024412055868
+Oceanside Unified,Oceanside School of Business and Technology,1831 Mission Avenue Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.2037221082362,-117.365002119178
+Oceanside Unified,Oceanside Unified School District,2111 Mission Avenue Oceanside CA 92058-2326,NA,NA,NA,not tested,Oceanside,San Diego County,33.2057477667907,-117.362649752543
+San Diego Unified,Old Town Academy K-8 Charter,2120 San Diego Avenue San Diego CA 92110-2901,NA,NA,NA,not tested,San Diego,San Diego County,32.7466878,-117.1891467
+Vista Unified,Olive Elementary,836 Olive Avenue Vista CA 92083-3316,NA,NA,FALSE,tested,Vista,San Diego County,33.2046013836103,-117.259030491692
+Ramona City Unified,Olive Peirce Middle,1521 Hanson Lane Ramona CA 92065-3306,NA,NA,FALSE,tested,NA,San Diego County,33.026693,-116.871608
+Encinitas Union Elementary,Olivenhain Pioneer Elementary,8000 Calle Acervo Carlsbad CA 92009-8900,NA,NA,NA,not tested,Carlsbad,San Diego County,33.069318,-117.232973
+National Elementary,Olivewood,2505 F Avenue National City CA 91950-7017,NA,NA,FALSE,tested,National City,San Diego County,32.6629193636364,-117.094941490909
+Sweetwater Union High,Olympian High,1925 Magdalena Avenue Chula Vista CA 91913-3973,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6090498,-116.973117128795
+Chula Vista Elementary,Olympic View Elementary,1220 South Greensview Drive Chula Vista CA 91915-2127,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6378405,-116.965196
+Sweetwater Union High,Options Secondary,467 Moss Street Chula Vista CA 91911-1705,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6150991557835,-117.077415263139
+Escondido Union High,Orange Glen High,2200 Glen Ridge Road Escondido CA 92027-4115,NA,NA,NA,not tested,Escondido,San Diego County,33.1291727,-117.042074101212
+Chula Vista Elementary,Otay Elementary,1651 Albany Avenue Chula Vista CA 91911-5801,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.597535469405,-117.05820281117
+Sweetwater Union High,Otay Ranch Senior High,1250 Olympic Parkway Chula Vista CA 91913-1900,NA,NA,NA,not tested,Chula Vista,San Diego County,32.62045,-116.990644298645
+Private,Our Lady of Grace School,2766 Navajo Road El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.803908,-117.004108
+San Diego Unified,Pacific Beach Elementary,1234 Tourmaline Street San Diego CA 92109-1856,NA,NA,FALSE,tested,San Diego,San Diego County,32.809181,-117.250578
+San Diego Unified,Pacific Beach Middle,4676 Ingraham Street San Diego CA 92109-3192,NA,NA,FALSE,tested,San Diego,San Diego County,32.8021278040869,-117.241699404788
+Oceanside Unified,Pacific View Charter,3670 Ocean Ranch Boulevard Oceanside CA 92056-2669,NA,NA,NA,not tested,Oceanside,San Diego County,33.2179543,-117.2972706
+San Diego Unified,Pacific View Leadership Elementary,6196 Childs Ave San Diego CA  92139,NA,NA,FALSE,tested,San Diego,San Diego County,32.671305,-117.057536
+Oceanside Unified,Pacifica Elementary,4991 Macario Drive Oceanside CA 92057-4302,NA,NA,NA,not tested,Oceanside,San Diego County,33.2571304630599,-117.302584707786
+Poway Unified,Painted Rock Elementary,16711 Martincoit Road Poway CA 92064-1628,NA,NA,FALSE,tested,Poway,San Diego County,33.0174967495821,-117.039705382864
+Coronado Unified,Palm Academy for Learning,555 D Avenue Coronado CA 92118-1714,NA,NA,FALSE,tested,Coronado,San Diego County,32.6928953635097,-117.17712279334
+National Elementary,Palmer Way,2900 Palmer Street National City CA 91950-5251,NA,NA,FALSE,tested,National City,San Diego County,32.679545,-117.075294
+Oceanside Unified,Palmquist Elementary,1999 California Street Oceanside CA 92054-5685,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1886033,-117.3510944
+San Marcos Unified,Paloma Elementary,660 Camino Magnifico San Marcos CA 92069-7323,NA,NA,FALSE,tested,San Marcos,San Diego County,33.15940595,-117.185678532199
+Chula Vista Elementary,Palomar Elementary,300 East Palomar Street Chula Vista CA 91911-3799,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.613974,-117.041951
+Sweetwater Union High,Palomar High,480 Palomar Street Chula Vista CA 91911-3098,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6048209752506,-117.073768879389
+San Diego Unified,Paradise Hills Elementary,5816 Alleghany Street San Diego CA 92139-1799,NA,NA,FALSE,tested,San Diego,San Diego County,32.680247,-117.066479
+Encinitas Union Elementary,Park Dale Lane Elementary,2050 Park Dale Lane Encinitas CA 92024-4324,NA,NA,NA,not tested,Encinitas,San Diego County,33.0464195518218,-117.243113753442
+Poway Unified,Park Village Elementary,7930 Park Village Road San Diego CA 92129-3781,NA,NA,NA,not tested,San Diego,San Diego County,32.941292,-117.150645
+Chula Vista Elementary,Parkview Elementary,575 Juniper Street Chula Vista CA 91911-3826,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6130004956672,-117.031207881164
+La Mesa-Spring Valley,Parkway Middle,9009 Park Plaza Drive La Mesa CA 91942-3400,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7909600446238,-117.004905071719
+Bonsall Unified,Pathways Academy Charter,31505 Old River Road Bonsall CA 92003-3614,NA,NA,NA,not tested,NA,San Diego County,33.2860359172468,-117.220576223094
+Encinitas Union Elementary,Paul Ecke Central Elementary School,"185 Union St, .Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0580312727273,-117.298061818182
+Encinitas Union Elementary,Paul Ecke-Central Elementary,185 Union Street Encinitas CA 92024-2119,NA,NA,NA,not tested,Encinitas,San Diego County,33.0580312727273,-117.298061818182
+Valley Center-Pauma Unified,Pauma Elementary,33158 Cole Grade Road Pauma Valley CA 92061-9578,NA,NA,NA,not tested,NA,San Diego County,33.315703,-117.00149
+San Diego Unified,Penn Elementary,2797 Utica Drive San Diego CA 92139-3843,NA,NA,FALSE,tested,San Diego,San Diego County,32.6731700408163,-117.047194020408
+Santee,Pepper Drive Elementary,1935 Marlinda Way El Cajon CA 92020-1155,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8268486030357,-116.953984065406
+San Diego Unified,Perkins K-8,1770 Main Street San Diego CA 92113-2104,NA,NA,FALSE,tested,San Diego,San Diego County,32.701186,-117.148736
+San Diego Unified,Perry Elementary,6290 Oriskany Road San Diego CA 92139-1142,5.14,ppb,TRUE,tested,San Diego,San Diego County,32.685435,-117.059506
+San Diego Unified,Pershing Middle,8204 San Carlos Drive San Diego CA 92119-2636,NA,NA,FALSE,tested,San Diego,San Diego County,32.802331,-117.020297
+Mountain Empire Unified,Pine Valley Middle,7454 Pine Boulevard Pine Valley CA 91962,NA,NA,NA,not tested,NA,San Diego County,32.820077,-116.525979
+Escondido Union,Pioneer Elementary,980 North Ash Street Escondido CA 92027-1629,8.7,ppb,TRUE,tested,Escondido,San Diego County,33.1387432,-117.071253604508
+Carlsbad Unified,Poinsettia Elementary,2445 Mica Road Carlsbad CA 92009-1733,NA,NA,NA,not tested,Carlsbad,San Diego County,33.1184473145235,-117.253905203322
+San Diego Unified,Point Loma High,2335 Chatsworth Boulevard San Diego CA 92106-1646,NA,NA,FALSE,tested,San Diego,San Diego County,32.73965,-117.226153
+San Diego Unified,Porter Elementary,4800 T Street San Diego CA 92113-5006,NA,NA,NA,not tested,San Diego,San Diego County,32.699641,-117.091078
+San Diego Unified,Porter Elementary North,445 South 47th Street San Diego CA 92113,NA,NA,NA,not tested,San Diego,San Diego County,32.7010126349308,-117.093636827791
+Poway Unified,Poway Adult,13626 Twin Peaks Road Poway CA 92064-3034,6.07,ppb,TRUE,tested,Poway,San Diego County,32.9784381037096,-117.035684337836
+Poway Unified,Poway High,15500 Espola Road Poway CA 92064-2299,NA,NA,FALSE,tested,Poway,San Diego County,32.994117,-117.024753
+San Diego Unified,Preuss School UCSD,9500 Gilman Drive La Jolla CA 92093-0536,NA,NA,NA,not tested,San Diego,San Diego County,32.8769762,-117.241736
+Santee,PRIDE Academy at Prospect Avenue,9303 Prospect Avenue Santee CA 92071-3798,NA,NA,FALSE,tested,Santee,San Diego County,32.833926,-116.9956855
+Escondido Union,Quantum Academy,420 North Falconer Road Escondido CA 92027-5331,NA,NA,FALSE,tested,Escondido,San Diego County,33.1385570507568,-117.032684755859
+Rancho Santa Fe Elementary,R. Roger Rowe Middle,5927 La Granada Rancho Santa Fe CA 92067-0809,NA,NA,NA,not tested,NA,San Diego County,33.020682,-117.206887
+Ramona City Unified,Ramona Community Montessori,1010 Ramona St Ramona CA 92065-3222,NA,NA,FALSE,tested,NA,San Diego County,33.026732,-116.878279
+Ramona City Unified,Ramona High,1401 Hanson Lane Ramona CA 92065-3304,NA,NA,FALSE,tested,NA,San Diego County,33.027578,-116.86871
+Poway Unified,Rancho Bernardo High,13010 Paseo Lucido San Diego CA 92128-4499,NA,NA,NA,not tested,San Diego,San Diego County,32.996963,-117.067666
+Vista Unified,Rancho Buena Vista High,1601 Longhorn Drive Vista CA 92081-5423,NA,NA,FALSE,tested,Vista,San Diego County,33.1633751,-117.2471389
+Sweetwater Union High,Rancho del Rey Middle,1174 East J Street Chula Vista CA 91910-7040,NA,NA,NA,not tested,Chula Vista,San Diego County,32.635067,-117.036926
+La Mesa-Spring Valley,Rancho Elementary,8845 Noeline Avenue Spring Valley CA 91977-5716,NA,NA,NA,not tested,San Diego,San Diego County,32.704318,-117.015568
+La Mesa-Spring Valley,Rancho Elementary School,"8845 Noeline Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,San Diego,San Diego County,32.704318,-117.015568
+Vista Unified,Rancho Minerva Middle,2245 Foothill Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.2047244584825,-117.205772813563
+Escondido Union,Reidy Creek Elementary,2869 North Broadway Escondido CA 92026-8802,8,ppb,TRUE,tested,Escondido,San Diego County,33.17220215,-117.091929302111
+Oceanside Unified,Reynolds Elementary,4575 Douglas Drive Oceanside CA 92057-4228,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2628332209386,-117.308148290492
+San Marcos Unified,Richland Elementary,910 Borden Road San Marcos CA 92069-2199,NA,NA,NA,not tested,San Marcos,San Diego County,33.1542748367347,-117.140917979592
+San Diego Unified,Riley/New Dawn,5650 Mount Ackerly Drive San Diego CA 92111-4016,NA,NA,FALSE,tested,San Diego,San Diego County,32.810658,-117.179351
+Escondido Union,Rincon Middle,925 Lehner Avenue Escondido CA 92026-1512,NA,NA,FALSE,tested,Escondido,San Diego County,33.157345,-117.081098363373
+Santee,Rio Seco Elementary,9545 Cuyamaca Street Santee CA 92071-2674,NA,NA,FALSE,tested,Santee,San Diego County,32.8361529,-116.9837113
+Lakeside Union Elementary,Riverview Elementary,9308 Winter Gardens Boulevard Lakeside CA 92040-4539,NA,NA,FALSE,tested,NA,San Diego County,32.846443,-116.932397
+Escondido Union,Rock Springs Elementary,1155 Deodar Road Escondido CA 92026-2200,NA,NA,FALSE,tested,Escondido,San Diego County,33.137299,-117.106158
+San Diego Unified,Rodriguez Elementary,825 South 31st Street San Diego CA 92113-2525,NA,NA,FALSE,tested,San Diego,San Diego County,32.6978589287945,-117.127210587844
+Chula Vista Elementary,Rogers (Greg) Elementary,510 East Naples Street Chula Vista CA 91911-2519,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.623978,-117.032089
+Chula Vista Elementary,Rohr (Fred H.) Elementary,1540 Malta Avenue Chula Vista CA 91911-5999,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.602433,-117.040581
+La Mesa-Spring Valley,Rolando Elementary,6925 Tower Street La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7631592630782,-117.048703856742
+San Diego Unified,Rolando Park Elementary,6620 Marlowe Drive San Diego CA 92115-6740,NA,NA,FALSE,tested,San Diego,San Diego County,32.7465232,-117.0547728
+Poway Unified,Rolling Hills Elementary,15255 Penasquitos Drive San Diego CA 92129-1016,NA,NA,NA,not tested,San Diego,San Diego County,32.990055,-117.091879
+San Diego Unified,Roosevelt International Middle,3366 Park Boulevard San Diego CA 92103-5299,NA,NA,FALSE,tested,San Diego,San Diego County,32.7402614,-117.1503398
+Vista Unified,Roosevelt Middle,850 Sagewood Drive Oceanside CA 92057-6937,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2366788,-117.28143064718
+San Diego Unified,Rosa Parks Elementary,4510 Landis Street San Diego CA 92105-2822,NA,NA,FALSE,tested,San Diego,San Diego County,32.746891,-117.097473
+Chula Vista Elementary,Rosebank Elementary,80 Flower Street Chula Vista CA 91911-1997,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6436299,-117.0921018
+San Diego Unified,Ross Elementary,7470 Bagdad Street San Diego CA 92111-4317,NA,NA,FALSE,tested,San Diego,San Diego County,32.812293,-117.161237
+San Diego Unified,Rowan Elementary,1755 Rowan Street San Diego CA 92105-5631,NA,NA,FALSE,tested,San Diego,San Diego County,32.72363,-117.112172
+Del Mar Union Elementary,Sage Canyon,5290 Harvest Run Drive San Diego CA 92130-4875,NA,NA,FALSE,tested,San Diego,San Diego County,32.92617,-117.203542
+Private,Saint Kieran Catholic School,1347 Camillo Way El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8140042769667,-116.928629158742
+Chula Vista Elementary,Salt Creek Elementary,1055 Hunte Parkway Chula Vista CA 91914-3622,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6477134,-116.9486797
+Lemon Grove,San Altos Elementary,1750 Madera Street Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.726681,-117.042671
+San Diego Unified,San Diego Business/Leadership,1405 Park Boulevard San Diego CA 92101-4722,NA,NA,FALSE,tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
+San Carlos Elementary,San Diego Continuing Education,4343 Ocean View Boulevard San Diego CA 92113-1915,NA,NA,NA,not tested,San Diego,San Diego County,32.7004217044846,-117.101618501001
+San Diego Unified,San Diego Cooperative Charter,7260 Linda Vista Road San Diego CA 92111-6128,6.06,ppb,TRUE,tested,San Diego,San Diego County,32.791457,-117.166858
+San Diego Unified,San Diego Cooperative Charter 2 North,3550 Logan Ave San Diego CA 92113,NA,NA,FALSE,tested,San Diego,San Diego County,32.698091,-117.118052
+San Diego Unified,San Diego Cooperative Charter School 2,3550 Logan Avenue San Diego CA 92113-2712,6.42,ppb,TRUE,tested,San Diego,San Diego County,32.698091,-117.118052
+San Diego County Office of Education,San Diego County Community,210 W Ash St San Diego CA 92101-3409,NA,NA,NA,not tested,San Diego,San Diego County,32.72014,-117.16511
+San Diego County Office of Education,San Diego County Court,2801 Meadow Lark Drive San Diego CA 92123,NA,NA,NA,not tested,San Diego,San Diego County,32.79345,-117.154248
+Private,San Diego French–American School,6550 Soledad Mountain Road La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.8350901580437,-117.248331638653
+San Diego Unified,San Diego Global Vision Academy,3430 School Street San Diego CA 92116-3423,NA,NA,FALSE,tested,San Diego,San Diego County,32.762397507543,-117.119072795747
+San Diego Unified,San Diego Global Vision Academy Middle,3430 School St San Diego CA 92116-3423,NA,NA,NA,not tested,San Diego,San Diego County,32.762397507543,-117.119072795747
+San Diego Unified,San Diego International Studies,1405 Park Boulevard San Diego CA 92101-4722,NA,NA,NA,not tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
+San Diego Unified,San Diego Science and Technology,1405 Park Boulevard B San Diego CA 92101-4722,NA,NA,NA,not tested,San Diego,San Diego County,32.7200043972613,-117.15375105081
+San Diego Unified,San Diego SCPA,2425 Dusk Drive San Diego CA 92139-2412,NA,NA,FALSE,tested,San Diego,San Diego County,32.679771,-117.048057
+San Dieguito Union High,San Dieguito Academy,"800 Santa Fe Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0363524454541,-117.275018831884
+San Dieguito Union High,San Dieguito High Academy,800 Santa Fe Drive Encinitas CA 92024-3357,NA,NA,NA,not tested,Encinitas,San Diego County,33.0363524454541,-117.275018831884
+San Marcos Unified,San Elijo Elementary,1615 Schoolhouse Way San Marcos CA 92078-1080,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1008966,-117.1972816
+San Marcos Unified,San Elijo Middle,1600 Schoolhouse Way San Marcos CA 92078-1079,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1008966,-117.1972816
+Oceanside Unified,San Luis Rey Elementary,3535 Hacienda Drive Oceanside CA 92054-3854,NA,NA,FALSE,tested,Oceanside,San Diego County,33.2191786473583,-117.336849522149
+San Marcos Unified,San Marcos Elementary,1 Tiger Way San Marcos CA 92069-2703,NA,NA,FALSE,tested,San Marcos,San Diego County,33.141439,-117.168688920135
+San Marcos Unified,San Marcos Middle,650 West Mission Road San Marcos CA 92069-1555,NA,NA,NA,not tested,San Marcos,San Diego County,33.1457738893039,-117.175407065988
+Lemon Grove,San Miguel Elementary,7059 San Miguel Avenue Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7351105026342,-117.045535530508
+Fallbrook Union Elementary,San Onofre Elementary,200 Pate Road San Clemente CA 92672-2517,5.23,ppb,TRUE,tested,NA,San Diego County,33.38993,-117.57721
+San Diego County Office of Education,San Pasqual Academy,17701 San Pasqual Valley Road Escondido CA 92025-5301,NA,NA,NA,not tested,Escondido,San Diego County,33.1259335,-117.0648299
+Escondido Union High,San Pasqual High,3300 Bear Valley Parkway Escondido CA 92025-7636,NA,NA,NA,not tested,Escondido,San Diego County,33.0942124,-117.0589004
+San Pasqual Union Elementary,San Pasqual Union Elementary,15305 Rockwood Road Escondido CA 92027-6700,NA,NA,FALSE,tested,Escondido,San Diego County,33.11129312374,-117.008708147909
+Oceanside Unified,San Rafael Elementary,1616 San Rafael Drive Oceanside CA 92054-1198,NA,NA,NA,not tested,Oceanside,San Diego County,33.209643,-117.385003
+Sweetwater Union High,San Ysidro Adult Education Center,4220 Otay Mesa Road San Ysidro CA 92173,NA,NA,NA,not tested,San Diego,San Diego County,32.5598622302277,-117.04080430723
+Sweetwater Union High,San Ysidro High,5353 Airway Road San Diego CA 92154-4806,NA,NA,NA,not tested,San Diego,San Diego County,32.565561,-117.017775
+San Ysidro Elementary,San Ysidro Middle,4345 Otay Mesa Road San Ysidro CA 92173-1623,NA,NA,NA,not tested,San Diego,San Diego County,32.56011335,-117.039140795142
+San Diego Unified,Sandburg Elementary,11230 Avenida del Gato San Diego CA 92126-1235,NA,NA,FALSE,tested,San Diego,San Diego County,32.925832,-117.149795
+Oceanside Unified,Santa Margarita Elementary,1 Carnes Road Oceanside CA 92058-6699,NA,NA,FALSE,tested,NA,San Diego County,33.2318342,-117.378024
+Private,Santa Sophia Academy,9806 San Juan Street Spring Valley CA 91977,NA,NA,FALSE,tested,NA,San Diego County,32.7487878376758,-116.986969991008
+Grossmont Union High,Santana High,9915 North Magnolia Avenue Santee CA 92071-1903,NA,NA,FALSE,tested,Santee,San Diego County,32.8575395,-116.9711435
+Santee,Santee Success Program,10280 North Magnolia Avenue Santee CA 92071-1998,NA,NA,NA,not tested,Santee,San Diego County,32.8574259,-116.9709978
+Private,Scholarship Prep Charter School,4070 Mission Ave Oceanside CA 92057,6.9,ppb,TRUE,tested,Oceanside,San Diego County,33.2276098,-117.3266692
+San Diego Unified,Scripps Elementary,11778 Cypress Canyon Road San Diego CA 92131-3743,NA,NA,FALSE,tested,San Diego,San Diego County,32.930113,-117.082301
+San Diego Unified,Scripps Ranch High,10410 Treena Street San Diego CA 92131-1126,NA,NA,FALSE,tested,San Diego,San Diego County,32.9105212622045,-117.113928203104
+San Diego Unified,Sequoia Elementary,4690 Limerick Avenue San Diego CA 92117-3220,NA,NA,FALSE,tested,San Diego,San Diego County,32.828141,-117.179368
+San Diego Unified,Serra High,5156 Santo Road San Diego CA 92124-2037,NA,NA,FALSE,tested,San Diego,San Diego County,32.825445,-117.108153
+San Diego Unified,Sessions Elementary,2150 Beryl Street San Diego CA 92109-3617,NA,NA,FALSE,tested,San Diego,San Diego County,32.809828,-117.232362
+Cajon Valley Union,Sevick Special Education,1609 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79931605,-116.921475745467
+Private,Shepherd of the Hills Lutheran,9191 Fletcher Parkway La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7940605,-117.0015696
+San Diego Unified,Sherman Elementary,301 22nd Street San Diego CA 92102-2918,NA,NA,FALSE,tested,San Diego,San Diego County,32.708493,-117.143879
+Poway Unified,Shoal Creek Elementary,11775 Shoal Creek Drive San Diego CA 92128-4573,NA,NA,NA,not tested,San Diego,San Diego County,32.96771415,-117.081721953328
+San Diego Unified,Silver Gate Elementary,1499 Venice Street San Diego CA 92107-3699,NA,NA,FALSE,tested,San Diego,San Diego County,32.733353,-117.244016
+Coronado Unified,Silver Strand Elementary,1350 Leyte Road Coronado CA 92118-3124,NA,NA,FALSE,tested,Coronado,San Diego County,32.6444979,-117.1450315
+Chula Vista Elementary,Silver Wing Elementary,3730 Arey Drive San Diego CA 92154-2422,NA,NA,FALSE,tested,San Diego,San Diego County,32.579792,-117.052581
+San Ysidro Elementary,Smythe Elementary,1880 Smythe Avenue San Ysidro CA 92173-1599,NA,NA,NA,not tested,San Diego,San Diego County,32.563896,-117.050209151783
+Solana Beach Elementary,Solan Vista Elementary,"780 Santa Victoria, Solana Beach, CA 92075",NA,NA,NA,exempt,Solana Beach,San Diego County,33.0042256861341,-117.250185317307
+Solana Beach Elementary,Solana Highlands Elementary,3520 Long Run Drive San Diego CA 92130-1808,NA,NA,NA,not tested,San Diego,San Diego County,32.9543554358958,-117.240164340474
+Solana Beach Elementary,Solana Pacific Elementary,3901 Townsgate Drive San Diego CA 92130-2584,NA,NA,NA,not tested,San Diego,San Diego County,32.952719,-117.229058
+Solana Beach Elementary,Solana Santa Fe Elementary,6570 El Apajo Rancho Santa Fe CA 92067-8940,NA,NA,NA,not tested,NA,San Diego County,32.9981863,-117.1964502
+Solana Beach Elementary,Solana Vista,"780 Santa Victoria, Solana Beach, CA 92075",NA,NA,NA,exempt,Solana Beach,San Diego County,33.0042256861341,-117.250185317307
+Solana Beach Elementary,Solana Vista Elementary,780 Santa Victoria Avenue Solana Beach CA 92075-1535,NA,NA,NA,not tested,Solana Beach,San Diego County,33.0042256861341,-117.250185317307
+Oceanside Unified,South Oceanside Elementary,1806 South Horne Street Oceanside CA 92054-6017,NA,NA,FALSE,tested,Oceanside,San Diego County,33.1774493467614,-117.358013073474
+Sweetwater Union High,Southwest Middle,2710 Iris Street San Diego CA 92154-3338,NA,NA,FALSE,tested,Santee,San Diego County,32.8317399,-116.9540066
+Sweetwater Union High,Southwest Senior High,1685 Hollister Street San Diego CA 92154-4548,NA,NA,FALSE,tested,San Diego,San Diego County,32.568056,-117.081321
+San Diego Unified,Spreckels Elementary,6033 Stadium Street San Diego CA 92122-3399,NA,NA,FALSE,tested,San Diego,San Diego County,32.849999,-117.212187
+Private,Springall Academy,6460 Boulder Lake Avenue San Diego CA 92119,NA,NA,FALSE,tested,San Diego,San Diego County,32.798694,-117.019231
+Private,St. Charles Elementary,929 18th Street San Diego CA 92154,NA,NA,FALSE,tested,San Diego,San Diego County,32.5799578582636,-117.094760987042
+Private,St. John of the Cross School,8175 Lemon Grove Way Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.744567,-117.024104
+Private,St. Martin of Tours Academy,7708 El Cajon Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7685243769615,-117.031681709403
+Private,St. Patrick Catholic School,3820 Pio Pico Drive Carlsbad CA 92008,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.164616,-117.341942
+San Diego Unified,Standley Middle,6298 Radcliffe Drive San Diego CA 92122-3330,NA,NA,FALSE,tested,San Diego,San Diego County,32.85224135,-117.207365542857
+Grossmont Union High,Steele Canyon Adult Center,12440 Campo Road Spring Valley CA 91978-2331,NA,NA,NA,not tested,NA,San Diego County,32.72979,-116.926704
+Grossmont Union High,Steele Canyon High,12440 Campo Road Spring Valley CA 91978-2331,NA,NA,FALSE,tested,NA,San Diego County,32.72979,-116.926704
+Private,Stella Maris Academy,7654 Herschel Avenue La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.843585,-117.272567
+Sweetwater Union High,Stephen W. Hawking Charter,465 L Street Chula Vista CA 91911-1142,NA,NA,NA,not tested,Chula Vista,San Diego County,32.61921245,-117.078430798392
+Sweetwater Union High,"Stephen W. Hawkings II Science, Technology, Engineering, Art and Math Charter",2710 Iris Avenue San Diego CA 92154-3338,NA,NA,NA,not tested,San Diego,San Diego County,32.5691095,-117.0646919
+Poway Unified,Stone Ranch Elementary,16150 4S Ranch Parkway San Diego CA 92127-4431,NA,NA,NA,not tested,NA,San Diego County,33.005332,-117.117065
+Poway Unified,Sundance Elementary,8944 Twin Trails Drive San Diego CA 92129-2334,NA,NA,NA,not tested,San Diego,San Diego County,32.9611928778159,-117.133755057029
+South Bay Union,Sunnyslope Elementary,2500 Elm Avenue San Diego CA 92154-1498,NA,NA,FALSE,tested,San Diego,San Diego County,32.581216,-117.079739
+San Ysidro Elementary,Sunset Elementary,3825 Sunset Lane San Ysidro CA 92173-3334,NA,NA,NA,not tested,San Diego,San Diego County,32.5575599,-117.050499423289
+San Dieguito Union High,Sunset High (Continuation),684 Requeza Street Encinitas CA 92024-3703,NA,NA,NA,not tested,Encinitas,San Diego County,33.0435352422933,-117.277771471845
+San Dieguito Union High,Sunset High School,"684 Requeza St., Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.0435352422933,-117.277771471845
+Poway Unified,Sunset Hills Elementary,9291 Oviedo Street San Diego CA 92129-2199,NA,NA,NA,not tested,San Diego,San Diego County,32.9688954618114,-117.127531040628
+San Diego Unified,Sunset View Elementary,4365 Hill Street San Diego CA 92107-4199,NA,NA,FALSE,tested,San Diego,San Diego County,32.724032,-117.250671
+Sweetwater Union High,Sweetwater High,2900 Highland Avenue National City CA 91950-7415,10.6,ppb,TRUE,tested,National City,San Diego County,32.660733,-117.092041
+La Mesa-Spring Valley,Sweetwater Springs Elementary,10129 Austin Drive Spring Valley CA 91977-6903,NA,NA,NA,not tested,NA,San Diego County,32.7313732,-116.9748171
+Santee,Sycamore Canyon Elementary,10201 Settle Road Santee CA 92071-1099,NA,NA,FALSE,tested,Santee,San Diego County,32.862869,-117.003857
+Del Mar Union Elementary,Sycamore Ridge,5333 Old Carmel Valley Road San Diego CA 92130-2650,NA,NA,FALSE,tested,San Diego,San Diego County,32.9576874,-117.1942299
+San Diego Unified,Taft Middle,9191 Gramercy Drive San Diego CA 92123-4015,6.29,ppb,TRUE,tested,San Diego,San Diego County,32.80167,-117.129402
+Vista Unified,Temple Heights Elementary,1550 Temple Heights Drive Oceanside CA 92056-3066,NA,NA,FALSE,tested,Oceanside,San Diego County,33.218499,-117.269648
+South Bay Union,Teofilo Mendoza,2050 Coronado Avenue San Diego CA 92154-2034,NA,NA,FALSE,tested,San Diego,San Diego County,32.57814735,-117.089612872277
+Private,The Cambridge School,12855 Black Mountain Road San Diego CA 92129,NA,NA,FALSE,tested,San Diego,San Diego County,32.952274,-117.128765
+Private,The Children's School,2225 Torrey Pines Lane La Jolla CA 92037,NA,NA,FALSE,tested,San Diego,San Diego County,32.849534,-117.253477
+San Diego Unified,The O'Farrell Charter,6130 Skyline Drive San Diego CA 92114-5620,NA,NA,FALSE,tested,San Diego,San Diego County,32.702541,-117.064835
+SBE - Thrive Public,Thrive Public,4260 54th Street San Diego CA 92115-6009,NA,NA,FALSE,tested,San Diego,San Diego County,32.7541710596328,-117.07951542018
+Poway Unified,Tierra Bonita Elementary,14678 Tierra Bonita Road Poway CA 92064-3090,NA,NA,FALSE,tested,Poway,San Diego County,32.9800791334081,-117.027725128198
+Lakeside Union Elementary,Tierra del Sol Middle,9611 Petite Lane Lakeside CA 92040-4317,NA,NA,FALSE,tested,NA,San Diego County,32.85413,-116.911549
+Chula Vista Elementary,Tiffany (Burton C.) Elementary,1691 Elmhurst Street Chula Vista CA 91913-2612,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6445088054993,-116.993032005448
+San Diego Unified,Toler Elementary,3350 Baker Street San Diego CA 92117-6017,NA,NA,FALSE,tested,San Diego,San Diego County,32.801387,-117.209275
+San Diego Unified,Torrey Pines Elementary,8350 Cliffridge Avenue La Jolla CA 92037-2106,NA,NA,FALSE,tested,San Diego,San Diego County,32.859156,-117.244074
+Private,Trinity Christian School,3902 Kenwood Drive Spring Valley CA 91977,NA,NA,FALSE,tested,La Mesa,San Diego County,32.7497705,-117.007455
+Poway Unified,Turtleback Elementary,15855 Turtleback Road San Diego CA 92127-2044,NA,NA,NA,not tested,San Diego,San Diego County,33.0047057137599,-117.088334780098
+San Diego Unified,Twain High,6402 Linda Vista Road San Diego CA 92111-7320,NA,NA,FALSE,tested,San Diego,San Diego County,32.772467,-117.179176
+San Diego Unified,Twain Mesa,10510 Reagan RD San Diego CA 92126,NA,NA,FALSE,tested,San Diego,San Diego County,32.910639,-117.141525
+San Diego Unified,Twain Morse,6905 Skyline Dr. San Diego CA 92114,NA,NA,FALSE,tested,San Diego,San Diego County,32.7025731669489,-117.048648507958
+San Marcos Unified,Twin Oaks Elementary,1 Cassou Road San Marcos CA 92069-9831,NA,NA,FALSE,tested,San Marcos,San Diego County,33.179125,-117.157396
+San Marcos Unified,Twin Oaks High,158 Cassou Road San Marcos CA 92069-9702,15,ppb,TRUE,tested,San Marcos,San Diego County,33.180768,-117.158628
+Poway Unified,Twin Peaks Middle,14640 Tierra Bonita Road Poway CA 92064-3091,NA,NA,FALSE,tested,Poway,San Diego County,32.9788365047825,-117.027704658894
+Stockton Unified,Tyler Skills Elementary,3830 Webster Avenue Stockton CA 95204-1548,NA,NA,FALSE,tested,San Diego,San Diego County,32.704426,-117.121887
+San Diego Unified,University City High,6949 Genesee Avenue San Diego CA 92122-2455,5.38,ppb,TRUE,tested,San Diego,San Diego County,32.8603098518236,-117.208262210605
+San Diego Unified,Urban Discovery Academy Charter,840 14th Street San Diego CA 92101-6608,NA,NA,FALSE,tested,San Diego,San Diego County,32.580987,-117.102852
+San Diego Unified,Valencia Park Elementary,5880 Skyline Drive San Diego CA 92114-5599,NA,NA,FALSE,tested,San Diego,San Diego County,32.703071,-117.071751
+Grossmont Union High,Valhalla High,1725 Hillsdale Road El Cajon CA 92019-3742,NA,NA,FALSE,tested,NA,San Diego County,32.7622956771539,-116.921440705184
+Chula Vista Elementary,Valle Lindo Elementary,1515 Oleander Avenue Chula Vista CA 91911-5699,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6049090193139,-117.032717688969
+Valley Center-Pauma Unified,Valley Center Elementary,28751 Cole Grade Road Valley Center CA 92082-6575,NA,NA,FALSE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center High,31322 Cole Grade Road Valley Center CA 92082-3867,NA,NA,FALSE,tested,NA,San Diego County,33.2803,-117.024659
+Valley Center-Pauma Unified,Valley Center Prep,28751-U Cole Grade Road Valley Center CA 92082,7,ppb,TRUE,tested,NA,San Diego County,33.236019,-117.021447
+Valley Center-Pauma Unified,Valley Center Primary,14249 Fruitvale Road Valley Center CA 92082-5907,NA,NA,FALSE,tested,NA,San Diego County,33.239526,-117.021573
+Poway Unified,Valley Elementary,13000 Bowron Road Poway CA 92064-5799,NA,NA,FALSE,tested,Poway,San Diego County,32.954844,-117.045289
+Carlsbad Unified,Valley Middle,1645 Magnolia Avenue Carlsbad CA 92008-2626,NA,NA,FALSE,tested,Carlsbad,San Diego County,33.1588363183904,-117.329341846886
+Chula Vista Elementary,Valley Vista Elementary,3724 Valley Vista Way Bonita CA 91902-1139,11,ppb,TRUE,tested,NA,San Diego County,32.6596913815669,-117.049093611856
+Chula Vista Elementary,Veterans Elementary,1550 Magdalena Avenue Chula Vista CA 91913-3948,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.62434,-116.977637
+South Bay Union,VIP Village Preschool,1001 Fern Avenue Imperial Beach CA 91932-3353,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.5746400979038,-117.112139657091
+Vista Unified,Vista Academy of Visual and Performing Arts,600 North Santa Fe Avenue Vista CA 92083-3631,NA,NA,FALSE,tested,Vista,San Diego County,33.2037523,-117.2446349
+Vista Unified,Vista Adult,510 Sunset Drive Vista CA 92081,NA,NA,NA,not tested,Vista,San Diego County,33.1869943764176,-117.240834377425
+Vista Unified,Vista Adult Transition Center,325 East Bobier Drive Vista CA 92084-3027,6.2,ppb,TRUE,tested,Vista,San Diego County,33.221302056407,-117.241959098486
+San Ysidro Elementary,Vista Del Mar,4885 Del Sol Blvd San Diego CA 92154-8401,NA,NA,NA,not tested,San Diego,San Diego County,32.57428,-117.064583
+San Diego Unified,Vista Grande Elementary,5606 Antigua Boulevard San Diego CA 92124-1306,NA,NA,FALSE,tested,San Diego,San Diego County,32.8343418117187,-117.107053917708
+Cajon Valley Union,Vista Grande Elementary,1908 Vista Grande Road El Cajon CA 92019-3823,NA,NA,FALSE,tested,NA,San Diego County,32.7644336358423,-116.915055605541
+San Diego Unified,Vista Hill Foundation,6145 Decena Drive San Diego CA 92120,11.9,ppb,TRUE,tested,San Diego,San Diego County,32.7862149534867,-117.096670463285
+Vista Unified,Vista Innovation and Design Academy,740 Olive Avenue Vista CA 92083-3396,NA,NA,FALSE,tested,Vista,San Diego County,33.2045948,-117.2568002
+Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,NA,NA,FALSE,tested,La Mesa,San Diego County,32.748522,-117.045
+Vista Unified,"Vista Magnet Middle School of Technology, Science, and Math",151 Civic Center Drive Vista CA 92084-6035,NA,NA,FALSE,tested,Vista,San Diego County,33.203627,-117.236398
+Chula Vista Elementary,Vista Square Elementary,540 G Street Chula Vista CA 91910-3604,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.6350257342819,-117.088268321333
+Vista Unified,Vista Visions Academy,305 East Bobier Vista CA 92084-3027,NA,NA,FALSE,tested,Vista,San Diego County,33.22130241528,-117.242031830082
+Cajon Valley Union,W. D. Hall Elementary,1376 Pepper Drive El Cajon CA 92021-1460,NA,NA,FALSE,tested,El Cajon,San Diego County,32.8209052986809,-116.931059248338
+San Diego Unified,Walker Elementary,9225 Hillery Drive San Diego CA 92126-2908,NA,NA,FALSE,tested,San Diego,San Diego County,32.912806,-117.12583861655
+San Diego Unified,Wangenheim Middle,9230 Gold Coast Drive San Diego CA 92126-3799,NA,NA,FALSE,tested,San Diego,San Diego County,32.9054316719968,-117.126292537466
+Private,Warren-Walker School/La Mesa,5150 Wilson Street La Mesa CA 91941,NA,NA,FALSE,tested,La Mesa,San Diego County,32.773075,-117.007159
+San Diego Unified,Washington Elementary,1789 State Street San Diego CA 92101-2598,NA,NA,FALSE,tested,San Diego,San Diego County,32.724291,-117.166141
+San Diego Unified,Webster Elementary,4801 Elm Street San Diego CA 92102-1354,6.2,ppb,TRUE,tested,San Diego,San Diego County,32.723334,-117.092405
+San Diego Unified,Wegeforth Elementary,3443 Ediwhar Avenue San Diego CA 92123-2207,5.984999999999999,ppb,TRUE,tested,San Diego,San Diego County,32.805606,-117.134938
+Grossmont Union High,West Hills High,8756 Mast Boulevard Santee CA 92071-2046,NA,NA,FALSE,tested,Santee,San Diego County,32.855052,-116.9807246
+Poway Unified,Westview High,13500 Camino Del Sur San Diego CA 92129-4465,NA,NA,NA,not tested,San Diego,San Diego County,32.96609835,-117.150068853275
+Poway Unified,Westwood Elementary,17449 Matinal Road San Diego CA 92127-1299,NA,NA,NA,not tested,San Diego,San Diego County,33.030276,-117.086571
+San Diego Unified,Whitman Elementary,4050 Appleton Street San Diego CA 92117-1101,NA,NA,FALSE,tested,San Diego,San Diego County,32.836539,-117.20321
+San Diego Unified,Whittier K-12,3401 Clairemont Drive San Diego CA 92117-5938,5.19,ppb,TRUE,tested,San Diego,San Diego County,32.804357,-117.198502
+San Ysidro Elementary,Willow Elementary,226 Willow Road San Ysidro CA 92173-3096,NA,NA,NA,not tested,San Diego,San Diego County,32.5437015241936,-117.042014991935
+Poway Unified,Willow Grove Elementary,14727 Via Azul San Diego CA 92127-4813,NA,NA,NA,not tested,San Diego,San Diego County,32.993781,-117.16219
+Fallbrook Union Elementary,Willow Tree,1636 East Mission Road Fallbrook CA 92028,NA,NA,NA,not tested,NA,San Diego County,33.388721,-117.229506
+San Diego Unified,Wilson Middle,3838 Orange Avenue San Diego CA 92105-1038,NA,NA,FALSE,tested,San Diego,San Diego County,32.7543,-117.111952
+Chula Vista Elementary,Wolf Canyon Elementary,1950 Wolf Canyon Loop Chula Vista CA 91913-3948,NA,NA,FALSE,tested,Chula Vista,San Diego County,32.611599,-116.974779
+San Marcos Unified,Woodland Park Middle,1270 Rock Springs Road San Marcos CA 92069-3220,NA,NA,FALSE,tested,San Marcos,San Diego County,33.1468804,-117.137713
+San Diego Unified,Zamorano Elementary,2655 Casey Street San Diego CA 92139-2989,NA,NA,FALSE,tested,San Diego,San Diego County,32.6803746993456,-117.03860647785

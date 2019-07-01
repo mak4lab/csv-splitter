@@ -1,0 +1,20 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Montebello Unified,Applied Technology Center,1200 West Mines Avenue Montebello CA 90640-5538,NA,NA,NA,not tested,Montebello,Los Angeles County,34.00464465,-118.116344372461
+Montebello Unified,Eastmont Intermediate,400 North Bradshawe Avenue Montebello CA 90640-1562,NA,NA,NA,not tested,Montebello,Los Angeles County,34.019875,-118.1435241
+Montebello Unified,Fremont Elementary,200 West Madison Avenue Montebello CA 90640-4431,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.012437,-118.100836
+Montebello Unified,Greenwood Elementary,900 South Greenwood Avenue Montebello CA 90640-5816,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9971617751051,-118.118002201722
+Montebello Unified,La Merced Elementary,724 North Poplar Avenue Montebello CA 90640-2760,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0210993902439,-118.095904609756
+Montebello Unified,La Merced Intermediate,215 East Avenida de la Merced Montebello CA 90640-2799,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.0231085725887,-118.098185276372
+Los Angeles Unified,Maple Primary Center,3601 South Maple Avenue Los Angeles CA 90011-2619,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
+LAUSD,MAPLE PRIMARY CENTER (FRMR:JEFFERSON NEW PC #6),"3601 SOUTH MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
+LAUSD,MAPLE STATE PRE-SCHOOL,"3601 S MAPLE AVENUE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
+Private,Montebello Christian School,136 South 7th Street Montebello CA 90640,5.699999999999999,ppb,TRUE,tested,Montebello,Los Angeles County,34.0091142599042,-118.107177021668
+Montebello Unified,Montebello High,2100 West Cleveland Ave Montebello CA 90640-4032,11,ppb,TRUE,tested,Montebello,Los Angeles County,34.015256,-118.123038
+Montebello Unified,Montebello Intermediate,1600 Whittier Boulevard Montebello CA 90640-4003,6,ppb,TRUE,tested,Montebello,Los Angeles County,34.012121,-118.117798
+Los Angeles Unified,Santee Education Complex,1921 South Maple Avenue Los Angeles CA 90011-1036,NA,NA,NA,not tested,Montebello,Los Angeles County,34.0084499,-118.1176355
+LAUSD,SANTEE EDUCATION COMPLEX,"1921 S MAPLE AVE, LOS ANGELES, CA 90011",NA,NA,NA,exempt,Montebello,Los Angeles County,34.0084499,-118.1176355
+Montebello Unified,Schurr Community Adult,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
+Montebello Unified,Schurr High,820 North Wilcox Avenue Montebello CA 90640-1808,NA,NA,NA,not tested,Montebello,Los Angeles County,34.028520302284,-118.12407402073799
+Private,St. Benedict Elementary,217 North 10th Street Montebello CA 90640,12,ppb,TRUE,tested,Montebello,Los Angeles County,34.0131561161637,-118.110141005558
+Montebello Unified,Vail High (Continuation),1230 South Vail Avenue Montebello CA 90640-6312,NA,NA,NA,not tested,Montebello,Los Angeles County,33.9937499591837,-118.129349795918
+Montebello Unified,Washington Elementary,1400 West Madison Avenue Montebello CA 90640-4132,NA,NA,FALSE,tested,Montebello,Los Angeles County,34.015243,-118.114038

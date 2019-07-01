@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Willits Unified,Baechtel Grove Middle,1150 Magnolia Street Willits CA 95490-4209,NA,NA,FALSE,tested,Willits,Mendocino County,39.4003692072087,-123.353048052249
+Willits Unified,Blosser Lane Elementary,1275 Blosser Lane Willits CA 95490-4163,6.3,ppb,TRUE,tested,Willits,Mendocino County,39.3993392743101,-123.359572910808
+Willits Unified,Brookside Elementary,Spruce and Lincoln Way Willits CA 95490,5.1,ppb,TRUE,tested,Willits,Mendocino County,39.411958,-123.361987
+Willits Unified,Sanhedrin High,120 North Main St Willits CA 95490-3109,7,ppb,TRUE,tested,Willits,Mendocino County,39.4150506945593,-123.35473663731
+Willits Unified,Willits Charter,1431 South Main Street Willits CA 95490-4309,NA,NA,FALSE,tested,Willits,Mendocino County,39.3937254453904,-123.348231777391
+Willits Unified,Willits Elementary Charter,405 East Commercial Street Willits CA 95490-3007,6.1,ppb,TRUE,tested,Willits,Mendocino County,39.4124305757576,-123.350078393939
+Willits Unified,Willits High,299 North Main Street Willits CA 95490-3110,NA,NA,FALSE,tested,Willits,Mendocino County,39.4171385,-123.3546652

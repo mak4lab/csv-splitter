@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hamilton Unified,Ella Barkley High,Highway 32 And Los Robles Street 300 Sixth Street Hamilton City CA 95951-0488,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hamilton Unified,Hamilton Community Day,535 Sacramento Avenue Hamilton City CA 95951-0488,NA,NA,FALSE,tested,NA,Glenn County,39.7462794814815,-122.008890185185
+Hamilton Unified,Hamilton Elementary,277 Capay Avenue Hamilton City CA 95951-0277,5.75,ppb,TRUE,tested,NA,Glenn County,39.7386665555556,-122.015203888889
+Hamilton Unified,Hamilton High,620 Canal Street Hamilton City CA 95951-0488,NA,NA,FALSE,tested,NA,Glenn County,39.7400729,-122.0171364

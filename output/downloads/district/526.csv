@@ -1,0 +1,32 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Norwalk-La Mirada Unified,Anna M. Glazier Elementary,10932 East Excelsior Drive Norwalk CA 90650-4631,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.8947740216467,-118.10193809741
+Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,13900 Estero Road La Mirada CA 90638-3615,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.904473,-118.024705
+Norwalk-La Mirada Unified,Arturo Sanchez Elementary,11960 East 162nd Street Norwalk CA 90650-7228,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Cesar Chavez Elementary,12110 East Walnut Street Norwalk CA 90650-4164,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Corvallis Middle,11032 East Leffingwell Road Norwalk CA 90650-3638,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.9066905,-118.098572833333
+Norwalk-La Mirada Unified,D. D. Johnston Elementary,13421 South Fairford Avenue Norwalk CA 90650-3630,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.9097601836735,-118.094958591837
+Norwalk-La Mirada Unified,Earl E. Edmondson Elementary,15121 South Grayland Avenue Norwalk CA 90650-6627,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.8938447959184,-118.07622377551
+Norwalk-La Mirada Unified,Eastwood Elementary,15730 Pescados Drive La Mirada CA 90638-4999,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8974504529979,-117.995794434422
+Norwalk-La Mirada Unified,El Camino High (Continuation),14625 Keese Drive Whittier CA 90604-3119,NA,NA,NA,not tested,NA,Los Angeles County,33.9195074303008,-118.020137548892
+Norwalk-La Mirada Unified,El Camino High School,14625 Keese Drive Whittier CA 90604,6.75,ppb,TRUE,tested,NA,Los Angeles County,33.9195074303008,-118.020137548892
+Norwalk-La Mirada Unified,Escalona Elementary,15135 Escalona Road La Mirada CA 90638-4601,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8942125,-118.0117244
+Norwalk-La Mirada Unified,Foster Road Elementary,13930 East Foster Road La Mirada CA 90638-2820,NA,NA,NA,not tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Gardenhill Elementary,14607 East Gardenhill Drive La Mirada CA 90638-2099,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Grow & Learn Center,14540 San Cristobal Road La Mirada CA 90638,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,John Dolland Elementary,15021 South Bloomfield Avenue Norwalk CA 90650-6807,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,John Foster Dulles Elementary,12726 Meadowgreen Road La Mirada CA 90638-2637,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,John H. Glenn High,13520 Shoemaker Avenue Norwalk CA 90650-4521,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.9085345303824,-118.055235130936
+Norwalk-La Mirada Unified,John H. Nuffer Elementary,14821 South Jersey Avenue Norwalk CA 90650-5850,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Julia B. Morrison Elementary,13510 South Maidstone Norwalk CA 90650-3850,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,La Mirada High,13520 Adelfa Drive La Mirada CA 90638-3103,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9084999220344,-118.004162971681
+Norwalk-La Mirada Unified,La Pluma Elementary,14420 La Pluma Drive La Mirada CA 90638-4029,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9018642727273,-118.001138818182
+Norwalk-La Mirada Unified,Loretta Lampton Elementary,14716 Elmcroft Avenue Norwalk CA 90650-5626,7.15,ppb,TRUE,tested,Norwalk,Los Angeles County,33.8965778681319,-118.095517417582
+Norwalk-La Mirada Unified,Los Alisos Middle,14800 South Jersey Avenue Norwalk CA 90650-5849,NA,NA,FALSE,tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Los Coyotes Middle,14640 Mercado Avenue La Mirada CA 90638-4210,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.8985770700044,-117.990351004967
+Norwalk-La Mirada Unified,Nettie L. Waite Middle,14320 South Norwalk Boulevard Norwalk CA 90650-5046,6.2,ppb,TRUE,tested,Norwalk,Los Angeles County,33.901769122449,-118.072848367347
+Norwalk-La Mirada Unified,New River Elementary,13432 South Halcourt Avenue Norwalk CA 90650-3562,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.9082351678633,-118.102390487418
+Norwalk-La Mirada Unified,Norwalk High,11356 East Leffingwell Road Norwalk CA 90650-3646,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.9084913880597,-118.090816059701
+Norwalk-La Mirada Unified,Norwalk-La Mirada Adult,15711 Pioneer Boulevard Norwalk CA 90650-5849,11.5,ppb,TRUE,tested,Norwalk,Los Angeles County,33.8989042,-118.0825843
+Norwalk-La Mirada Unified,Ramona Head Start/State Preschool,14616 Dinard Avenue Norwalk CA 90650-5110,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.8984549344372,-118.050885621777
+Norwalk-La Mirada Unified,Reginald M. Benton Middle,15709 East Olive Branch Road La Mirada CA 90638-2435,NA,NA,NA,not tested,NA,NA,NA,NA
+Norwalk-La Mirada Unified,Thomas B. Moffitt Elementary,13323 South Goller Avenue Norwalk CA 90650-3223,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.9097344679814,-118.065677850941

@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,NA,NA,FALSE,tested,Dixon,Solano County,38.4475673245053,-121.818387000408
+Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,NA,NA,FALSE,tested,Dixon,Solano County,38.446529,-121.836271
+Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,NA,NA,NA,not tested,Dixon,Solano County,38.4356009,-121.815997
+Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,NA,NA,FALSE,tested,Dixon,Solano County,38.44844875,-121.8317000625
+Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,NA,NA,NA,not tested,Dixon,Solano County,38.4617919148894,-121.828751096634
+Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,NA,NA,FALSE,tested,Dixon,Solano County,38.4475853877551,-121.819730918367
+Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,NA,NA,NA,not tested,Dixon,Solano County,38.449063,-121.844312

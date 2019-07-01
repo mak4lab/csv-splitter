@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Maxwell Unified,Maxwell Elementary,146 North St. Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Middle,146 North Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
+Maxwell Unified,Maxwell Sr High,515 Oak Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.276269,-122.194849

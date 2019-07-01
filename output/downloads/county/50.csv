@@ -1,0 +1,148 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rita Union Elementary,Abraham Lincoln Elementary,"850 W 9th St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4415496630226,-122.736069224231
+Sonoma Valley Unified,Adele Harrison Middle,1150 Broadway Sonoma CA 95476-7578,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2811779459459,-122.459415324324
+Santa Rosa Elementary,Albert F. Biella Elementary,2140 Jennings Avenue Santa Rosa CA 95401-9528,11.7,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
+Santa Rita Union Elementary,Albert F. Biella Elementary,"2140 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4498565597847,-122.75292543966
+Sonoma Valley Unified,Altimira Middle,17805 Arnold Drive Sonoma CA 95476-4019,NA,NA,FALSE,tested,NA,Sonoma County,38.3093733691688,-122.49708897952
+West Sonoma County Union High,Analy High,6950 Analy Avenue Sebastopol CA 95472-3401,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4067712244898,-122.826113673469
+Rincon Valley Union Elementary,Austin Creek Elementary,1480 Snowy Egret Drive Santa Rosa CA 95409-4387,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4639612951047,-122.637001082939
+Rincon Valley Union Elementary,Binkley Elementary Charter,4965 Canyon Drive Santa Rosa CA 95409-3204,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4734684407059,-122.661945014238
+Shoreline Unified,Bodega Bay Elementary,1200 Canon Street Bodega Bay CA 94923,NA,NA,NA,not tested,NA,Sonoma County,38.3342983044644,-123.045359955615
+Sebastopol Union Elementary,Brook Haven Elementary,7905 Valentine Avenue Sebastopol CA 95472-3214,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4021725478519,-122.83698985169
+Santa Rita Union Elementary,Brook Hill Elementary,"1850 Vallejo St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
+Santa Rosa Elementary,Brook Hill Elementary,1850 Vallejo Street Santa Rosa CA 95404-5399,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4378474572541,-122.693907851034
+Windsor Unified,Brooks Elementary,750 Natalie Drive Windsor CA 95492-8821,NA,NA,FALSE,tested,,Sonoma County,38.5574311587174,-122.811455685628
+Private,Brush Creek Montessori,1569 Brush Creek Rd Santa Rosa CA 95404,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4662300784948,-122.680655331034
+Windsor Unified,Cali Calmecac Language Academy,9941 Starr Road Windsor CA 95492,NA,NA,FALSE,tested,,Sonoma County,38.5571796706931,-122.826172818776
+Private,Cardinal Newman High School,50 Ursuline Road Santa Rosa CA 95403,NA,NA,FALSE,tested,,Sonoma County,38.49215915,-122.740315730882
+Petaluma Joint Union High,Carpe Diem High (Continuation),199 Fair Street Petaluma CA 94952-2516,NA,NA,NA,not tested,Petaluma,Sonoma County,38.226673,-122.64349
+Petaluma Joint Union High,Casa Grande High,333 Casa Grande Road Petaluma CA 94954-5706,NA,NA,NA,not tested,Petaluma,Sonoma County,38.242947,-122.600120386814
+Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Cloverdale Unified,Cloverdale High and Adult,509 North Cloverdale Blvd Cloverdale CA 95425-3324,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.8110327035349,-123.021371720447
+Waugh Elementary,Corona Creek Elementary,1851 Hartman Lane Petaluma CA 94954-2535,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.273786845894,-122.647664291435
+Sonoma Valley Unified,Creekside High,950 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2838804596685,-122.458983748333
+Petaluma Joint Union High,Crossroads,700 Bantam Wy Petaluma CA 94952-1709,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2346242,-122.6589394
+Sonoma Valley Unified,Dunbar Elementary,11700 Dunbar Road Glen Ellen CA 95442-9611,NA,NA,FALSE,tested,NA,Sonoma County,38.3891780097109,-122.527835064414
+West Sonoma County Union High,El Molino High,7050 Covey Road Forestville CA 95436-9642,NA,NA,FALSE,tested,NA,Sonoma County,38.4818413264561,-122.890240848549
+Sonoma Valley Unified,El Verano Elementary,18606 Riverside Drive Sonoma CA 95476-4526,NA,NA,FALSE,tested,NA,Sonoma County,38.306951289478,-122.484928179923
+Santa Rosa High,Elsie Allen High,599 Bellevue Ave Santa Rosa CA 95407-7713,7.2,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.401956,-122.734524
+Cotati-Rohnert Park Unified,Evergreen Elementary,1125 Emily Avenue Rohnert Park CA 94928-1913,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3575797156252,-122.691092148062
+Healdsburg Unified,Fitch Mountain Elementary,565 Sanns Ln Healdsburg CA 95448-3521,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6231391990745,-122.862652061756
+Sonoma Valley Unified,Flowery Elementary,17600 Sonoma Highway Sonoma CA 95476-3699,NA,NA,FALSE,tested,Sonoma,Sonoma County,38.2966388,-122.4755041
+Geyserville Unified,Geyserville Elementary,21485 Geyserville Avenue Geyserville CA 95441-0108,NA,NA,FALSE,tested,NA,Sonoma County,38.7106730011484,-122.91185221801
+Geyserville Unified,Geyserville New Tech Academy,1300 Moody Ln Geyserville CA 95441-9670,NA,NA,NA,not tested,NA,Sonoma County,38.7191195280271,-122.891408723727
+Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Petaluma City Elementary,Grant Elementary,200 Grant Avenue Petaluma CA 94952-4811,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2210291603781,-122.630482878986
+Guerneville Elementary,Guerneville Elementary,14630 Armstrong Woods Road Guerneville CA 95446-9559,NA,NA,NA,not tested,NA,Sonoma County,38.5101502650536,-122.995525145252
+Healdsburg Unified,Healdsburg High,1024 Prince Street Healdsburg CA 95448-3449,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6175697,-122.8684352
+Healdsburg Unified,Healdsburg Junior High,315 Grant Street Healdsburg CA 95448-3921,NA,NA,FALSE,tested,Healdsburg,Sonoma County,38.6159210881968,-122.866086429635
+Santa Rita Union Elementary,Helen Lehman Elementary,"1700 Jennings Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rita Union Elementary,Herbert Slater Middle School,"3500 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.448451,-122.67303
+Santa Rosa Elementary,Hidden Valley Elementary,3435 Bonita Vista Drive Santa Rosa CA 95404-1573,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
+Santa Rita Union Elementary,Hidden Valley Elementary,"3435 Bonita Vista Dr, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4759413345236,-122.699511013836
+Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Santa Rita Union Elementary,Hilliard Comstock Middle School,"2750 W Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4596532752192,-122.74700550689
+Wright Elementary,J. X. Wilson Elementary,246 Brittain Lane Santa Rosa CA 95401-5810,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4323929052311,-122.752590796292
+Piner-Olivet Union Elementary,Jack London Elementary,2707 Francisco Avenue Santa Rosa CA 95403-1869,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.47969055,-122.764370240437
+Santa Rita Union Elementary,James Monroe Elementary,"2567 Marlow Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4568771762267,-122.752206956644
+Cloverdale Unified,Jefferson Elementary,315 North Street Cloverdale CA 95425-3251,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.8117833938797,-123.024802235331
+Cotati-Rohnert Park Unified,John Reed Primary,390 Arlen Drive Rohnert Park CA 94928-8001,11,ppb,TRUE,tested,Rohnert Park,Sonoma County,38.3400273614711,-122.706113146529
+Bellevue Union Elementary,Kawana Elementary,2121 Moraga Drive Santa Rosa CA 95404-6114,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.421442,-122.700165
+Petaluma Joint Union High,Kenilworth Junior High,800 Riesling Road Petaluma CA 94954-2549,NA,NA,NA,not tested,Petaluma,Sonoma County,38.273559,-122.642698
+Kenwood,Kenwood Elementary,230 Randolph Avenue Kenwood CA 95452-0220,NA,NA,NA,not tested,NA,Sonoma County,38.4160156154573,-122.554111329024
+Santa Rosa Elementary,Kid Street Learning Center Charter,709 Davis Street Santa Rosa CA 95401-4767,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4410528030918,-122.721577681559
+Old Adobe Union,La Tercera Elementary,1600 Albin Way Petaluma CA 94954-4599,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.24582,-122.610362
+West Sonoma County Union High,Laguna High,445 Taft Street Sebastopol CA 95472-3443,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4059964908907,-122.823829237059
+Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Santa Rita Union Elementary,Lawrence Cook Middle School,"2480 Sebastopol Rd, Santa Rosa, CA 95407",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4265063653846,-122.746873971154
+Cotati-Rohnert Park Unified,Lawrence E. Jones Middle,5164 Snyder Lane Rohnert Park CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3515977906322,-122.685450632059
+Old Adobe Union,Loma Vista Immersion Academy,207 Maria Drive Petaluma CA 94954-2301,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2542763523577,-122.625922916304
+Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4349301984282,-122.715417835372
+Santa Rita Union Elementary,Luther Burbank Elementary,"203 A St, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4420427,-122.719497
+Rincon Valley Union Elementary,Madrone Elementary,4550 Rinconada Drive Santa Rosa CA 95409-3030,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4689350919091,-122.674921150258
+Healdsburg Unified,Marce Becerra Academy,1024 Prince St Healdsburg CA 95448-3449,NA,NA,NA,not tested,Healdsburg,Sonoma County,38.6175697,-122.8684352
+Cotati-Rohnert Park Unified,Marguerite Hahn Elementary,825 Hudis Street Rohnert Park CA 94928-1445,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.367512,-122.692698
+Santa Rosa High,Maria Carrillo High,6975 Montecito Boulevard Santa Rosa CA 95409-2787,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4786683085307,-122.66180515483
+Petaluma Joint Union High,Mary Collins Charter School at Cherry Valley,1001 Cherry Street Petaluma CA 94952-2065,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2441219641013,-122.653986847891
+Petaluma City Elementary,McDowell Elementary,421 South McDowell Boulevard Petaluma CA 94954-3753,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2470500053229,-122.621833240358
+Petaluma City Elementary,McKinley Elementary,110 Ellis Street Petaluma CA 94952-3305,NA,NA,NA,not tested,Petaluma,Sonoma County,38.244217,-122.633521563799
+Petaluma City Elementary,McNear Elementary,605 Sunnyslope Avenue Petaluma CA 94952-4912,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2228273521036,-122.636382877221
+Waugh Elementary,Meadow Elementary,880 Maria Drive Petaluma CA 94954-6837,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2651141908102,-122.644128875935
+Bellevue Union Elementary,Meadow View Elementary,2665 Dutton Meadow Avenue Santa Rosa CA 95407-7730,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4118891364739,-122.729418353432
+Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Old Adobe Union,Miwok Valley Language Academy Charter,1010 Saint Francis Drive Petaluma CA 94954-5322,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.2372746475916,-122.611965707404
+Monte Rio Union Elementary,Monte Rio Elementary,20700 Foothill Drive Monte Rio CA 95462-0340,NA,NA,FALSE,tested,NA,Sonoma County,38.4714734215819,-123.014264458241
+Cotati-Rohnert Park Unified,Monte Vista Elementary,1400 Magnolia Avenue Rohnert Park CA 94928-8129,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.328788,-122.681958
+Montgomery Elementary,Montgomery Elementary,18620 Fort Ross Road Cazadero CA 95421-0002,NA,NA,NA,not tested,NA,Sonoma County,38.5409570823985,-123.099660535397
+Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441091,-122.685192
+Santa Rita Union Elementary,Montgomery High School,"1250 Hahman Dr, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.441091,-122.685192
+Sebastopol Union Elementary,Park Side Elementary,7450 Bodega Avenue Sebastopol CA 95472-3651,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.4006825233585,-122.827837436438
+Petaluma Joint Union High,Petaluma Accelerated Charter,110 Ellis St Petaluma CA 94952-3305,NA,NA,NA,not tested,Petaluma,Sonoma County,38.244217,-122.633521563799
+Petaluma Joint Union High,Petaluma Evening High,200 Douglas Street Petaluma CA 94952-2567,NA,NA,NA,not tested,Petaluma,Sonoma County,38.22835,-122.644183
+Petaluma Joint Union High,Petaluma High,201 Fair Street Petaluma CA 94952-2516,NA,NA,NA,not tested,Petaluma,Sonoma County,38.22736565,-122.64711165122
+Petaluma Joint Union High,Petaluma Junior High,700 Bantam Way Petaluma CA 94952-1709,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2346242,-122.6589394
+Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
+Santa Rita Union Elementary,Piner High School,"1700 Fulton Rd, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.45999,-122.769542
+Piner-Olivet Union Elementary,Piner-Olivet Charter,2707 Francisco Ave Santa Rosa CA 95403-1869,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.47969055,-122.764370240437
+Sonoma Valley Unified,Prestwood Elementary,343 East MacArthur Street Sonoma CA 95476-7617,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2840679673219,-122.452840758
+Santa Rita Union Elementary,Proctor Terrace Elementary,"1711 Bryden Ln, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4516682405063,-122.698978
+Cotati-Rohnert Park Unified,Rancho Cotate High,5450 Snyder Lane Rohnert Park CA 94928-2906,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3423384982918,-122.685586137046
+Cotati-Rohnert Park Unified,Richard Crane Elementary,1290 Southwest Blvd Rohnert Park CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3399272715514,-122.691226836481
+Santa Rosa High,Ridgway High (Continuation),325 Ridgway Avenue Santa Rosa CA 95401-4334,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4494561478343,-122.721731087662
+Rincon Valley Union Elementary,Rincon Valley Charter,5305 Dupont Dr Santa Rosa CA 95409-3843,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4694541812252,-122.652754670893
+Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rita Union Elementary,Rincon Valley Middle School,"4650 Badger Rd, Santa Rosa, CA 95409",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.482084,-122.672222
+Wright Elementary,Robert L. Stevens Elementary,2345 Giffen Avenue Santa Rosa CA 95407-7380,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4180125714286,-122.742638714286
+Cotati-Rohnert Park Unified,Rohnert Park Educational Center,5860 Labath Ave Rohnert Park  CA 94928,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.35388095,-122.720618556105
+Roseland,Roseland Charter,100 Sebastopol Road Santa Rosa CA 95407-6928,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.430893,-122.723722
+Roseland,Roseland Creek Elementary,1683 Burbank Avenue Santa Rosa CA 95407-5903,NA,NA,NA,not tested,NA,Sonoma County,38.4207164387755,-122.734313612245
+Roseland,Roseland Elementary,950 Sebastopol Road Santa Rosa CA 95407-6829,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4291607907849,-122.731032084079
+Petaluma Joint Union High,San Antonio High (Continuation),500 Vallejo Street Petaluma CA 94952-3364,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2384141280812,-122.628957879648
+Santa Rosa High,Santa Rosa Accelerated Charter,4650 Badger Rd. Santa Rosa CA 95409-2633,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.482084,-122.672222
+Santa Rita Union Elementary,Santa Rosa Charter School for the Arts,"756 Humboldt St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4468142000657,-122.714596839273
+Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rita Union Elementary,Santa Rosa French-American Charter School,"1350 Sonoma Ave, Santa Rosa, CA 95405",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4417433548387,-122.697471516129
+Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rita Union Elementary,Santa Rosa High School,"1235 Mendocino Ave, Santa Rosa, CA 95401",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.4518935037103,-122.717563874814
+Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
+Santa Rita Union Elementary,Santa Rosa Middle School,"500 E St, Santa Rosa, CA 95404",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.444909118678,-122.710803668656
+Rincon Valley Union Elementary,Sequoia Elementary,5305 Dupont Drive Santa Rosa CA 95409-3843,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4694541812252,-122.652754670893
+Roseland,Sheppard Elementary,1777 West Avenue Santa Rosa CA 95407-7449,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4200201557875,-122.727894280611
+Bennett Valley Union Elementary,Sierra School of Sonoma County Santa Rosa,4580 Bennett View Dr Santa Rosa CA 95404,NA,NA,NA,not tested,NA,Sonoma County,38.4186500447756,-122.669484775453
+Petaluma City Elementary,Sixth Grade Charter Academy at Petaluma Jr. High,700 Bantam Way B Petaluma CA 94952-1709,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2346242,-122.6589394
+Sonoma Valley Unified,Sonoma Charter,17202 Sonoma Highway Sonoma CA 95476-3667,NA,NA,FALSE,tested,NA,Sonoma County,38.322823,-122.487419
+Old Adobe Union,Sonoma Mountain Elementary,1900 Rainier Circle Petaluma CA 94954-2543,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.267198,-122.630717
+Petaluma Joint Union High,Sonoma Mountain High (Continuation),299 Casa Grande Road Petaluma CA 94954-5604,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2400583174635,-122.598940059475
+Sonoma Valley Unified,Sonoma Valley High,20000 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.2831778,-122.457826582208
+Petaluma City Elementary,South County Consortium,200 Douglas St Petaluma CA 94952-2567,NA,NA,NA,not tested,Petaluma,Sonoma County,38.22835,-122.644183
+Valley Center-Pauma Unified,Spring Creek Elementary School,4675 Mayette Ave Santa Rosa CA 95405,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.443192096534,-122.667952135091
+Rincon Valley Union Elementary,Spring Creek Matanzas Charter,1687 Yulupa Avenue Santa Rosa CA 95405-7778,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4388762773164,-122.671186385661
+Private,St. Rose,4300 Old Redwood Highway Santa Rosa CA 95403,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4907484349531,-122.740046817633
+Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485
+Santa Rita Union Elementary,Steele Lane Elementary,"301 Steele Ln, Santa Rosa, CA 95403",NA,NA,NA,exempt,Santa Rosa,Sonoma County,38.460548,-122.720485
+Bennett Valley Union Elementary,Strawberry Elementary,2311 Horseshoe Drive Santa Rosa CA 95405-8199,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4343508,-122.661728812571
+Twin Hills Union Elementary,Sunridge Charter,7285 Hayden Avenue Sebastopol CA 95472-4359,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.3938234896429,-122.82203828057
+Bellevue Union Elementary,Taylor Mountain Elementary,1210 East Bellevue Avenue Santa Rosa CA 95407-2764,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4018431,-122.7294168
+Cotati-Rohnert Park Unified,Technology High,1801 East Cotati Avenue Rohnert Park CA 94928-3613,NA,NA,NA,not tested,Rohnert Park,Sonoma County,38.33908395,-122.67538218386
+Cotati-Rohnert Park Unified,Technology Middle,7165 Burton Avenue Rohnert Park CA 94928-3316,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.33752355,-122.700842171154
+Cotati-Rohnert Park Unified,Thomas Page Academy,1075 Madrone Avenue Cotati CA 94931-5130,NA,NA,NA,not tested,Cotati,Sonoma County,38.3291951583873,-122.728339099532
+Cotati-Rohnert Park Unified,University Elementary at La Fiesta,8511 Liman Way Rohnert Park CA 94928-4686,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.32541305,-122.693251844689
+Petaluma City Elementary,Valley Oaks Elementary (Alternative),540 Vallejo St Petaluma CA 94952-3364,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2383626404062,-122.628861398239
+Petaluma Joint Union High,Valley Oaks High (Alternative),540 Vallejo Street Petaluma CA 94952-3364,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2383626404062,-122.628861398239
+Petaluma City Elementary,Valley Vista Elementary,730 North Webster Street Petaluma CA 94952-1735,NA,NA,NA,not tested,Petaluma,Sonoma County,38.231888431608,-122.653422386002
+Rincon Valley Union Elementary,Village Elementary Charter,900 Yulupa Avenue Santa Rosa CA 95405-7018,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4453893692928,-122.675958581084
+Cotati-Rohnert Park Unified,Waldo Rohnert Intermediate,550 Bonnie Avenue Rohnert Park CA 94928-3897,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.3344882,-122.699508725045
+Cloverdale Unified,Washington,129 South Washington Street Cloverdale CA 95425-3620,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.8028208853119,-123.018398162469
+West Sonoma County Union High,West Sonoma County Consortium,462 Johnson Street Sebastopol CA 95472-3431,11,ppb,TRUE,tested,Sebastopol,Sonoma County,38.4066542524854,-122.822328373757
+Rincon Valley Union Elementary,Whited Elementary Charter,4995 Sonoma Highway Santa Rosa CA 95409-4240,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4650516,-122.6559292
+Wilmar Union Elementary,Wilson Elementary,3775 Bodega Avenue Petaluma CA 94952-8023,NA,NA,NA,not tested,Petaluma,Sonoma County,38.2343326,-122.6501007
+Windsor Unified,Windsor Creek Elementary,8955 Conde Lane Windsor CA 95492-8812,NA,NA,FALSE,tested,,Sonoma County,38.5463117357727,-122.808770443549
+Windsor Unified,Windsor High,8695 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,,Sonoma County,38.543655,-122.816895
+Windsor Unified,Windsor Middle,9500 Brooks Road South Windsor CA 95492-7912,NA,NA,FALSE,tested,NA,Sonoma County,38.556545,-122.80729
+Windsor Unified,Windsor Oaks Academy,8681 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,,Sonoma County,38.5397513110604,-122.816914808923
+Sonoma Valley Unified,Woodland Star Charter,17811 Arnold Drive Sonoma CA 95476-4019,NA,NA,FALSE,tested,NA,Sonoma County,38.3093333664591,-122.497069473249
+Bennett Valley Union Elementary,Yulupa Elementary,2250 Mesquite Drive Santa Rosa CA 95405-8310,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.429043513197,-122.673829401778

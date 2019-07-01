@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Duarte Unified,Andres Duarte Elementary,1433 Crestfield Drive Duarte CA 91010-2206,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1375391818182,-117.951760808081
+Duarte Unified,Beardslee Elementary,1212 East Kellwil Way Duarte CA 91010-3322,6.2,ppb,TRUE,tested,Duarte,Los Angeles County,34.1286219230769,-117.979284
+Duarte Unified,Duarte High,1565 East Central Avenue Duarte CA 91010-2505,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1359271,-117.9843219
+Duarte Unified,Maxwell Elementary,733 Euclid Avenue Duarte CA 91010-3114,6.3,ppb,TRUE,tested,Duarte,Los Angeles County,34.1283457,-117.9902367
+Duarte Unified,Mt. Olive Innovation and Technology High,1400 Mount Olive Drive Duarte CA 91010-2675,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.1374409184365,-117.955533111615
+Duarte Unified,Royal Oaks Elementary,2499 Royal Oaks Drive Duarte CA 91010-2148,11,ppb,TRUE,tested,Duarte,Los Angeles County,34.143486,-117.951692

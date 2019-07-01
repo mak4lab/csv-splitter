@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Diego County Office of Education,Davila Day,540 G St Chula Vista CA 91910-3604,NA,NA,NA,not tested,Chula Vista,San Diego County,32.6350257342819,-117.088268321333
+San Diego County Office of Education,Literacy First Charter,799 East Washington Avenue El Cajon CA 92020-5327,NA,NA,FALSE,tested,El Cajon,San Diego County,32.787118,-116.952022
+San Diego County Office of Education,Literacy First Charter School Jr Academy,1012 E. Bradley Ave El Cajon CA 92021,NA,NA,FALSE,tested,El Cajon,San Diego County,32.820737,-116.946714
+San Diego County Office of Education,Literacy First Charter School Liberty Academy,698 W. Main St. El Cajon CA 92020,NA,NA,FALSE,tested,El Cajon,San Diego County,32.795491,-116.970497
+San Diego County Office of Education,Literacy First Charter School Liberty High School,8425 Palm St. Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.7345531323508,-117.019964013406
+San Diego County Office of Education,Monarch,1625 Newton Avenue San Diego CA 92113-1012,NA,NA,NA,not tested,San Diego,San Diego County,32.7029547892635,-117.150464909774
+San Diego County Office of Education,San Diego County Community,210 W Ash St San Diego CA 92101-3409,NA,NA,NA,not tested,San Diego,San Diego County,32.72014,-117.16511
+San Diego County Office of Education,San Diego County Court,2801 Meadow Lark Drive San Diego CA 92123,NA,NA,NA,not tested,San Diego,San Diego County,32.79345,-117.154248
+San Diego County Office of Education,San Diego County Special Education,6401 Linda Vista Road Rm 409 San Diego CA 92111-7319,NA,NA,NA,not tested,NA,NA,NA,NA
+San Diego County Office of Education,San Pasqual Academy,17701 San Pasqual Valley Road Escondido CA 92025-5301,NA,NA,NA,not tested,Escondido,San Diego County,33.1259335,-117.0648299

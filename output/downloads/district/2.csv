@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Acalanes Union High,Acalanes Adult Education Center,1963 Tice Valley Boulevard Walnut Creek CA 94595-2201,NA,NA,NA,not tested,NA,Contra Costa County,37.8772498046448,-122.07334644756
+Acalanes Union High,Acalanes Center for Independent Study,1963 Tice Valley Boulevard Walnut Creek CA 94595-2201,NA,NA,FALSE,tested,NA,Contra Costa County,37.8772498046448,-122.07334644756
+Acalanes Union High,Acalanes High,1200 Pleasant Hill Road Lafayette CA 94549-2623,NA,NA,FALSE,tested,NA,Contra Costa County,37.9049243,-122.0988529
+Acalanes Union High,Campolindo High,300 Moraga Road Moraga CA 94556-2402,NA,NA,FALSE,tested,NA,Contra Costa County,37.8539178,-122.1250439
+Acalanes Union High,Las Lomas High,1460 South Main Street Walnut Creek CA 94596-5319,NA,NA,FALSE,tested,NA,Contra Costa County,37.8914095034364,-122.057734167041
+Acalanes Union High,Miramonte High,750 Moraga Way Orinda CA 94563-4330,NA,NA,FALSE,tested,NA,Contra Costa County,37.842598247658,-122.145066358706

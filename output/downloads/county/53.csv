@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Antelope Elementary,Antelope Elementary,22630 Antelope Blvd Red Bluff CA 96080-8871,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1858278032787,-122.195512442623
+Red Bluff Union Elementary,Bidwell Elementary,1256 Walnut Street Red Bluff CA 96080-3603,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1730252222222,-122.246483777778
+Corning Union High,Centennial Continuation High,250 East Fig Lane Corning CA 96021-3546,NA,NA,FALSE,tested,Corning,Tehama County,39.9206654951786,-122.168019607303
+Corning Union Elementary,Columbia Academy,1785 Columbia Avenue Corning CA 96021-9115,NA,NA,FALSE,tested,Corning,Tehama County,39.90553,-122.174064
+Corning Union High,Corning High,643 Blackburn Ave Corning CA 96021-2216,NA,NA,FALSE,tested,Corning,Tehama County,39.9350069078381,-122.172488156762
+Red Bluff Union Elementary,Jackson Heights Elementary,225 South Jackson Street Red Bluff CA 96080-3917,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1674529534884,-122.237722860465
+Tehama County Department of Education,Lincoln Street,1125 Lincoln Street Red Bluff CA 96080,NA,NA,NA,not tested,Red Bluff,Tehama County,40.177894030303,-122.244565090909
+Los Molinos Unified,Los Molinos Community Day,25330 Magnolia Street Los Molinos CA 96055-0609,NA,NA,NA,not tested,NA,Tehama County,40.0263450333333,-122.092811766667
+Los Molinos Unified,Los Molinos Elementary,7700 Stanford Los Molinos CA 96055-0007,NA,NA,NA,not tested,NA,Tehama County,40.02029,-122.094999
+Los Molinos Unified,Los Molinos High,7900 Sherwood Boulevard Los Molinos CA 96055-0609,NA,NA,NA,not tested,NA,Tehama County,40.025043,-122.096333
+Corning Union Elementary,Maywood Middle School,1666 Marguerite Avenue Corning CA 96021-3530,NA,NA,FALSE,tested,Corning,Tehama County,39.931461,-122.169446
+Corning Union Elementary,Olive View Elementary,1402 Fig Street Corning CA 96021-3452,NA,NA,FALSE,tested,Corning,Tehama County,39.9221286969697,-122.170412545455
+Red Bluff Union Elementary,Red Bluff Community Day K-5,695 Kimball Rd Red Bluff CA 96080-4447,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672
+Red Bluff Joint Union High,Red Bluff High,1260 Union Street Red Bluff CA 96080-3121,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.180248,-122.239456
+Red Bluff Joint Union High,Salisbury High (Continuation),1050 Kimball Rd Red Bluff CA 96080-2502,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1574053695484,-122.240512772708
+Tehama County ROP,Tehama County ROP,1135 Lincoln Street Red Bluff CA 96080-3125,NA,NA,NA,not tested,Red Bluff,Tehama County,40.1779286262626,-122.244595545455
+Tehama County Department of Education,Tehama County Special Education,900 Palm Street Red Bluff CA 96080-2626,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.181789,-122.249249
+Red Bluff Union Elementary,Vista Preparatory Academy,1770 South Jackson Street Red Bluff CA 96080-4505,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.157302,-122.237908
+Corning Union Elementary,West Street Elementary,900 West Street Corning CA 96021-2937,NA,NA,FALSE,tested,Corning,Tehama County,39.926468,-122.185624
+Red Bluff Union Elementary,William M. Metteer Elementary,695 Kimball Road Red Bluff CA 96080-4901,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.1571999352227,-122.233826222672
+Corning Union Elementary,Woodson Elementary,N 150 Toomes Avenue Corning CA 96021-2077,NA,NA,FALSE,tested,Corning,Tehama County,39.9127422,-122.1928609

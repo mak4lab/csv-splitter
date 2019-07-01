@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Susanville Elementary,Diamond View Middle,850 Richmond Road Susanville CA 96130-4823,NA,NA,NA,not tested,Susanville,Lassen County,40.4076316727273,-120.661499163636
+Susanville Elementary,McKinley Elementary,2005 Fourth Street Susanville CA 96130-4105,NA,NA,FALSE,tested,NA,NA,NA,NA
+Susanville Elementary,Meadow View,1200 Paiute Lane Susanville CA 96130-4105,NA,NA,NA,not tested,Susanville,Lassen County,40.43393755,-120.663944368176

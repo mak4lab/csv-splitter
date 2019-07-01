@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Upper Lake Unified,Upper Lake Elementary,679 Second Street Upper Lake CA 95485-0036,NA,NA,FALSE,tested,NA,NA,NA,NA
+Upper Lake Unified,Upper Lake High,675 Clover Valley Road B Upper Lake CA 95485-9220,18,ppb,TRUE,tested,NA,NA,NA,NA
+Upper Lake Unified,Upper Lake Middle,725 Old Lucerne Road Upper Lake CA 95485-0036,8.4,ppb,TRUE,tested,NA,Lake County,39.1639360279534,-122.898101752077

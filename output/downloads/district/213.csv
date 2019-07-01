@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+El Dorado Union High,EDUHSD Virtual Academy at Shenandoah,6540 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6763373,-120.8353572
+El Dorado Union High,El Dorado High,561 Canal Street Placerville CA 95667-4312,NA,NA,NA,not tested,Placerville,El Dorado County,38.7324462339639,-120.813015957887
+El Dorado Union High,Independence Continuation,385 Pleasant Valley Rd. Diamond Springs CA 95619-1450,NA,NA,FALSE,tested,,El Dorado County,38.6939927,-120.8170909
+El Dorado Union High,Oak Ridge High,1120 Harvard Way El Dorado Hills CA 95762-4324,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Dorado Union High,Ponderosa High,3661 Ponderosa Road Shingle Springs CA 95682-9435,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Dorado Union High,Union Mine High,6530 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,,El Dorado County,38.6768064,-120.8386778

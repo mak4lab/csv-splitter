@@ -1,0 +1,101 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Long Beach Unified,Addams Elementary,5320 Pine Avenue Long Beach CA 90805-5930,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8535818571429,-118.191633816327
+Long Beach Unified,Alvarado Elementary,1900 East 21st Street Signal Hill CA 90755-5858,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.7952026949175,-118.168325253102
+Long Beach Unified,Avalon K-12,200 Falls Canyon Road Santa Catalina CA 90704-0557,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Bancroft Middle,5301 East Centralia Street Long Beach CA 90808-1432,6.699999999999999,ppb,TRUE,tested,Long Beach,Los Angeles County,33.839651,-118.129302
+Long Beach Unified,Barton Elementary,1100 East Del Amo Boulevard Long Beach CA 90807-1010,NA,NA,FALSE,tested,NA,NA,NA,NA
+Long Beach Unified,Beach High-Intensive Learning Program,3701 East Willow St. Long Beach CA 90815-1732,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8031931,-118.1216896
+Long Beach Unified,Bethune,2101 San Gabriel Avenue Long Beach CA 90810,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7934270764983,-118.223814635948
+Long Beach Unified,Bethune Elementary,2101 San Gabriel Avenue Long Beach CA 90810,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7934270764983,-118.223814635948
+Long Beach Unified,Birney Elementary,710 West Spring Street Long Beach CA 90806-1413,9.48,ppb,TRUE,tested,Long Beach,Los Angeles County,33.8116475,-118.196976
+Long Beach Unified,Bixby Elementary,5251 East Stearns Street Long Beach CA 90815-2902,NA,NA,FALSE,tested,NA,NA,NA,NA
+Long Beach Unified,Bobbie Smith Elementary,565 East Hill Street Long Beach CA 90806-4457,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7971981666667,-118.18571975
+Long Beach Unified,Browning High School,2180 Obispo Avenue Long Beach CA 90804,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.796921,-118.154466
+Long Beach Unified,Bryant Elementary,4101 East Fountain Street Long Beach CA 90804-3022,5.61,ppb,TRUE,tested,Long Beach,Los Angeles County,33.7839912,-118.145096154826
+Long Beach Unified,Buffum Total Learning Center,2350 Ximeno Avenue Long Beach CA 90815,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.800449755102,-118.140954469388
+Long Beach Unified,Burbank Elementary,501 Junipero Avenue Long Beach CA 90814-1031,6.4,ppb,TRUE,tested,Long Beach,Los Angeles County,33.7727109693878,-118.163970897959
+Long Beach Unified,Burcham Elementary,5610 East Monlaco Road Long Beach CA 90808-2627,10,ppb,TRUE,tested,Long Beach,Los Angeles County,33.822129751633,-118.122959411665
+Long Beach Unified,Cabrillo High,2001 Santa Fe Avenue Long Beach CA 90810-4068,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7937391,-118.217638224287
+Long Beach Unified,California Academy of Mathematics and Science,"1000 East Victoria Street, Building SAC3 rm3117 Carson CA 90747-0001",NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Cambodian Christian School K-12,2474 Pacific Avenue Long Beach CA 90806,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.802057244898,-118.19361077551
+Long Beach Unified,Carmelitos Head Start,5250 N Via Passilo Long Beach CA 90805,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Carver Elementary,5335 East Pavo Street Long Beach CA 90808-3599,5.449999999999999,ppb,TRUE,tested,Long Beach,Los Angeles County,33.81232255,-118.127861136294
+Long Beach Unified,Chavez Elementary,730 West Third Street Long Beach CA 90802-2745,NA,NA,FALSE,tested,NA,NA,NA,NA
+Long Beach Unified,Clear Passage Educational Center,1471 Martin Luther King Junior Avenue Long Beach CA 90813-2162,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Cleveland Elementary,4760 Hackett Avenue Lakewood CA 90713-2424,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8441326363636,-118.106698060606
+Long Beach Unified,Colin L Powell Academy for Success,150 Victoria Street Long Beach CA 90805-2147,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8647699335684,-118.203442355511
+Long Beach Unified,Cubberley K-8,3200 Monogram Avenue Long Beach CA 90808-4189,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.815256,-118.102591
+Long Beach Unified,Dooley Elementary,5075 Long Beach Boulevard Long Beach CA 90805-6345,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8476931,-118.195038092428
+Long Beach Unified,Edison Elementary,625 Maine Avenue Long Beach CA 90802-1143,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7738242758621,-118.20049041954
+Long Beach Unified,Educational Partnership High,1794 Cedar Avenue Long Beach CA 90813-1770,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7896700408163,-118.194958877551
+Long Beach Unified,Elm Head Start,1425 Elm Avenue Long Beach CA 90813,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7843524489796,-118.188091734694
+Long Beach Unified,Emerson Parkside Academy,2625 Josie Avenue Long Beach CA 90815-1511,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8037773673469,-118.105381020408
+Long Beach Unified,"Ernest S. McBride, Sr. High",7025 East Parkcrest Street Long Beach CA 90808-2319,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8303115,-118.130529
+Long Beach Unified,Eunice Sato Academy of Math and Science,1100 Iroquois Ave Long Beach CA 90815-4649,5.8,ppb,TRUE,tested,Long Beach,Los Angeles County,33.7809384221106,-118.106075954774
+Long Beach Unified,First Baptist Church School K-12,1000 Pine Avenue Long Beach CA 90813,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.779096,-118.192277
+Long Beach Unified,Franklin Classical Middle,540 Cerritos Avenue Long Beach CA 90802-1623,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.773723755102,-118.177873
+Long Beach Unified,Fremont Elementary,4000 East Fourth Street Long Beach CA 90814-2818,6.050000000000001,ppb,TRUE,tested,NA,NA,NA,NA
+Long Beach Unified,Gant Elementary,1854 Britton Drive Long Beach CA 90815-3231,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7900427048921,-118.119145179748
+Long Beach Unified,Gompers K-8,5206 Briercrest Avenue Lakewood CA 90713-1822,6.1,ppb,TRUE,tested,Lakewood,Los Angeles County,33.8522892027507,-118.123041187149
+Long Beach Unified,Grant Elementary,1225 East 64th Street Long Beach CA 90805-2534,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8710751809045,-118.174923271357
+Long Beach Unified,Hamilton Middle,1060 East 70th Street Long Beach CA 90805-1008,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8809089,-118.179612696195
+Long Beach Unified,Harte Elementary,1671 East Phillips Street Long Beach CA 90805-4811,6.9,ppb,TRUE,tested,Long Beach,Los Angeles County,33.8588153032084,-118.171735630882
+Long Beach Unified,Helen Keller Middle,7020 East Brittain Street Long Beach CA 90808-2301,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8253087959184,-118.096931020408
+Long Beach Unified,Henry,3720 Canehill Avenue Long Beach CA 90808-2201,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8255905306122,-118.110339346939
+Long Beach Unified,Herrera Elementary,1620 Temple Avenue Long Beach CA 90804-1638,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7873890816327,-118.158826795918
+Long Beach Unified,Holmes Elementary,5020 Barlin Avenue Lakewood CA 90712-3033,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8495001,-118.14789455
+Long Beach Unified,Hoover Middle,3501 Country Club Dr. Lakewood CA 90712-3429,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8398056644113,-118.151463969153
+Long Beach Unified,Hudson K-8,2335 Webster Avenue Long Beach CA 90810-3254,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7996007857143,-118.219683428571
+Long Beach Unified,Hughes Middle,3846 California Avenue Long Beach CA 90807-3510,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8282191020408,-118.180554061224
+Long Beach Unified,Intellectual Virtues Academy of Long Beach,3601 Linden Avenue Long Beach CA 90807-4001,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.822273,-118.186548
+Long Beach Unified,Jefferson Leadership Academies,750 Euclid Avenue Long Beach CA 90804-5228,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7762525510204,-118.149046040816
+Long Beach Unified,Jessie Nelson Academy,1951 Cherry Avenue Signal Hill CA 90755-5823,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.7927401555459,-118.167717480561
+Long Beach Unified,Job Corps Head Start,1903 Santa Fe Avenue Long Beach CA 90810,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8170946,-118.2155286
+Long Beach Unified,John Burroughs Elementary,1260 E. 33rd St. Signal Hill CA 90755,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.817018,-118.1761203125
+Long Beach Unified,Jordan High,6500 Atlantic Avenue Long Beach CA 90805-2304,6.4,ppb,TRUE,tested,Long Beach,Los Angeles County,33.8575362,-118.1848919
+Long Beach Unified,Jordan Plus High,171 W. Bort Street Long Beach CA 90805,NA,NA,NA,not tested,Compton,Los Angeles County,33.8703622387989,-118.204871180142
+Long Beach Unified,Jordan Plus High School,171 W. Bort St. Long Beach CA 90805,NA,NA,NA,not tested,Compton,Los Angeles County,33.8703622387989,-118.204871180142
+Long Beach Unified,Kettering Elementary,550 Silvera Avenue Long Beach CA 90803-2127,6.949999999999999,ppb,TRUE,tested,Long Beach,Los Angeles County,33.7736992121212,-118.106872737374
+Long Beach Unified,King Elementary,145 East Artesia Boulevard Long Beach CA 90805-2003,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8746593,-118.1801673
+Long Beach Unified,Lafayette Elementary,2445 Chestnut Avenue Long Beach CA 90806-2997,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8015791020408,-118.195978795918
+Long Beach Unified,Lakewood Christian School PK-8,5336 E. Arbor Road Long Beach CA 90808,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Lakewood High,4400 Briercrest Avenue Lakewood CA 90713-2512,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8378337344382,-118.123148796131
+Long Beach Unified,Lincoln Elementary,1175 East 11th Street Long Beach CA 90813-3659,7,ppb,TRUE,tested,Long Beach,Los Angeles County,33.7808685217391,-118.176930826087
+Long Beach Unified,Lindbergh STEM Academy,1022 East Market Street Long Beach CA 90805-6034,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Lindsey Academy,5075 Daisy Avenue Long Beach CA 90805-6307,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8484302444743,-118.199078
+Long Beach Unified,Longfellow Elementary,3800 Olive Avenue Long Beach CA 90807-3577,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.826825,-118.182565
+Long Beach Unified,Los Cerritos Elementary,515 West San Antonio Drive Long Beach CA 90807-3117,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Lowell Elementary,5201 East Broadway Long Beach CA 90803-1803,7.1,ppb,TRUE,tested,Long Beach,Los Angeles County,33.764243,-118.131933
+Long Beach Unified,MacArthur Elementary,6011 Centralia St Lakewood CA 90713-2902,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.839528,-118.1084295
+Long Beach Unified,Madison Elementary,2801 Bomberry Street Lakewood CA 90712-3724,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8385570294432,-118.158910137579
+Long Beach Unified,Mann Elementary,257 Coronado Avenue Long Beach CA 90803-5842,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7666155,-118.153392458333
+Long Beach Unified,Marshall Academy of the Arts,5870 East Wardlow Road Long Beach CA 90808-3853,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8187288571429,-118.117264142857
+Long Beach Unified,McKinley Elementary,6822 Paramount Boulevard Long Beach CA 90805-1937,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8787973265306,-118.159909469388
+Long Beach Unified,Millikan High,2800 Snowden Avenue Long Beach CA 90815-1436,5.9,ppb,TRUE,tested,Long Beach,Los Angeles County,33.8066582191781,-118.111674369863
+Long Beach Unified,Monroe K-8,4400 Ladoga Ave. Lakewood CA 90713-2749,7.5,ppb,TRUE,tested,Lakewood,Los Angeles County,33.8374149998928,-118.103291916409
+Long Beach Unified,Muir K-8,3038 Delta Avenue Long Beach CA 90810-2843,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8125995918367,-118.21099655102
+Long Beach Unified,Naples Elementary,5537 The Toledo Long Beach CA 90803-3935,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.754945874688,-118.12735861811301
+Long Beach Unified,Newcomb Academy,3351 Val Verde Avenue Long Beach CA 90808-2301,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.815980969697,-118.079000060606
+Long Beach Unified,Oropeza Elementary,700 Locust Avenue Long Beach CA 90813-4317,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.775459,-118.190978
+Long Beach Unified,Paalacademy High School,1545 Long Beach Boulevard Long Beach CA 90813,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7863142243693,-118.189469429169
+Long Beach Unified,Plymouth Head Start,495 E Plymouth Street Long Beach CA 90805,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8534186326531,-118.186172897959
+Long Beach Unified,Polytechnic High,1600 Atlantic Avenue Long Beach CA 90813-2017,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.788167,-118.184923
+Long Beach Unified,Powell Academy for Success,150 Victoria Street Long Beach CA 90805-2147,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8647699335684,-118.203442355511
+Long Beach Unified,Prisk Elementary,2375 Fanwood Avenue Long Beach CA 90815-2114,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8006623131313,-118.115640262626
+Long Beach Unified,Reid High,2153 West Hill Street Long Beach CA 90810-3400,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7965922,-118.21875741383
+Long Beach Unified,Renaissance High School for the Arts,235 East Eighth Street Long Beach CA 90813-4311,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Riley Elementary,3319 Sandwood Street Lakewood CA 90712-3423,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8439441750575,-118.152908377988
+Long Beach Unified,Robinson Academy,2750 Pine Avenue Long Beach CA 90806-2617,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8071199795918,-118.192368040816
+Long Beach Unified,Rogers Middle,365 Monrovia Avenue Long Beach CA 90803-1934,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7667946439485,-118.131380201925
+Long Beach Unified,Select Community Day (Secondary),2221 Argonne Avenue Long Beach CA 90815-2527,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.796508877551,-118.136278571429
+Long Beach Unified,Signal Hill Elementary,2285 Walnut Avenue Signal Hill CA 90755-3619,NA,NA,FALSE,tested,Signal Hill,Los Angeles County,33.7985680116851,-118.172109874326
+Long Beach Unified,Smith Elementary School,565 E. Hill Street Long Beach CA 90806,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7971981666667,-118.18571975
+Long Beach Unified,Stanford Middle,5871 East Los Arcos Street Long Beach CA 90815-2120,NA,NA,NA,not tested,NA,NA,NA,NA
+Long Beach Unified,Stephens Middle,1830 West Columbia Street Long Beach CA 90810-2913,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8090610816326,-118.218370857143
+Long Beach Unified,Stevenson Elementary,515 Lime Avenue Long Beach CA 90802-2642,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.773086,-118.183795571429
+Long Beach Unified,Tincher Preparatory,1701 Petaluma Avenue Long Beach CA 90815-4855,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.7874684269845,-118.100633952866
+Long Beach Unified,Twain Elementary,5021 East Centralia Street Long Beach CA 90808-1329,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.8396677959184,-118.134645530612
+Long Beach Unified,Webster Elementary,1755 West 32nd Way Long Beach CA 90810-2459,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.8162225510204,-118.215904020408
+Long Beach Unified,Whittier Elementary,1761 Walnut Avenue Long Beach CA 90813-2430,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7891200612245,-118.17208344898
+Long Beach Unified,Willard Elementary,1055 Freeman Avenue Long Beach CA 90804-3804,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.7799516530612,-118.155764
+Long Beach Unified,Wilson High,4400 East Tenth Street Long Beach CA 90804-4310,NA,NA,NA,not tested,NA,NA,NA,NA

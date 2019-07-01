@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Moreland,Country Lane Elementary,5140 Country Lane San Jose CA 95129-4299,NA,NA,FALSE,tested,San José,Santa Clara County,37.2985896534002,-121.992862600758
+Moreland,Easterbrook Discovery,4835 Doyle Road San Jose CA 95129-3246,NA,NA,FALSE,tested,San José,Santa Clara County,37.3034395322172,-121.98660128414
+Moreland,George C. Payne Elementary,3750 Gleason Avenue San Jose CA 95130-1323,NA,NA,NA,not tested,NA,Santa Clara County,37.297343206733,-121.968096562815
+Moreland,Gussie M. Baker Elementary,4845 Bucknall Road San Jose CA 95130-2021,NA,NA,FALSE,tested,NA,Santa Clara County,37.2834552237209,-121.987350382878
+Moreland,Latimer Elementary,4250 Latimer Avenue San Jose CA 95130-1400,NA,NA,FALSE,tested,San José,Santa Clara County,37.2911983592584,-121.978015916136
+Moreland,Leroy Anderson Elementary,4000 Rhoda Drive San Jose CA 95117-3225,NA,NA,FALSE,tested,San José,Santa Clara County,37.3047506723417,-121.971512784447
+Moreland,Moreland Middle,4600 Student Lane San Jose CA 95130-1762,NA,NA,FALSE,tested,San José,Santa Clara County,37.2883468,-121.984511909437

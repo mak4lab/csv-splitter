@@ -1,0 +1,46 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fontana Unified,Alder Middle,7555 Alder Avenue Fontana CA 92336-2303,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1176678378546,-117.418332693275
+Fontana Unified,Almeria Middle,7723 Almeria Avenue Fontana CA 92336-8702,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1136477120824,-117.460172604165
+Fontana Unified,Almond Elementary,8172 Almond Avenue Fontana CA 92335-3020,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.105047,-117.493238
+Fontana Unified,Beech Avenue Elementary,9206 Beech Avenue Fontana CA 92335-4309,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0867859163665,-117.471262498008
+Fontana Unified,Birch High (Continuation),7930 Locust Avenue Fontana CA 92336-2871,8.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.109913123088504,-117.40980158594
+Fontana Unified,Canyon Crest Elementary,11851 Cherry Avenue Fontana CA 92337-2792,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0512028,-117.4889237
+Fontana Unified,Chaparral Elementary,14000 Shadow Drive Fontana CA 92337-0640,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.044106,-117.498267
+Fontana Unified,Citrus Elementary,16041 Randall Avenue Fontana CA 92335-2033,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0847060308513,-117.454937928442
+Fontana Unified,Citrus High (Continuation),10760 Cypress Fontana CA 92337-7422,NA,NA,NA,not tested,NA,NA,NA,NA
+Fontana Unified,Cypress Elementary,9751 Cypress Avenue Fontana CA 92335-6500,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0764420055224,-117.444287021386
+Fontana Unified,Date Elementary,9011 Oleander Avenue Fontana CA 92335-4532,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0901203345339,-117.448708071343
+Fontana Unified,Dolores Huerta International Academy,17777 Merrill Avenue Fontana CA 92335-8110,NA,NA,NA,not tested,Fontana,San Bernardino County,34.0920941450442,-117.416605200588
+Fontana Unified,Dorothy Grant Elementary,7069 Isabel Lane Fontana CA 92336-5060,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1260034,-117.463315114488
+Fontana Unified,Fontana A. B. Miller High,6821 Oleander Avenue Fontana CA 92336-1400,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1302769390249,-117.448864877477
+Fontana Unified,Fontana Adult,10755 Oleander Avenue Fontana CA 92337,8.85,ppb,TRUE,tested,Fontana,San Bernardino County,34.0584311839505,-117.448571
+Fontana Unified,Fontana High,9453 Citrus Avenue Fontana CA 92335-5510,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0824555058059,-117.453604783674
+Fontana Unified,Fontana Middle,8425 Mango Avenue Fontana CA 92335-3909,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.100520568275,-117.431328959428
+Fontana Unified,Harry S. Truman Middle,16224 Mallory Drive Fontana CA 92335-7844,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.07490907862,-117.450041610665
+Fontana Unified,Hemlock Elementary,15080 Miller Avenue Fontana CA 92336-2395,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.114145,-117.4602279
+Fontana Unified,Henry J. Kaiser High,11155 Almond Avenue Fontana CA 92337-7113,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.052101,-117.493216
+Fontana Unified,Juniper Elementary,7655 Juniper Avenue Fontana CA 92336-2025,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1147549785128,-117.44012257347
+Fontana Unified,Jurupa Hills High,10700 Oleander Avenue Fontana CA 92337-7435,NA,NA,NA,not tested,Fontana,San Bernardino County,34.0593764517939,-117.448769
+Fontana Unified,Kathy Binks Elementary,7358 Cypress Avenue Fontana CA 92336-1975,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.120422814923,-117.444692257582
+Fontana Unified,Live Oak Elementary,9522 Live Oak Avenue Fontana CA 92335-5313,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0428767,-117.4824787
+Fontana Unified,Locust Elementary,7420 Locust Avenue Fontana CA 92336-2307,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1192902228531,-117.409795447092
+Fontana Unified,Mango Elementary,7450 Mango Avenue Fontana CA 92336-2105,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1186472681034,-117.431628984023
+Fontana Unified,Maple Elementary,751 South Maple Avenue Fontana CA 92335-6076,5.4,ppb,TRUE,tested,Rialto,San Bernardino County,34.0902210545455,-117.405128
+Fontana Unified,North Tamarind Elementary,7961 Tamarind Avenue Fontana CA 92336-2753,5.1,ppb,TRUE,tested,Fontana,San Bernardino County,34.1093134382179,-117.422662687849
+Fontana Unified,Oak Park Elementary,14200 Live Oak Avenue Fontana CA 92337-8387,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.035056,-117.497689
+Fontana Unified,Oleander Elementary,8650 Oleander Avenue Fontana CA 92335-7753,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0966374140759,-117.448968379454
+Fontana Unified,Palmetto Elementary,9325 Palmetto Avenue Fontana CA 92335-5904,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0844065465021,-117.42689981251
+Fontana Unified,Poplar Elementary,9937 Poplar Avenue Fontana CA 92335-0004,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0736134616225,-117.462345833388
+Fontana Unified,Randall Pepper Elementary,16613 Randall Avenue Fontana CA 92335-5638,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.084768,-117.44188057103
+Fontana Unified,Redwood Elementary,8570 Redwood Avenue Fontana CA 92335-3117,6.2,ppb,TRUE,tested,Fontana,San Bernardino County,34.1084565,-117.4842674
+Fontana Unified,Sequoia Middle,9452 Hemlock Avenue Fontana CA 92335-5352,9.1,ppb,TRUE,tested,Fontana,San Bernardino County,34.0814067800925,-117.475673
+Fontana Unified,Shadow Hills Elementary,14300 Shadow Drive Fontana CA 92337-0100,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.044257,-117.495082
+Fontana Unified,Sierra Lakes Elementary,5740 Avenal Place Fontana CA 92336-5673,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1481394807126,-117.451508360534
+Fontana Unified,South Tamarind Elementary,8561 Tamarind Avenue Fontana CA 92335-3976,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0983556675229,-117.422612
+Fontana Unified,Southridge Middle,14500 Live Oak Avenue Fontana CA 92337-2871,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.037646,-117.492241
+Fontana Unified,Summit High,15551 Summit Avenue Fontana CA 92336-4605,NA,NA,NA,not tested,Fontana,San Bernardino County,34.1504704518864,-117.465366651642
+Fontana Unified,Ted Porter Elementary,8330 Locust Avenue Fontana CA 92335-3712,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1024672,-117.409755933333
+Fontana Unified,Tokay Elementary,7846 Tokay Avenue Fontana CA 92336-1827,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1124398711553,-117.456015016209
+Fontana Unified,Virginia Primrose Elementary,751 North Maple Avenue Fontana CA 92336-4802,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.1095488635414,-117.405211
+Fontana Unified,Wayne Ruble Middle,6762 Juniper Avenue Fontana CA 92336-1404,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.1308540875168,-117.440335
+Fontana Unified,West Randall Elementary,15620 Randall Avenue Fontana CA 92335-4443,12,ppb,TRUE,tested,Fontana,San Bernardino County,34.084863975089,-117.464133373077

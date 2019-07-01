@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oroville Union High,Las Plumas High,2380 Las Plumas Avenue Oroville CA 95966-7305,NA,NA,NA,not tested,NA,Butte County,39.480425,-121.539593
+Oroville Union High,Oroville High,1535 Bridge Street Oroville CA 95966-5060,NA,NA,NA,not tested,Oroville,Butte County,39.513164,-121.545061
+Oroville Union High,Oroville High Community Day,2120 Second Street Oroville CA 95965-3415,NA,NA,NA,not tested,NA,NA,NA,NA
+Oroville Union High,Prospect High (Continuation),2060 Second Street Oroville CA 95965-3497,NA,NA,NA,not tested,NA,NA,NA,NA

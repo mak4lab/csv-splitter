@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Natomas Unified,American Lakes Elementary,2800 Stonecreek Drive Sacramento CA 95833-1634,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.618274,-121.493922
+Natomas Unified,Bannon Creek Elementary,2775 Millcreek Drive Sacramento CA 95833-1856,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6150385426855,-121.502255465223
+Natomas Unified,Discovery High,3401 Fong Ranch Road Sacramento CA 95834-1797,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6369719,-121.4892512
+Natomas Unified,H. Allen Hight Elementary,3200 North Park Drive Sacramento CA 95835-1896,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6652254260546,-121.531900393812
+Natomas Unified,Heron,5151 Banfield Drive Sacramento CA 95835-1421,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.673873,-121.510298
+Natomas Unified,Inderkum High,2500 New Market Drive Sacramento CA 95835-2238,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.658194,-121.521008
+Natomas Unified,Jefferson Elementary,2001 Pebblewood Sacramento CA 95833-1400,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.620666,-121.508404
+Natomas Unified,Leroy Greene Academy,2950 West River Drive Sacramento CA 95833-3767,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6077881824115,-121.538125773152
+Natomas Unified,Natomas Charter,4600 Blackrock Drive Sacramento CA 95835-1250,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.65833,-121.495039
+Natomas Unified,Natomas Gateways Middle,3301 Fong Ranch Road Sacramento CA 95834-1719,NA,NA,NA,not tested,Sacramento,Sacramento County,38.627566,-121.493849
+Natomas Unified,Natomas High,3301 Fong Ranch Rd Sacramento CA 95834-1719,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.627566,-121.493849
+Natomas Unified,Natomas Middle,3200 North Park Dr Sacramento CA 95835-1896,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6652254260546,-121.531900393812
+Natomas Unified,Natomas Pacific Pathways Prep,3700 Del Paso Road Sacramento CA 95834-9606,NA,NA,NA,not tested,Sacramento,Sacramento County,38.655539,-121.550644
+Natomas Unified,Natomas Park Elementary,4700 Crest Drive Sacramento CA 95835-1251,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.660443,-121.504028
+Natomas Unified,Paso Verde School,3800 Del Paso Rd Sacramento CA 95835,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6559007,-121.5335866
+Natomas Unified,STAR Academy,4004 Gloster Way Sacramento CA 95834,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6421219724182,-121.514264434268
+Natomas Unified,Two Rivers Elementary,3201 West River Drive Sacramento CA 95833-3768,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6079417107588,-121.538224157
+Natomas Unified,Westlake Charter,2680 Mabry Dr Sacramento CA 95835,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.6762887031259,-121.526699681489
+Natomas Unified,Westlake Charter Middle,1985 Pebblewood Dr Sacramento CA 95833,NA,NA,NA,not tested,Sacramento,Sacramento County,38.6213511755763,-121.503594319776
+Natomas Unified,Witter Ranch Elementary,3790 Poppy Hill Way Sacramento CA 95834-1030,NA,NA,FALSE,tested,Sacramento,Sacramento County,38.636279,-121.532456

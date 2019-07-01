@@ -1,0 +1,25 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Val Verde Unified,Avalon Elementary,1815 East Rider Street Perris CA 92571-7700,NA,NA,FALSE,tested,Perris,Riverside County,33.8303512860363,-117.241401770156
+Val Verde Unified,Citrus Hill High,18150 Wood Road Perris CA 92570-9486,NA,NA,NA,not tested,NA,NA,NA,NA
+Val Verde Unified,Columbia Elementary,21350 Rider Street Perris CA 92570-8879,NA,NA,FALSE,tested,Perris,Riverside County,33.8302525,-117.2347892
+Val Verde Unified,El Potrero Pre-School,16820 Via Pamplona Drive Moreno Valley CA 92551-2146,NA,NA,FALSE,tested,NA,NA,NA,NA
+Val Verde Unified,Lakeside Middle,27720 Walnut Street Perris CA 92571-7520,NA,NA,FALSE,tested,Perris,Riverside County,33.8265696,-117.2295554
+Val Verde Unified,Lasselle Elementary,26446 Krameria Avenue Moreno Valley CA 92555,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.881101,-117.2264005
+Val Verde Unified,Manuel L. Real Elementary,19150 Clark Street Perris CA 92570-9363,NA,NA,FALSE,tested,NA,NA,NA,NA
+Val Verde Unified,March Middle,15800 Indian Avenue Moreno Valley CA 92551-7307,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.9516859,-117.2352401
+Val Verde Unified,Mary McLeod Bethune Elementary,25390 Krameria Street Moreno Valley CA 92551-2567,NA,NA,FALSE,tested,NA,NA,NA,NA
+Val Verde Unified,May Ranch Elementary,900 East Morgan Perris CA 92571-7815,NA,NA,FALSE,tested,Perris,Riverside County,33.837803,-117.243969
+Val Verde Unified,Mead Valley Elementary,21 100 Oleander Avenue Perris CA 92570-9415,5.44,ppb,TRUE,tested,Perris,Riverside County,33.8621135,-117.2551369
+Val Verde Unified,Orange Vista High School,1400 East Orange Avenue Perris CA 92571,NA,NA,FALSE,tested,NA,NA,NA,NA
+Val Verde Unified,Rainbow Ridge Elementary,15950 Indian Avenue Moreno Valley CA 92551-7302,7.11,ppb,TRUE,tested,Moreno Valley,Riverside County,33.9516859,-117.2352401
+Val Verde Unified,Rancho Verde High,17750 Lasselle Street Moreno Valley CA 92551-6300,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8626143,-117.2074554
+Val Verde Unified,Sierra Vista Elementary,20300 Sherman Road Perris CA 92571-7522,NA,NA,FALSE,tested,Perris,Riverside County,33.8302801,-117.1825725
+Val Verde Unified,Tomas Rivera Middle,21675 Martin Street Perris CA 92570-7314,NA,NA,FALSE,tested,NA,NA,NA,NA
+Val Verde Unified,Triple Crown Elementary,530 Orange Avenue Perris CA 92571-4027,NA,NA,FALSE,tested,Perris,Riverside County,33.8157158706071,-117.214281551913
+Val Verde Unified,Val Verde Academy,25100 Red Maple Lane Moreno Valley CA 92551-1120,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.884729,-117.2262894
+Val Verde Unified,Val Verde Elementary,2656 Indian Avenue Perris CA 92571-3210,NA,NA,FALSE,tested,Perris,Riverside County,33.8194248,-117.2347713
+Val Verde Unified,Val Verde High,972 West Morgan Street Perris CA 92571-3103,NA,NA,FALSE,tested,Perris,Riverside County,33.8376318571429,-117.247715132653
+Val Verde Unified,Val Verde State Preschool,30249 San Martinez Road Val Verde CA 91384,NA,NA,FALSE,tested,NA,Los Angeles County,34.4473034858743,-118.663744645498
+Val Verde Unified,Val Verde Student Success Academy,25100 Red Maple Ln Moreno Valley CA 92551-1120,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.884729,-117.2262894
+Val Verde Unified,Victoriano Elementary,25650 Los Cabos Drive Moreno Valley CA 92551-1912,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.8892746767686,-117.212025806061
+Val Verde Unified,Vista Verde Middle,25777 Krameria Street Moreno Valley CA 92551-2093,NA,NA,FALSE,tested,NA,NA,NA,NA

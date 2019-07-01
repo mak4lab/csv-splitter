@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Rafael City Elementary,Bahia Vista Elementary,125 Bahia Way San Rafael CA 94901-4502,NA,NA,FALSE,tested,San Rafael,Marin County,37.966624237562,-122.498272306981
+San Rafael City Elementary,Coleman Elementary,800 Belle Ave San Rafael CA 94901-2227,NA,NA,FALSE,tested,San Rafael,Marin County,37.979424,-122.519334
+San Rafael City Elementary,Glenwood Elementary,25 Castlewood Dr San Rafael CA 94901-2524,NA,NA,FALSE,tested,San Rafael,Marin County,37.9855876088732,-122.476919683168
+San Rafael City Elementary,James B. Davidson Middle,280 Woodland Ave San Rafael CA 94901-5046,NA,NA,FALSE,tested,San Rafael,Marin County,37.9649415469143,-122.526732849128
+San Rafael City Elementary,Laurel Dell Elementary,225 Woodland Ave San Rafael CA 94901-6017,NA,NA,FALSE,tested,San Rafael,Marin County,37.9647774107595,-122.52689351962
+San Rafael City Elementary,San Pedro Elementary,498 Point San Pedro Rd San Rafael CA 94901-2457,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Rafael City Elementary,San Rafael Childrens Early Intervention Center,251 North San Pedro Rd San Rafael CA 94903-4412,NA,NA,FALSE,tested,NA,NA,NA,NA
+San Rafael City Elementary,Short Elementary,35 Marin Street San Rafael CA 94901-4960,NA,NA,FALSE,tested,San Rafael,Marin County,37.9664665102041,-122.535484306122
+San Rafael City Elementary,Sun Valley Elementary,75 Happy Ln San Rafael CA 94901-1020,NA,NA,FALSE,tested,San Rafael,Marin County,37.9857598120891,-122.550021903207
+San Rafael City Elementary,Venetia Valley K-8,177 North San Pedro Rd San Rafael CA 94903-4200,NA,NA,FALSE,tested,NA,NA,NA,NA

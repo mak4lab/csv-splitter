@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hueneme Elementary,Ansgar Larsen Elementary,550 Thomas Avenue Oxnard CA 93033-5333,19.9,ppb,TRUE,tested,Oxnard,Ventura County,34.1696758724832,-119.172354825503
+Hueneme Elementary,Art Haycox Elementary,5400 Perkins Road Oxnard CA 93033-8812,NA,NA,NA,not tested,Oxnard,Ventura County,34.15022055,-119.182649565943
+Hueneme Elementary,Charles Blackstock Junior High,701 East Bard Road Oxnard CA 93033-7265,NA,NA,NA,not tested,Oxnard,Ventura County,34.1637542,-119.17167313741
+Hueneme Elementary,E. O. Green Junior High,3739 South C Street Oxnard CA 93033-6111,NA,NA,NA,not tested,Oxnard,Ventura County,34.16441755,-119.182019951975
+Hueneme Elementary,Fred L. Williams Elementary,4300 Anchorage Street Oxnard CA 93033-7429,NA,NA,NA,not tested,Oxnard,Ventura County,34.1609474704916,-119.16279601548
+Hueneme Elementary,Hollywood Beach Elementary,4000 Sunset Ln. Oxnard CA 93035-3949,NA,NA,NA,not tested,Oxnard,Ventura County,34.170798,-119.231967
+Hueneme Elementary,Hueneme Elementary,354 North Third Street Port Hueneme CA 93041-2904,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hueneme Elementary,Julien Hathaway Elementary,405 East Dollie Street Oxnard CA 93033-7621,NA,NA,NA,not tested,Oxnard,Ventura County,34.1583373,-119.174143985834
+Hueneme Elementary,Parkview Elementary,1416 Sixth Place Port Hueneme CA 93041-2408,NA,NA,FALSE,tested,NA,NA,NA,NA
+Hueneme Elementary,Richard Bard Elementary,622 East Pleasant Valley Road Port Hueneme CA 93041-2638,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.1548328,-119.2015548
+Hueneme Elementary,Sunkist Elementary,1400 Teakwood Street Port Hueneme CA 93041-2228,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.170546,-119.193279

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Miguel Joint Union,Almond Acres Charter Academy,1601 L St. San Miguel CA 93451-9107,NA,NA,NA,not tested,NA,San Luis Obispo County,35.7578956,-120.6977034
+San Miguel Joint Union,Cappy Culver Elementary,11011 Heritage Ranch Loop Road Paso Robles CA 93446-7725,NA,NA,NA,not tested,NA,NA,NA,NA
+San Miguel Joint Union,Lillian Larsen Elementary,1601 L Street San Miguel CA 93451-9107,NA,NA,FALSE,tested,,San Luis Obispo County,35.7578956,-120.6977034

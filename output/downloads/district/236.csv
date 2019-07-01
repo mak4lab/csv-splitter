@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fairfield-Suisun Unified,Angelo Rodriguez High,5000 Red Top Road Fairfield CA 94534-9527,63.4,ppb,TRUE,tested,Fairfield,Solano County,38.19966155,-122.145090580544
+Fairfield-Suisun Unified,Anna Kyle Elementary,1600 Kidder Avenue Fairfield CA 94533-3914,NA,NA,FALSE,tested,Fairfield,Solano County,38.2589276,-122.02907637944
+Fairfield-Suisun Unified,Armijo High,824 Washington Street Fairfield CA 94533-5541,NA,NA,FALSE,tested,Fairfield,Solano County,38.25163625,-122.036713162958
+Fairfield-Suisun Unified,B. Gale Wilson Elementary,3301 Cherry Hills Court Fairfield CA 94534-7146,NA,NA,FALSE,tested,Fairfield,Solano County,38.27135325,-122.081216434533
+Fairfield-Suisun Unified,Cleo Gordon Elementary,1950 Dover Avenue Fairfield CA 94533-2345,NA,NA,FALSE,tested,Fairfield,Solano County,38.2663085,-122.023414575932
+Fairfield-Suisun Unified,Cordelia Hills Elementary,4770 Canyon Hills Drive Fairfield CA 94534-6449,11.3,ppb,TRUE,tested,Fairfield,Solano County,38.1699927,-122.132219611563
+Fairfield-Suisun Unified,Crescent Elementary,1001 Anderson Drive Suisun CA 94585,NA,NA,FALSE,tested,Suisun City,Solano County,38.2415598,-122.014976886835
+Fairfield-Suisun Unified,Crystal Middle,400 Whispering Bay Lane Suisun City CA 94585-2862,NA,NA,FALSE,tested,Suisun City,Solano County,38.24007285,-122.03282555526
+Fairfield-Suisun Unified,Dan O. Root Elementary,820 Harrier Drive Suisun City CA 94585-3064,8.7,ppb,TRUE,tested,Suisun City,Solano County,38.2501838,-121.996099095955
+Fairfield-Suisun Unified,Dover Academy,301 East Alaska Avenue Fairfield CA 94533-2222,NA,NA,FALSE,tested,Fairfield,Solano County,38.27200765,-122.029796351389
+Fairfield-Suisun Unified,E. Ruth Sheldon Academy of Innovative Learning,1901 Woolner Avenue Fairfield CA 94533-5809,NA,NA,FALSE,tested,Fairfield,Solano County,38.244199450000004,-122.063660301969
+Fairfield-Suisun Unified,Edge Christian Academy,1101 Horizon Dr. Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.275848,-122.010602
+Fairfield-Suisun Unified,Fairfield High,205 East Atlantic Ave Fairfield CA 94533-1626,NA,NA,FALSE,tested,Fairfield,Solano County,38.27467,-122.029622944857
+Fairfield-Suisun Unified,Fairfield-Suisun Adult,900 Travis Boulevard Fairfield CA 94533,5.29,ppb,TRUE,tested,Fairfield,Solano County,38.25983945,-122.044045140991
+Fairfield-Suisun Unified,Fairview Elementary,830 First Street Fairfield CA 94533-4724,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fairfield-Suisun Unified,Grange Middle,1975 Blossom Avenue Fairfield CA 94533-8010,5.48,ppb,TRUE,tested,Fairfield,Solano County,38.263849,-122.016609928913
+Fairfield-Suisun Unified,Green Valley Middle,1350 Gold Hill Road Fairfield CA 94534-6422,NA,NA,FALSE,tested,Fairfield,Solano County,38.17574505,-122.138778329607
+Fairfield-Suisun Unified,H. Glenn Richardson,1069 Meadowlark Dr Fairfield CA 94533-2460,5.05,ppb,TRUE,tested,Fairfield,Solano County,38.267403,-122.013620229168
+Fairfield-Suisun Unified,K. I. Jones Elementary,2001 Winston Drive Fairfield CA 94534-3018,12,ppb,TRUE,tested,Fairfield,Solano County,38.26732755,-122.06087684679
+Fairfield-Suisun Unified,Laurel Creek Elementary,2900 Gulf Drive Fairfield CA 94533-8116,5.68,ppb,TRUE,tested,Fairfield,Solano County,38.2817987,-122.016632213856
+Fairfield-Suisun Unified,Mary Bird,420  East Tabor Avenue Fairfield CA 94533-4002,NA,NA,FALSE,tested,Fairfield,Solano County,38.2656082981322,-122.029868818962
+Fairfield-Suisun Unified,Matt Garcia Career and College Academy,1100 Civic Center Drive Fairfield CA 94533-4806,NA,NA,FALSE,tested,Fairfield,Solano County,38.25370465,-122.047406202098
+Fairfield-Suisun Unified,Nelda Mundy Elementary,570 Vintage Valley Drive Fairfield CA 94534-1416,NA,NA,FALSE,tested,Fairfield,Solano County,38.21832275,-122.146016556395
+Fairfield-Suisun Unified,Oakbrook Elementary,700 Oakbrook Drive Fairfield CA 94534-6841,NA,NA,FALSE,tested,Fairfield,Solano County,38.19189455,-122.143414660896
+Fairfield-Suisun Unified,P3 Academy,650 Parker Road Fairfield CA 94533-9001,14.4,ppb,TRUE,tested,Fairfield,Solano County,38.2722202,-121.9550553
+Fairfield-Suisun Unified,Public Safety Academy,230 Atlantic Avenue Fairfield CA 94533-1539,7.09,ppb,TRUE,tested,Fairfield,Solano County,38.2771846,-122.038794465985
+Fairfield-Suisun Unified,Rolling Hills Elementary,2025 Fieldcrest Avenue Fairfield CA 94534-7995,NA,NA,FALSE,tested,Fairfield,Solano County,38.29089955,-122.041812874136
+Fairfield-Suisun Unified,Sem Yeto Continuation High,205 East Atlantic Avenue Fairfield CA 94533-1626,NA,NA,NA,not tested,Fairfield,Solano County,38.27467,-122.029622944857
+Fairfield-Suisun Unified,Suisun Elementary,725 Golden Eye Way Suisun City CA 94585-2029,10,ppb,TRUE,tested,Suisun City,Solano County,38.24858835,-122.011406409112
+Fairfield-Suisun Unified,Suisun Valley Elementary,4985 Lambert Road Fairfield CA 94534-9740,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fairfield-Suisun Unified,Tolenas Elementary,4500 Tolenas Road Fairfield CA 94533-6615,NA,NA,FALSE,tested,Fairfield,Solano County,38.262683,-121.996936932346
+Fairfield-Suisun Unified,Weir Preparatory Academy,1975 Pennsylvania Avenue Fairfield CA 94533-3643,NA,NA,FALSE,tested,Fairfield,Solano County,38.26536555,-122.051339478228

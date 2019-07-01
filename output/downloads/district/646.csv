@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ross Valley Elementary,Brookside Elementary,116 Butterfield Road San Anselmo CA 94960-1562,NA,NA,FALSE,tested,NA,Marin County,37.9909700437772,-122.576741221505
+Ross Valley Elementary,Deer Park Elementary School,199 Porteous Ave Fairfax CA 94930,6,ppb,TRUE,tested,NA,Marin County,37.976366,-122.590639
+Ross Valley Elementary,Hidden Valley Elementary,46 Green Valley Court San Anselmo CA 94960-1112,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ross Valley Elementary,Manor Elementary,150 Oak Manor Drive Fairfax CA 94930-1013,NA,NA,FALSE,tested,NA,Marin County,37.9985972218467,-122.594014057247
+Ross Valley Elementary,Red Hill Intermediate School,100 Shaw Dr. San Anselmo CA 94960,11,ppb,TRUE,tested,NA,Marin County,37.979965,-122.564948
+Ross Valley Elementary,Wade Thomas Elementary,150 Ross Avenue San Anselmo CA 94960-2941,NA,NA,FALSE,tested,NA,Marin County,37.9711290469024,-122.566575770429
+Ross Valley Elementary,White Hill Middle,101 Glen Drive Fairfax CA 94930-1338,NA,NA,FALSE,tested,NA,Marin County,38.0022927904263,-122.605828916676

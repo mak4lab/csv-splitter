@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+LAUSD,54th Street Elementary,"5501 S.Eileen Ave, Los Angeles, CA 90043",NA,NA,NA,exempt,Covina,Los Angeles County,34.0851544,-117.9104175
+Covina-Valley Unified,Barranca Elementary,727 South Barranca Avenue Covina CA 91723-3665,12,ppb,TRUE,tested,Covina,Los Angeles County,34.0861146,-117.8813437
+Covina-Valley Unified,Ben Lomond Elementary,621 East Covina Boulevard Covina CA 91722-2959,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0995018163265,-117.87816344898
+Charter Oak Unified,Cedargrove Elementary,1209 North Glendora Avenue Covina CA 91724-1506,5.2,ppb,TRUE,tested,Covina,Los Angeles County,34.0997108446319,-117.863902384883
+Charter Oak Unified,Charter Oak High,1430 East Covina Boulevard Covina CA 91724-1651,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0994152,-117.8626877
+Covina-Valley Unified,Covina High,463 South Hollenbeck Avenue Covina CA 91723-2955,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0814773308649,-117.899036258277
+Los Angeles Unified,Fifty-Fourth Street Elementary,5501 South Eileen Avenue Los Angeles CA 90043-2255,5.1,ppb,TRUE,tested,Covina,Los Angeles County,34.0851544,-117.9104175
+Azusa Unified,Gladstone High,1340 North Enid Covina CA 91722-1214,NA,NA,FALSE,tested,Covina,Los Angeles County,34.091794,-117.9144782
+Charter Oak Unified,Glen Oak Elementary,1000 North Sunflower Ave Covina CA 91724-2307,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0982035490196,-117.846270843137
+Covina-Valley Unified,Lark Ellen Elementary,4555 North Lark Ellen Avenue Covina CA 91722-3134,NA,NA,NA,not tested,Covina,Los Angeles County,34.0949015887184,-117.916667647112
+Covina-Valley Unified,Las Palmas Middle,641 North Lark Ellen Avenue Covina CA 91722-3463,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0907729636761,-117.916683716282
+Covina-Valley Unified,Merwin Elementary,16125 Cypress Covina CA 91722-2236,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0957384,-117.9055833
+Covina-Valley Unified,Sierra Vista Middle,777 East Puente Street Covina CA 91723-2826,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0825668,-117.8835181
+Private,Sonrise Christian,1220 East Ruddock Street Covina CA 91724,NA,NA,FALSE,tested,Covina,Los Angeles County,34.0897449390295,-117.865392203647
+Charter Oak Unified,Stone Ridge Academy,1115 East Puente St Covina CA 91724,NA,NA,NA,not tested,Covina,Los Angeles County,34.08346885,-117.867729793367

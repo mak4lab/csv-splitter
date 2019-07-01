@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sunnyvale,Bishop Elementary,450 North Sunnyvale Avenue Sunnyvale CA 94085-4320,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3866360124888,-122.02530759453
+Sunnyvale,Cherry Chase Elementary,1138 Heatherstone Way Sunnyvale CA 94087-1620,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3669738459288,-122.057059454378
+Sunnyvale,Columbia Middle,739 Morse Avenue Sunnyvale CA 94085-3010,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3938976636417,-122.018418565813
+Sunnyvale,Cumberland Elementary,824 Cumberland Avenue Sunnyvale CA 94087-1221,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3672762304214,-122.043012281014
+Sunnyvale,Ellis Elementary,550 East Olive Avenue Sunnyvale CA 94086-6345,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3697912877243,-122.023720503379
+Sunnyvale,Fairwood Elementary,1110 Fairwood Avenue Sunnyvale CA 94089-2311,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3961629545446,-121.991396909914
+Sunnyvale,Lakewood Elementary,750 Lakechime Drive Sunnyvale CA 94089-2539,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3982475628569,-122.004363455886
+Sunnyvale,San Miguel Elementary,777 San Miguel Avenue Sunnyvale CA 94085-3411,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3913641,-122.009172683307
+Sunnyvale,Sunnyvale Middle,1080 Mango Avenue Sunnyvale CA 94087-1728,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3601097159998,-122.05419588238
+Sunnyvale,Vargas Elementary,1054 Carson Drive Sunnyvale CA 94086-5806,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.3814430169438,-122.047543763587

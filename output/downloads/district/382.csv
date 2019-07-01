@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lancaster Elementary,Amargosa Creek Middle,44333 27th Street West Lancaster CA 93536-6094,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6884433078161,-118.17915881675
+Lancaster Elementary,Crossroads Community Day,44310 Hardwood Avenue Lancaster CA 93534-4332,6.300000000000001,ppb,TRUE,tested,Lancaster,Los Angeles County,34.6867944552657,-118.144339726351
+Lancaster Elementary,Desert View Elementary,1555 West Avenue H-10 Lancaster CA 93534-1371,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.7091381820433,-118.159292172137
+Lancaster Elementary,Discovery,44910 17th Street East Lancaster CA 93535,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.7002816934984,-118.099187465584
+Lancaster Elementary,Early Childhood Education,808 W. Avenue J Lancaster CA 93534-3427,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6895809880693,-118.143564355229
+Lancaster Elementary,El Dorado Elementary,361 East Pondera Lancaster CA 93535-3012,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6904809865831,-118.123730092154
+Lancaster Elementary,Endeavour Middle,43755 45th Street West Lancaster CA 93536-6885,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6780281967871,-118.210339248996
+Lancaster Elementary,Fulton and Alsbury Academy of Arts and Engineering,831 East Avenue K-2 Lancaster CA 93535-4788,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6729282837259,-118.114784812625
+Lancaster Elementary,iLEAD Lancaster Charter,254 East Avenue K-4 Lancaster CA 93535-4500,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6712545800262,-118.126710185547
+Lancaster Elementary,Jack Northrop Elementary,835 East Avenue K-4 Lancaster CA 93535-4735,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6714163444444,-118.117075233333
+Lancaster Elementary,John and Jacquelyn Miller Elementary,43420 22nd Street West Lancaster CA 93536-5244,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.674525410146,-118.170063957464
+Lancaster Elementary,Joshua Elementary,43926 North Second Street East Lancaster CA 93535-4010,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lancaster Elementary,Lancaster Alternative and Virtual Academies,44310 Hardwood Avenue Lancaster CA 93534-4332,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.6867944552657,-118.144339726351
+Lancaster Elementary,Life Source International Charter,44339 Beech Avenue Lancaster CA 93534-4303,NA,NA,NA,not tested,Lancaster,Los Angeles County,34.7080052,-118.1393662
+Lancaster Elementary,Lincoln Elementary,44021 15th Street East Lancaster CA 93535-3549,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6843477135281,-118.10369962327
+Lancaster Elementary,Linda Verde Center,44920 5th Street East Lancaster CA 93535,9.2,ppb,TRUE,tested,Lancaster,Los Angeles County,34.6992320816327,-118.121397612245
+Lancaster Elementary,Linda Verde Elementary,44924 North Fifth Street East Lancaster CA 93535-2603,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lancaster Elementary,Mariposa Elementary,737 West Avenue H-6 Lancaster CA 93534-1517,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.7131134371112,-118.145876583389
+Lancaster Elementary,Monte Vista Elementary,1235 West Kettering Street Lancaster CA 93534-2226,6.300000000000001,ppb,TRUE,tested,Lancaster,Los Angeles County,34.6997855,-118.15206830131
+Lancaster Elementary,Nancy Cory Elementary,3540 West Avenue K-4 Lancaster CA 93536-6643,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6711040434783,-118.192375173913
+Lancaster Elementary,New Vista Middle,753 East Avenue K-2 Lancaster CA 93535-4797,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6729255348526,-118.115841024126
+Lancaster Elementary,Piute Middle,425 East Avenue H-11 Lancaster CA 93535-1800,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.708698,-118.1217225
+Lancaster Elementary,Sierra Elementary,747 West Avenue J-12 Lancaster CA 93534-4933,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6782386388889,-118.145878916667
+Lancaster Elementary,Sunnydale Elementary,1233 West Avenue J-8 Lancaster CA 93534-4770,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6822634285714,-118.153784081633
+Lancaster Elementary,West Wind Elementary,44044 36th Street West Lancaster CA 93536-6205,NA,NA,FALSE,tested,Lancaster,Los Angeles County,34.6831007142857,-118.194622061224

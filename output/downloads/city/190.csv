@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Big Sur Unified,Big Sur Charter,135 Webster Street Monterey CA 93940-3119,NA,NA,FALSE,tested,Monterey,Monterey County,36.5961498888889,-121.894299888889
+Big Sur Unified,Big Sur Charter,304 Foam Street Monterey CA 93940-3119,NA,NA,NA,not tested,Monterey,Monterey County,36.6111679166667,-121.898599166667
+Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,NA,NA,FALSE,tested,Monterey,Monterey County,36.5777267920494,-121.855128013238
+Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,NA,NA,FALSE,tested,Monterey,Monterey County,36.58165,-121.879046
+Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,NA,NA,FALSE,tested,Monterey,Monterey County,36.5890326919612,-121.907810185843
+Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6,ppb,TRUE,tested,Monterey,Monterey County,36.5951152,-121.90018196619
+Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,NA,NA,FALSE,tested,Monterey,Monterey County,36.599119,-121.888798
+Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6,ppb,TRUE,tested,Monterey,Monterey County,36.591627,-121.91333

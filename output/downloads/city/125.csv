@@ -1,0 +1,24 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931
+Los Angeles Unified,Cimarron Avenue Elementary,11559 Cimarron Avenue Hawthorne CA 90250-1914,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
+LAUSD,CIMARRON ELEMENTARY,"11559 CIMARRON AVE, HAWTHORNE,      CA 90250",NA,NA,NA,exempt,Hawthorne,Los Angeles County,33.928894346025,-118.315212562113
+Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.919205755102,-118.374436204082
+Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.918945,-118.374434
+Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
+Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.8955706,-118.3786916
+Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.909370932509,-118.376605804227
+Los Angeles Unified,Executive Preparatory Academy of Finance,2506 West Imperial Highway Hawthorne CA 90250-1953,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.930875,-118.3560959
+Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
+Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9152234117647,-118.351338882353
+Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9051682916667,-118.346330166667
+Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9027845,-118.3730663
+Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.898207375,-118.33364425
+Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9164066,-118.3542953
+Inglewood Unified,Morningside High School,10500 South Yukon Avenue Inglewood CA 90303-2003,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.940688,-118.335061
+Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.90662475,-118.374372
+Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9314635,-118.3439013
+Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9086223,-118.3641893
+Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.899387,-118.332901
+Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9153931764706,-118.350625235294
+Inglewood Unified,Worthington Elementary,11101 South Yukon Avenue Inglewood CA 90303-2728,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.9342722,-118.335678318922
+Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.9329015,-118.3348931

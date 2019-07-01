@@ -7,13 +7,13 @@ Adelanto Elementary
 Alameda County Office of Education
 Alameda Unified
 Albany City Unified
-Albany Unified
 Alhambra Unified
 Alisal Union
 Allensworth Elementary
 Alpaugh Unified
 Alpine Union Elementary
 Alta Loma Elementary
+Alta Vista Elementary
 Alta-Dutch Flat Union Elementary
 Alum Rock Union Elementary
 Alvina Elementary
@@ -56,13 +56,13 @@ Beardsley Elementary
 Beaumont Unified
 Bella Vista Elementary
 Belleview Elementary
+Bellevue Union Elementary
 Bellflower Unified
 Belmont-Redwood Shores Elementary
 Belridge Elementary
 Benicia Unified
 Bennett Valley Union Elementary
 Berkeley Unified
-Berkeley Unified School District
 Berryessa Union Elementary
 Beverly Hills Unified
 Big Creek Elementary
@@ -76,6 +76,7 @@ Bishop Unified
 Black Oak Mine Unified
 Blochman Union Elementary
 Blue Lake Union Elementary
+Bolinas-Stinson Union
 Bonita Unified
 Bonsall Unified
 Borrego Springs Unified
@@ -99,10 +100,8 @@ Buttonwillow Union Elementary
 Byron Union Elementary
 Cabrillo Unified
 Cajon Valley Union
-Calaveras County of Education
 Calaveras County Office of Education
 Calaveras Unified
-Calexico Unifed
 Calexico Unified
 California School for the Blind (State Special Schl)
 California School for the Deaf-Fremont (State Special Schl)
@@ -113,7 +112,7 @@ Cambrian
 Camino Union Elementary
 Campbell Union
 Campbell Union High
-Camptonville Union Elementary School
+Camptonville Elementary
 Capistrano Unified
 Cardiff Elementary
 Carlsbad Unified
@@ -124,25 +123,18 @@ Cascade Union Elementary
 Castaic Union
 Castle Rock Union Elementary
 Castro Valley Unified
-Castro Valley Unified School District
 Cayucos Elementary
 Center Joint Unified
-Center Joint Unified School District
 Centinela Valley Union High
 Central Elementary
-Central School District
 Central Unified
 Central Union Elementary
 Central Union High
-Central Union High School District Office
 Centralia Elementary
 Ceres Unified
-Ceres Unified School District
 Chaffey Joint Union High
 Chaffey Joint Union High School
-Chaffey Joint Union High School District
 Charter Oak Unified
-Charter Oak Unified School District
 Chatom Union
 Chicago Park Elementary
 Chico Unified
@@ -151,15 +143,12 @@ Chowchilla Elementary
 Chowchilla Union High
 Chualar Union
 Chula Vista Elementary
-Chula Vista Elementary School District
 Cienega Union Elementary
 Cinnabar Elementary
 Claremont Unified
 Cloverdale Unified
 Clovis Unified
-Clovis Unified School District
 Coachella Valley Unified
-Coalinga-Huron School District
 Coalinga-Huron Unified
 Coast Unified
 Cold Spring Elementary
@@ -168,7 +157,6 @@ College Elementary
 Colton Joint Unified
 Colton-Redlands-Yucaipa ROP
 Columbia Elementary
-Columbia School District
 Columbia Union
 Columbine Elementary
 Colusa Unified
@@ -176,13 +164,11 @@ Compton Unified
 Conejo Valley Unified
 Contra Costa County Office of Education
 Contra Costa County ROP
-Contra Costy County Office of Education
 Corcoran Joint Unified
 Corning Union Elementary
 Corning Union High
 Corona-Norco Unified
 Coronado Unified
-Coronado Unified School District
 Cotati-Rohnert Park Unified
 Covina-Valley Unified
 Cucamonga Elementary
@@ -201,6 +187,7 @@ Del Norte County Unified
 Delano Joint Union High
 Delano Union Elementary
 Delhi Unified
+Denair Unified
 Desert Sands Unified
 Dinuba Unified
 Dixie Elementary
@@ -210,20 +197,18 @@ Douglas City Elementary
 Downey Unified
 Dry Creek Joint Elementary
 Duarte Unified
+Dublin Unified
 Ducor Union Elementary
 Dunsmuir Elementary
 Dunsmuir Joint Union High
-Dunsmuir Joint Union High School Distirct
 Durham Unified
 Earlimart Elementary
-East Bay Regional Occupational Agency (ROP)
 East Side Union High
 East Whittier City Elementary
 Eastern Sierra Unified
 Eastside Union Elementary
 Edison Elementary
 El Centro Elementary
-El Centro Elementary School District
 El Dorado County Office of Education
 El Dorado Office of Education
 El Dorado Union High
@@ -238,12 +223,10 @@ Elverta Joint Elementary
 Emery Unified
 Empire Union Elementary
 Encinitas Union Elementary
-Encinitas Union School District
 Enterprise Elementary
 Escalon Unified
 Escondido Union
 Escondido Union High
-Escondido Union School District
 Esparto Unified
 Etiwanda Elementary
 Eureka City Schools
@@ -254,7 +237,6 @@ Fairfax Elementary
 Fairfield-Suisun Unified
 Fall River Joint Unified
 Fallbrook Union Elementary
-Fallbrook Union Elementary School District
 Fallbrook Union High
 Farmersville Unified
 Feather Falls Union Elementary
@@ -272,20 +254,17 @@ Fortuna Elementary
 Fortuna Union High
 Fountain Valley Elementary
 Fowler Unified
+Franklin Elementary
 Franklin-McKinley Elementary
 Fremont Unified
-Fremont Unified School District
 Fremont Union High
 French Gulch-Whiskeytown Elementary
 Freshwater Elementary
 Fresno County Office of Education
-Fresno Economic Opportunities Commission
 Fresno Unified
-Fresno Unified School District
 Fruitvale Elementary
 Fullerton Elementary
 Fullerton Joint Union High
-Fullerton School District
 Galt Joint Union Elementary
 Galt Joint Union High
 Garden Grove Unified
@@ -295,7 +274,6 @@ Gateway Unified
 General Shafter Elementary
 Geyserville Unified
 Gilroy Unified
-Gilroy Unified School District
 Glendale Unified
 Glendora Unified
 Glenn County Office of Education
@@ -305,7 +283,6 @@ Gold Trail Union Elementary
 Golden Feather Union Elementary
 Golden Plains Unified
 Golden Valley Unified
-Goleta Union
 Goleta Union Elementary
 Gonzales Unified
 Grant Elementary
@@ -313,8 +290,8 @@ Grass Valley Elementary
 Greenfield Union
 Greenfield Union Elementary
 Grenada Elementary
+Gridley Unified
 Grossmont Union High
-Grossmont Union High School
 Guadalupe Union Elementary
 Guerneville Elementary
 Gustine Unified
@@ -327,11 +304,8 @@ Happy Valley Union Elementary
 Hart ROP
 Hawthorne
 Hayward Unified
-Hayward Unified School District
 Healdsburg Unified
-Healdsburg Union Elementary
 Heber Elementary
-Helendale
 Helendale Elementary
 Hemet Unified
 Hermosa Beach City Elementary
@@ -353,25 +327,26 @@ Igo, Ono, Platina Union Elementary
 Imperial Unified
 Imperial Valley ROP
 Inglewood Unified
+Inyo County Office of Education
 Irvine Unified
+Jacoby Creek Elementary
 Jamestown Elementary
 Jamul-Dulzura Union Elementary
 Jefferson Elementary
-Jefferson Elementary School District
 Jefferson Union High
 John Swett Unified
 Julian Union Elementary
 Julian Union High
 Jurupa Unified
+KCUSD
+Kelseyville Unified
 Kentfield Elementary
 Kenwood
 Keppel Union Elementary
 Kerman Unified
-Kern Community College District
 Kern County Office of Education
 Kern County Superintendent of Schools
 Kern County Superintendent of Schools Office
-Kern County Superintendet of Schools
 Kern High
 Kern High ROC
 Kernville Union Elementary
@@ -388,20 +363,18 @@ Knights Ferry Elementary
 Knightsen Elementary
 Konocti Unified
 La Canada Unified
+LA County Office of Education
 La Habra City Elementary
 La Honda-Pescadero Unified
 La Mesa-Spring Valley
-La Mesa-Spring Valley School District
 Lafayette Elementary
-Lafayette SD
 Laguna Beach Unified
-Laguna Beach Unified School District
 Lagunita Elementary
 Lagunitas Elementary
+Lake County Office of Education
 Lake County ROP
 Lake Elsinore Unified
 Lake Tahoe Unified
-Lake Tahoe Unified School District
 Lakeport Unified
 Lakeside Union
 Lakeside Union Elementary
@@ -420,7 +393,6 @@ Laytonville Unified
 Le Grand Union Elementary
 Le Grand Union High
 Lemon Grove
-Lemon Grove School District
 Lemoore Union Elementary
 Lemoore Union High
 Lennox
@@ -434,26 +406,20 @@ Little Lake City Elementary
 Live Oak Elementary
 Live Oak Unified
 Livermore Valley Joint Unified
-Livermore Valley Joint Unified School District
 Livingston Union
 Lodi Unified
 Loleta Union Elementary
 Lompoc Unified
-Lompoc Unified School District
 Lone Pine Unified
 Long Beach Unified
-Long Beach Unified School District
 Loomis Union Elementary
-Loomis Union School District
 Los Alamitos Unified
 Los Altos Elementary
 Los Angeles County Office of Education
-Los Angeles County Special Ed
+Los Angeles County Ooffice of Education
 Los Angeles Unified
 Los Angeles Unified ROCP
-Los Angeles Unified School District
 Los Banos Unified
-Los Banos Unified School District
 Los Gatos Union Elementary
 Los Gatos-Saratoga Joint Union High
 Los Molinos Unified
@@ -490,20 +456,18 @@ Meadows Union Elementary
 Mendocino County Office of Education
 Mendota Unified
 Menifee Union Elementary
-Menifee Union School District
 Menlo Park City Elementary
-Menlo Park City School District
 Merced City Elementary
 Merced County Office of Education
 Merced Union High
 Mesa Union Elementary
+Metro Education
 Middletown Unified
 Midway Elementary
 Mill Valley Elementary
 Millbrae Elementary
 Millbrea Elementary School District
 Milpitas Unified
-Milpitas Unified School District
 Mission Trails ROP
 Mission Valley ROC/P
 Modesto City Elementary
@@ -519,7 +483,6 @@ Montebello Unified
 Montecito Union Elementary
 Monterey County Office of Education
 Monterey Peninsula Unified
-Monterey Peninsula Unified School District
 Montgomery Elementary
 Moorpark Unified
 Moraga Elementary
@@ -533,21 +496,19 @@ Mountain Empire Unified
 Mountain Valley Unified
 Mountain View Elementary
 Mountain View Whisman
-Mountain View – Los Altos Union High School District
 Mountain View-Los Altos Union High
 Mt. Baldy Joint Elementary
 Mt. Diablo Unified
 Mt. Shasta Union Elementary
 Mupu Elementary
+Muroc Joint Unified
 Murrieta Valley Unified
-NA
 Napa County ROP
 Napa Valley Unified
 National Elementary
 Natomas Unified
 Needles Unified
 Nevada City Elementary
-Nevada City School District
 Nevada County Office of Education
 Nevada Joint Union High
 New Haven Unified
@@ -555,7 +516,6 @@ New Hope Elementary
 New Jerusalem Elementary
 Newark Unified
 Newcastle Elementary
-Newcastle Elementary School District
 Newhall
 Newman-Crows Landing Unified
 Newport-Mesa Unified
@@ -563,26 +523,22 @@ Norris Elementary
 North County Joint Union Elementary
 North Cow Creek Elementary
 North Monterey County Unified
-North Orange County ROP
 Northern Humboldt Union High
 Norwalk-La Mirada Unified
-Norwalk-La Mirada USD
 Novato Unified
 Nuview Union
 Oak Grove Elementary
+Oak Grove Union Elementary
 Oak Park Unified
 Oak Valley Union Elementary
 Oakdale Joint Unified
 Oakland Unified
-Oakland Unified School District
 Oakley Union Elementary
 Ocean View
 Oceanside Unified
-Oceanside Unified School District
 Ojai Unified
 Old Adobe Union
 Ontario-Montclair
-Ontario-Montclair School District
 Orange Center
 Orange County Department of Education
 Orange Unified
@@ -602,10 +558,8 @@ Pacific Grove Unified
 Pacific Union Elementary
 Pacifica
 Pajaro Valley Unified
-Pajaro Valley Unified School District
 Palermo Union Elementary
 Palm Springs Unified
-Palm Springs Unified School District
 Palmdale Elementary
 Palo Alto Unified
 Palo Verde Unified
@@ -627,6 +581,7 @@ Petaluma Joint Union High
 Piedmont City Unified
 Pierce Joint Unified
 Pine Ridge Elementary
+Piner-Olivet Union Elementary
 Pioneer Union Elementary
 Pittsburg Unified
 Pixley Union Elementary
@@ -649,21 +604,18 @@ Porterville Unified
 Portola Valley Elementary
 Poway Unified
 Princeton Joint Unified
-private
+Private
 Raisin City Elementary
 Ramona City Unified
 Rancho Santa Fe Elementary
 Ravendale-Termo Elementary
-Ravenswood
 Ravenswood City Elementary
 Ravenswood City School
-Ravenswood CSD
 Raymond-Knowles Union Elementary
 Red Bluff Joint Union High
 Red Bluff Union Elementary
 Redding Elementary
 Redlands Unified
-Redlands Unified School District
 Redondo Beach Unified
 Redwood City Elementary
 Reed Union Elementary
@@ -673,16 +625,15 @@ Rialto Unified
 Richgrove Elementary
 Richland Union Elementary
 Rim of the World Unified
+Rincon Valley Union Elementary
 Rio Dell Elementary
 Rio Elementary
 Ripon Unified
 River Delta Joint Unified
 Riverbank Unified
 Riverdale Joint Unified
-Riverside County Office of Ed.
 Riverside County Office of Education
 Riverside County Office Of Education ROP
-Riverside Office of Education
 Riverside Unified
 Robla Elementary
 Rocklin Unified
@@ -690,7 +641,6 @@ Romoland Elementary
 Rosedale Union Elementary
 Roseland
 Rosemead Elementary
-Rosemead Elementary School District
 Roseville City Elementary
 Roseville Joint Union High
 Ross Elementary
@@ -698,11 +648,9 @@ Ross Valley Elementary
 Rowland Unified
 Sacramento City Unified
 Sacramento County Office of Education
-Saddleback Valley
 Saddleback Valley Unified
 Saddleback Valley Unified School Distict
 Saddleback Valley Unified School District
-Saddleback Valley Unified School Dstrict
 Saint Helena Unified
 Salida Union Elementary
 Salinas City Elementary
@@ -715,15 +663,12 @@ San Bernardino City Unified
 San Bernardino County Office of Education
 San Bernardino County Superintendent of Schools
 San Bruno Park Elementary
-San Bruno Park School District
 San Carlos Elementary
 San Diego Community College
-San Diego County Office of Ed
 San Diego County Office of Education
 San Diego County ROP
 San Diego Unified
 San Dieguito Union High
-San Dieguito Union High School District
 San Francisco Unified
 San Gabriel Unified
 San Jacinto Unified
@@ -736,11 +681,9 @@ San Lorenzo Unified
 San Lorenzo Valley Unified
 San Luis Coastal Unified
 San Marcos Unified
-San Marcos Unified School District
 San Marino Unified
 San Mateo County Office of Education
 San Mateo County ROP
-San Mateo Foster City
 San Mateo Union High
 San Mateo-Foster City
 San Miguel Joint Union
@@ -748,7 +691,6 @@ San Pasqual Union Elementary
 San Rafael City Elementary
 San Rafael City High
 San Ramon Valley Unified
-San Ramon Valley Unified School District
 San Ysidro Elementary
 Sanger Unified
 Santa Ana Unified
@@ -761,13 +703,11 @@ Santa Cruz City Elementary
 Santa Cruz City High
 Santa Cruz County Office of Education
 Santa Cruz County ROP
-Santa Maria Elementary
 Santa Maria Joint Union High
 Santa Maria-Bonita
 Santa Monica-Malibu Unified
 Santa Paula Unified
 Santa Rita Union Elementary
-Santa Rosa City Schools
 Santa Rosa Elementary
 Santa Rosa High
 Santa Ynez Valley Union High
@@ -781,11 +721,9 @@ SBE - Academia Avance Charter
 SBE - Anahuacalmecac International University Preparatory of North America
 SBE - Baypoint Preparatory Academy
 SBE - New West Charter
-SBE - Paramount Collegiate Academy
 SBE - Ridgecrest Charter
 SBE - The School of Arts and Enterprise
 SBE - Thrive Public
-SBE - Wei Yu International Charter
 Scotia Union School District
 Scott Valley Unified
 Scotts Valley Unified
@@ -806,20 +744,15 @@ Sierra Sands Unified
 Sierra-Plumas Joint Unified
 Silver Valley Unified
 Simi Valley Unified
-Simi Valley Unified School District
 Siskiyou County Office of Education
-Siskiyou Union
 Siskiyou Union High
 Snowline Joint Unified
-Solana Beach
 Solana Beach Elementary
 Solano County Office of Education
-Solano County office of Education
 Soledad Unified
 Solvang Elementary
 Somis Union
 Sonoma Valley Unified
-Sonora
 Sonora Elementary
 Sonora Union High
 Soquel Union Elementary
@@ -827,16 +760,13 @@ Soulsbyville Elementary
 South Bay Union
 South Bay Union Elementary
 South Bay Union School District
-South Coast Regional Occupational Program
 South Monterey County Joint Union High
 South Pasadena Unified
 South San Francisco Unified
-South San Francisco Unified  School District
 South Whittier Elementary
 Southeast ROP
 Southern Humboldt Joint Unified
 Southern Kern Unified
-Southern Kern Unified School District
 Spreckels Union Elementary
 Springville Union Elementary
 Standard Elementary
@@ -858,12 +788,12 @@ Susanville Elementary
 Sutter County Office of Education
 Sutter Union High
 Sweetwater Union High
-Sweetwater Union High School District
 Sylvan Union Elementary
 Taft City
 Taft Union High
 Tahoe-Truckee Unified
 Tamalpais Union High
+TCUSD
 Tehachapi Unified
 Tehama County Department of Education
 Tehama County ROP
@@ -903,22 +833,17 @@ Union Hill Elementary
 Upland Unified
 Upper Lake Unified
 Vacaville Unified
-Vacaville Unified School District
-Val Verde School District
 Val Verde Unified
 Valle Lindo Elementary
 Vallecito Union
 Vallecitos Elementary
 Vallejo City Unified
-Vallejo Unified
 Valley Center-Pauma Unified
 Ventura County Office of Education
 Ventura County ROP
 Ventura Unified
-Ventura Unified School District
 Victor Elementary
 Victor Valley Union High
-Victor Valley Union High School
 Vineland School District
 Visalia Unified
 Vista Unified
@@ -927,29 +852,25 @@ Walnut Valley Unified
 Wasco Union Elementary
 Wasco Union High
 Washington Unified
-Washington Unified School District
 Washington Union Elementary
 Waterford Unified
+Waugh Elementary
 Weaver Union
 Weed Union Elementary
 West Contra Costa Unified
 West Covina Unified
 West Park Elementary
-West Side ROP
 West Sonoma County Union High
 Western Placer Unified
 Westminster
-Westminster School District
 Westmorland Union Elementary
 Westside Elementary
 Westside Union Elementary
 Westwood Unified
 Wheatland
-Wheatland School District
 Wheatland Union High
 Whitmore Union Elementary
 Whittier City Elementary
-Whittier City School District
 Whittier Union High
 William S. Hart Union High
 Williams Unified
@@ -961,11 +882,11 @@ Windsor Unified
 Winters Joint Unified
 Winton
 Wiseburn Unified
-Wiseburn Unified School District
 Woodlake Unified
 Woodland Joint Unified
 Woodside Elementary
 Woodville Union Elementary
+Wright Elementary
 Yolo County Office of Education
 Yreka Union Elementary
 Yreka Union High

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bishop Unified,Bishop Union Elementary Community Day II,800 West Elm Street Bishop CA 93514-2524,11,ppb,TRUE,tested,Bishop,Inyo County,37.36536,-118.404811
+Bishop Unified,Bishop Union High,301 North Fowler Street Bishop CA 93514-2609,7.5,ppb,TRUE,tested,Bishop,Inyo County,37.3635163979592,-118.39806905102
+Bishop Unified,Home Street Middle,201 Home Street Bishop CA 93514-2521,6.6,ppb,TRUE,tested,Bishop,Inyo County,37.3622629260239,-118.40244618405

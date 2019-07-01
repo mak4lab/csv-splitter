@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Summerville Union High,Connections Visual and Performing Arts Academy,17555 Tuolumne Road Tuolumne CA 95379-9701,NA,NA,NA,not tested,NA,Tuolumne County,37.9614283,-120.255300862139
+Summerville Union High,Gold Rush Charter,16331 Hidden Valley Road Sonora CA 95370-9228,NA,NA,NA,not tested,NA,Tuolumne County,38.0098253,-120.282966148768
+Summerville Union High,Long Barn High,25910 Long Barn Road Long Barn CA 95335,NA,NA,FALSE,tested,NA,Tuolumne County,38.092248,-120.134275
+Summerville Union High,Mountain High,2 Pinecrest School Road Pinecrest CA 95364,NA,NA,NA,not tested,NA,Tuolumne County,38.184157,-120.005543
+Summerville Union High,Summerville High,17555 Tuolumne Rd. Tuolumne CA 95379-9701,NA,NA,FALSE,tested,NA,Tuolumne County,37.9614283,-120.255300862139

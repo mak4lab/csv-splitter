@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9814462,-116.512132
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.9635851226408,-116.510250614935
+Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9828029,-116.5214391
+Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.9454593893263,-116.510049375221

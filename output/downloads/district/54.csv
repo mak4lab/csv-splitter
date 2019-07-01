@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Beardsley Elementary,Beardsley Elementary,1001 Roberts Lane Bakersfield CA 93308-4503,6,ppb,TRUE,tested,NA,Kern County,35.408475295773,-119.041193043162
+Beardsley Elementary,Beardsley Junior High,1001 Roberts Ln Bakersfield CA 93308-4503,12,ppb,TRUE,tested,NA,Kern County,35.408475295773,-119.041193043162
+Beardsley Elementary,North Beardsley Elementary,900 Sanford Drive Bakersfield CA 93308-3150,11,ppb,TRUE,tested,NA,Kern County,35.414867,-119.043239
+Beardsley Elementary,San Lauren Elementary,5210 Victor St.  Bakersfield  CA 93308-7125,NA,NA,FALSE,tested,Bakersfield,Kern County,35.408651,-119.06213

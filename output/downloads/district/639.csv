@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Romoland Elementary,Boulder Ridge Elementary,27327 Juniper Road Menifee CA 92585-9812,NA,NA,FALSE,tested,NA,NA,NA,NA
+Romoland Elementary,Ethan A Chase Middle,28100 Calm Horizon Drive Menifee CA 92585-9289,NA,NA,FALSE,tested,Menifee,Riverside County,33.713444296655,-117.142902970288
+Romoland Elementary,Harvest Valley Elementary,29955 Watson Road Romoland CA 92585-9767,NA,NA,FALSE,tested,NA,Riverside County,33.7503348698259,-117.137597000958
+Romoland Elementary,Mesa View Elementary,27227 Heritage Lake Drive Romoland CA 92585-2628,NA,NA,FALSE,tested,Menifee,Riverside County,33.7120462,-117.1401052
+Romoland Elementary,Romoland Elementary,25890 Antelope Road Romoland CA 92585-9660,NA,NA,FALSE,tested,NA,Riverside County,33.747039,-117.17167

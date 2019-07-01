@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Arcata Christian,1700 Union Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8740094,-124.0752953
+Arcata Elementary,Arcata Elementary,2400 Baldwin Street Arcata CA 95521-5168,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8823865,-124.0863315
+Northern Humboldt Union High,Arcata High,1720 M Street Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Arcata Elementary,Coastal Grove Charter,1897 S Street Arcata CA 95521-5474,NA,NA,FALSE,tested,Arcata,Humboldt County,40.87696624,-124.0986303
+Arcata Elementary,Fuente Nueva Charter,1730 Janes Road Arcata CA 95521-9623,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8805074341721,-124.100576169265
+Jacoby Creek Elementary,Jacoby Creek,1617 Old Arcata Road Bayside CA 95524-9301,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8469191428571,-124.067021285714
+Northern Humboldt Union High,Laurel Tree Charter,4555 Valley West Boulevard Arcata CA 95521-4683,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8987099034491,-124.081544090188
+Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8560315269896,-124.071069330447
+Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8727448163265,-124.096423183673
+Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8736820601532,-124.082910176173
+Northern Humboldt Union High,Pacific Coast High (Continuation),1720 M Street B Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Pacific Union Elementary,Pacific Union Elementary,3001 Janes Road Arcata CA 95521-4701,NA,NA,FALSE,tested,Arcata,Humboldt County,40.89470695,-124.092477612123
+Northern Humboldt Union High,Six Rivers Charter High,1720 M St. Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
+Private,Six Rivers Montessori,1222 Hallen Drive Arcata CA 95521,5.9,ppb,TRUE,tested,Arcata,Humboldt County,40.9007461942767,-124.079820392045
+Arcata Elementary,Sunny Brae Middle,1430 Buttermilk Lane Arcata CA 95521-6910,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8574316666667,-124.066796833333
+Pacific Union Elementary,Trillium Charter,1464 Spear Avenue Arcata CA 95521-4882,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8901111702905,-124.086857837534
+Arcata Elementary,Union Street Charter,470 Union Street Arcata CA 95521-6429,5.4,ppb,TRUE,tested,Arcata,Humboldt County,40.862904104894,-124.076941706909

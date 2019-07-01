@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Marino Unified,Carver Elementary,3100 Huntington Drive San Marino CA 91108-2702,NA,NA,FALSE,tested,NA,Los Angeles County,34.1219565,-118.10639
+San Marino Unified,Huntington Middle,1700 Huntington Drive San Marino CA 91108-2541,NA,NA,FALSE,tested,NA,Los Angeles County,34.1176139,-118.114843042412
+San Marino Unified,San Marino High,2701 Huntington Drive San Marino CA 91108-2295,NA,NA,FALSE,tested,NA,Los Angeles County,34.12717425,-118.09892135712
+San Marino Unified,Valentine Elementary,1650 Huntington Drive San Marino CA 91108-2503,6.5,ppb,TRUE,tested,NA,Los Angeles County,34.1176139,-118.114843042412

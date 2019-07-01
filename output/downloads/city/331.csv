@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Victor Elementary,Brentwood Elementary,13962 Hook Boulevard Victorville CA 92392-7300,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.521548,-117.359032315789
+Victor Elementary,Challenger School of Sports and Fitness,14777 Hopland Street Victorville CA 92392-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5430646419525,-117.340548102703
+Victor Valley Union High,Cobalt Institute of Math and Science Academy,13801 Cobalt Road Victorville CA 92392-9373,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5010412307692,-117.372980923077
+Victor Elementary,Del Rey Elementary,15332 Del Rey Drive Victorville CA 92395-7118,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5296544830958,-117.308705836399
+Victor Elementary,Discovery School of the Arts,13247 Amethyst Road Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4907919311396,-117.3642316688
+Victor Elementary,Endeavour School of Exploration,12403 Ridgecrest Road Victorville CA 92395-7780,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4784909445488,-117.278185027726
+Victor Valley Union High,Goodwill High,16350 Mojave Drive Victorville CA 92395-3655,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5290896967165,-117.306241591848
+Victor Elementary,Green Tree East Elementary,17246 Gibralter Drive Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5064596,-117.286511297086
+Adelanto Elementary,Gus Franklin Jr. School,13125 Hopland Street Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5429667,-117.3467439
+Hesperia Unified,Hollyvale Elementary,11645 Hollyvale Avenue Victorville CA 92392-9081,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4618295312529,-117.38627158612
+Victor Valley Union High,Imogene Garner Hook Junior High,15000 Hook Boulevard Victorville CA 92394-2121,NA,NA,NA,not tested,Victorville,San Bernardino County,34.521423,-117.339662
+Victor Elementary,Irwin Academy of Performing Arts,14907 South Mojave Drive Victorville CA 92395-3952,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5286589083981,-117.338220306559
+Victor Valley Union High,Lakeview Leadership Academy,12484 Tamarisk Road Victorville CA 92395-5101,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4779377438705,-117.272897288108
+Victor Elementary,Liberty Elementary,12900 Amethyst Road Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+Victor Elementary,Mojave Vista Elementary,16100 Burwood Avenue Victorville CA 92395-9677,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4798717,-117.3107458
+Adelanto Elementary,Morgan Kincaid Preparatory,13257 Mesa Linda Avenue Victorville CA 92392-7915,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4912722809857,-117.390502921005
+Victor Elementary,Mountain View Montessori Charter,12900 Amethyst Rd Victorville CA 92392-6393,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+San Bernardino County Office of Education,Norma Covert County Education Center,14079 Meadow Grove Dr. Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5051622525253,-117.288367686869
+Victor Valley Union High,Options for Youth-Victorville Charter,15048 Bear Valley Road Victorville CA 92392-9235,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4707327,-117.3123244
+Victor Elementary,Park View Elementary,13427 Cahuenga Road Victorville CA 92392-9706,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4944978625683,-117.338660030859
+Victor Elementary,Puesta del Sol Elementary,15887 Academy Street Victorville CA 92392-3348,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5444183921876,-117.315446955785
+Victor Valley Union High,Silverado High,14048 Cobalt Road Victorville CA 92392-9316,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5060073627154,-117.373222123762
+Victor Valley Union High,University Preparatory,13853 Seneca Rd Victorville CA 92392-9339,6.7,ppb,TRUE,tested,Victorville,San Bernardino County,34.5139800876771,-117.360712469309
+Victor Valley Union High,Victor Valley High,16500 Mojave Drive Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5291032499758,-117.303687368973
+Private,Victor Valley SDA,17137 Crestview Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.5123641135706,-117.290254139485
+Victor Valley Union High,Victor Valley Union High,12484 Tamarisk Victorville CA 92395,NA,NA,NA,not tested,Victorville,San Bernardino County,34.4779377438705,-117.272897288108
+San Bernardino County Office of Education,Victorville Education Center,12421 Hesperia Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4767971618763,-117.291134325693
+Victor Elementary,Village Elementary,14711 Mojave Drive Victorville CA 92392-4174,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.528491,-117.340539
+Victor Elementary,West Palms Conservatory,14375 Del Gado Road Victorville CA 92392-9360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.4995068,-117.3426621

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Coalinga-Huron Unified,Annie E. Cheney Kindergarten,149 Adams Street Coalinga CA 93210-2927,NA,NA,NA,not tested,NA,NA,NA,NA
+Coalinga-Huron Unified,Cambridge High,516 Baker Street Coalinga CA 93210-2927,NA,NA,NA,not tested,Coalinga,Fresno County,36.1451568367347,-120.359921408163
+Coalinga-Huron Unified,Chestnut High (Continuation) School,16673 Palmer Avenue Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.210305,-120.097264833333
+Coalinga-Huron Unified,Coalinga High,750 Van Ness Avenue Coalinga CA 93210-1541,NA,NA,NA,not tested,NA,NA,NA,NA
+Coalinga-Huron Unified,Coalinga Middle,265 Cambridge Avenue Coalinga CA 93210-1255,NA,NA,NA,not tested,Coalinga,Fresno County,36.1509138222222,-120.360723088889
+Coalinga-Huron Unified,Henry F. Bishop Elementary,1501 Sunset Avenue Coalinga CA 93210-1359,NA,NA,NA,not tested,NA,NA,NA,NA
+Coalinga-Huron Unified,Huron Elementary,36131 N Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.2013075,-120.096658
+Coalinga-Huron Unified,Huron Middle,16875 Fourth Street Huron CA 93234,NA,NA,FALSE,tested,NA,NA,NA,NA
+Coalinga-Huron Unified,Nell Dawson Elementary,1303 Sunset Avenue Coalinga CA 93210-2927,NA,NA,NA,not tested,NA,NA,NA,NA

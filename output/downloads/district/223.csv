@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Empire Union Elementary,Alice N. Stroud Elementary,815 Frazine Road Modesto CA 95357-0255,8.3,ppb,TRUE,tested,NA,NA,NA,NA
+Empire Union Elementary,Bernard L. Hughes Elementary,512 North McClure Road Modesto CA 95357-1542,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.6470707419355,-120.929992548387
+Empire Union Elementary,Capistrano Elementary,400 Capistrano Drive Modesto CA 95354-3243,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.643516,-120.942392
+Empire Union Elementary,Christine Sipherd Elementary,3420 East Orangeburg Avenue Modesto CA 95355-3550,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.663487244898,-120.932100530612
+Empire Union Elementary,Empire Elementary,5201 First Street Empire CA 95319,NA,NA,NA,not tested,NA,NA,NA,NA
+Empire Union Elementary,Norman N. Glick Middle,400 Frazine Road Modesto CA 95357-0251,NA,NA,FALSE,tested,NA,NA,NA,NA

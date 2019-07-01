@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Maria Joint Union High,Delta High,4893 Bethany Lane Santa Maria CA 93455-4880,NA,NA,NA,not tested,NA,NA,NA,NA
+Santa Maria Joint Union High,Ernest Righetti High,941 East Foster Road Santa Maria CA 93455-3318,NA,NA,NA,not tested,NA,Santa Barbara County,34.8831976,-120.421168
+Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.960991,-120.400264
+Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.9418775,-120.435834102041

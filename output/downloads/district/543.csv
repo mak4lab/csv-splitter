@@ -1,0 +1,43 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Orange Unified,Anaheim Hills Elementary,6450 East Serrano Anaheim CA 92807-5034,6.2,ppb,TRUE,tested,NA,NA,NA,NA
+Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,NA,NA,FALSE,tested,Orange,Orange County,33.8057021,-117.842699328779
+Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.793781280194104,-117.844269467601
+Orange Unified,Canyon High,220 South Imperial Highway Anaheim CA 92807-3945,NA,NA,FALSE,tested,NA,NA,NA,NA
+Orange Unified,Canyon Hills,260 South Imperial Highway Anaheim CA 92807-3945,7.3,ppb,TRUE,tested,Anaheim,Orange County,33.8500244194714,-117.790363404066
+Orange Unified,Canyon Rim Elementary,1090 The Highlands Drive Anaheim CA 92808-2144,NA,NA,FALSE,tested,Anaheim,Orange County,33.84481905,-117.741318033581
+Orange Unified,Cerro Villa Middle,17852 East Serrano Avenue Villa Park CA 92861-1214,NA,NA,FALSE,tested,Orange,Orange County,33.8210916,-117.8250551
+Orange Unified,Chapman Hills Elementary,170 North Aspen Street Orange CA 92869-6557,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7676379,-117.854712
+Orange Unified,Crescent Elementary,5001 Gerda Drive Anaheim CA 92807-3090,NA,NA,FALSE,tested,Anaheim,Orange County,33.85241895,-117.807918627197
+Orange Unified,El Modena High,3920 Spring Street Orange CA 92869-3599,NA,NA,FALSE,tested,NA,Orange County,33.7913609,-117.8013293
+Orange Unified,El Rancho Charter,181 South Del Giorgio Road Anaheim CA 92808-1307,NA,NA,FALSE,tested,Anaheim,Orange County,33.85772855,-117.767981813085
+Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,NA,NA,FALSE,tested,Orange,Orange County,33.79411435,-117.808437408176
+Orange Unified,Fairhaven Elementary,1415 East Fairhaven Avenue Santa Ana CA 92705-6822,NA,NA,NA,not tested,NA,NA,NA,NA
+Orange Unified,Fletcher Elementary,515 West Fletcher Street Orange CA 92865-2521,8.22,ppb,TRUE,tested,NA,NA,NA,NA
+Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,TRUE,tested,Orange,Orange County,33.80126215,-117.82862061352
+Orange Unified,Imperial Elementary,400 South Imperial Highway Anaheim CA 92807-3946,NA,NA,FALSE,tested,Anaheim,Orange County,33.84911,-117.790096
+Orange Unified,Jordan Elementary,4319 East Jordan Avenue Orange CA 92869-5431,NA,NA,FALSE,tested,Orange,Orange County,33.7802191,-117.807288944859
+Orange Unified,La Veta Elementary,2800 East La Veta Avenue Orange CA 92869-5111,8.04,ppb,TRUE,tested,Orange,Orange County,33.7795887,-117.823814267731
+Orange Unified,Lampson Elementary,13321 Lampson Avenue Garden Grove CA 92840-6141,NA,NA,FALSE,tested,Garden Grove,Orange County,33.78266895,-117.900749057251
+Orange Unified,Linda Vista Elementary,1200 North Cannon Street Orange CA 92869-1303,6.15,ppb,TRUE,tested,Orange,Orange County,33.80854405,-117.795962733628
+Orange Unified,McPherson Magnet,333 South Prospect Street Orange CA 92869-4825,NA,NA,FALSE,tested,Orange,Orange County,33.7836855,-117.817168950292
+Orange Unified,Nohl Canyon Elementary,4100 East Nohl Ranch Road Anaheim CA 92807-3415,6.4,ppb,TRUE,tested,Anaheim,Orange County,33.837751,-117.825126
+Orange Unified,Olive Elementary,3038 North Magnolia Orange CA 92865-1631,NA,NA,FALSE,tested,NA,NA,NA,NA
+Orange Unified,Orange High,525 North Shaffer Street Orange CA 92867-6824,5.84,ppb,TRUE,tested,Orange,Orange County,33.7980196,-117.846793049231
+Orange Unified,Orange Unified Pre-K SDC,5125 East Gerda Drive Anaheim CA 92807-3009,NA,NA,FALSE,tested,Anaheim,Orange County,33.85207335,-117.805482718513
+Orange Unified,OUSD Community Day,250 South Yorba St Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Orange Unified,OUSD Home Sch,250 S Yorba Street Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Orange Unified,Palmyra Elementary,1325 East Palmyra Avenue Orange CA 92866-2428,6.425000000000001,ppb,TRUE,tested,Orange,Orange County,33.78469065,-117.839036455888
+Orange Unified,Panorama Elementary,10512 Crawford Canyon Rd Santa Ana CA 92705,7.779999999999999,ppb,TRUE,tested,NA,NA,NA,NA
+Orange Unified,Portola Middle,270 North Palm Drive Orange CA 92868-2428,NA,NA,FALSE,tested,Orange,Orange County,33.79105565,-117.869774868966
+Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,7.53,ppb,TRUE,tested,Orange,Orange County,33.792504,-117.816119536063
+Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,NA,NA,FALSE,tested,Orange,Orange County,33.7970161,-117.854811430806
+Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,NA,NA,NA,not tested,Orange,Orange County,33.7851895944691,-117.827161575035
+Orange Unified,Running Springs Elementary,8670 East Running Springs Drive Anaheim CA 92808-1693,NA,NA,FALSE,tested,NA,NA,NA,NA
+Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.5649999999999995,ppb,TRUE,tested,Orange,Orange County,33.79554735,-117.798896046913
+Orange Unified,Serrano Elementary,17741 Serrano Avenue Villa Park CA 92861-1213,NA,NA,FALSE,tested,Villa Park,Orange County,33.82266675,-117.823201808665
+Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,NA,NA,FALSE,tested,Orange,Orange County,33.79239875,-117.868103985356
+Orange Unified,Taft Elementary,1829 North Cambridge Orange CA 92865-4409,NA,NA,FALSE,tested,NA,NA,NA,NA
+Orange Unified,Villa Park Elementary,10551 Center Drive Villa Park CA 92861-5332,NA,NA,FALSE,tested,Villa Park,Orange County,33.8091181,-117.814516222526
+Orange Unified,Villa Park High,18042 Taft Avenue Villa Park CA 92861-4148,5.9,ppb,TRUE,tested,NA,NA,NA,NA
+Orange Unified,West Orange Elementary,243 South Bush Orange CA 92868-3802,NA,NA,FALSE,tested,NA,NA,NA,NA
+Orange Unified,Yorba Middle,935 North Cambridge Orange CA 92867-5720,NA,NA,FALSE,tested,Orange,Orange County,33.8028111065958,-117.844230571488

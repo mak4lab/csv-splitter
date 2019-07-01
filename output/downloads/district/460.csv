@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Merced County Office of Education,Merced Scholars Charter,1850 Wardrobe Av Building H Merced CA 95341-6407,NA,NA,FALSE,tested,NA,NA,NA,NA
+Merced County Office of Education,Valley Atwater Community,1800 Matthew Avenue Atwater CA 95301-2079,NA,NA,NA,not tested,NA,NA,NA,NA
+Merced County Office of Education,Valley Los Banos Community,715 West H Street Los Banos CA 93635-8540,NA,NA,NA,not tested,NA,Merced County,37.069601,-120.8636244
+Merced County Office of Education,Valley Merced Community,1850 Wardrobe Ave Merced CA 95341-6407,NA,NA,FALSE,tested,Merced,Merced County,37.2955230408163,-120.50729622449

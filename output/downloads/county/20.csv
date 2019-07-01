@@ -1,0 +1,63 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Kentfield Elementary,Adaline E. Kent Middle,800 College Avenue Kentfield CA 94904-2549,NA,NA,FALSE,tested,NA,Marin County,37.95269165,-122.547638311275
+Kentfield Elementary,Anthony G. Bacich Elementary,699 Sir Francis Drake Boulevard Kentfield CA 94904-1639,NA,NA,FALSE,tested,NA,Marin County,37.9536754,-122.5443723
+San Rafael City Elementary,Bahia Vista Elementary,125 Bahia Way San Rafael CA 94901-4502,NA,NA,FALSE,tested,San Rafael,Marin County,37.966624237562,-122.498272306981
+Reed Union Elementary,Bel Aire Elementary,277 Karen Way Tiburon CA 94920-2044,NA,NA,NA,not tested,NA,Marin County,37.9021061914146,-122.498038633886
+Private,Bolinas Stinson Elementary School,3805 Shoreline Hwy Stinson Beach CA 94970,NA,NA,FALSE,tested,NA,Marin County,37.8995727,-122.64294
+Bolinas-Stinson Union,Bolinas-Stinson Elementary,125 Olema-Bolinas Road Bolinas CA 94924-9747,8.6,ppb,TRUE,tested,,Marin County,37.919155490163,-122.69318922379
+Ross Valley Elementary,Brookside Elementary,116 Butterfield Road San Anselmo CA 94960-1562,NA,NA,FALSE,tested,NA,Marin County,37.9909700437772,-122.576741221505
+San Rafael City Elementary,Coleman Elementary,800 Belle Ave San Rafael CA 94901-2227,NA,NA,FALSE,tested,San Rafael,Marin County,37.979424,-122.519334
+Larkspur-Corte Madera,Cove,330 Golden Hind Passage Corte Madera CA 94925-1914,NA,NA,FALSE,tested,NA,Marin County,37.9220877372618,-122.498305966476
+Ross Valley Elementary,Deer Park Elementary School,199 Porteous Ave Fairfax CA 94930,6,ppb,TRUE,tested,NA,Marin County,37.976366,-122.590639
+Reed Union Elementary,Del Mar Middle,105 Avenida Miraflores Tiburon CA 94920-1414,NA,NA,NA,not tested,NA,Marin County,37.8928244077881,-122.482247200714
+Mill Valley Elementary,Edna Maguire Elementary,80 Lomita Drive Mill Valley CA 94941-1464,NA,NA,FALSE,tested,NA,Marin County,37.9073702891921,-122.524046987068
+San Rafael City Elementary,Glenwood Elementary,25 Castlewood Dr San Rafael CA 94901-2524,NA,NA,FALSE,tested,San Rafael,Marin County,37.9855876088732,-122.476919683168
+Larkspur-Corte Madera,Hall Middle,200 Doherty Drive Larkspur CA 94939-1532,NA,NA,FALSE,tested,Larkspur,Marin County,37.938134,-122.526519
+Novato Unified,Hamilton Meadow Park,5530 Nave Drive Novato CA 94949-6435,NA,NA,NA,not tested,NA,Marin County,38.0533849015494,-122.530332525867
+San Rafael City Elementary,James B. Davidson Middle,280 Woodland Ave San Rafael CA 94901-5046,NA,NA,FALSE,tested,San Rafael,Marin County,37.9649415469143,-122.526732849128
+Lagunitas Elementary,Lagunitas Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,FALSE,tested,NA,Marin County,38.0187036,-122.6749571
+San Rafael City Elementary,Laurel Dell Elementary,225 Woodland Ave San Rafael CA 94901-6017,NA,NA,FALSE,tested,San Rafael,Marin County,37.9647774107595,-122.52689351962
+Novato Unified,Loma Verde Elementary,399 Alameda de La Loma Novato CA 94949-5935,NA,NA,NA,not tested,NA,Marin County,38.0661778,-122.5507521
+Novato Unified,Lu Sutton Elementary,1800 Center Road Novato CA 94947-2975,NA,NA,FALSE,tested,NA,Marin County,38.105494,-122.58659
+Novato Unified,Lynwood Elementary,1320 Lynwood Drive Novato CA 94947-4629,NA,NA,FALSE,tested,NA,Marin County,38.0858565918367,-122.561418653061
+Ross Valley Elementary,Manor Elementary,150 Oak Manor Drive Fairfax CA 94930-1013,NA,NA,FALSE,tested,NA,Marin County,37.9985972218467,-122.594014057247
+Marin County ROP,Marin County ROP,1111 Las Gallinas Avenue San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Novato Unified,Marin Oaks High,720 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0985836158864,-122.576449987798
+Private,Mark Day School,39 Trellis Drive San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.006975,-122.5548784142
+Mill Valley Elementary,Mill Valley Middle,425 Sycamore Avenue Mill Valley CA 94941-2231,NA,NA,FALSE,tested,NA,Marin County,37.8966129780652,-122.529025042557
+Dixie Elementary,Miller Creek Middle,2255 Las Gallinas Avenue San Rafael CA 94903-1699,NA,NA,FALSE,tested,San Rafael,Marin County,38.0063203,-122.5444299
+Larkspur-Corte Madera,Neil Cummins Elementary,58 Mohawk Avenue Corte Madera CA 94925-1033,NA,NA,FALSE,tested,NA,Marin County,37.92898,-122.521742
+Novato Unified,Nexus Academy,720 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0985836158864,-122.576449987798
+Novato Unified,Novato Charter,940 C Street Novato CA 94949-5060,NA,NA,NA,not tested,NA,Marin County,38.0573163608952,-122.526118157146
+Novato Unified,Novato Early Intervention,740 Diablo Avenue Novato CA 94947-4004,NA,NA,FALSE,tested,NA,Marin County,38.0987450805499,-122.576331764384
+Novato Unified,Novato High,625 Arthur Street Novato CA 94947-4499,5.3,ppb,TRUE,tested,NA,Marin County,38.0906304428302,-122.57196305929
+Mill Valley Elementary,Old Mill Elementary,352 Throckmorton Avenue Mill Valley CA 94941-2640,NA,NA,FALSE,tested,NA,Marin County,37.9062687621024,-122.554045025257
+Novato Unified,Olive Elementary,629 Plum Street Novato CA 94945-2578,NA,NA,FALSE,tested,NA,Marin County,38.1105680573075,-122.556222065765
+Mill Valley Elementary,Park Elementary,360 East Blithedale Avenue Mill Valley CA 94941-2140,NA,NA,FALSE,tested,NA,Marin County,37.9030213531219,-122.535552154201
+Novato Unified,Pleasant Valley Elementary,755 Sutro Avenue Novato CA 94947-1937,NA,NA,NA,not tested,NA,Marin County,38.1087500700383,-122.612975519559
+Novato Unified,Rancho Elementary,1430 Johnson Street Novato CA 94947-4459,NA,NA,NA,not tested,NA,Marin County,38.0937506893609,-122.571017763828
+Ross Valley Elementary,Red Hill Intermediate School,100 Shaw Dr. San Anselmo CA 94960,11,ppb,TRUE,tested,NA,Marin County,37.979965,-122.564948
+Tamalpais Union High,Redwood High,395 Doherty Drive Larkspur CA 94939-1536,NA,NA,FALSE,tested,Larkspur,Marin County,37.9379956808511,-122.534693702128
+Reed Union Elementary,Reed Elementary,1199 Tiburon Boulevard Tiburon CA 94920-1550,NA,NA,NA,not tested,NA,Marin County,37.8798218703861,-122.46426343301
+Ross Elementary,Ross Elementary,9 Lagunitas Road Ross CA 94957-9661,NA,NA,FALSE,tested,NA,Marin County,37.9622775815261,-122.557187082428
+Tamalpais Union High,San Andreas High (Continuation),599 William Avenue Larkspur CA 94939-1554,NA,NA,FALSE,tested,Larkspur,Marin County,37.9342794433192,-122.528316998193
+Lagunitas Elementary,San Geronimo Valley Elementary,One Lagunitas School Road San Geronimo CA 94963-0308,NA,NA,NA,not tested,NA,Marin County,38.0187036,-122.6749571
+Novato Unified,San Jose Intermediate,1000 Sunset Parkway Novato CA 94949-4999,NA,NA,NA,not tested,NA,Marin County,38.075563,-122.568272
+Novato Unified,San Marin High,15 San Marin Drive Novato CA 94945-1117,NA,NA,FALSE,tested,NA,Marin County,38.1192383100362,-122.60908744911
+San Rafael City High,San Rafael Adult Education,310 Nova Albion Way San Rafael CA 94903,NA,NA,NA,not tested,San Rafael,Marin County,37.9993591367103,-122.55155287578
+San Rafael City High,San Rafael High,185 Mission Ave San Rafael CA 94901,NA,NA,FALSE,tested,San Rafael,Marin County,37.97022995,-122.513690632926
+Novato Unified,San Ramon Elementary,45 San Ramon Way Novato CA 94945-1616,NA,NA,NA,not tested,NA,Marin County,38.120165,-122.6041
+San Rafael City Elementary,Short Elementary,35 Marin Street San Rafael CA 94901-4960,NA,NA,FALSE,tested,San Rafael,Marin County,37.9664665102041,-122.535484306122
+Novato Unified,Sinaloa Middle,2045 Vineyard Road Novato CA 94947-3810,NA,NA,NA,not tested,NA,Marin County,38.1060342529472,-122.59765049889
+Private,St. Anselm School,40 Belle Avenue San Anselmo CA 94960,NA,NA,FALSE,tested,NA,Marin County,37.9702550512432,-122.562206147665
+Mill Valley Elementary,Strawberry Point Elementary,117 East Strawberry Drive Mill Valley CA 94941-2576,NA,NA,FALSE,tested,NA,Marin County,37.8976208221249,-122.504746180973
+San Rafael City Elementary,Sun Valley Elementary,75 Happy Ln San Rafael CA 94901-1020,NA,NA,FALSE,tested,San Rafael,Marin County,37.9857598120891,-122.550021903207
+Tamalpais Union High,Tamalpais Adult/Community Education,375 Doherty Drive Larkspur CA 94939-1536,NA,NA,NA,not tested,Larkspur,Marin County,37.9379990851064,-122.534682212766
+Tamalpais Union High,Tamalpais High,700 Miller Avenue Mill Valley CA 94941-2926,NA,NA,FALSE,tested,NA,Marin County,37.89061235,-122.527730769241
+Tamalpais Union High,Tamiscal High (Alternative),305 Doherty Drive Larkspur CA 94939-0605,NA,NA,FALSE,tested,Larkspur,Marin County,37.938011,-122.534642
+San Rafael City High,Terra Linda High,320 Nova Albion Way San Rafael CA 94903-3523,NA,NA,FALSE,tested,San Rafael,Marin County,37.999317566846,-122.551432649212
+Dixie Elementary,Vallecito Elementary,50 Nova Albion Way San Rafael CA 94903-3556,NA,NA,FALSE,tested,San Rafael,Marin County,38.0078087606722,-122.549399612316
+Ross Valley Elementary,Wade Thomas Elementary,150 Ross Avenue San Anselmo CA 94960-2941,NA,NA,FALSE,tested,NA,Marin County,37.9711290469024,-122.566575770429
+Ross Valley Elementary,White Hill Middle,101 Glen Drive Fairfax CA 94930-1338,NA,NA,FALSE,tested,NA,Marin County,38.0022927904263,-122.605828916676
+Sausalito Marin City,Willow Creek Academy,636 Nevada Street Sausalito CA 94965-1654,NA,NA,FALSE,tested,NA,Marin County,37.8640937,-122.5021955

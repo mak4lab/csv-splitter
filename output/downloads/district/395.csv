@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lemoore Union Elementary,Bridges Academy,1200 West Cinnamon Drive Lemoore CA 93245-9420,NA,NA,FALSE,tested,NA,Kings County,36.307014,-119.784436
+Lemoore Union Elementary,Cinnamon Elementary,500 East Cinnamon Drive Lemoore CA 93245-2988,NA,NA,FALSE,tested,NA,Kings County,36.3071256060606,-119.775514424242
+Lemoore Union Elementary,Lemoore Elementary,573 Bush Street Lemoore CA 93245-3545,6.3,ppb,TRUE,tested,NA,Kings County,36.2976976,-119.8090396
+Lemoore Union Elementary,Lemoore University Elementary Charter,450 Marsh Drive Lemoore CA 93245,7.3,ppb,TRUE,tested,NA,NA,NA,NA
+Lemoore Union Elementary,Liberty Middle,1000 Liberty Drive Lemoore CA 93245-3418,NA,NA,FALSE,tested,NA,Kings County,36.309746,-119.794396
+Lemoore Union Elementary,Meadow Lane Elementary,Meadow Lane and Quandt Lemoore CA 93245-3418,5.3,ppb,TRUE,tested,NA,NA,NA,NA
+Lemoore Union Elementary,P. W. Engvall Elementary,19th and Cedar Lemoore CA 93245,13,ppb,TRUE,tested,NA,Kings County,36.29385,-119.783471

@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,NA,NA,NA,not tested,NA,NA,NA,NA
+Rim of the World Unified,Lake Arrowhead Elementary,1300 Golden Rule Lane Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,TRUE,tested,NA,NA,NA,NA
+Rim of the World Unified,Mountain High,27614 HWY 18 Lake Arrowhead CA 92325,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rim of the World Unified,Rim of the World Senior High,27400 Highway 18 Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rim of the World Unified,Valley of Enchantment Elementary,22836 Fir Lane Crestline CA 92325,NA,NA,NA,not tested,NA,NA,NA,NA

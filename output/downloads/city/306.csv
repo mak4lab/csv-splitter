@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Calaveras County Office of Education,Calaveras County Office of Education Mountain Oaks Satellite Cammpus,518 South Washington St Sonora CA 95370,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.9781841,-120.381025764144
+Sonora Elementary,Sonora Elementary,830 Greenley Road Sonora CA 95370-5203,NA,NA,NA,not tested,Sonora,Tuolumne County,37.9802783,-120.370060482688
+Sonora Union High,Sonora High,430 North Washington Street Sonora CA 95370-5526,NA,NA,NA,not tested,Sonora,Tuolumne County,37.9913856,-120.386520081254
+Tuolumne County Superintendent of Schools,Tuolumne County Community/ISP,175 South Fairview Ln. Sonora CA 95370-4809,NA,NA,NA,not tested,Sonora,Tuolumne County,37.9794680331816,-120.391968021334
+Sonora Elementary,Tuolumne Learning Center (TLC),610 South Washington St Sonora CA 95370,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.9767534,-120.3804592

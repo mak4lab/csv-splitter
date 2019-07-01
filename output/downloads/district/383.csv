@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Larkspur-Corte Madera,Cove,330 Golden Hind Passage Corte Madera CA 94925-1914,NA,NA,FALSE,tested,NA,Marin County,37.9220877372618,-122.498305966476
+Larkspur-Corte Madera,Hall Middle,200 Doherty Drive Larkspur CA 94939-1532,NA,NA,FALSE,tested,Larkspur,Marin County,37.938134,-122.526519
+Larkspur-Corte Madera,Neil Cummins Elementary,58 Mohawk Avenue Corte Madera CA 94925-1033,NA,NA,FALSE,tested,NA,Marin County,37.92898,-122.521742

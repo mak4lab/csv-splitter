@@ -1,0 +1,57 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Miguel Joint Union,Almond Acres Charter Academy,1601 L St. San Miguel CA 93451-9107,NA,NA,NA,not tested,NA,San Luis Obispo County,35.7578956,-120.6977034
+Lucia Mar Unified,Arroyo Grande High,495 Valley Road Arroyo Grande CA 93420-3928,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1145959988087,-120.581171998152
+Atascadero Unified,Atascadero High,1 High School Hill Atascadero CA 93422-4189,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4816769,-120.671776600641
+Atascadero Unified,Atascadero Middle,6501 Lewis Avenue Atascadero CA 93422-4222,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4901829,-120.6665823
+San Luis Coastal Unified,Bishop's Peak Elementary,451 Jaycee Drive San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.29709775,-120.68569548204
+Coast Unified,Cambria Grammar,3223 Main Street Cambria CA 93428-3304,NA,NA,NA,not tested,NA,San Luis Obispo County,35.5532511,-121.0727063
+Cayucos Elementary,Cayucos Elementary,301 Cayucos Drive Cayucos CA 93430-1036,NA,NA,NA,not tested,NA,San Luis Obispo County,35.4517442,-120.9043236
+Coast Unified,Coast Union High,2950 Santa Rosa Creek Road Cambria CA 93428-3506,NA,NA,NA,not tested,NA,San Luis Obispo County,35.5672727,-121.0745491
+Lucia Mar Unified,Dana Elementary,920 West Tefft Street Nipomo CA 93444-9624,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0351192,-120.4877845
+Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+San Luis Coastal Unified,Del Mar Elementary,501 Sequoia Street Morro Bay CA 93442-1436,NA,NA,FALSE,tested,Morro Bay,San Luis Obispo County,35.3970943,-120.858448530622
+Templeton Unified,Eagle Canyon High,950 Old County Road Templeton CA 93465-9419,5.4,ppb,TRUE,tested,,San Luis Obispo County,35.5446212941176,-120.710883058824
+Lucia Mar Unified,Fairgrove Elementary,2101 The Pike Grover Beach CA 93433-3228,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.1072932,-120.605358441702
+Atascadero Unified,Fine Arts Academy,6100 Olmeda Avenue Atascadero CA 93422-4204,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4923913,-120.6682082
+Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6391254,-120.6932194
+Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.6956166
+Lucia Mar Unified,Grover Beach Elementary,365 South 10th Street Grover Beach CA 93433-2418,NA,NA,FALSE,tested,Grover Beach,San Luis Obispo County,35.1186115,-120.6186902
+Lucia Mar Unified,Harloe Elementary,901 Fair Oaks Avenue Arroyo Grande CA 93420-3827,9.7,ppb,TRUE,tested,Arroyo Grande,San Luis Obispo County,35.112625800000004,-120.5924731
+San Luis Coastal Unified,Hawthorne Elementary,2125 Story Street San Luis Obispo CA 93401-5232,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2703166,-120.6589758
+Lucia Mar Unified,Judkins Middle,680 Wadsworth Street Pismo Beach CA 93449-2359,NA,NA,FALSE,tested,Pismo Beach,San Luis Obispo County,35.1467869461654,-120.638990163986
+Lucia Mar Unified,Lange (Dorothea) Elementary,1661 Via Alta Mesa Nipomo CA 93444-9344,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0162928,-120.516101
+Coast Unified,Leffingwell High (Continuation),2820 Santa Rosa Creek Road Cambria CA 93428-3524,NA,NA,NA,not tested,NA,San Luis Obispo County,35.5672727,-121.0745491
+Paso Robles Joint Unified,Liberty High (Continuation),810 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.61519045,-120.67057124507
+San Miguel Joint Union,Lillian Larsen Elementary,1601 L Street San Miguel CA 93451-9107,NA,NA,FALSE,tested,,San Luis Obispo County,35.7578956,-120.6977034
+Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6326384,-120.6945996
+Atascadero Unified,Monterey Road Elementary,3355 Monterey Road Atascadero CA 93422-1869,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.4996208,-120.692738805249
+Private,Montessori Children's,4200 South Higuera Street San Luis Obispo CA 93401,11.7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.2417307,-120.6769795
+San Luis Coastal Unified,Morro Bay High,235 Atascadero Road Morro Bay CA 93442-1516,5.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.3815231,-120.8577301
+San Lorenzo Valley Unified,Morro Elementary,1130 Napa  Morro Bay CA 93442,15.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.36887875,-120.84801435
+Lucia Mar Unified,Nipomo Elementary,190 East Price Street Nipomo CA 93444-9099,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0429877,-120.4717687
+Lucia Mar Unified,Nipomo High,525 North Thompson Ave Nipomo CA 93444-9086,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.0518997,-120.4860715
+Lucia Mar Unified,Ocean View Elementary,1208 Linda Drive Arroyo Grande CA 93420-2466,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.12351015,-120.598377720738
+Lucia Mar Unified,Oceano Elementary,1551 17th Street Oceano CA 93445-9303,6.2,ppb,TRUE,tested,NA,San Luis Obispo County,35.1032872,-120.6121756
+Private,Old Mission School,761 Broad Street San Luis Obispo CA 93401,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2819756,-120.6665004
+San Luis Coastal Unified,Pacheco Elementary,261 Cuesta Drive San Luis Obispo CA 93405-1184,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2962466,-120.675065608807
+Atascadero Unified,Paloma Creek High ACE,10801 El Camino Real Atascadero CA 93422,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.45803065,-120.638821873319
+Paso Robles Joint Unified,Paso Robles High,801 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.6159033,-120.6698876
+Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673846817168
+Lucia Mar Unified,Paulding Middle,600 Crown Hill Street Arroyo Grande CA 93420-2869,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.1265051,-120.5718258
+San Luis Coastal Unified,PEEP - de'Groot - Prepare,1500 Lizzie St. San Luis Obispo CA 93401-3062,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2798667,-120.6490713
+Private,Saint Rose Catholic School,900 Tucker Avenue Paso Robles CA 93446,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.6254612,-120.6726263
+Atascadero Unified,San Benito Elementary,4300 San Benito Road Atascadero CA 93422-1938,10,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.5150072,-120.6844953
+Atascadero Unified,San Gabriel Elementary,8500 San Gabriel Road Atascadero CA 93422-4940,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.458173,-120.669652205046
+Coast Unified,Santa Lucia Middle,2850 Schoolhouse Lane Cambria CA 93428-4108,NA,NA,NA,not tested,NA,San Luis Obispo County,35.5606597,-121.075811258542
+Atascadero Unified,Santa Margarita Elementary,22070 H Street Santa Margarita CA 93453-0380,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.3945131,-120.600989407026
+Atascadero Unified,Santa Rosa Road Academic Academy,8655 Santa Rosa Road Atascadero CA 93422-4910,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.46544675,-120.655987757525
+Lucia Mar Unified,Shell Beach Elementary,2100 Shell Beach Road Pismo Beach CA 93449-1800,NA,NA,FALSE,tested,Pismo Beach,San Luis Obispo County,35.15921105,-120.678901425697
+San Luis Coastal Unified,Sinsheimer Elementary,2755 Augusta Street San Luis Obispo CA 93401-5307,7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.2679673,-120.6435211
+San Luis Coastal Unified,Smith (C. L.) Elementary,1375 Balboa Street San Luis Obispo CA 93405-4935,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.26136725,-120.6895472388
+San Luis Coastal Unified,Teach Elementary,165 Grand Avenue San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.2952364,-120.6534884
+Atascadero Unified,Technology,5601 West Mall Atascadero CA 93422,5.6,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.4926125,-120.6653253
+Templeton Unified,Templeton Middle,925 Old County Road Templeton CA 93465-9420,6.4,ppb,TRUE,tested,,San Luis Obispo County,35.5444526,-120.7107053
+Private,Trinity Lutheran School,940 Creston Road Paso Robles CA 93446,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183
+Templeton Unified,Vineyard Elementary,2121 Vineyard Drive Templeton CA 93465-9412,13.3,ppb,TRUE,tested,NA,San Luis Obispo County,35.5419622,-120.7431938
+Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60036965,-120.655643751438
+Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.5724858,-120.5898183

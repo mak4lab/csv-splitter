@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oak Park Unified,Brookside Elementary,165 North Satinwood Avenue Oak Park CA 91377-1214,NA,NA,FALSE,tested,NA,NA,NA,NA
+Oak Park Unified,Medea Creek Middle,1002 Doubletree Road Oak Park CA 91377-3900,NA,NA,FALSE,tested,NA,Ventura County,34.1813110809057,-118.765213384487
+Oak Park Unified,Oak Hills Elementary,1010 Kanan Road Oak Park CA 91377-4826,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.1849766257989,-118.785656929692
+Oak Park Unified,Oak Park High,899 Kanan Road Oak Park CA 91377-3904,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.181168,-118.769067
+Oak Park Unified,Oak Park Independent,5801 Conifer Street Oak Park CA 91377-1072,NA,NA,FALSE,tested,NA,Ventura County,34.170965,-118.763316
+Oak Park Unified,Oak Park Neighborhood Learning,1010 North Kanan Road Oak Park CA 91377-4826,NA,NA,FALSE,tested,NA,NA,NA,NA
+Oak Park Unified,Oak View High,5701 Conifer Street Oak Park CA 91377-1072,NA,NA,FALSE,tested,NA,Ventura County,34.170973,-118.764314
+Oak Park Unified,Red Oak Elementary,4857 Rockfield Street Oak Park CA 91377-5512,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.1756013513029,-118.785173912121

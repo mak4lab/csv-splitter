@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Maricopa Unified,Maricopa Elementary,955 Stanislaus St Maricopa CA 93252-8231,NA,NA,FALSE,tested,Maricopa,Kern County,35.0554343061225,-119.402738693878
+Maricopa Unified,Maricopa High,955 Stanislaus Street Maricopa CA 93252-8231,5.08,ppb,TRUE,tested,Maricopa,Kern County,35.0554343061225,-119.402738693878
+Maricopa Unified,Maricopa Middle,955 Stanislaus Str Maricopa CA 93252-9779,NA,NA,FALSE,tested,Maricopa,Kern County,35.0554343061225,-119.402738693878

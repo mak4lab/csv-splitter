@@ -1,0 +1,27 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Adventist Christian School,369 Harding Road Yuba City CA 95993,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1231333698529,-121.653348375019
+Yuba City Unified,Albert Powell Continuation,1875 Clark Avenue Yuba City CA 95991-1274,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1607917142857,-121.626215428571
+Yuba City Unified,April Lane Elementary,800 April Lane Yuba City CA 95991-1943,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1540603529412,-121.629311
+Yuba City Unified,Bridge Street Elementary,500 Bridge Street Yuba City CA 95991-3801,NA,NA,FALSE,tested,Yuba City,Sutter County,39.135206,-121.615505
+Brittan Elementary,Brittan Elementary,2340 Pepper Street Sutter CA 95982-2430,8.3,ppb,TRUE,tested,NA,Sutter County,39.161842705802,-121.746565444246
+Yuba City Unified,Butte Vista Elementary,2195 Blevin Road Yuba City CA 95993-1401,NA,NA,FALSE,tested,Yuba City,Sutter County,39.158546,-121.650966
+Sutter County Office of Education,Feather River Academy,1895 Lassen Boulevard Yuba City CA 95993-8987,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1380334949495,-121.654379585859
+Franklin Elementary,Franklin Elementary,332 North Township Road Yuba City CA 95993-9629,NA,NA,FALSE,tested,,Sutter County,39.1277188622026,-121.689176540684
+Yuba City Unified,Gray Avenue Middle,808 Gray Avenue Yuba City CA 95991-3639,NA,NA,FALSE,tested,Yuba City,Sutter County,39.135246,-121.630157
+Yuba City Unified,King Avenue Elementary,630 King Avenue Yuba City CA 95991-2808,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1481298279676,-121.624123184799
+Yuba City Unified,Lincoln Elementary,1582 Lincoln Road Yuba City CA 95993-6017,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1126549108503,-121.643334783626
+Yuba City Unified,Lincrest Elementary,1400 Phillips Road Yuba City CA 95991-6746,NA,NA,FALSE,tested,Yuba City,Sutter County,39.107722,-121.631963
+Live Oak Unified,Live Oak High,2351 Pennington Road Live Oak CA 95953-2402,NA,NA,NA,not tested,NA,Sutter County,39.2761550259495,-121.657562309866
+Live Oak Unified,Live Oak Middle,2082 Pennington Road Live Oak CA 95953-2516,NA,NA,NA,not tested,NA,Sutter County,39.275977,-121.65283
+Live Oak Unified,Luther Elementary,10123 Connecticut Avenue Live Oak CA 95953-2001,NA,NA,NA,not tested,NA,Sutter County,39.2773199183673,-121.66797555102
+Yuba City Unified,Park Avenue Elementary,100 Morton Street Yuba City CA 95991-5820,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1259585517241,-121.619954068966
+Yuba City Unified,River Valley High,801 El Margarita Road Yuba City CA 95993-9363,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1371742726991,-121.662332766806
+Yuba City Unified,Riverbend Elementary,301 Stewart Road Yuba City CA 95991-9706,NA,NA,FALSE,tested,Yuba City,Sutter County,39.0872658439306,-121.611010456647
+Sutter County Office of Education,Sutter County Adult,1699 Sierra Avenue Yuba City CA 95993-8982,NA,NA,NA,not tested,Yuba City,Sutter County,39.140463,-121.648669
+Yuba City Unified,Sutter County Superintendent,970 Klamath Yuba City CA 95993,NA,NA,NA,not tested,Yuba City,Sutter County,39.1397708911588,-121.651787495456
+Sutter Union High,Sutter High,2665 Acacia St Sutter CA 95982,NA,NA,FALSE,tested,NA,Sutter County,38.8706922,-121.7040075
+Yuba City Unified,Tierra Buena Elementary,1794 Villa Avenue Yuba City CA 95993-8827,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1529425734859,-121.664254321678
+Yuba City Unified,Twin Rivers Charter,840 Cooper Avenue Yuba City CA 95991-3849,NA,NA,NA,not tested,Yuba City,Sutter County,39.1380695252414,-121.623716938328
+Live Oak Unified,Valley Oak Continuation High,2207 Pennington Rd Live Oak CA 95953-2402,NA,NA,NA,not tested,NA,Sutter County,39.276146,-121.654371367705
+Yuba City Unified,Yuba City Charter,256 Wilbur Avenue Yuba City CA 95991-5536,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1284368988139,-121.611900150769
+Yuba City Unified,Yuba City High,850 B Street Yuba City CA 95991-4926,NA,NA,FALSE,tested,Yuba City,Sutter County,39.1298676326531,-121.626586387755

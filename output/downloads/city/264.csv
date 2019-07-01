@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Capistrano Unified,Bernice Ayer Middle,1271 Sarmentoso San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.4748012,-117.6219002
+Capistrano Unified,Clarence Lobo Elementary,200 Avenida Vista Montana San Clemente CA 92672-9400,NA,NA,FALSE,tested,San Clemente,Orange County,33.437782,-117.597571
+Capistrano Unified,Concordia Elementary,3120 Avenida del Presidente San Clemente CA 92672-4517,5.5,ppb,TRUE,tested,San Clemente,Orange County,33.4031264469094,-117.59764471536501
+Capistrano Unified,Las Palmas Elementary,1101 Calle Puente San Clemente CA 92672-5019,NA,NA,FALSE,tested,San Clemente,Orange County,33.428656925,-117.623683675
+Capistrano Unified,Marblehead Elementary,2410 Via Turqueza San Clemente CA 92673-3912,NA,NA,FALSE,tested,San Clemente,Orange County,33.4506967997906,-117.620401492424
+Capistrano Unified,Shorecliffs Middle,240 Via Socorro San Clemente CA 92672-3714,NA,NA,FALSE,tested,San Clemente,Orange County,33.441359,-117.637986
+Capistrano Unified,Truman Benedict Elementary,1251 Sarmentoso San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.4748012,-117.6219002
+Capistrano Unified,Vista del Mar Elementary,1130 Avenue Talega San Clemente CA 92673,NA,NA,NA,not tested,San Clemente,Orange County,33.4681297985062,-117.596672130116
+Capistrano Unified,Vista del Mar Middle,1130 Ave Talega  San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.4681297985062,-117.596672130116

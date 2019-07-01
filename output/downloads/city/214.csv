@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oroville City Elementary,Bird Street Elementary,1421 Bird Street Oroville CA 95965-4783,5.5,ppb,TRUE,tested,Oroville,Butte County,39.5111219284287,-121.560910130311
+Oroville City Elementary,Central Middle,2565 Mesa Avenue Oroville CA 95966-6024,6.7,ppb,TRUE,tested,Oroville,Butte County,39.5036363761348,-121.544991303508
+Feather Falls Union Elementary,Ipakanni Early College Charter,1459 Downer Street Oroville CA 95966-8887,NA,NA,NA,not tested,Oroville,Butte County,39.5132185089709,-121.553677113766
+Butte County Office of Education,Mesa Vista School,2265 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.526,-121.578816863636
+Butte County Office of Education,Mountain View (Hearthstone) School,2280 6th Street Oroville CA 95965,NA,NA,NA,not tested,Oroville,Butte County,39.5272042040816,-121.578600918367
+Private,Oroville Christian School,3785 Olive Highway Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.5052590289295,-121.515961490943
+Oroville Union High,Oroville High,1535 Bridge Street Oroville CA 95966-5060,NA,NA,NA,not tested,Oroville,Butte County,39.513164,-121.545061
+Thermalito Union,Plumas Avenue Elementary,440 Plumas Avenue Oroville CA 95965-3219,NA,NA,NA,not tested,Oroville,Butte County,39.5197987001187,-121.574886414304
+Private,Sierra School of Butte County,2775 Yard Street Oroville CA 95966,NA,NA,FALSE,tested,Oroville,Butte County,39.513495,-121.544521
+Oroville City Elementary,Stanford Avenue Elementary,1801 Stanford Avenue Oroville CA 95966-5231,NA,NA,FALSE,tested,Oroville,Butte County,39.513065,-121.536031
+Oroville City Elementary,STREAM Charter,455E Oro Dam Blvd East Oroville CA 95965-5743,NA,NA,NA,not tested,Oroville,Butte County,39.4979703872603,-121.570794558077
+Oroville City Elementary,Wyandotte Academy,2800 Wyandotte Avenue Oroville CA 95966-6583,NA,NA,FALSE,tested,Oroville,Butte County,39.500393,-121.5466087

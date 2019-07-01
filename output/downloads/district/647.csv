@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rowland Unified,Alvarado Intermediate,1901 South Desire Avenue Rowland Heights CA 91748-3846,15,ppb,TRUE,tested,NA,Los Angeles County,33.9841725034207,-117.895309179703
+Rowland Unified,Blandford Elementary,2601 Blandford Drive Rowland Heights CA 91748-4816,NA,NA,FALSE,tested,NA,Los Angeles County,33.972473,-117.897355
+Rowland Unified,Giano Intermediate,3223 South Giano Avenue West Covina CA 91792-3229,9.6,ppb,TRUE,tested,Industry,Los Angeles County,34.0124238,-117.9087465
+Rowland Unified,Hollingworth Elementary,3003 East Hollingworth Street West Covina CA 91792-3229,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0067251072151,-117.878737721633
+Rowland Unified,Hurley Elementary,535 South Dora Guzman Avenue La Puente CA 91744-5608,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.0131133580219,-117.927658971194
+Rowland Unified,Jellick Elementary,1400 South Jellick Avenue Rowland Heights CA 91748-1917,NA,NA,FALSE,tested,NA,Los Angeles County,33.98859,-117.901046
+Rowland Unified,John A. Rowland High,2000 South Otterbein Street Rowland Heights CA 91748-3949,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Killian Elementary,19100 East Killian Street Rowland Heights CA 91748-3941,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Nogales High,401 South Nogales Street La Puente CA 91744-6144,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Northam Elementary,17800 East Renault La Puente CA 91744-5333,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Rorimer Elementary,18750 East Rorimer Street La Puente CA 91744-6063,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Rowland Elementary,2036 South Fullerton Road Rowland Heights CA 91748-3599,NA,NA,FALSE,tested,NA,Los Angeles County,33.9827260751942,-117.907595470502
+Rowland Unified,Rowland Unified Community Day,1928 Nogales Street Rowland Heights CA 91748-3855,NA,NA,FALSE,tested,NA,Los Angeles County,33.9750329,-117.8874488
+Rowland Unified,Santana High (Continuation),341 South La Seda Road La Puente CA 91744-5980,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Shelyn Elementary,19500 East Nacora Street Rowland Heights CA 91748-3133,5.02,ppb,TRUE,tested,NA,NA,NA,NA
+Rowland Unified,Stanley G. Oswalt Academy,19501 Shadow Oak Drive Walnut CA 91789-4700,NA,NA,FALSE,tested,Walnut,Los Angeles County,34.022311,-117.884658
+Rowland Unified,Telesis Academy of Science & Math,2800 East Hollingworth Street West Covina CA 91792-3029,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0061345,-117.884382137154
+Rowland Unified,Villacorta Elementary,17840 Villacorta Street La Puente CA 91744-5342,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Ybarra Academy for the Arts and Technology,1300 South Brea Canyon Cutoff Road Walnut CA 91789-3401,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rowland Unified,Yorbita Elementary,502 South Vidalia Street La Puente CA 91744-5946,NA,NA,FALSE,tested,NA,NA,NA,NA

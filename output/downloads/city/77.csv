@@ -1,0 +1,25 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bayshore Elementary,Bayshore Elementary,1 Martin Street Daly City CA 94014-1530,NA,NA,FALSE,tested,Daly City,San Mateo County,37.700851,-122.414089
+Jefferson Elementary,Daniel Webster Elementary,425 El Dorado Drive Daly City CA 94015-2126,NA,NA,FALSE,tested,Daly City,San Mateo County,37.678935,-122.47798
+Jefferson Elementary,Fernando Rivera Intermediate,1255 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.676562,-122.486301
+Jefferson Elementary,Franklin Delano Roosevelt Elementary,1200 Skyline Drive Daly City CA 94015-4728,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6622095,-122.4880891
+Bayshore Elementary,Garnet J. Robertson Intermediate,1 Martin Street B Daly City CA 94014-1603,NA,NA,NA,not tested,Daly City,San Mateo County,37.700851,-122.414089
+Jefferson Elementary,General Pershing Elementary,631 Hanover Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7067802800419,-122.449863352417
+Jefferson Elementary,George Washington Elementary,251 Whittier Street Daly City CA 94014-1337,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7072344489796,-122.446569795918
+Private,Hilldale School,79 Florence Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6984000438599,-122.458439333938
+Jefferson Union High,Jefferson High,6996 Mission Street Daly City CA 94014-2035,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6961919,-122.4663752
+Jefferson Elementary,John F. Kennedy Elementary,785 Price Street Daly City CA 94014-2163,6.65,ppb,TRUE,tested,Daly City,San Mateo County,37.6947309879805,-122.456485212858
+South San Francisco Unified,Junipero Serra Elementary,151 Victoria Street Daly City CA 94015-2708,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6610132695827,-122.469776457316
+Jefferson Elementary,Margaret Pauline Brown Elementary,305 Eastmoor Avenue Daly City CA 94015-2038,13,ppb,TRUE,tested,Daly City,San Mateo County,37.6847170133365,-122.478034363895
+Jefferson Elementary,Marjorie H. Tobias Elementary,725 Southgate Avenue Daly City CA 94015-3659,9.6,ppb,TRUE,tested,Daly City,San Mateo County,37.6925353128337,-122.491000938133
+Private,Our Lady of Mercy Elementary,7 Elmwood Drive Daly City CA 94015,8.05,ppb,TRUE,tested,Daly City,San Mateo County,37.6996442058268,-122.488846299513
+Private,Our Lady of Perpetual Help,80 Wellington Avenue Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7054460256179,-122.460918862875
+Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7069293212058,-122.437252035854
+South San Francisco Unified,Skyline Elementary,55 Christen Avenue Daly City CA 94015-2811,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6515768021886,-122.466559377899
+Jefferson Union High,Summit Public School: Shasta,699 Serramonte Boulevard Daly City CA 94015-4132,NA,NA,FALSE,tested,Daly City,San Mateo County,37.668634,-122.477728
+Jefferson Elementary,Susan B. Anthony Elementary,575 Abbot Avenue Daly City CA 94014-2774,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6888412345804,-122.458066537956
+Jefferson Elementary,Thomas Edison Elementary,1267 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6761996407492,-122.485405513786
+Jefferson Elementary,Thomas R. Pollicita Middle,550 East Market Street Daly City CA 94014-2103,NA,NA,FALSE,tested,Daly City,San Mateo County,37.690416,-122.459888
+Jefferson Elementary,Westlake Elementary,80 Fieldcrest Drive Daly City CA 94015-1004,NA,NA,FALSE,tested,Daly City,San Mateo County,37.7052927149204,-122.480046879926
+Jefferson Union High,Westmoor High,131 Westmoor Avenue Daly City CA 94015-3843,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6831834612303,-122.485117683025
+Jefferson Elementary,Woodrow Wilson Elementary,43 Miriam Street Daly City CA 94014-3814,NA,NA,FALSE,tested,Daly City,San Mateo County,37.704164145896,-122.465246823521

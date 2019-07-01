@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Siskiyou Union High,Jefferson High (Continuation),720 Rockfellow Drive Mount Shasta CA 96067-9405,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.3198062700491,-122.305298161006
+Siskiyou Union High,McCloud High,133 Campus Way McCloud CA 95057,10.005,ppb,TRUE,tested,NA,NA,NA,NA
+Siskiyou Union High,Mt. Shasta High,710 Everitt Memorial Highway Mount Shasta CA 96067-2042,8.6,ppb,TRUE,tested,Mount Shasta,Siskiyou County,41.3208827484876,-122.306010272607
+Siskiyou Union High,Weed High,909 Hillside Weed CA 96094-2415,NA,NA,FALSE,tested,Weed,Siskiyou County,41.4279257177985,-122.374967673917

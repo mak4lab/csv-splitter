@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Roseland,Roseland Charter,100 Sebastopol Road Santa Rosa CA 95407-6928,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.430893,-122.723722
+Roseland,Roseland Creek Elementary,1683 Burbank Avenue Santa Rosa CA 95407-5903,NA,NA,NA,not tested,NA,Sonoma County,38.4207164387755,-122.734313612245
+Roseland,Roseland Elementary,950 Sebastopol Road Santa Rosa CA 95407-6829,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.4291607907849,-122.731032084079
+Roseland,Sheppard Elementary,1777 West Avenue Santa Rosa CA 95407-7449,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.4200201557875,-122.727894280611

@@ -1,0 +1,35 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Folsom-Cordova Unified,Blanche Sprentz Elementary,249 Flower Drive Folsom CA 95630-2746,NA,NA,FALSE,tested,NA,Sacramento County,38.681119,-121.151267
+Folsom-Cordova Unified,Carl H. Sundahl Elementary,9932 Inwood Road Folsom CA 95630-1916,NA,NA,NA,not tested,NA,Sacramento County,38.700958,-121.174846
+Folsom-Cordova Unified,Cordova Gardens Elementary,2400 Dawes Street Rancho Cordova CA 95670-2097,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.59661,-121.309268
+Folsom-Cordova Unified,Cordova High,2239 Chase Drive Rancho Cordova CA 95670-2039,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5994686326531,-121.309311122449
+Folsom-Cordova Unified,Cordova Lane Center,2460 Cordova Lane Rancho Cordova CA 95670-4942,6.8,ppb,TRUE,tested,Rancho Cordova,Sacramento County,38.6051455833333,-121.286607708333
+Folsom-Cordova Unified,Cordova Meadows Elementary,2550 La Loma Drive Rancho Cordova CA 95670-3449,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.58983,-121.315571
+Folsom-Cordova Unified,Cordova Villa Elementary,10359 South White Rock Road Rancho Cordova CA 95670-5799,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5858125,-121.305018333333
+Folsom-Cordova Unified,Empire Oaks Elementary,1830 Bonhill Drive Folsom CA 95630-6107,6.4,ppb,TRUE,tested,NA,Sacramento County,38.6785647040562,-121.106762761631
+Folsom-Cordova Unified,Folsom Cordova K-8 Community Charter,4420 Monhegan Way Mather CA 95655-3025,5.1,ppb,TRUE,tested,NA,Sacramento County,38.5457259042493,-121.286720120245
+Folsom-Cordova Unified,Folsom High,1655 Iron Point Road Folsom CA 95630-3053,NA,NA,FALSE,tested,NA,Sacramento County,38.6499814095701,-121.158925075017
+Folsom-Cordova Unified,Folsom Hills Elementary,106 Manseau Drive Folsom CA 95630-5233,NA,NA,FALSE,tested,NA,Sacramento County,38.686733828762,-121.12824154201
+Folsom-Cordova Unified,Folsom Lake High,955 Riley Street Folsom CA 95630-3002,NA,NA,FALSE,tested,NA,Sacramento County,38.6717745593152,-121.170411541502
+Folsom-Cordova Unified,Folsom Middle,500 Blue Ravine Road Folsom CA 95630-3403,NA,NA,FALSE,tested,NA,Sacramento County,38.6732044,-121.1482189
+Folsom-Cordova Unified,Folsom-Cordova Adult,10850 Gadsten Way Rancho Cordova CA 95670-5102,NA,NA,NA,not tested,Rancho Cordova,Sacramento County,38.6073336825056,-121.280482412376
+Folsom-Cordova Unified,Gold Ridge Elementary,735 Halidon Way Folsom CA 95630-8402,NA,NA,FALSE,tested,NA,Sacramento County,38.6494646049208,-121.132752778269
+Folsom-Cordova Unified,Kinney High (Continuation),2710 Kilgore Road Rancho Cordova CA 95670-6104,14,ppb,TRUE,tested,Rancho Cordova,Sacramento County,38.6018920733929,-121.275542637941
+Folsom-Cordova Unified,Mather Heights Elementary,4370 Mather School Road Mather CA 95655-2902,7.05,ppb,TRUE,tested,NA,NA,NA,NA
+Folsom-Cordova Unified,Mills Middle,10439 Coloma Road Rancho Cordova CA 95670-2107,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5990582727273,-121.302371818182
+Folsom-Cordova Unified,Natoma Station Elementary,500 Turnpike Drive Folsom CA 95630-8012,NA,NA,NA,not tested,NA,NA,NA,NA
+Folsom-Cordova Unified,Navigator Elementary,10679 Bear Hollow Drive Rancho Cordova CA 95670-6350,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.574151,-121.285846
+Folsom-Cordova Unified,Oak Chan Elementary,101 Prewett Drive Folsom CA 95630-6800,NA,NA,NA,not tested,NA,Sacramento County,38.673783,-121.125884
+Folsom-Cordova Unified,Peter J. Shields Elementary,10434 Georgetown Drive Rancho Cordova CA 95670-2261,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.6053436961526,-121.302203795716
+Folsom-Cordova Unified,Rancho Cordova Elementary,2562 Chassella Way Rancho Cordova CA 95670-3740,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.6000818722766,-121.295380786815
+Folsom-Cordova Unified,Reymouth Special Education Center,1965 Birkmont Drive Rancho Cordova CA 95742-6407,NA,NA,NA,not tested,NA,NA,NA,NA
+Folsom-Cordova Unified,Riverview STEM Elementary,10700 Ambassador Drive Rancho Cordova CA 95670-2406,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.61715,-121.291787
+Folsom-Cordova Unified,Russell Ranch Elementary,375 Dry Creek Road Folsom CA 95630-6186,6.8,ppb,TRUE,tested,NA,Sacramento County,38.6504808979592,-121.089251571429
+Folsom-Cordova Unified,Sandra J. Gallardo Elementary,775 Russi Road Folsom CA 95630-3514,NA,NA,FALSE,tested,NA,Sacramento County,38.6538773249527,-121.158413548235
+Folsom-Cordova Unified,Sutter Middle,715 Riley Street Folsom CA 95630-3053,NA,NA,FALSE,tested,NA,Sacramento County,38.6743448165351,-121.173324650195
+Folsom-Cordova Unified,Theodore Judah Elementary,101 Dean Way Folsom CA 95630-2801,NA,NA,FALSE,tested,NA,Sacramento County,38.67885,-121.163577
+Folsom-Cordova Unified,Vista del Lago High,1970 Broadstone Parkway Folsom CA 95630-8335,NA,NA,FALSE,tested,NA,Sacramento County,38.658389259607,-121.114488598093
+Folsom-Cordova Unified,W. E. Mitchell Middle,2100 Zinfandel Drive Rancho Cordova CA 95670-5228,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.61086,-121.275823
+Folsom-Cordova Unified,Walnutwood High (Independent Study),10850 Gadsten Wy Rancho Cordova CA 95670-5102,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.6073336825056,-121.280482412376
+Folsom-Cordova Unified,White Rock Elementary,10487 White Rock Road Rancho Cordova CA 95670-5530,NA,NA,FALSE,tested,Rancho Cordova,Sacramento County,38.5856986621939,-121.299102719179
+Folsom-Cordova Unified,Williamson Elementary,2275 Benita Way Rancho Cordova CA 95670-5299,NA,NA,FALSE,tested,NA,NA,NA,NA

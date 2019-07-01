@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rescue Union Elementary,Green Valley Elementary,2380 Bass Lake Road Rescue CA 95672-9571,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rescue Union Elementary,Jackson Elementary,2561 Francisco Drive El Dorado Hills CA 95762-8201,NA,NA,FALSE,tested,NA,El Dorado County,38.7267889,-121.090391
+Rescue Union Elementary,Lake Forest Elementary,2240 Sailsbury Drive El Dorado Hills CA 95762-6984,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rescue Union Elementary,Lakeview Elementary,3371 Brittany Way El Dorado Hills CA 95762-3996,NA,NA,FALSE,tested,NA,NA,NA,NA
+Rescue Union Elementary,Marina Village Middle,1901 Francisco Drive El Dorado Hills CA 95762-3736,7.6,ppb,TRUE,tested,NA,El Dorado County,38.7231879425728,-121.08811188241
+Rescue Union Elementary,Pleasant Grove Middle,2540 Green Valley Road Rescue CA 95672-9415,NA,NA,FALSE,tested,NA,El Dorado County,38.7070612,-120.9658751
+Rescue Union Elementary,Rescue Elementary,3880 Green Valley Road Rescue CA 95672-9403,NA,NA,FALSE,tested,NA,El Dorado County,38.707000337455,-120.964965913446

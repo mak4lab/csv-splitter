@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Palos Verdes Peninsula Unified,Cornerstone at Pedregal Elementary,6069 Groveoak Place Rancho Palos Verdes CA 90275-2261,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.7860408792309,-118.383278056593
+Palos Verdes Peninsula Unified,Dapplegray Elementary,3011 Palos Verdes Drive North Rolling Hills Estates CA 90274-7303,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palos Verdes Peninsula Unified,Lunada Bay Elementary,520 Paseo Lunado Palos Verdes Estates CA 90274-4377,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.76759735,-118.417354778767
+Palos Verdes Peninsula Unified,Mira Catalina Elementary,30511 Lucania Drive Rancho Palos Verdes CA 90275-6272,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.74002345,-118.335593714762
+Palos Verdes Peninsula Unified,Miraleste Elementary,6245 Via Canada Rancho Palos Verdes CA 90275-6540,5.3,ppb,TRUE,tested,Rancho Palos Verdes,Los Angeles County,33.75182285,-118.324608753751
+Palos Verdes Peninsula Unified,Miraleste Intermediate,29323 Palos Verdes Drive East Rancho Palos Verdes CA 90275-6470,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palos Verdes Peninsula Unified,Montemalaga Elementary,1121 Via Nogales Palos Verdes Estates CA 90274-1671,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.7904146,-118.395005643
+Palos Verdes Peninsula Unified,Palos Verdes High,600 Cloyden Road Palos Verdes Estates CA 90274-1869,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.781603,-118.419332
+Palos Verdes Peninsula Unified,Palos Verdes Intermediate,2161 Via Olivera Palos Verdes Estates CA 90274-1983,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.7776057,-118.412014344862
+Palos Verdes Peninsula Unified,Palos Verdes Peninsula High,27118 Silver Spur Road Rolling Hills Estates CA 90274-2300,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palos Verdes Peninsula Unified,Point Vicente Elementary,30540 Rue de La Pierre Rancho Palos Verdes CA 90275-5364,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palos Verdes Peninsula Unified,Rancho del Mar High (Continuation),38 Crest Road West Rolling Hills CA 90274-5058,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.7614338754691,-118.364282042761
+Palos Verdes Peninsula Unified,Rancho Vista Elementary,4323 Palos Verdes Drive North Rolling Hills Estates CA 90274-1576,NA,NA,FALSE,tested,NA,NA,NA,NA
+Palos Verdes Peninsula Unified,Ridgecrest Intermediate,28915 Northbay Road Rancho Palos Verdes CA 90275-4902,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.766688,-118.379424863075
+Palos Verdes Peninsula Unified,Silver Spur Elementary,5500 Ironwood Street Rancho Palos Verdes CA 90275-1739,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.78902235,-118.375209281345
+Palos Verdes Peninsula Unified,Soleado Elementary,27800 Longhill Drive Rancho Palos Verdes CA 90275-3909,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.773354,-118.36679
+Palos Verdes Peninsula Unified,Valmonte Elementary,3801 Via La Selva Palos Verdes Estates CA 90274-1119,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.800565,-118.364532
+Palos Verdes Peninsula Unified,Vista Grande Elementary,7032 Purpleridge Drive Rancho Palos Verdes CA 90275-3059,5.2,ppb,TRUE,tested,NA,NA,NA,NA

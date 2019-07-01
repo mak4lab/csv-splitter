@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+South San Francisco Unified,Alta Loma Middle,116 Romney Avenue South San Francisco CA 94080-2141,NA,NA,NA,not tested,NA,San Mateo County,37.660483,-122.450841
+South San Francisco Unified,Baden High (Continuation),825 Southwood Drive South San Francisco CA 94080-3106,NA,NA,NA,not tested,NA,San Mateo County,37.6496856,-122.435116422222
+South San Francisco Unified,Buri Buri Elementary,120 El Campo Drive South San Francisco CA 94080-4159,NA,NA,NA,not tested,NA,NA,NA,NA
+South San Francisco Unified,Community Day,201 West Orange Avenue South San Francisco CA 94080-4445,NA,NA,NA,not tested,NA,NA,NA,NA
+South San Francisco Unified,El Camino High,1320 Mission Road South San Francisco CA 94080-1214,NA,NA,NA,not tested,NA,San Mateo County,37.6573768,-122.4335544
+South San Francisco Unified,Hillside Elementary,1400 Hillside Boulevard South San Francisco CA 94080-1538,NA,NA,NA,not tested,NA,San Mateo County,37.668353,-122.424323
+South San Francisco Unified,Junipero Serra Elementary,151 Victoria Street Daly City CA 94015-2708,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6610132695827,-122.469776457316
+South San Francisco Unified,Los Cerritos Elementary,210 West Orange Avenue South San Francisco CA 94080-4444,NA,NA,NA,not tested,NA,NA,NA,NA
+South San Francisco Unified,Martin Elementary,35 School Street South San Francisco CA 94080-2855,NA,NA,NA,not tested,NA,NA,NA,NA
+South San Francisco Unified,Monte Verde Elementary,2551 Street Cloud Drive San Bruno CA 94066-1700,NA,NA,NA,not tested,San Bruno,San Mateo County,37.636723875,-122.452714642857
+South San Francisco Unified,Monte Verde Elementary School,"2551 St Cloud Dr, San Bruno, CA 94066",NA,NA,NA,exempt,San Bruno,San Mateo County,37.636723875,-122.452714642857
+South San Francisco Unified,Parkway Heights Middle,650 Sunset Avenue South San Francisco CA 94080-7343,NA,NA,NA,not tested,NA,San Mateo County,37.6634384044007,-122.428175329097
+South San Francisco Unified,Ponderosa Elementary,295 Ponderosa Road South San Francisco CA 94080-4218,NA,NA,NA,not tested,NA,San Mateo County,37.646129,-122.434233
+South San Francisco Unified,Skyline Elementary,55 Christen Avenue Daly City CA 94015-2811,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6515768021886,-122.466559377899
+South San Francisco Unified,South San Francisco High,400 B Street South San Francisco CA 94080-4425,NA,NA,NA,not tested,NA,San Mateo County,37.6497945639569,-122.428236637355
+South San Francisco Unified,Spruce Elementary,501 Spruce Avenue South San Francisco CA 94080-2749,NA,NA,NA,not tested,NA,San Mateo County,37.658485,-122.415439
+South San Francisco Unified,Sunshine Gardens Elementary,1200 Miller Avenue South San Francisco CA 94080-1221,NA,NA,NA,not tested,NA,San Mateo County,37.665671,-122.437732
+South San Francisco Unified,Westborough Middle School,2570 Westborough Boulevard South San Francisco CA 94080,NA,NA,NA,not tested,NA,San Mateo County,37.6430733424419,-122.456825929265

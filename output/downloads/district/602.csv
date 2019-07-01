@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Porterville Unified,Bartlett Middle,335 North G Street Porterville CA 93257-3471,7.6,ppb,TRUE,tested,Porterville,Tulare County,36.0719708344948,-119.022619839544
+Porterville Unified,Belleview Elementary,197 West Belleview Avenue Porterville CA 93257-2256,NA,NA,FALSE,tested,Porterville,Tulare County,36.0739459,-119.020913816009
+Porterville Unified,Butterfield Charter High,900 West Pioneer Avenue Porterville CA 93257-1240,NA,NA,FALSE,tested,Porterville,Tulare County,36.0922053,-119.037692
+Porterville Unified,Citrus High,261 East Mulberry Avenue Porterville CA 93257-4822,7.2,ppb,TRUE,tested,Porterville,Tulare County,36.0828483,-119.011503357185
+Porterville Unified,Granite Hills High,1701 East Putnam Avenue Porterville CA 93257-8000,NA,NA,FALSE,tested,Porterville,Tulare County,36.06759465,-118.979834225
+Porterville Unified,Harmony Magnet Academy,19429 Road 228 Strathmore CA 93267,NA,NA,NA,not tested,NA,Tulare County,36.142975,-119.064995143483
+Porterville Unified,John J. Doyle Elementary,1045 East Orange Avenue Porterville CA 93257-5125,5.9,ppb,TRUE,tested,Porterville,Tulare County,36.0602889,-118.993969908826
+Porterville Unified,Los Robles Elementary,500 East Mulberry Avenue Porterville CA 93257-6321,NA,NA,FALSE,tested,Porterville,Tulare County,36.08475325,-119.005688831193
+Porterville Unified,Monache High,960 North Newcomb Street Porterville CA 93257-1302,NA,NA,FALSE,tested,Porterville,Tulare County,36.08174545,-119.04988109722
+Porterville Unified,Monte Vista Elementary,701 West Westfield Avenue Porterville CA 93257-1251,NA,NA,FALSE,tested,Porterville,Tulare County,36.08666185,-119.033014740016
+Porterville Unified,Olive Street Elementary,255 West Olive Avenue Porterville CA 93257-3446,5.4,ppb,TRUE,tested,Porterville,Tulare County,36.06339055,-119.022232442411
+Porterville Unified,Pioneer Middle,225 East College Avenue Porterville CA 93257-6062,NA,NA,FALSE,tested,Porterville,Tulare County,36.0480670580988,-119.013668968229
+Porterville Unified,Porterville High,465 West Olive Avenue Porterville CA 93257-3331,5.7,ppb,TRUE,tested,Porterville,Tulare County,36.0634047,-119.028038007956
+Porterville Unified,Prospect Education Center,645 North Prospect Street Porterville CA 93257-1938,5.3,ppb,TRUE,tested,Porterville,Tulare County,36.0773928482928,-119.043971441312
+Porterville Unified,Roche Elementary,388 North Roche Street Porterville CA 93257-3928,NA,NA,FALSE,tested,Porterville,Tulare County,36.0725817,-119.009872468141
+Porterville Unified,Santa Fe Elementary,286 East Orange Avenue Porterville CA 93257-4950,NA,NA,FALSE,tested,Porterville,Tulare County,36.0613066,-119.010436304663
+Porterville Unified,Sequoia Middle,1450 West Castle Avenue Porterville CA 93257,NA,NA,FALSE,tested,Porterville,Tulare County,36.09544075,-119.046541534127
+Porterville Unified,Strathmore High,22568 Avenue 196 Strathmore CA 93267-0114,NA,NA,NA,not tested,NA,Tulare County,36.14458275,-119.065026522271
+Porterville Unified,Vandalia Elementary,271 East College Avenue Porterville CA 93257-6062,NA,NA,FALSE,tested,Porterville,Tulare County,36.0479389,-119.009827916806
+Porterville Unified,Vine Street Community Day,140 South C Street Porterville CA 93257-4822,NA,NA,NA,not tested,Porterville,Tulare County,36.062839214579,-119.015906949279
+Porterville Unified,West Putnam Elementary,1345 West Putnam Avenue Porterville CA 93257-3043,NA,NA,NA,not tested,Porterville,Tulare County,36.06869655,-119.047066799095
+Porterville Unified,Westfield Elementary,1151 West Pioneer Avenue Porterville CA 93257-1116,NA,NA,NA,not tested,Porterville,Tulare County,36.09018625,-119.04297739817

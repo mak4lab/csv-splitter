@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Rafael City Elementary,Bahia Vista Elementary,125 Bahia Way San Rafael CA 94901-4502,NA,NA,FALSE,tested,San Rafael,Marin County,37.966624237562,-122.498272306981
+San Rafael City Elementary,Coleman Elementary,800 Belle Ave San Rafael CA 94901-2227,NA,NA,FALSE,tested,San Rafael,Marin County,37.979424,-122.519334
+San Rafael City Elementary,Glenwood Elementary,25 Castlewood Dr San Rafael CA 94901-2524,NA,NA,FALSE,tested,San Rafael,Marin County,37.9855876088732,-122.476919683168
+San Rafael City Elementary,James B. Davidson Middle,280 Woodland Ave San Rafael CA 94901-5046,NA,NA,FALSE,tested,San Rafael,Marin County,37.9649415469143,-122.526732849128
+San Rafael City Elementary,Laurel Dell Elementary,225 Woodland Ave San Rafael CA 94901-6017,NA,NA,FALSE,tested,San Rafael,Marin County,37.9647774107595,-122.52689351962
+Marin County ROP,Marin County ROP,1111 Las Gallinas Avenue San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.0133614080118,-122.549526681731
+Private,Mark Day School,39 Trellis Drive San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.006975,-122.5548784142
+Dixie Elementary,Miller Creek Middle,2255 Las Gallinas Avenue San Rafael CA 94903-1699,NA,NA,FALSE,tested,San Rafael,Marin County,38.0063203,-122.5444299
+San Rafael City High,San Rafael Adult Education,310 Nova Albion Way San Rafael CA 94903,NA,NA,NA,not tested,San Rafael,Marin County,37.9993591367103,-122.55155287578
+San Rafael City High,San Rafael High,185 Mission Ave San Rafael CA 94901,NA,NA,FALSE,tested,San Rafael,Marin County,37.97022995,-122.513690632926
+San Rafael City Elementary,Short Elementary,35 Marin Street San Rafael CA 94901-4960,NA,NA,FALSE,tested,San Rafael,Marin County,37.9664665102041,-122.535484306122
+San Rafael City Elementary,Sun Valley Elementary,75 Happy Ln San Rafael CA 94901-1020,NA,NA,FALSE,tested,San Rafael,Marin County,37.9857598120891,-122.550021903207
+San Rafael City High,Terra Linda High,320 Nova Albion Way San Rafael CA 94903-3523,NA,NA,FALSE,tested,San Rafael,Marin County,37.999317566846,-122.551432649212
+Dixie Elementary,Vallecito Elementary,50 Nova Albion Way San Rafael CA 94903-3556,NA,NA,FALSE,tested,San Rafael,Marin County,38.0078087606722,-122.549399612316

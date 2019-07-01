@@ -1,0 +1,21 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oak Grove Elementary,Anderson (Alex) Elementary,5800 Calpine Drive San Jose CA 95123-3705,NA,NA,FALSE,tested,San José,Santa Clara County,37.245834,-121.811663
+Oak Grove Elementary,Baldwin (Julia) Elementary,280 Martinvale Lane San Jose CA 95119-1840,NA,NA,FALSE,tested,San José,Santa Clara County,37.2241037281032,-121.784108316595
+Oak Grove Elementary,Bernal Intermediate,6610 San Ignacio Avenue San Jose CA 95119-1935,NA,NA,FALSE,tested,San José,Santa Clara County,37.2271079200832,-121.790871062166
+Oak Grove Elementary,Christopher Elementary,565 Coyote Road San Jose CA 95111-2599,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2793966972699,-121.816712104481
+Oak Grove Elementary,Davis (Caroline) Intermediate,5035 Edenview Drive San Jose CA 95111-4031,NA,NA,FALSE,tested,San José,Santa Clara County,37.263435,-121.812784
+Oak Grove Elementary,Del Roble Elementary,5345 Avenida Almendros San Jose CA 95123-1405,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.2565760220769,-121.835311231134
+Oak Grove Elementary,Edenvale Elementary,285 Azucar Avenue San Jose CA 95111-2902,9,ppb,TRUE,tested,San José,Santa Clara County,37.261638,-121.802891571705
+Oak Grove Elementary,Frost (Earl) Elementary,530 Gettysburg Drive San Jose CA 95123-3234,NA,NA,FALSE,tested,San José,Santa Clara County,37.2475257258545,-121.836921800876
+Oak Grove Elementary,Glider Elementary,511 Cozy Drive San Jose CA 95123-4811,NA,NA,NA,not tested,San José,Santa Clara County,37.232726,-121.823989
+Oak Grove Elementary,Hayes Elementary,5035 Poston Drive San Jose CA 95136-3348,NA,NA,FALSE,tested,San José,Santa Clara County,37.26224115,-121.827271595335
+Oak Grove Elementary,Herman (Leonard) Intermediate,5955 Blossom Avenue San Jose CA 95123-4032,NA,NA,FALSE,tested,San José,Santa Clara County,37.2404819656585,-121.839709690927
+Oak Grove Elementary,Ledesma (Rita) Elementary,1001 Schoolhouse Road San Jose CA 95138-1374,NA,NA,FALSE,tested,San José,Santa Clara County,37.241697064702,-121.761740044522
+Oak Grove Elementary,Miner (George) Elementary,5629 Lean Avenue San Jose CA 95123-3620,NA,NA,FALSE,tested,San José,Santa Clara County,37.2503505714286,-121.817386142857
+Oak Grove Elementary,Oak Ridge Elementary,5920 Bufkin Drive San Jose CA 95123-4308,NA,NA,FALSE,tested,San José,Santa Clara County,37.2410814176018,-121.821127899008
+Oak Grove Elementary,Parkview Elementary,330 Bluefield Drive San Jose CA 95136-2100,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.271116933603,-121.847532952658
+Oak Grove Elementary,Sakamoto Elementary,6280 Shadelands Drive San Jose CA 95123-4645,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.231077534351,-121.8392948431
+Oak Grove Elementary,Santa Teresa Elementary,6200 Encinal Drive San Jose CA 95119-1514,NA,NA,FALSE,tested,San José,Santa Clara County,37.235932,-121.796069
+Oak Grove Elementary,Stipe (Samuel) Elementary,5000 Lyng Drive San Jose CA 95111-2720,NA,NA,FALSE,tested,San José,Santa Clara County,37.2711828189389,-121.806560981472
+Oak Grove Elementary,Taylor (Bertha) Elementary,410 Sautner Drive San Jose CA 95123-5252,5.1,ppb,TRUE,tested,San José,Santa Clara County,37.2310818737224,-121.808187102211
+Oak Grove Elementary,The Academy,4955 Edenview Drive San Jose CA 95119-4031,NA,NA,FALSE,tested,San José,Santa Clara County,37.2674356317816,-121.81186757984

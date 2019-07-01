@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Arcata Elementary,Arcata Elementary,2400 Baldwin Street Arcata CA 95521-5168,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8823865,-124.0863315
+Arcata Elementary,Coastal Grove Charter,1897 S Street Arcata CA 95521-5474,NA,NA,FALSE,tested,Arcata,Humboldt County,40.87696624,-124.0986303
+Arcata Elementary,Fuente Nueva Charter,1730 Janes Road Arcata CA 95521-9623,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8805074341721,-124.100576169265
+Arcata Elementary,Redwood Coast Montessori,1611 Peninsula Drive Arcata CA 95521-9658,NA,NA,FALSE,tested,NA,NA,NA,NA
+Arcata Elementary,Sunny Brae Middle,1430 Buttermilk Lane Arcata CA 95521-6910,NA,NA,FALSE,tested,Arcata,Humboldt County,40.8574316666667,-124.066796833333
+Arcata Elementary,Union Street Charter,470 Union Street Arcata CA 95521-6429,5.4,ppb,TRUE,tested,Arcata,Humboldt County,40.862904104894,-124.076941706909

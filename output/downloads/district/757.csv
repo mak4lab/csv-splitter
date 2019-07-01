@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Soquel Union Elementary,Main Street Elementary,3400 North Main Street Soquel CA 95073-2212,NA,NA,FALSE,tested,NA,NA,NA,NA
+Soquel Union Elementary,New Brighton Middle,250 Washburn Avenue Capitola CA 95010-3799,13,ppb,TRUE,tested,Capitola,Santa Cruz County,36.9773812336382,-121.94729328504
+Soquel Union Elementary,Opal Cliffs,4510 Jade Street Capitola CA 95010-3957,NA,NA,FALSE,tested,Capitola,Santa Cruz County,36.9702893,-121.9626124
+Soquel Union Elementary,Santa Cruz Gardens Elementary,8005 Winkle Avenue Santa Cruz CA 95065-1149,NA,NA,FALSE,tested,NA,Santa Cruz County,37.0032508997996,-121.97659056513
+Soquel Union Elementary,Soquel Elementary,2700 Porter Street Soquel CA 95073-2421,NA,NA,FALSE,tested,NA,Santa Cruz County,36.985174,-121.957221

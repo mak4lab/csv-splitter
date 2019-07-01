@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Chino Valley Unified,Boys Republic High,3493 Grand Avenue Chino Hills CA 91709-5447,NA,NA,NA,not tested,Chino Hills,San Bernardino County,34.0023118241206,-117.732712512563
+Chino Valley Unified,Butterfield Ranch Elementary,6350 Mystic Canyon Drive Chino Hills CA 91709-4516,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.9258174,-117.6672058
+Chino Valley Unified,Canyon Hills Junior High,2500 Madrugada Drive Chino Hills CA 91709-4423,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,34.0053834,-117.748417059877
+Chino Valley Unified,Chaparral Elementary,4849 Bird Farm Road Chino Hills CA 91709-3141,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.975405,-117.69988
+Chino Valley Unified,Chino Hills High,16150 Pomona Rincon Road Chino Hills CA 91709-3101,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.9574339962503,-117.682351232381
+Chino Valley Unified,Chino Valley Learning Academy,15650 Pipeline Avenue Chino Hills CA 91709-3331,8.35,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.9689664684349,-117.715014827915
+Chino Valley Unified,Country Springs Elementary,14145 Village Center Drive Chino Hills CA 91709-4892,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.9965439,-117.75225098131
+Chino Valley Unified,Eagle Canyon Elementary,13435 Eagle Canyon Drive Chino Hills CA 91709-1281,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,34.0090832898071,-117.748513131946
+Chino Valley Unified,Gerald F. Litel Elementary,3425 Eucalyptus Avenue Chino Hills CA 91709-1836,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.9897623277522,-117.72893535601
+Chino Valley Unified,Glenmeade Elementary,15000 Whirlaway Lane Chino Hills CA 91709-2548,21,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.980389,-117.721205
+Chino Valley Unified,Hidden Trails Elementary,2250 Ridgeview Drive Chino Hills CA 91709-5177,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.98463345,-117.754732555989
+Chino Valley Unified,Michael G. Wickman Elementary,16250 Pinehurst Drive Chino Hills CA 91709-7915,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.9585467,-117.7109544
+Chino Valley Unified,Oak Ridge Elementary,15452 Valle Vista Drive Chino Hills CA 91709-3871,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.9729861,-117.7106145
+Chino Valley Unified,Robert O. Townsend Junior High,15359 Ilex Drive Chino Hills CA 91709-2524,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.9742592340313,-117.728337808514
+Chino Valley Unified,Rolling Ridge Elementary,13677 Calle San Marcos Chino Hills CA 91709-4426,13,ppb,TRUE,tested,Chino Hills,San Bernardino County,34.006594,-117.746524

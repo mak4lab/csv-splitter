@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Camino Union Elementary,Camino Elementary,3060 Snows Road Camino CA 95709-9578,NA,NA,FALSE,tested,NA,El Dorado County,38.7324576990073,-120.676039970764
+Camino Union Elementary,Camino Science and Natural Resources Charter,3060 Snows Rd school B Camino CA 95709-9578,6.5,ppb,TRUE,tested,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+North Monterey County Unified,Castroville Elementary,11161 Merritt Street Castroville CA 95012-3498,NA,NA,NA,not tested,NA,Monterey County,36.7630297346939,-121.75423477551
+North Monterey County Unified,North Monterey County High,13990 Castroville Boulevard Castroville CA 95012-9749,NA,NA,NA,not tested,NA,Monterey County,36.7781973423303,-121.736775456566
+North Monterey County Unified,North Monterey County Middle,10301 Seymour Street Castroville CA 95012-2606,NA,NA,NA,not tested,NA,Monterey County,36.771008,-121.757807
+North Monterey County Unified,North Orange County ROP,385 North Muller Street Anaheim CA 92801-5456,NA,NA,FALSE,tested,Anaheim,Orange County,33.8383055441925,-117.95028354057

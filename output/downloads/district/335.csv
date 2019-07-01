@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Jefferson Union High,Adult Education Division,699 Serramonte Boulevard Suite 111 Daly City CA 94015-3219,NA,NA,FALSE,tested,NA,NA,NA,NA
+Jefferson Union High,Jefferson High,6996 Mission Street Daly City CA 94014-2035,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6961919,-122.4663752
+Jefferson Union High,Oceana High,401 Paloma Avenue Pacifica CA 94044-2436,NA,NA,NA,not tested,Pacifica,San Mateo County,37.6392007,-122.4868024
+Jefferson Union High,Summit Public School: Shasta,699 Serramonte Boulevard Daly City CA 94015-4132,NA,NA,FALSE,tested,Daly City,San Mateo County,37.668634,-122.477728
+Jefferson Union High,Terra Nova High,1450 Terra Nova Boulevard Pacifica CA 94044-3615,NA,NA,NA,not tested,Pacifica,San Mateo County,37.5908550482322,-122.475703583119
+Jefferson Union High,Thornton High,115 First Avenue Daly City CA 94014-2643,NA,NA,FALSE,tested,NA,NA,NA,NA
+Jefferson Union High,Westmoor High,131 Westmoor Avenue Daly City CA 94015-3843,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6831834612303,-122.485117683025

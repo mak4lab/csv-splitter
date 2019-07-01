@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lowell Joint,El Portal Elementary,200 North Nada Street La Habra CA 90631-4451,NA,NA,FALSE,tested,La Habra,Orange County,33.933824,-117.966018
+Lowell Joint,Jordan Elementary,10654 Jordan Road Whittier CA 90603-2931,5.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.93794965,-117.979863942761
+Lowell Joint,Macy Elementary,2301 West Russell Street La Habra CA 90631-2473,NA,NA,FALSE,tested,NA,NA,NA,NA
+Lowell Joint,Meadow Green Elementary,12025 South Grovedale Drive Whittier CA 90604-3754,NA,NA,FALSE,tested,NA,Los Angeles County,33.9212752,-117.989288720208
+Lowell Joint,Olita Elementary,950 South Briercliff Drive La Habra CA 90631-6223,8.3,ppb,TRUE,tested,La Habra,Orange County,33.9203680756451,-117.973664721684
+Lowell Joint,Rancho-Starbuck Intermediate,16430 Woodbrier Drive Whittier CA 90604-4021,NA,NA,FALSE,tested,La Habra,Los Angeles County,33.92004285,-117.978632199742

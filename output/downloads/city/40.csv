@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Beaumont Unified,Beaumont Senior High,39139 Cherry Valley Blvd Beaumont CA 92223-4484,NA,NA,NA,not tested,Calimesa,Riverside County,33.9616698,-117.0367235
+Beaumont Unified,Brookside Elementary,38755 Brookside Avenue Beaumont CA 92223-4244,NA,NA,NA,not tested,Calimesa,Riverside County,33.9613746802713,-116.985504000376
+Yucaipa-Calimesa Joint Unified,Mesa View Middle,800 Mustang Way Calimesa CA 92399-1080,NA,NA,FALSE,tested,Calimesa,Riverside County,33.9974099,-117.069558
+Beaumont Unified,Tournament Hills Elementary,36611 Champions Drive Beaumont CA 92223-9712,NA,NA,NA,not tested,Calimesa,Riverside County,33.954064,-117.0262317

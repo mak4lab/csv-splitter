@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Acton-Agua Dulce Unified,Community Collaborative Charter,32248 Crown Valley Road Acton CA 93510-2620,NA,NA,FALSE,tested,NA,Los Angeles County,34.4727716,-118.1964641
+Acton-Agua Dulce Unified,High Desert,3620 Antelope Woods Road Acton CA 93510-1757,NA,NA,FALSE,tested,NA,Los Angeles County,34.4921466,-118.1930678
+Acton-Agua Dulce Unified,iLEAD Hybrid,28050 Hasley Canyon Road Castaic CA 91384-4516,NA,NA,FALSE,tested,NA,Los Angeles County,34.4509658,-118.6255344
+Acton-Agua Dulce Unified,Inspire Charter School,33323 Santiago Road Acton CA 93510-1416,NA,NA,NA,not tested,NA,Los Angeles County,34.4904573140662,-118.161440704182
+Acton-Agua Dulce Unified,Meadowlark Elementary,3015 West Sacramento Street Acton CA 93510-2434,7.3,ppb,TRUE,tested,NA,NA,NA,NA
+Acton-Agua Dulce Unified,Method Schools High,317 East Foothill Boulevard Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.1511714666667,-118.022367333333
+Acton-Agua Dulce Unified,Method Schools K-8,317 East Foothill Blvd Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.1511714666667,-118.022367333333
+Acton-Agua Dulce Unified,SCALE Leadership Academy,32248 Crown Valley Rd Acton CA 93510,NA,NA,NA,not tested,NA,Los Angeles County,34.4727716,-118.1964641
+Acton-Agua Dulce Unified,Vasquez High,33630 Red Rover Mine Road Acton CA 93510-1641,NA,NA,NA,not tested,NA,Los Angeles County,34.5125797,-118.215652

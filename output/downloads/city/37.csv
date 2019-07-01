@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.3471674
+Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.5880200353607,-122.384722630488
+San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.5978274018288,-122.379961310625
+Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5886306818914,-122.389057711078
+Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5772110390416,-122.380622431399
+Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
+Private,Pacific Rim International School,454 Peninsula Avenue San Mateo CA 94401,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580678329294,-122.334246545536
+Private,Palcare,945 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5853423594177,-122.358519103018
+Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5790595624821,-122.368119495521
+Private,Village Park Preschool,1535 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.5918605984446,-122.374093705132
+Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351

@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+West Covina Unified,California Elementary,1125 Bainbridge West Covina CA 91790-4856,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.055123,-117.946692
+West Covina Unified,Cameron Elementary,1225 East Cameron Avenue West Covina CA 91790-3858,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0613010069423,-117.920151858002
+West Covina Unified,Coronado High (Continuation),1500 East Francisquito Avenue West Covina CA 91791-3823,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0502639,-117.9137849
+West Covina Unified,Edgewood Middle,1625 West Durness West Covina CA 91790-3337,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0609291065158,-117.952119532579
+West Covina Unified,Hollencrest Middle,2101 East Merced Avenue West Covina CA 91791-3661,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0538522215313,-117.90101297163
+Rowland Unified,Hollingworth Elementary,3003 East Hollingworth Street West Covina CA 91792-3229,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0067251072151,-117.878737721633
+West Covina Unified,Merced Elementary,1545 East Merced Avenue West Covina CA 91791-3555,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0538065148865,-117.914341947158
+West Covina Unified,Merlinda Elementary,1120 South Valinda Avenue West Covina CA 91790-5361,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0556433923392,-117.92539383903
+Covina-Valley Unified,Mesa Elementary,409 South Barranca Street West Covina CA 91791-2209,12,ppb,TRUE,tested,West Covina,Los Angeles County,34.0662819805741,-117.881430768031
+West Covina Unified,Monte Vista Elementary,1615 West Eldred Avenue West Covina CA 91790-1460,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0816905093213,-117.940189733033
+West Covina Unified,Orangewood Elementary,1440 South Orange Avenue West Covina CA 91790-3406,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0610470612245,-117.954734367347
+Covina-Valley Unified,Rowland Avenue Elementary,1355 East Rowland Avenue West Covina CA 91790-1845,6.3,ppb,TRUE,tested,West Covina,Los Angeles County,34.079215896557,-117.919468073311
+Charter Oak Unified,Royal Oak Middle,303 South Glendora Avenue Covina CA 91724-3235,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.069216664589,-117.923389363362
+West Covina Unified,San Jose Charter Academy,2021 West Alwood Street West Covina CA 91790-3259,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0614286768732,-117.95967328454999
+Covina-Valley Unified,South Hills High,645 South Barranca Street West Covina CA 91723-0269,6.1,ppb,TRUE,tested,West Covina,Los Angeles County,34.0634428784329,-117.881265981803
+Rowland Unified,Telesis Academy of Science & Math,2800 East Hollingworth Street West Covina CA 91792-3029,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0061345,-117.884382137154
+Covina-Valley Unified,Traweek Middle,1941 East Rowland Avenue West Covina CA 91723-0269,5.6,ppb,TRUE,tested,West Covina,Los Angeles County,34.079116,-117.90425
+West Covina Unified,Vine Elementary,1901 East Vine Avenue West Covina CA 91791-3248,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0573565472302,-117.905649213783
+West Covina Unified,Wescove Elementary,1010 West Vine Avenue West Covina CA 91791-4034,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.059869123672,-117.939627073131
+West Covina Unified,West Covina High,1609 East Cameron Avenue West Covina CA 91791-3108,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.061226,-117.911055
+Covina-Valley Unified,Workman Avenue Elementary,1941 East Workman Avenue West Covina CA 91791-1492,NA,NA,FALSE,tested,West Covina,Los Angeles County,34.0755600612245,-117.904309122449

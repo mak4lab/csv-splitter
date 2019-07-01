@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Alvord Adult Education,NA,5.7,ppb,TRUE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Arvin High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,AV Academy High School,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Ballard Elementary,NA,10,ppb,TRUE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Crescent Valley Public Charter,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Hickman Charter,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,High Tech Middle Media Arts,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,KIPP Adelante Preparatory Academy,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Lodestar,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,LPS Oakland R & D Campus,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Memorial Scholars & Athletes,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Mt. Tallac High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,New Day Academy,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Norman R. Brekke Elementary,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Oak Tree Community Day,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Phoenix High Community Day,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+La Mesa-Spring Valley,"Science, Technology, Engineering, Arts and Math Academy at La Presa",NA,NA,NA,NA,exempt,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Spectrum Center - Mission Valley,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Sycamore Rocks Elementary,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Trona High,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482
+Private,Vista del Mar Middle,NA,NA,NA,FALSE,tested,NA,Trøndelag,64.5731537,11.5280364395482

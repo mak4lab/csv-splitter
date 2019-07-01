@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain View Elementary,Alfred S. Madrid Middle,3300 Gilman Road El Monte CA 91732-3226,NA,NA,NA,not tested,Industry,Los Angeles County,34.062546,-118.009542
+Mountain View Elementary,Baker Elementary,12043 Exline Street El Monte CA 91732-2797,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0661511804223,-118.016266023931
+Mountain View Elementary,Charles T. Kranz Intermediate,12460 Fineview Street El Monte CA 91732-3930,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0454126938776,-118.023527
+Mountain View Elementary,Cogswell Elementary,11050 Fineview Street El Monte CA 91733-2817,NA,NA,NA,not tested,South El Monte,Los Angeles County,34.0542680061391,-118.035134489534
+Mountain View Elementary,Creek View Elementary,3742 Lytle Creek North Loop Ontario CA 91761-0242,NA,NA,FALSE,tested,NA,NA,NA,NA
+Mountain View Elementary,Grace Yokley Middle,2947 South Turner Avenue Ontario CA 91761-8146,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.0430356,-117.5845567
+Mountain View Elementary,Jerry Voorhis Elementary,3501 North Durfee Avenue El Monte CA 91732-2911,NA,NA,NA,not tested,El Monte,Los Angeles County,34.067002,-118.009901
+Mountain View Elementary,La Primaria Elementary,4220 Gilman Road El Monte CA 91732-2597,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0755552353279,-118.002840967162
+Mountain View Elementary,Maxson Elementary,12380 Felipe Street El Monte CA 91732-3656,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0504704210526,-118.020325421053
+Mountain View Elementary,Miramonte Elementary,10620 Schmidt Road El Monte CA 91732-2702,NA,NA,NA,not tested,El Monte,Los Angeles County,34.0492394,-118.0201783
+Mountain View Elementary,Mountain View Elementary,2825 Walnut Street Ontario CA 91761-7428,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.0258079,-117.5883124
+Mountain View Elementary,Parkview Elementary,12044 EaStreet Elliott Avenue El Monte CA 91732-3743,NA,NA,NA,not tested,NA,NA,NA,NA
+Mountain View Elementary,Ranch View Elementary,3300 Old Archibald Road Ontario CA 91761-9165,NA,NA,FALSE,tested,NA,NA,NA,NA
+Mountain View Elementary,Twin Lakes Elementary,3900 Gilman Road El Monte CA 91732-2515,NA,NA,NA,not tested,El Monte,Los Angeles County,34.071026,-118.00524
+Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,NA,NA,NA,not tested,Turlock,Stanislaus County,37.543972,-120.879111

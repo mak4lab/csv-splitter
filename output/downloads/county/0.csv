@@ -1,0 +1,475 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oakland Unified,85th Avenue Site,8501 International Boulevard Oakland CA 94621,NA,NA,NA,not tested,Oakland,Alameda County,37.7652777,-122.1998782
+Oakland Unified,Achieve Academy,1700 28th Avenue Oakland CA 94601-2455,NA,NA,FALSE,tested,Oakland,Alameda County,37.7823162,-122.226470071471
+Oakland Unified,ACORN Woodland Elementary,1025 81st Avenue Oakland CA 94621-2455,NA,NA,FALSE,tested,Oakland,Alameda County,37.7530701431694,-122.185688060877
+Alameda Unified,Alameda Adult,1300 Third Street Alameda CA 94501,NA,NA,NA,not tested,Alameda,Alameda County,37.770959,-122.288416
+Alameda Unified,Alameda Community Learning Center,1900 3rd Street Alameda CA 94501-1851,NA,NA,NA,not tested,Livermore,Alameda County,37.679195,-121.771678
+Alameda County Office of Education,Alameda County Community,313 West Winton Avenue Hayward CA 94544-1136,NA,NA,NA,not tested,Hayward,Alameda County,37.6582036357633,-122.097208738841
+Alameda Unified,Alameda High,2201 Encinal Avenue Alameda CA 94501-4406,NA,NA,FALSE,tested,Alameda,Alameda County,37.764248,-122.248057
+Alameda Unified,Alameda Science and Technology Institute,555 Atlantic Avenue Alameda CA 94501-2109,NA,NA,FALSE,tested,Alameda,Alameda County,37.7799368,-122.2734484
+Albany City Unified,Albany Adult,603 Key Route Blvd Albany CA 94706-1422,NA,NA,NA,not tested,NA,Alameda County,37.8965494259009,-122.29256332415
+Albany City Unified,Albany Childrens Center,720 Jackson St Albany CA 94706,8.2,ppb,TRUE,tested,NA,Alameda County,37.8931655138121,-122.30279703031
+Albany City Unified,Albany High,603 Key Route Boulevard Albany CA 94706-1422,NA,NA,FALSE,tested,NA,Alameda County,37.8965494259009,-122.29256332415
+Albany City Unified,Albany Middle,1259 Brighton Avenue Albany CA 94706-1336,NA,NA,FALSE,tested,NA,Alameda County,37.8976746177441,-122.295345998106
+Pleasanton Unified,Alisal Elementary,1454 Santa Rita Road Pleasanton CA 94566-5697,NA,NA,FALSE,tested,,Alameda County,37.67231995,-121.870551916727
+Private,All Saints Catholic School,22870 Second Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6723195744681,-122.076404744681
+Oakland Unified,Allendale Elementary,3670 Penniman Avenue Oakland CA 94619-1116,6.7,ppb,TRUE,tested,Oakland,Alameda County,37.78879484,-122.20530796
+Oakland Unified,Allendale State Pre K,3670 Penniman Ave Oakland CA 94619,NA,NA,FALSE,tested,Oakland,Alameda County,37.78879484,-122.20530796
+Oakland Unified,Alliance Academy,1800 98th Ave. Oakland CA 94603-2702,15,ppb,TRUE,tested,Oakland,Alameda County,37.7231924,-122.2005799
+Castro Valley Unified,Alma Preschool,4400 Alma Avenue Castro Valley CA 94546-3104,NA,NA,NA,not tested,NA,Alameda County,37.7078153959732,-122.072155114094
+Livermore Valley Joint Unified,Altamont Creek Elementary,6500 Garaventa Ranch Road Livermore CA 94551-8701,NA,NA,FALSE,tested,Livermore,Alameda County,37.72275,-121.719127
+Alameda Unified,Alternatives in Action,6221 E 17th Street Oakland CA 94621,NA,NA,NA,not tested,Oakland,Alameda County,37.7647989728011,-122.195580303112
+New Haven Unified,Alvarado Elementary,31100 Fredi Street Union City CA 94587-2662,NA,NA,FALSE,tested,NA,Alameda County,37.5951713,-122.075430811472
+Pleasanton Unified,Amador Valley Adult and Community Education,215 Abbie Street Pleasanton CA 94566-7499,NA,NA,FALSE,tested,,Alameda County,37.6571789651955,-121.874764113713
+Pleasanton Unified,Amador Valley High,1155 Santa Rita Road Pleasanton CA 94566-6176,7.6,ppb,TRUE,tested,,Alameda County,37.6880944,-121.8779237
+Fremont Unified,American High,"36300 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.565347,-122.016483505976
+Fremont Unified,American High,36300 Fremont Boulevard Fremont CA 94536-3511,NA,NA,NA,not tested,Fremont,Alameda County,37.565347,-122.016483505976
+Oakland Unified,American Indian Public Charter,171 12th Street Oakland CA 94607-4900,NA,NA,NA,not tested,Oakland,Alameda County,37.8002714527687,-122.265490617566
+Oakland Unified,American Indian Public Charter School II,171 12th St. Oakland CA 94607-4900,NA,NA,NA,not tested,Oakland,Alameda County,37.8002714527687,-122.265490617566
+Oakland Unified,American Indian Public High,746 Grand Avenue Oakland CA 94607-2714,9.1,ppb,TRUE,tested,Oakland,Alameda County,37.81141805,-122.248800915868
+Livermore Valley Joint Unified,Andrew N. Christensen Middle,5757 Haggin Oaks Avenue Livermore CA 94551-1100,8.5,ppb,TRUE,tested,Livermore,Alameda County,37.7264425364895,-121.72898030786
+Emery Unified,Anna Yates Elementary,1070 41st Street Emeryville CA 94608-3643,NA,NA,NA,not tested,NA,Alameda County,37.832134,-122.279251
+Hayward Unified,Anthony W. Ochoa Middle,2121 Depot Road Hayward CA 94545-2428,NA,NA,FALSE,tested,Hayward,Alameda County,37.638918,-122.1092449
+Fremont Unified,Ardenwood Elementary,"33955 Emilia Ln, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5731681834559,-122.052285077273
+Fremont Unified,Ardenwood Elementary,33955 Emilia Lane Fremont CA 94555-2068,NA,NA,NA,not tested,Fremont,Alameda County,37.5731681834559,-122.052285077273
+San Lorenzo Unified,Arroyo High,15701 Lorenzo Avenue San Lorenzo CA 94580-1407,8.4,ppb,TRUE,tested,NA,Alameda County,37.6808071911724,-122.138406091486
+Livermore Valley Joint Unified,Arroyo Mocho School,1040 Florence Rd Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6696284236321,-121.775205444749
+Livermore Valley Joint Unified,Arroyo Seco Elementary,5280 Irene Way Livermore CA 94550-3508,NA,NA,FALSE,tested,Livermore,Alameda County,37.683854,-121.728769
+Oakland Unified,Arroyo Viejo CDC,1895 78th Ave Oakland CA 94621,NA,NA,FALSE,tested,Oakland,Alameda County,37.7614057140597,-122.177474669596
+Oakland Unified,ASCEND,3709 East 12th Street Oakland CA 94601-4001,NA,NA,FALSE,tested,Oakland,Alameda County,37.7739801700372,-122.221608170037
+Oakland Unified,Aspire Berkley Maynard Academy,6200 San Pablo Avenue Oakland CA 94608-2228,NA,NA,FALSE,tested,Oakland,Alameda County,37.8458475,-122.2847155
+Oakland Unified,Aspire College Academy,8030 Atherton Street Oakland CA 94605-3430,NA,NA,FALSE,tested,Oakland,Alameda County,37.7614805038455,-122.17093793341
+Oakland Unified,Aspire ERES Academy,1936 Courtland Avenue Oakland CA 94601-4614,NA,NA,FALSE,tested,Oakland,Alameda County,37.7757365721111,-122.211810815494
+Oakland Unified,Aspire Golden State College Preparatory Academy,1009 66th Avenue Oakland CA 94610-3430,NA,NA,FALSE,tested,Oakland,Alameda County,37.7585388985989,-122.198712422619
+Oakland Unified,Aspire Lionel Wilson College Preparatory Academy,400 105th Avenue Oakland CA 94603-2968,NA,NA,FALSE,tested,Oakland,Alameda County,37.729478,-122.180412
+Oakland Unified,Aspire Monarch Academy,1445 101st Avenue Oakland CA 94603-3207,NA,NA,FALSE,tested,Oakland,Alameda County,37.7423682306943,-122.168241891114
+Oakland Unified,Aspire Triumph Technology Academy,3200 62nd Avenue Oakland CA 94605-1614,NA,NA,FALSE,tested,Oakland,Alameda County,37.7742900909091,-122.182292676768
+Private,Assumption,1851 136th Avenue San Leandro CA 94578,9.45,ppb,TRUE,tested,San Leandro,Alameda County,37.7197143469388,-122.136845285714
+Newark Unified,August Schilling Elementary,36901 Spruce Street Newark CA 94560-2719,NA,NA,FALSE,tested,Newark,Alameda County,37.528165,-122.046106
+Private,Aurora School,40 Dulwich Road Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8398965025148,-122.231772288077
+Fremont Unified,Azeveda Elementary,"39450 Royal Palm Dr, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5309015000245,-121.993932148958
+San Leandro Unified,Bancroft Middle,1150 Bancroft Avenue San Leandro CA 94577-3863,6.699999999999999,ppb,TRUE,tested,San Leandro,Alameda County,37.7281501919192,-122.148130474747
+San Leandro Unified,Barbara Lee Center for Health and Wellness,2251 Bancroft Ave San Leandro CA 94577,NA,NA,NA,not tested,San Leandro,Alameda County,37.7216733,-122.1454822
+Oakland Unified,Bay Area Technology,8251 Fontaine St Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
+San Lorenzo Unified,Bay Elementary,2001 Bockman Road San Lorenzo CA 94580-1903,NA,NA,FALSE,tested,NA,Alameda County,37.6725764,-122.146889028229
+Alameda Unified,Bay Farm,200 Aughinbaugh Way Alameda CA 94502-7451,NA,NA,FALSE,tested,Alameda,Alameda County,37.7380337,-122.2520287
+Oakland Unified,Baywood Learning Centers,12500 Campus Drive Oakland CA 94619,NA,NA,NA,not tested,Oakland,Alameda County,37.7898699433625,-122.168451318079
+Piedmont City Unified,Beach Elementary,100 Lake Ave Piedmont CA 94611-4340,NA,NA,FALSE,tested,NA,Alameda County,37.82398955,-122.246413579084
+Oakland Unified,Bella Vista CDC,2410 10th Avenue Oakland CA 94606,9.3,ppb,TRUE,tested,Oakland,Alameda County,37.7987379958038,-122.240221546438
+Oakland Unified,Bella Vista Elementary,1025 East 28th Street Oakland CA 94610-4018,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.8004465952219,-122.237365056373
+Berkeley Unified,Berkeley Adult,1701 San Pablo Avenue Berkeley CA 94702-1709,NA,NA,NA,not tested,Berkeley,Alameda County,37.8646775,-122.2907955
+Berkeley Unified,Berkeley Arts Magnet at Whittier,1645 Milvia Street Berkeley CA 94709-2073,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8768906771218,-122.271214400953
+Berkeley Unified,Berkeley High,1980 Allston Way Berkeley CA 94704-1463,6.75,ppb,TRUE,tested,Berkeley,Alameda County,37.8689254380936,-122.270983757155
+Newark Unified,Birch Grove Intermediate,37490 Birch Street Newark CA 94560-4140,NA,NA,FALSE,tested,Newark,Alameda County,37.53516755,-122.02233140513
+Newark Unified,Birch Grove Primary,6071 Smith Ave Newark CA 94560-4536,NA,NA,FALSE,tested,Newark,Alameda County,37.52948475,-122.016105727101
+Private,Bishop O'Dowd High School,9500 Stearns Avenue Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.753491036709,-122.156391567484
+San Lorenzo Unified,Bohannon Middle,800 Bockman Road San Lorenzo CA 94580-2906,10,ppb,TRUE,tested,NA,Alameda County,37.669577,-122.12528529648
+Hayward Unified,Bowman Elementary,520 Jefferson Street Hayward CA 94544-4126,NA,NA,FALSE,tested,Hayward,Alameda County,37.6415373448276,-122.062094344828
+Hayward Unified,Brenkwitz High,22100 Princeton Street Hayward CA 94541-3817,9.4,ppb,TRUE,tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Bret Harte Middle,1047 E Street Hayward CA 94540-5000,8,ppb,TRUE,tested,Hayward,Alameda County,37.6702592083333,-122.078915125
+Oakland Unified,Bret Harte Middle,3700 Coolidge Avenue Oakland CA 94602-3309,8,ppb,TRUE,tested,Oakland,Alameda County,37.80062,-122.206491
+Newark Unified,Bridgepoint High (Continuation),35753 Cedar Boulevard Newark CA 94560-5007,9.112,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Oakland Unified,Bridges Academy,1325 53rd Avenue Oakland CA 94601-5728,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.767374732639,-122.207072898548
+Fremont Unified,Brier Elementary,39201 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.53972,-121.984794
+Oakland Unified,Brookfield Elementary,401 Jones Avenue Oakland CA 94603-1123,10.5,ppb,TRUE,tested,Oakland,Alameda County,37.735938,-122.188695
+Fremont Unified,Brookvale Elementary,3400 Nicolet Avenue Fremont CA 94536-3598,NA,NA,FALSE,tested,Fremont,Alameda County,37.56815035,-122.015190705448
+Hayward Unified,Burbank Elementary,353 B Street Hayward CA 94541-6307,NA,NA,FALSE,tested,Hayward,Alameda County,37.6679363469388,-122.094260367347
+Oakland Unified,Burbank Preschool Center,3550 64th Avenue Oakland CA 94605-1802,NA,NA,FALSE,tested,Oakland,Alameda County,37.775689,-122.177433
+Oakland Unified,Burckhalter Elementary,3994 Burckhalter Avenue Oakland CA 94605-2616,NA,NA,FALSE,tested,Oakland,Alameda County,37.775502027464,-122.16683152223
+Alameda County Office of Education,Burke Academy,612 West A Street Hayward CA 94541,NA,NA,FALSE,tested,Hayward,Alameda County,37.6660715560796,-122.111167647648
+San Leandro Unified,Burrell Pacific Sports Complex,Teagarden Street San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7073633,-122.1593135
+Fremont Unified,Cabrillo Elementary,36700 San Pedro Drive Fremont CA 94536-6406,NA,NA,FALSE,tested,Fremont,Alameda County,37.5520877,-122.0249502
+California School for the Blind (State Special Schl),California School for the Blind,500 Walnut Avenue Fremont CA 94536-4365,9.860499999999998,ppb,TRUE,tested,Fremont,Alameda County,37.5481948,-121.9808293
+California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,39350 Gallaudet Drive Fremont CA 94538-2308,NA,NA,FALSE,tested,Fremont,Alameda County,37.5573291,-121.9617297
+Castro Valley Unified,Canyon Middle,19600 Cull Canyon Road Castro Valley CA 94552-3715,NA,NA,NA,not tested,NA,Alameda County,37.7062653587818,-122.05420800647
+Oakland Unified,Carl B. Munck Elementary,11900 Campus Drive Oakland CA 94619-3104,NA,NA,FALSE,tested,Oakland,Alameda County,37.794583041633,-122.173963396725
+Oakland Unified,Castlemont High,8601 MacArthur Boulevard Oakland CA 94605-4037,NA,NA,FALSE,tested,Oakland,Alameda County,37.7596712675827,-122.162974413273
+Oakland Unified,Castlemont Primary Academy,8711 MacArthur Boulevard Oakland CA 94605-4000,NA,NA,NA,not tested,Oakland,Alameda County,37.7583655927698,-122.16250076927
+Castro Valley Unified,Castro Valley Adult and Career Education,4430 Alma Avenue Castro Valley CA 94546-4704,NA,NA,NA,not tested,NA,Alameda County,37.70834695,-122.070910918706
+Castro Valley Unified,Castro Valley Elementary,20185 San Miguel Avenue Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.697829,-122.081038
+Castro Valley Unified,Castro Valley High,19400 Santa Maria Avenue Castro Valley CA 94546-3400,NA,NA,NA,not tested,NA,Alameda County,37.705047,-122.078419
+Castro Valley Unified,Castro Valley Virtual Academy,18400 Clifton Way Castro Valley CA 94546-2020,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
+Fremont Unified,Centerville Junior High,"37720 Fremont Blvd, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.555767,-122.002575475
+Fremont Unified,Centerville Junior High,37720 Fremont Boulevard Fremont CA 94536-5096,NA,NA,NA,not tested,Fremont,Alameda County,37.555767,-122.002575475
+Oakland Unified,Centro Infantil CDC,2660 East 16th Street Oakland CA 94619,5.2,ppb,TRUE,tested,Oakland,Alameda County,37.7827337507615,-122.230335355299
+New Haven Unified,Cesar Chavez Middle,2801 Hop Ranch Road Union City CA 94587-5708,NA,NA,FALSE,tested,NA,Alameda County,37.5908013814989,-122.047206331903
+Oakland Unified,Chabot Elementary,6686 Chabot Road Oakland CA 94618-1641,NA,NA,FALSE,tested,Oakland,Alameda County,37.8504766263494,-122.243269043838
+Berkeley Unified,Children's Community Center,1140 Walnut Street Berkeley CA 94707,NA,NA,NA,not tested,Berkeley,Alameda County,37.8872174167537,-122.269240453274
+Fremont Unified,Circle of Independent Learning,4700 Calaveras Avenue B Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Oakland Unified,Civicorps Corpsmember Academy,101 Myrtle Street Oakland CA 94607-2507,NA,NA,FALSE,tested,Oakland,Alameda County,37.799551,-122.285345
+Oakland Unified,Claremont Middle,5750 College Avenue Oakland CA 94618-1629,6.4,ppb,TRUE,tested,Oakland,Alameda County,37.8450468,-122.2518436
+Oakland Unified,Cleveland Elementary,745 Cleveland Street Oakland CA 94606-1513,NA,NA,FALSE,tested,Oakland,Alameda County,37.8044846976968,-122.244481284453
+Oakland Unified,Coliseum College Prep Academy,1390 66th Ave. Oakland CA 94621-3506,NA,NA,FALSE,tested,Oakland,Alameda County,37.760497,-122.195615
+San Lorenzo Unified,Colonial Acres Elementary,17115 Meekland Avenue Hayward CA 94541-1304,6.2,ppb,TRUE,tested,Hayward,Alameda County,37.6667862,-122.098816
+Oakland Unified,Community Day High,4917 Mountain Boulevard Oakland CA 94619-3014,NA,NA,FALSE,tested,Oakland,Alameda County,37.7880845200769,-122.177744824891
+Oakland Unified,Community Day Middle,4917 Mountain Blvd. Oakland CA 94619-3014,NA,NA,FALSE,tested,Oakland,Alameda County,37.7880845200769,-122.177744824891
+Alameda County Office of Education,Community School for Creative Education,2111 International Boulevard Oakland CA 94606-4903,NA,NA,FALSE,tested,Oakland,Alameda County,37.78501547203,-122.238761251892
+Oakland Unified,Community United Elementary,6701 International Blvd Oakland CA 94621-3501,5.75,ppb,TRUE,tested,Oakland,Alameda County,37.7615136183069,-122.191638760275
+Oakland Unified,Conservatory of Vocal/Instrumental Arts,3800 Mountain Boulevard Oakland CA 94619-1630,NA,NA,NA,not tested,Oakland,Alameda County,37.7962138,-122.1831356
+Oakland Unified,Conservatory of Vocal/Instrumental Arts High,3637 Magee Avenue Oakland CA 94619-1630,NA,NA,NA,not tested,Oakland,Alameda County,37.7934578597592,-122.19952173185
+New Haven Unified,Core Learning Academy at Conley-Caraballo High,541 Blanche St Hayward CA 94544-7700,NA,NA,FALSE,tested,Hayward,Alameda County,37.6147823877551,-122.029290734694
+Albany City Unified,Cornell Elementary,920 Talbot Avenue Albany CA 94706-2020,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8897097992548,-122.295256152722
+Private,Corpus Christi Elementary,One Estates Drive Piedmont CA 94611,NA,NA,FALSE,tested,NA,Alameda County,37.816932,-122.2134978
+San Lorenzo Unified,Corvallis Elementary,14790 Corvallis Street San Leandro CA 94579-1174,7.9,ppb,TRUE,tested,San Leandro,Alameda County,37.6962579765223,-122.151655495355
+Dublin Unified,Cottonwood Creek School,2400 Central Parkway Dublin CA 94568,NA,NA,FALSE,tested,Dublin,Alameda County,37.7084621,-121.8599563
+Alameda County Office of Education,Cox Academy,9860 Sunnyside St Oakland CA 94603-2750,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
+Oakland Unified,Cox CDC,9860 Sunnyside Street Oakland CA 94603,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
+Berkeley Unified,Cragmont Elementary,830 Regal Road Berkeley CA 94708-1308,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8941866670428,-122.267814654912
+Castro Valley Unified,Creekside Middle,19722 Center Street Castro Valley CA 94546-4704,NA,NA,NA,not tested,NA,Alameda County,37.69906245,-122.058946196194
+Private,Cristo Rey De La Salle,1530 34th Ave Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7788663398378,-122.22263606593
+Oakland Unified,Crocker Highlands Elementary,525 Midcrest Road Oakland CA 94610-1813,NA,NA,FALSE,tested,Oakland,Alameda County,37.811078733192,-122.227000531862
+San Lorenzo Unified,Dayton Elementary,1500 Dayton Avenue San Leandro CA 94579-1528,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6879118,-122.157208539503
+New Haven Unified,Decoto School for Independent Study,600 G Street Union City CA 94587-2400,NA,NA,FALSE,tested,NA,Alameda County,37.5995437,-122.01968182526
+San Lorenzo Unified,Del Rey Elementary,1510 Via Sonya San Lorenzo CA 94580-2760,9.2,ppb,TRUE,tested,NA,Alameda County,37.6686036938776,-122.136619591837
+New Haven Unified,Delaine Eastin Elementary,34901 Eastin Drive Union City CA 94587-5577,NA,NA,FALSE,tested,NA,Alameda County,37.5666583608325,-122.074762424448
+Oakland Unified,Dewey Academy,1111 2nd Avenue Oakland CA 94606-2285,NA,NA,FALSE,tested,Oakland,Alameda County,37.7967754663798,-122.258157607071
+Alameda Unified,Donald D. Lum Elementary,1801 Sandcreek Way Alameda CA 94501-6024,NA,NA,NA,not tested,Alameda,Alameda County,37.76204,-122.259003
+Pleasanton Unified,Donlon Elementary,4150 Dorman Road Pleasanton CA 94588-4411,NA,NA,FALSE,tested,,Alameda County,37.6846217820999,-121.906961064534
+Oakland Unified,Downtown Charter Academy,301 12th Street Oakland CA 94607-4217,NA,NA,FALSE,tested,Oakland,Alameda County,37.812097,-122.299264
+Dublin Unified,Dublin Elementary,7997 Vomac Road Dublin CA 94568-1599,6.3,ppb,TRUE,tested,Dublin,Alameda County,37.714267979484,-121.936778284486
+Dublin Unified,Dublin High,8151 Village Parkway Dublin CA 94568-1656,NA,NA,FALSE,tested,Dublin,Alameda County,37.7207918,-121.923864677741
+Newark Unified,E. L. Musick Elementary,5735 Musick Avenue Newark CA 94560-2554,NA,NA,FALSE,tested,Newark,Alameda County,37.5422929946954,-122.031741196313
+Fremont Unified,E. M. Grimmer Elementary,43030 Newport Drive Fremont CA 94538-6113,NA,NA,FALSE,tested,Fremont,Alameda County,37.519907673019,-121.951554335332
+Hayward Unified,East Avenue Elementary,2424 East Avenue Hayward CA 94541-5634,NA,NA,FALSE,tested,Hayward,Alameda County,37.6730696,-122.0729659
+Livermore Valley Joint Unified,East Avenue Middle,3951 East Avenue Livermore CA 94550-4830,NA,NA,FALSE,tested,Livermore,Alameda County,37.67834605,-121.750481266647
+San Lorenzo Unified,East Bay Arts High,20450 Royal Ave Hayward CA 94541-4712,13,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+Oakland Unified,East Bay Innovation Academy,3400 Malcolm Avenue Oakland CA 94605-5353,NA,NA,FALSE,tested,Oakland,Alameda County,37.746711,-122.141354
+Oakland Unified,East Bay Innovation Academy Upper School,3800 Mountain Blvd Oakland CA 94619,NA,NA,FALSE,tested,Oakland,Alameda County,37.794314,-122.1817001
+Oakland Unified,East Oakland Leadership Academy,2614 Seminary Avenue Oakland CA 94605-1570,NA,NA,NA,not tested,Oakland,Alameda County,37.7721680306122,-122.189731142857
+Oakland Unified,East Oakland Pride Elementary,8000 Birch Street Oakland CA 94621-2123,6.4,ppb,TRUE,tested,Oakland,Alameda County,37.75899,-122.174386
+Private,Ecole Bilingue De Berkeley,1009 Heinz Avenue Berkeley CA 94710,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8540756077075,-122.289470655439
+Hayward Unified,Eden Area ROP,26316 Hesperian Blvd Hayward CA 94545,NA,NA,FALSE,tested,Hayward,Alameda County,37.6386646,-122.1004683
+Hayward Unified,Eden Gardens Elementary,2184 Thayer Avenue Hayward CA 94545-2925,10,ppb,TRUE,tested,Hayward,Alameda County,37.6380404561692,-122.107187204476
+San Lorenzo Unified,Edendale Middle,16160 Ashland Avenue San Lorenzo CA 94580-1116,NA,NA,FALSE,tested,NA,Alameda County,37.6867438,-122.1190571
+Alameda Unified,Edison Elementary,2700 Buena Vista Avenue Alameda CA 94501-1610,NA,NA,FALSE,tested,Alameda,Alameda County,37.76444205,-122.234831839193
+Oakland Unified,Edna Brewer Middle,3748 13th Avenue Oakland CA 94610-2820,12,ppb,TRUE,tested,Oakland,Alameda County,37.80360155,-122.228672201342
+Hayward Unified,Eldridge Elementary,26825 Eldridge Avenue Hayward CA 94544-3729,NA,NA,FALSE,tested,Hayward,Alameda County,37.6400767,-122.0896277
+Dublin Unified,Eleanor Murray Fallon,3601 Kohnen Way Dublin CA 94568-8751,10.8,ppb,TRUE,tested,Dublin,Alameda County,37.7154653,-121.867315485935
+Oakland Unified,Elmhurst Community Prep,1800 98th Avenue Oakland CA 94603-2702,NA,NA,FALSE,tested,Oakland,Alameda County,37.7231924,-122.2005799
+Oakland Unified,Emerson CDC,4801 Lawton Avenue Oakland CA 94609,NA,NA,NA,not tested,Oakland,Alameda County,37.8341191427421,-122.25757049463
+Oakland Unified,Emerson Elementary,4803 Lawton Avenue Oakland CA 94609-2208,NA,NA,FALSE,tested,Oakland,Alameda County,37.83408405,-122.257912601757
+Berkeley Unified,Emerson Elementary,2800 Forest Avenue Berkeley CA 94705-1309,NA,NA,FALSE,tested,Berkeley,Alameda County,37.861439,-122.251019
+Emery Unified,Emery Secondary,915 54th Street Oakland CA 94608-3142,NA,NA,NA,not tested,Oakland,Alameda County,37.8379092,-122.2805288
+Emery Unified,Emeryville Child Development Center,1220 53rd Street Emeryville CA 94608,NA,NA,FALSE,tested,NA,Alameda County,37.8368159,-122.2850281
+Emery Unified,Emeryville Preschool Students,1275 - 61st Street Emeryville CA 94608-2132,NA,NA,NA,not tested,NA,Alameda County,37.84286845,-122.287407904281
+Livermore Valley Joint Unified,Emma C. Smith Elementary,391 Ontario Drive Livermore CA 94550-5249,NA,NA,FALSE,tested,Livermore,Alameda County,37.6659318957745,-121.796448621577
+Alameda Unified,Encinal Junior/Senior High,210 Central Avenue Alameda CA 94501-3246,NA,NA,FALSE,tested,Alameda,Alameda County,37.7736067951272,-122.289958964738
+Oakland Unified,EnCompass Academy Elementary,1025 81st Ave Oakland CA 94621-2455,NA,NA,FALSE,tested,Oakland,Alameda County,37.7530701431694,-122.185688060877
+Alameda County Office of Education,Envision Academy for Arts & Technology,1515 Webster Street Oakland CA 94612-3355,NA,NA,FALSE,tested,Oakland,Alameda County,37.8045567263168,-122.268201447303
+Oakland Unified,Epic Charter,1112 29th Avenue Oakland CA 94601-2212,NA,NA,FALSE,tested,Oakland,Alameda County,37.77750725,-122.23067075
+Private,Escuela Bilingüe Internacional,410 Alcatraz Avenue Oakland CA 94609,NA,NA,FALSE,tested,Oakland,Alameda County,37.8505100769231,-122.257322961538
+Oakland Unified,Esperanza Elementary,10315 E Street Oakland CA 94603-3133,NA,NA,FALSE,tested,Oakland,Alameda County,37.73720475,-122.174328472382
+Pleasanton Unified,Fairlands Elementary,4151 West Las Positas Boulevard Pleasanton CA 94588-4199,NA,NA,FALSE,tested,,Alameda County,37.6920619393752,-121.873398095342
+Hayward Unified,Faith Ringgold School of Arts and Science,1570 Ward Street Hayward CA 94541-3030,NA,NA,FALSE,tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Pleasanton Unified,Foothill High,4375 Foothill Road Pleasanton CA 94588-9799,NA,NA,FALSE,tested,,Alameda County,37.6767765252361,-121.921601308575
+Fremont Unified,Forest Park Elementary,"34400 Maybird Cir, Fremont, CA 94555",NA,NA,NA,exempt,Fremont,Alameda County,37.5612847210315,-122.051632006164
+Fremont Unified,Forest Park Elementary,34400 Maybird Circle Fremont CA 94555-2917,NA,NA,NA,not tested,Fremont,Alameda County,37.5612847210315,-122.051632006164
+Oakland Unified,Francophone Charter School of Oakland,9736 Lawlor Street Oakland CA 94605-4735,NA,NA,FALSE,tested,Oakland,Alameda County,37.7515747549586,-122.15732832785
+Oakland Unified,Frank G Mar Site,274 12th Street Oakland CA 94607,NA,NA,NA,not tested,Oakland,Alameda County,37.8014749500842,-122.268095348769
+Alameda Unified,Frank Otis Elementary,3010 Fillmore Street Alameda CA 94501-5544,NA,NA,FALSE,tested,Alameda,Alameda County,37.75375335,-122.238297162861
+Alameda Unified,Franklin Elementary,1433 San Antonio Avenue Alameda CA 94501-4039,NA,NA,FALSE,tested,Alameda,Alameda County,37.7691786430465,-122.261858909965
+Oakland Unified,Franklin Elementary,915 Foothill Boulevard Oakland CA 94606-3013,6.1,ppb,TRUE,tested,Oakland,Alameda County,37.7939061327384,-122.248578865987
+Berkeley Unified,Franklin Preschool,1460 Eighth Street Berkeley  CA 94710,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8763716406494,-122.298230934903
+Fremont Unified,Fred E. Weibel Elementary,45135 South Grimmer Boulevard Fremont CA 94539-6631,8.3,ppb,TRUE,tested,Fremont,Alameda County,37.506196,-121.926512430028
+Oakland Unified,Fred T. Korematsu Discovery Academy,10315 E St Oakland CA 94603-3133,NA,NA,FALSE,tested,Oakland,Alameda County,37.73720475,-122.174328472382
+Dublin Unified,Frederiksen Elementary,7243 Tamarack Drive Dublin CA 94568-1746,NA,NA,FALSE,tested,Dublin,Alameda County,37.7161037,-121.922684042227
+Fremont Unified,Fremont Adult,4700 Calaveras Avenue Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Oakland Unified,Fremont High,4610 Foothill Boulevard Oakland CA 94601-4618,NA,NA,FALSE,tested,Oakland,Alameda County,37.7841031,-122.2238666
+Oakland Unified,Frick Middle,2845 64th Avenue Oakland CA 94605-2027,NA,NA,FALSE,tested,Oakland,Alameda County,37.7710889875391,-122.184205206149
+Oakland Unified,Fruitvale Elementary,3200 Boston Avenue Oakland CA 94602-2899,NA,NA,FALSE,tested,Oakland,Alameda County,37.796426,-122.213957
+Oakland Unified,Futures Elementary,6701 International Boulevard Oakland CA 94621-3501,NA,NA,FALSE,tested,Oakland,Alameda County,37.7615136183069,-122.191638760275
+Fremont Unified,G. M. Walters Junior High,39600 Logan Drive Fremont CA 94538-1912,6.6,ppb,TRUE,tested,Fremont,Alameda County,37.536994,-121.985187
+San Leandro Unified,Garfield Elementary,13050 Aurora Drive San Leandro CA 94577-3159,NA,NA,FALSE,tested,San Leandro,Alameda County,37.704264042752,-122.186136750719
+Oakland Unified,Garfield Elementary,1640 22nd Avenue Oakland CA 94606-4710,6.05,ppb,TRUE,tested,Oakland,Alameda County,37.7867106470588,-122.235683705882
+Oakland Unified,Gateway to College at Laney College,900 Fallon Street Oakland CA 94607-4808,NA,NA,NA,not tested,Oakland,Alameda County,37.797243,-122.263706
+Fremont Unified,Glankler Early Learning Center,39207 Sundale Drive Fremont CA 94538-1916,NA,NA,FALSE,tested,Fremont,Alameda County,37.5396325988888,-121.984859300833
+Hayward Unified,Glassbrook Elementary,975 Schafer Road Hayward CA 94544-3614,NA,NA,FALSE,tested,Hayward,Alameda County,37.6409460035683,-122.08079522331
+Fremont Unified,Glenmoor Elementary,4620 Mattos Drive Fremont CA 94536-6784,NA,NA,FALSE,tested,Fremont,Alameda County,37.545657227359,-122.004857558375
+Oakland Unified,Glenview Elementary,4215 La Cresta Avenue Oakland CA 94602-1739,NA,NA,FALSE,tested,Oakland,Alameda County,37.80577775,-122.219604388406
+Oakland Unified,Global Family,2035 40th Avenue Oakland CA 94601-4203,NA,NA,FALSE,tested,Oakland,Alameda County,37.7801822,-122.212335289283
+Hayward Unified,Golden Oak Montessori of Hayward,2652 Vergil Court Castro Valley CA 94546-6402,NA,NA,FALSE,tested,NA,Alameda County,37.6879723543384,-122.069620482607
+Livermore Valley Joint Unified,Granada High,400 Wall Street Livermore CA 94550-4066,NA,NA,FALSE,tested,Livermore,Alameda County,37.67506785,-121.78796688858
+San Lorenzo Unified,Grant Elementary,879 Grant Avenue San Lorenzo CA 94580-1403,NA,NA,FALSE,tested,NA,Alameda County,37.6806104242424,-122.134784757576
+Oakland Unified,Grass Valley Elementary,4720 Dunkirk Avenue Oakland CA 94605-5607,NA,NA,FALSE,tested,Oakland,Alameda County,37.7530927412877,-122.124889011844
+Oakland Unified,Greenleaf Elementary,6328 East 17th Street Oakland CA 94621-3832,NA,NA,FALSE,tested,Oakland,Alameda County,37.7643889908344,-122.19484853313
+New Haven Unified,Guy Jr. Emanuele Elementary,100 Decoto Road Union City CA 94587-3572,NA,NA,NA,not tested,NA,Alameda County,37.5798893,-122.0243491
+Newark Unified,H. A. Snow Elementary,6580 Mirabeau Drive Newark CA 94560-1121,NA,NA,FALSE,tested,Newark,Alameda County,37.54205605,-122.04920602959
+Hayward Unified,Harder Elementary,495 Wyeth Road Hayward CA 94544-2951,NA,NA,FALSE,tested,Hayward,Alameda County,37.651390981657,-122.072435407337
+Dublin Unified,Harold William Kolb,3150 Palermo Way Dublin CA 94568-7326,NA,NA,FALSE,tested,Dublin,Alameda County,37.71187665,-121.858754015094
+Oakland Unified,Harriet Tubman CDC,800 33rd Street Oakland CA 94609,NA,NA,NA,not tested,Oakland,Alameda County,37.823419,-122.272928
+Pleasanton Unified,Harvest Park Middle,4900 Valley Ave. Pleasanton CA 94566-5399,NA,NA,FALSE,tested,,Alameda County,37.6753745,-121.882465778918
+Fremont Unified,Harvey Green Elementary,42875 Gatewood Street Fremont CA 94538-4131,NA,NA,FALSE,tested,Fremont,Alameda County,37.5193434362124,-121.958535690013
+Piedmont City Unified,Havens Elementary,323 Highland Avenue Piedmont CA 94611-4023,NA,NA,FALSE,tested,NA,Alameda County,37.8252126,-122.23322857236
+Hayward Unified,Hayward Adult,22100 Princeton St Hayward CA 94540-0001,NA,NA,NA,not tested,Hayward,Alameda County,37.6681204,-122.0965836
+Hayward Unified,Hayward High,1633 East Avenue Hayward CA 94541-5314,NA,NA,FALSE,tested,Hayward,Alameda County,37.6718433604168,-122.06321744702
+Private,Head-Royce School,4315 Lincoln Avenue Oakland CA 94602,NA,NA,FALSE,tested,Oakland,Alameda County,37.8081743777764,-122.204741888892
+Private,Helen Turner Children's Center,23640 Reed Way Hayward CA 94541,6.6,ppb,TRUE,tested,Hayward,Alameda County,37.6569733849546,-122.108012215753
+Alameda Unified,Henry Haight Elementary,2025 Santa Clara Avenue Alameda CA 94501-2720,NA,NA,FALSE,tested,Alameda,Alameda County,37.76986575,-122.250234138254
+Pleasanton Unified,Henry P. Mohr Elementary,3300 Dennis Drive Pleasanton CA 94588-8377,NA,NA,FALSE,tested,NA,Alameda County,37.6921492,-121.860393211723
+San Lorenzo Unified,Hesperian Elementary,620 Drew Street San Lorenzo CA 94580-1046,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6939872409369,-122.125209013431
+Hayward Unified,Highland,2021 Highland Boulevard Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.662192,-122.0593081
+Oakland Unified,Highland CDC,1322 86th Avenue Oakland CA 94621,NA,NA,FALSE,tested,Oakland,Alameda County,37.7518785331871,-122.177858031878
+Oakland Unified,Hillcrest Elementary,30 Marguerite Drive Oakland CA 94618-2230,NA,NA,FALSE,tested,Oakland,Alameda County,37.8405078721116,-122.232490055236
+New Haven Unified,Hillview Crest Elementary,31410 Wheelon Avenue Hayward CA 94544-7662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6148331607151,-122.036186698954
+Oakland Unified,Hintil CDC,11850 Campus Dr. Oakland CA 94619,6.7,ppb,TRUE,tested,Oakland,Alameda County,37.7946956421427,-122.174975282423
+Private,Holy Names High School,4660 Harbord Drive Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.8390220362751,-122.23208688029
+Oakland Unified,Home and Hospital Program,1011 Union Street Oakland CA 94607-4808,NA,NA,NA,not tested,Oakland,Alameda County,37.8073273737374,-122.289435828283
+Oakland Unified,Hoover Elementary,890 Brockhurst Street Oakland CA 94608-4318,NA,NA,FALSE,tested,Oakland,Alameda County,37.8232458676453,-122.27539074172
+Berkeley Unified,Hopkins Preschool,1810 Hopkins Street Berkeley  CA 94707,5.550000000000001,ppb,TRUE,tested,Berkeley,Alameda County,37.8842734,-122.276239
+Oakland Unified,Horace Mann Elementary,5222 Ygnacio Avenue Oakland CA 94601-5422,5.6,ppb,TRUE,tested,Oakland,Alameda County,37.773418,-122.202400763158
+Oakland Unified,Howard Elementary,8755 Fontaine Street Oakland CA 94605-4197,8.3,ppb,TRUE,tested,Oakland,Alameda County,37.7714678,-122.1568177
+Hayward Unified,Impact Academy of Arts & Technology,2560 Darwin Street Hayward CA 94545-3451,NA,NA,FALSE,tested,Hayward,Alameda County,37.6306989,-122.102808489352
+Oakland Unified,"Independent Study, Sojourner Truth",8251 Fontaine  Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
+Oakland Unified,Infant and Preschool Program,3550 64th Ave. Oakland CA 94605-1802,NA,NA,FALSE,tested,Oakland,Alameda County,37.775689,-122.177433
+Oakland Unified,International Community,2825 International Boulevard Oakland CA 94601-1543,NA,NA,FALSE,tested,Oakland,Alameda County,37.7796417142857,-122.229767040816
+Fremont Unified,Irvington High,41800 Blacow Road Fremont CA 94538-3353,NA,NA,NA,not tested,Fremont,Alameda County,37.5225016,-121.9698683
+Fremont Unified,Irvington High,"41800 Blacow Rd, Fremont, CA 94538",NA,NA,NA,exempt,Fremont,Alameda County,37.5359788,-121.9974553
+Alameda Unified,Island High (Continuation),1900 Third Street Alameda CA 94501-1851,7.6,ppb,TRUE,tested,Alameda,Alameda County,37.779689,-122.287832
+New Haven Unified,Itliong-Vera Cruz,31604 Alvarado Boulevard Union City CA 94587-5802,NA,NA,FALSE,tested,NA,Alameda County,37.5940148,-122.075862133026
+Dublin Unified,J. M. Amador Elementary,2100 East Cantara Drive Dublin CA 94568-6700,NA,NA,FALSE,tested,Dublin,Alameda County,37.71832565,-121.842584213225
+Livermore Valley Joint Unified,Jackson Avenue Elementary,554 Jackson Avenue Livermore CA 94550-3434,NA,NA,FALSE,tested,Livermore,Alameda County,37.68497945,-121.741209216416
+Newark Unified,James A. Graham Elementary,36270 Cherry Street Newark CA 94560-2318,NA,NA,FALSE,tested,Newark,Alameda County,37.5385757991409,-122.042763618605
+Dublin Unified,James Dougherty Elementary,5301 Hibernia Drive Dublin CA 94568-3164,NA,NA,FALSE,tested,Dublin,Alameda County,37.70942065,-121.884081434955
+Fremont Unified,James Leitch Elementary,47100 Fernald Street Fremont CA 94539-7005,NA,NA,NA,not tested,Fremont,Alameda County,37.48761645,-121.922657258549
+New Haven Unified,James Logan High,1800 H Street Union City CA 94587-3321,NA,NA,FALSE,tested,NA,Alameda County,37.5926016,-122.025843
+Oakland Unified,Jefferson CDC,1975 40th Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7786300323369,-122.213972953112
+Berkeley Unified,Jefferson Elementary,1400 Ada Street Berkeley CA 94702-1217,6.65,ppb,TRUE,tested,Berkeley,Alameda County,37.878906,-122.285146
+San Leandro Unified,Jefferson Elementary,14300 Bancroft Avenue San Leandro CA 94578-1727,NA,NA,FALSE,tested,San Leandro,Alameda County,37.71303565,-122.135659097733
+Oakland Unified,Joaquin Miller Elementary,5525 Ascot Drive Oakland CA 94611-3001,7.7,ppb,TRUE,tested,Oakland,Alameda County,37.8190454798256,-122.201463430067
+Livermore Valley Joint Unified,Joe Michell,1001 Elaine Avenue Livermore CA 94550-5414,NA,NA,FALSE,tested,Livermore,Alameda County,37.6695242594422,-121.783491806532
+Fremont Unified,John Blacow Elementary,40404 Sundale Drive Fremont CA 94538-3314,NA,NA,FALSE,tested,Fremont,Alameda County,37.5278759824823,-121.97766289141
+Newark Unified,John F. Kennedy Elementary,35430 Blackburn Drive Newark CA 94560-1312,NA,NA,FALSE,tested,Newark,Alameda County,37.5525641,-122.042348129968
+Fremont Unified,John F. Kennedy High,39999 Blacow Road Fremont CA 94538-1913,NA,NA,FALSE,tested,Fremont,Alameda County,37.528581,-121.983517
+Fremont Unified,John G. Mattos Elementary,37944 Farwell Drive Fremont CA 94536-7008,NA,NA,FALSE,tested,Fremont,Alameda County,37.5384613424551,-122.012529408571
+Fremont Unified,John Gomes Elementary,555 Lemos Lane Fremont CA 94539-3750,NA,NA,FALSE,tested,Fremont,Alameda County,37.5499652829224,-121.948201802562
+Dublin Unified,John Green Elementary,3300 Antone Way Dublin CA 94568-7550,NA,NA,FALSE,tested,Dublin,Alameda County,37.717948,-121.863888
+Fremont Unified,John M. Horner Junior High,41365 Chapel Way Fremont CA 94538-4202,6.8,ppb,TRUE,tested,Fremont,Alameda County,37.529002439362,-121.963064904923
+Berkeley Unified,John Muir Elementary,2955 Claremont Avenue Berkeley CA 94705-2449,8.1,ppb,TRUE,tested,Berkeley,Alameda County,37.857296,-122.245898
+San Leandro Unified,John Muir Middle,1444 Williams Street San Leandro CA 94577-2403,NA,NA,FALSE,tested,San Leandro,Alameda County,37.721329,-122.1508926
+Fremont Unified,Joseph Azevada Elementary,39450 Royal Palm Drive Fremont CA 94538-1843,NA,NA,NA,not tested,Fremont,Alameda County,37.5309015000245,-121.993932148958
+Fremont Unified,Joshua Chadbourne Elementary,801 Plymouth Avenue Fremont CA 94539-4637,NA,NA,FALSE,tested,Fremont,Alameda County,37.542204,-121.940116
+Livermore Valley Joint Unified,Junction K-8,298 Junction Avenue Livermore CA 94551-5903,NA,NA,FALSE,tested,Livermore,Alameda County,37.6879208,-121.765169079566
+Oakland Unified,Ka Lo Academy,1561 Vista Street Oakland CA 94602,NA,NA,NA,not tested,Oakland,Alameda County,37.8067204395772,-122.216534161945
+Oakland Unified,Kaiser Elementary,25 South Hill Court Oakland CA 94618-2306,NA,NA,FALSE,tested,Oakland,Alameda County,37.8530951117598,-122.231662604447
+Berkeley Unified,King Child Development,1939 Ward Street Berkeley CA 94703,6.2,ppb,TRUE,tested,Berkeley,Alameda County,37.8590402906214,-122.270700705245
+Oakland Unified,KIPP Bridge Academy,1700 Market Street Oakland CA 94607-3230,NA,NA,FALSE,tested,Oakland,Alameda County,37.8114162258713,-122.279555616207
+San Lorenzo Unified,KIPP King Collegiate High,2005 Via Barrett San Lorenzo CA 94580-1315,NA,NA,FALSE,tested,NA,Alameda County,37.6743136695458,-122.149903615786
+Hayward Unified,Knowledge Enlightens You (KEY) Academy,1570 Ward St Hayward CA 94541-3030,NA,NA,NA,not tested,Hayward,Alameda County,37.6770186,-122.072571346711
+Oakland Unified,Lafayette Elementary,1700 Market St. Oakland CA 94607-3330,NA,NA,FALSE,tested,Oakland,Alameda County,37.8114162258713,-122.279555616207
+Oakland Unified,Latitude High,1112 29th Ave. Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.77750725,-122.23067075
+Oakland Unified,Laurel CDC,3825 California Street Oakland CA 94619,5.2,ppb,TRUE,tested,Oakland,Alameda County,37.7935276449754,-122.195298968074
+Oakland Unified,Laurel Elementary,3750 Brown Avenue Oakland CA 94619-1406,6.3,ppb,TRUE,tested,Oakland,Alameda County,37.7930809823823,-122.196456262657
+Livermore Valley Joint Unified,Lawrence Elementary School,2451 Portola Avenue Livermore CA 94551,NA,NA,FALSE,tested,Livermore,Alameda County,37.6900872,-121.770633
+Alameda County Office of Education,Lazear Charter Academy,824 29th Avenue Oakland CA 94601-2205,NA,NA,FALSE,tested,Oakland,Alameda County,37.7754618023055,-122.232648231622
+Hayward Unified,Leadership Public Schools - Hayward,28000 Calaroga Avenue Hayward CA 94545-4600,NA,NA,FALSE,tested,Hayward,Alameda County,37.624106,-122.087806
+Oakland Unified,Learning Without Limits,2035 40th Ave Oakland CA 94601-4203,NA,NA,FALSE,tested,Oakland,Alameda County,37.7801822,-122.212335289283
+Berkeley Unified,Leconte Elementary,2241 Russell Street Berkeley CA 94705-1029,5.7,ppb,TRUE,tested,Berkeley,Alameda County,37.8573674146861,-122.262402670742
+Fremont Unified,Leitch Elementary,"47100 Fernald St, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.48761645,-121.922657258549
+Livermore Valley Joint Unified,Leo R. Croce Elementary,5650 Scenic Avenue Livermore CA 94551-1224,NA,NA,FALSE,tested,Livermore,Alameda County,37.71778855,-121.728446526091
+Oakland Unified,LIFE Academy,2101 35th Avenue Oakland CA 94601-3124,NA,NA,FALSE,tested,Oakland,Alameda County,37.78437,-122.216736
+Oakland Unified,Lighthouse Community Charter,444 Hegenberger Street Oakland CA 94621-1418,NA,NA,FALSE,tested,Oakland,Alameda County,37.7369389655172,-122.196854068966
+Oakland Unified,Lighthouse Community Charter High,444 Hegenberger Road Oakland CA 94621-1418,NA,NA,FALSE,tested,Oakland,Alameda County,37.7369389655172,-122.196854068966
+Oakland Unified,Lincoln Elementary,225 11th Street Oakland CA 94607-4409,7,ppb,TRUE,tested,Oakland,Alameda County,37.8004583239763,-122.268145735173
+Newark Unified,Lincoln Elementary,36111 Bettencourt Street Newark CA 94560-2101,NA,NA,FALSE,tested,Newark,Alameda County,37.5362983061224,-122.052616979592
+San Leandro Unified,Lincoln High (Continuation),2600 Teagarden Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.709039,-122.160271
+Alameda Unified,Lincoln Middle,1250 Fernside Boulevard Alameda CA 94501-4808,NA,NA,FALSE,tested,Alameda,Alameda County,37.7669416,-122.2320496
+Livermore Valley Joint Unified,Livermore High,600 Maple Street Livermore CA 94550-3298,NA,NA,FALSE,tested,Livermore,Alameda County,37.680493,-121.761581
+Livermore Valley Joint Unified,Livermore Valley Charter,3142 Constitution Drive Livermore CA 94551-7570,NA,NA,NA,not tested,Livermore,Alameda County,37.7049536538078,-121.817498763096
+Oakland Unified,Lockwood CDC,1125 69th Avenue Oakland CA 94621,NA,NA,FALSE,tested,Oakland,Alameda County,37.759188508333,-122.192734113272
+A Lighthouse Community Charter Public,Lodestar,"701, 105th Ave Oakland CA 94601-2630",NA,NA,NA,not tested,Oakland,Alameda County,37.7391795,-122.1668712
+A Lighthouse Community Charter Public,Lodestar A Lighthouse Community Charter Public,2433 Coolidge Avenue Oakland CA 94601,6.9,ppb,TRUE,tested,Oakland,Alameda County,37.7860766666667,-122.219261666667
+Berkeley Unified,Longfellow Arts and Technology Middle,1500 Derby Street Berkeley CA 94703-1817,7.1,ppb,TRUE,tested,Berkeley,Alameda County,37.85865,-122.280211
+Hayward Unified,Longwood Elementary,850 Longwood Avenue Hayward CA 94541-7151,NA,NA,FALSE,tested,Hayward,Alameda County,37.6590006088813,-122.110153095253
+Hayward Unified,Lorin A. Eden Elementary,27790 Portsmouth Avenue Hayward CA 94545-4013,NA,NA,FALSE,tested,Hayward,Alameda County,37.6243776,-122.1005191
+Pleasanton Unified,Lydiksen Elementary,7700 Highland Oaks Drive Pleasanton CA 94588-4225,8.5,ppb,TRUE,tested,,Alameda County,37.6801045,-121.9224367
+Albany City Unified,MacGregor High (Continuation),603 Key Rte Blvd Albany CA 94706-1422,NA,NA,FALSE,tested,NA,Alameda County,37.897482125,-122.2929625
+San Leandro Unified,Madison Elementary,14751 Juniper Street San Leandro CA 94579-1222,NA,NA,FALSE,tested,San Leandro,Alameda County,37.695629,-122.160449
+Oakland Unified,Madison Park Academy 6-12,400 Capistrano Dr. Oakland CA 94603-3520,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.727861,-122.179164
+Oakland Unified,Madison Park Academy TK-5,470 El Paseo Drive Oakland CA 94603-3565,NA,NA,FALSE,tested,Oakland,Alameda County,37.7283797119688,-122.177342595123
+Berkeley Unified,Malcolm X Elementary,1731 Prince Street Berkeley CA 94703-2464,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8522196772718,-122.273709375348
+Oakland Unified,Manzanita CDC,2618 Grande Vista Avenue Oakland CA 94601,NA,NA,FALSE,tested,Oakland,Alameda County,37.7919366091505,-122.226267052211
+Oakland Unified,Manzanita Community,2409 East 27th Street Oakland CA 94601-1303,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.7926516773738,-122.224904680367
+Oakland Unified,Manzanita SEED Elementary,2409 East 27th St Oakland CA 94601-1303,NA,NA,FALSE,tested,Oakland,Alameda County,37.7926516773738,-122.224904680367
+Albany City Unified,Marin Elementary,1001 Santa Fe Avenue Albany CA 94706-2341,NA,NA,FALSE,tested,NA,Alameda County,37.888418,-122.288236
+Oakland Unified,Markham Elementary,7220 Krause Avenue Oakland CA 94605-2380,NA,NA,FALSE,tested,Oakland,Alameda County,37.7653812409639,-122.178829759036
+Castro Valley Unified,Marshall Elementary,20111 Marshall Street Castro Valley CA 94546-4656,NA,NA,NA,not tested,NA,Alameda County,37.6983042,-122.066396376465
+Berkeley Unified,Martin Luther King Middle,1781 Rose Street Berkeley CA 94703-1048,NA,NA,FALSE,tested,Berkeley,Alameda County,37.88241675,-122.27770699029
+Hayward Unified,"Martin Luther King, Jr. Middle",26890 Holly Hill Avenue Hayward CA 94545-3500,NA,NA,FALSE,tested,Hayward,Alameda County,37.6352299849854,-122.092538578604
+Livermore Valley Joint Unified,Marylin Avenue Elementary,800 Marylin Avenue Livermore CA 94551-6514,NA,NA,FALSE,tested,Livermore,Alameda County,37.68475065,-121.785998196708
+Alameda Unified,Maya Lin,825 Taylor Street Alameda CA 94501-3411,NA,NA,FALSE,tested,NA,Alameda County,37.8874636,-122.3035456
+Oakland Unified,McClymonds High,2607 Myrtle St Oakland CA 94607-3415,7.8,ppb,TRUE,tested,Oakland,Alameda County,37.8179557772994,-122.27868663019
+San Leandro Unified,McKinley Elementary,2150 East 14th Street San Leandro CA 94577-6025,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7190104836725,-122.147849341045
+Oakland Unified,Melrose Leadership Academy,4730 Fleming Avenue Oakland CA 94619-2515,12,ppb,TRUE,tested,Oakland,Alameda County,37.7804308739239,-122.197975303711
+Piedmont City Unified,Millennium High Alternative,760 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,FALSE,tested,NA,Alameda County,37.8229051,-122.2336783
+Fremont Unified,Mission San Jose Elementary,43545 Bryant Street Fremont CA 94539-5885,NA,NA,FALSE,tested,Fremont,Alameda County,37.5293015,-121.9217133
+Fremont Unified,Mission San Jose High,41717 Palm Avenue Fremont CA 94539-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.5451551020408,-121.931842734694
+Fremont Unified,Mission Valley Elementary,41700 Denise Street Fremont CA 94539-4562,NA,NA,FALSE,tested,Fremont,Alameda County,37.536635,-121.946112065317
+Mission Valley ROC/P,Mission Valley ROCP,5019 Stevenson Boulevard Fremont CA 94538-2449,NA,NA,FALSE,tested,Fremont,Alameda County,37.5281471544418,-121.983403422142
+San Leandro Unified,Monroe Elementary,3750 Monterey Boulevard San Leandro CA 94578-4116,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6981333939697,-122.146120511201
+Oakland Unified,Montclair Elementary,1757 Mountain Boulevard Oakland CA 94611-2259,11,ppb,TRUE,tested,Oakland,Alameda County,37.8310611303129,-122.212856346261
+Oakland Unified,Montera Middle,5555 Ascot Drive Oakland CA 94611-3001,10,ppb,TRUE,tested,Oakland,Alameda County,37.8192759138259,-122.201294789781
+Hayward Unified,Mt. Eden High,2300 Panama Street Hayward CA 94545-4662,NA,NA,FALSE,tested,Hayward,Alameda County,37.6237799,-122.089999804239
+Dublin Unified,Murray Elementary,8435 Davona Drive Dublin CA 94568-1107,NA,NA,FALSE,tested,Dublin,Alameda County,37.7211869859991,-121.933043262467
+Alameda Unified,Nea Community Learning Center,1900 Third St Alameda CA 94501-1851,NA,NA,FALSE,tested,Alameda,Alameda County,37.779689,-122.287832
+Oakland Unified,Neighborhood Centers Adult Education,750 International Boulevard Oakland CA 94606-2214,NA,NA,NA,not tested,Oakland,Alameda County,37.793849,-122.251536
+New Haven Unified,New Haven Adult,1800 H St. Union City CA 94587-3321,NA,NA,FALSE,tested,NA,Alameda County,37.5926016,-122.025843
+Oakland Unified,New Highland Academy,8521 A Street Oakland CA 94621-1619,6.1,ppb,TRUE,tested,Oakland,Alameda County,37.75161375,-122.179691539501
+Newark Unified,Newark Junior High,6201 Lafayette Avenue Newark CA 94560-2432,6.926,ppb,TRUE,tested,Newark,Alameda County,37.5417841019707,-122.039344613929
+Newark Unified,Newark Memorial High,39375 Cedar Boulevard Newark CA 94560-5007,NA,NA,FALSE,tested,Newark,Alameda County,37.52062465,-122.002553870503
+Fremont Unified,Niles Elementary,"37141 2nd St, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.5770356666667,-121.984622
+Oakland Unified,North Oakland Community Charter,1000 42nd Street Oakland CA 94608-3621,NA,NA,FALSE,tested,NA,Alameda County,37.83320175,-122.2764691
+Fremont Unified,O. N. Hirsch Elementary,41399 Chapel Way Fremont CA 94538-4202,NA,NA,FALSE,tested,Fremont,Alameda County,37.5286329509267,-121.963000411462
+Oakland Unified,Oakland Adult and Career Education,2607 Myrtle Street Oakland CA 94607,NA,NA,NA,not tested,Oakland,Alameda County,37.8179557772994,-122.27868663019
+Oakland Unified,Oakland Charter Academy,4215 Foothill Boulevard Oakland CA 94601-1404,NA,NA,FALSE,tested,Oakland,Alameda County,37.7758435,-122.2129815
+Oakland Unified,Oakland Charter High,345 12th Street Oakland CA 94607-4217,5.6,ppb,TRUE,tested,Oakland,Alameda County,37.8120926,-122.29927148
+Oakland Unified,Oakland High,1023 MacArthur Boulevard Oakland CA 94610-3930,NA,NA,FALSE,tested,Oakland,Alameda County,37.8053829284868,-122.236987977962
+Oakland Unified,Oakland International High,4521 Webster Street Oakland CA 94609-2140,NA,NA,FALSE,tested,Oakland,Alameda County,37.8335034800097,-122.260226473444
+Oakland Unified,"Oakland Military Institute, College Preparatory Academy",3877 Lusk Street Oakland CA 94608-3822,NA,NA,FALSE,tested,Oakland,Alameda County,37.8293626603706,-122.272442713628
+Oakland Unified,Oakland School for the Arts,530 18th Street Oakland CA 94612-1512,NA,NA,FALSE,tested,Oakland,Alameda County,37.8079236744261,-122.271813402555
+Oakland Unified,Oakland SOL Dual Language,1180 70th Ave Oakland CA 94620-3216,NA,NA,FALSE,tested,Oakland,Alameda County,37.759258127871,-122.190959053534
+Oakland Unified,Oakland Technical High,4351 Broadway Oakland CA 94611-4612,NA,NA,FALSE,tested,Oakland,Alameda County,37.831687499675,-122.254295375742
+Oakland Unified,Oakland Unity High,6038 Brann St Oakland CA 94605-1544,6,ppb,TRUE,tested,Oakland,Alameda County,37.77327,-122.184973
+Alameda County Office of Education,Oakland Unity Middle,6038 Brann Street Oakland CA 94605-1544,NA,NA,FALSE,tested,Oakland,Alameda County,37.77327,-122.184973
+Albany City Unified,Ocean View Elementary,1000 Jackson Street Albany CA 94706-1904,NA,NA,FALSE,tested,NA,Alameda County,37.88751,-122.301014
+Fremont Unified,Oliveira Elementary,4180 Alder Avenue Fremont CA 94536-4799,NA,NA,FALSE,tested,Fremont,Alameda County,37.56011265,-122.016677307163
+Private,Our Lady of Grace School,19920 Anita Avenue Castro Valley CA 94546,5.6,ppb,TRUE,tested,NA,Alameda County,37.7002789108654,-122.083540564247
+Private,Our Savior Lutheran School,1385 South Livermore Avenue Livermore CA 94550,NA,NA,FALSE,tested,Livermore,Alameda County,37.6729144591837,-121.754096683673
+Berkeley Unified,Oxford Elementary,1130 Oxford Street Berkeley CA 94707-2624,NA,NA,FALSE,tested,Berkeley,Alameda County,37.887679,-122.26825
+Hayward Unified,Palma Ceia Elementary,27679 Melbourne Avenue Hayward CA 94545-4723,NA,NA,FALSE,tested,Hayward,Alameda County,37.6272392746495,-122.085324492472
+Hayward Unified,Park Elementary,411 Larchmont Street Hayward CA 94540-1103,NA,NA,FALSE,tested,Hayward,Alameda County,37.6540961,-122.093084100678
+Oakland Unified,Parker Elementary,7929 Ney Avenue Oakland CA 94605-3311,13,ppb,TRUE,tested,Oakland,Alameda County,37.7650818571429,-122.165177428571
+Fremont Unified,Parkmont Elementary,2601 Parkside Drive Fremont CA 94536-5246,NA,NA,FALSE,tested,Fremont,Alameda County,37.5610469,-121.9838495
+Fremont Unified,Patterson Elementary,35521 Cabrillo Drive Fremont CA 94536-5499,NA,NA,FALSE,tested,Fremont,Alameda County,37.5622108584392,-122.030821771787
+Oakland Unified,Peralta Elementary,460 63rd Street Oakland CA 94609-1339,NA,NA,FALSE,tested,Oakland,Alameda County,37.8490335979568,-122.258893287774
+Pleasanton Unified,Phoebe Apperson Hearst Elementary,5301 Case Avenue Pleasanton CA 94566-8005,NA,NA,FALSE,tested,,Alameda County,37.6516956,-121.886346961908
+Piedmont City Unified,Piedmont Adult Education,800 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,FALSE,tested,NA,Alameda County,37.8231652,-122.23308181336
+Oakland Unified,Piedmont Avenue Elementary,4314 Piedmont Avenue Oakland CA 94611-4716,8.05,ppb,TRUE,tested,Oakland,Alameda County,37.8290185714286,-122.248791428571
+Piedmont City Unified,Piedmont High,800 Magnolia Avenue Piedmont CA 94611-4029,NA,NA,NA,not tested,NA,Alameda County,37.8231652,-122.23308181336
+Piedmont City Unified,Piedmont Middle,740 Magnolia Avenue Piedmont CA 94611-4047,NA,NA,FALSE,tested,NA,Alameda County,37.82269795,-122.234672518989
+Piedmont City Unified,Piedmont Preschool,760 Magnolia Avenue Piedmont CA 94611-4047,NA,NA,NA,not tested,NA,Alameda County,37.8229051,-122.2336783
+New Haven Unified,Pioneer Elementary,32737 Bel Aire Street Union City CA 94587-5500,8.7,ppb,TRUE,tested,NA,Alameda County,37.5722566926292,-122.072574629447
+Oakland Unified,PLACE at Prescott Elementary,920 Campbell St Oakland CA 94607,9.5,ppb,TRUE,tested,Oakland,Alameda County,37.80842226167,-122.298017449833
+Pleasanton Unified,Pleasanton Middle,5001 Case Avenue Pleasanton CA 94566-1171,5.5,ppb,TRUE,tested,,Alameda County,37.6546993,-121.883862143064
+Oakland Unified,Preparatory Literary Academy of Cultural Excellence,920 Campbell Street Oakland CA 94607-1320,NA,NA,NA,not tested,Oakland,Alameda County,37.80842226167,-122.298017449833
+Castro Valley Unified,Proctor Elementary,17520 Redwood Road Castro Valley CA 94546-1434,NA,NA,NA,not tested,NA,Alameda County,37.6949712,-122.0738192
+Oakland Unified,Ralph J. Bunche High,1240 18th Street Oakland CA 94607-2223,NA,NA,NA,not tested,Oakland,Alameda County,37.813007043672,-122.286690424641
+Livermore Valley Joint Unified,Rancho Las Positas Elementary,401 East Jack London Boulevard Livermore CA 94551-1853,NA,NA,FALSE,tested,Livermore,Alameda County,37.688898,-121.796734
+Oakland Unified,Reach Academy,9860 Sunnyside Street Oakland CA 94603-2750,NA,NA,FALSE,tested,Oakland,Alameda County,37.7464790138598,-122.161762134508
+Berkeley Unified,REALM Charter High,2023 Eighth St Berkeley CA 94710-2026,NA,NA,NA,not tested,Berkeley,Alameda County,37.8680668909916,-122.295318764572
+Berkeley Unified,REALM Charter Middle,2023 Eighth Street Berkeley CA 94710-2026,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8680668909916,-122.295318764572
+Private,Redwood Christian Middle School and High School,1000 Paseo Grande San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6767322097773,-122.134528292363
+Castro Valley Unified,Redwood Continuation High,18400 Clifton Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
+Oakland Unified,Redwood Heights Elementary,4401 39th Avenue Oakland CA 94619-1614,NA,NA,FALSE,tested,Oakland,Alameda County,37.79678,-122.186804
+Oakland Unified,Rise Community,8521 A St Oakland CA 94621-1619,NA,NA,FALSE,tested,Oakland,Alameda County,37.75161375,-122.179691539501
+Alameda Unified,Rising Star Montessori Cottage Campus,770 Santa Clara Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7733370322581,-122.273837790323
+Private,Rising Star Montessori School,1421 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7587134661752,-122.231543862086
+Fremont Unified,Robertson High (Continuation),4455 Seneca Park Avenue Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+San Leandro Unified,Roosevelt Elementary,951 Dowling Boulevard San Leandro CA 94577-2125,NA,NA,FALSE,tested,San Leandro,Alameda County,37.736357922489,-122.146880060838
+Oakland Unified,Roosevelt Middle,1926 19th Avenue Oakland CA 94606-4170,8.95,ppb,TRUE,tested,Oakland,Alameda County,37.7899162299453,-122.237552594229
+Oakland Unified,ROOTS International Academy,1390 66th Avenue Oakland CA 94621-3506,NA,NA,FALSE,tested,Oakland,Alameda County,37.760497,-122.195615
+Berkeley Unified,Rosa Parks Environmental Science Magnet,920 Allston Way Berkeley CA 94710-2389,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8651487,-122.29501608554
+Oakland Unified,Roses in Concrete,4551 Steele Street Oakland CA 94619-2743,NA,NA,FALSE,tested,Oakland,Alameda County,37.7873518255777,-122.187837680578
+Castro Valley Unified,Roy A. Johnson High,18400 Clifton Wy Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
+San Lorenzo Unified,Royal Sunset (Continuation),20450 Royal Avenue Hayward CA 94541-4712,7,ppb,TRUE,tested,Hayward,Alameda County,37.669376,-122.1146863
+Alameda Unified,Ruby Bridges Elementary,351 Jack London Avenue Alameda CA 94501-3901,NA,NA,FALSE,tested,Alameda,Alameda County,37.7818408530147,-122.285496007199
+Oakland Unified,Rudsdale Continuation,8251 Fontaine Street Oakland CA 94605-4109,NA,NA,FALSE,tested,Oakland,Alameda County,37.766682554441,-122.153622764705
+Hayward Unified,Ruus Elementary,28027 Dickens Avenue Hayward CA 94540-5639,NA,NA,FALSE,tested,Hayward,Alameda County,37.6275242440091,-122.073835681688
+Private,Saint Leo the Great School,4238 Howe Street Oakland CA 94611,15,ppb,TRUE,tested,Oakland,Alameda County,37.8288022250802,-122.250818441272
+Oakland Unified,San Antonio CDC,2228 E 15th Street Oakland CA 94606,NA,NA,NA,not tested,Oakland,Alameda County,37.7851132917681,-122.236464255723
+San Leandro Unified,San Leandro Adult,14735 Juniper Street San Leandro CA 94577-6108,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6959920437928,-122.160508860651
+San Leandro Unified,San Leandro High,2200 Bancroft Avenue San Leandro CA 94577-6108,5.5,ppb,TRUE,tested,San Leandro,Alameda County,37.7185851,-122.141345506275
+San Leandro Unified,San Leandro High Fred T Korematsu Campus,13701 Bancroft Ave San Leandro CA 94577,NA,NA,FALSE,tested,San Leandro,Alameda County,37.7216733,-122.1454822
+San Lorenzo Unified,San Lorenzo Adult,820 Bockman Road San Lorenzo CA 94580-2906,NA,NA,FALSE,tested,NA,Alameda County,37.669577,-122.127338394331
+San Lorenzo Unified,San Lorenzo High,50 East Lewelling Boulevard San Lorenzo CA 94580-1732,NA,NA,FALSE,tested,NA,Alameda County,37.6868072977121,-122.12211761055
+San Lorenzo Unified,San Lorenzo Unified Preschool,20450 Royal Hayward CA 94541-4712,NA,NA,FALSE,tested,Hayward,Alameda County,37.669376,-122.1146863
+San Lorenzo Unified,San Lorenzo Unified School District Central Kitchen,15510 Usher St San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6883928193278,-122.128644700144
+Oakland Unified,Sankofa Academy,581 61st Street Oakland CA 94609-1248,NA,NA,FALSE,tested,Oakland,Alameda County,37.8471060114845,-122.264533266146
+Hayward Unified,Schafer Park Elementary,26268 Flamingo Avenue Hayward CA 94544-3159,NA,NA,FALSE,tested,Hayward,Alameda County,37.6430034,-122.086435715207
+Private,School of the Madeleine,1225 Milvia Street Berkeley CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8848195322467,-122.272102574175
+New Haven Unified,Searles Elementary,33629 15th Street Union City CA 94587-3322,NA,NA,NA,not tested,NA,Alameda County,37.5956,-122.028174798781
+Oakland Unified,Sequoia Elementary,3730 Lincoln Avenue Oakland CA 94602-2468,NA,NA,FALSE,tested,Oakland,Alameda County,37.80206395,-122.210502228601
+Hayward Unified,Silver Oak High Public Montessori Charter,951 Palisade Street Hayward CA 94542-1048,NA,NA,NA,not tested,Hayward,Alameda County,37.662154,-122.0724628
+Oakland Unified,Skyline High,12250 Skyline Boulevard Oakland CA 94619-2425,5.5,ppb,TRUE,tested,Oakland,Alameda County,37.7970111316334,-122.162831228818
+Hayward Unified,Southgate Elementary,26601 Calaroga Avenue Hayward CA 94545-3121,NA,NA,FALSE,tested,Hayward,Alameda County,37.6382685,-122.094469577187
+Hayward Unified,Special Education-Preschool-Laurel,2652 Vergil Ct Castro Valley CA 94546-6402,NA,NA,NA,not tested,NA,Alameda County,37.6879723543384,-122.069620482607
+Private,"spectrum Center, Oakland Campus",6325 Camden Street Oakland CA 94605,NA,NA,FALSE,tested,Oakland,Alameda County,37.7729167937323,-122.182364610207
+Private,St. Anthony School,1500 East 15th Street Oakland CA 94606,NA,NA,FALSE,tested,Oakland,Alameda County,37.789785,-122.244292
+Private,St. Edward Parish,5788 Thornton Avenue Newark CA 94560,NA,NA,FALSE,tested,Newark,Alameda County,37.5395210780721,-122.028520511827
+Private,St. Elizabeth Elementary,1516 33rd Avenue Oakland CA 94601,14,ppb,TRUE,tested,Oakland,Alameda County,37.779028967508,-122.223785097237
+Private,St. Felicitas Catholic School,1650 Manor Boulevard San Leandro CA 94579,NA,NA,FALSE,tested,San Leandro,Alameda County,37.691205625,-122.158639375
+Private,St. John Catholic School,270 East Lewelling Boulevard San Lorenzo CA 94580,NA,NA,FALSE,tested,NA,Alameda County,37.6868086094649,-122.117526137727
+Private,St. Joseph Elementary,1910 San Antonio Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7661091213217,-122.255263207828
+Private,St. Joseph Notre Dame High School,1011 Chestnut Street Alameda CA 94501,8,ppb,TRUE,tested,Alameda,Alameda County,37.7652430321051,-122.255136978171
+Private,St. Leander,451 Davis Street San Leandro CA 94577,5.35,ppb,TRUE,tested,San Leandro,Alameda County,37.7243741,-122.1594102
+Private,St. Philip Neri Elementary,1335 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7572845290243,-122.233138322433
+Private,St. Raymond,11557 Shannon Avenue Dublin CA 94568,NA,NA,FALSE,tested,Dublin,Alameda County,37.71276575,-121.940596370315
+Private,St. Theresa School,4850 Clarewood Oakland CA 94618,6.5,ppb,TRUE,tested,Oakland,Alameda County,37.8365241124626,-122.231764208614
+Castro Valley Unified,Stanton Elementary,2644 Somerset Avenue Castro Valley CA 94546-4016,NA,NA,NA,not tested,NA,Alameda County,37.70055225,-122.093600602146
+Hayward Unified,Stonebrae Elementary,28761 Hayward Boulevard Hayward CA 94542-2213,NA,NA,FALSE,tested,Hayward,Alameda County,37.6561487175933,-122.023761305282
+Oakland Unified,Stonehurst CDC,901 105th  Ave. Oakland CA 94603,NA,NA,FALSE,tested,Oakland,Alameda County,37.7355529248777,-122.174306150245
+Private,Stratford School,5301 Curtis Street Fremont CA 94538,NA,NA,FALSE,tested,Fremont,Alameda County,37.5206326182875,-121.981087330021
+Oakland Unified,Street Academy (Alternative),417 29th Street Oakland CA 94609-3510,NA,NA,FALSE,tested,Oakland,Alameda County,37.8177459308806,-122.265362518197
+Hayward Unified,Strobridge Elementary,21400 Bedford Drive Castro Valley CA 94546-6805,NA,NA,FALSE,tested,NA,Alameda County,37.6873,-122.087477
+Hayward Unified,Student Information and Assessment Center (SIAC),27211 Tyrrell Avenue Hayward CA 94544,8.5,ppb,TRUE,tested,Hayward,Alameda County,37.6364929930587,-122.074616184804
+Oakland Unified,Sungate Site,2563 International Blvd Oakland CA 94601,NA,NA,NA,not tested,Oakland,Alameda County,37.7719038,-122.2139261
+Sunol Glen Unified,Sunol Glen Elementary,11601 Main Street Sunol CA 94586-9519,NA,NA,FALSE,tested,NA,Alameda County,37.593848,-121.8866082
+Livermore Valley Joint Unified,Sunset Elementary,1671 Frankfurt Way Livermore CA 94550-6146,NA,NA,FALSE,tested,Livermore,Alameda County,37.6626956697751,-121.773451953919
+Oakland Unified,Temporary Alternative Program & Young Adult Program,1011 Union Street Oakland  CA 94607,NA,NA,FALSE,tested,Oakland,Alameda County,37.8073273737374,-122.289435828283
+Private,The Academy,2722 Benvenue Avenue Berkeley CA 94705,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8612697323162,-122.254836636882
+Alameda Unified,The Academy of Alameda,401 Pacific Avenue Alameda CA 94501-1837,7.2,ppb,TRUE,tested,Alameda,Alameda County,37.7763826585366,-122.285469414634
+Alameda Unified,The Academy of Alameda Elementary,401 Pacific Ave. Alameda CA 94501-1837,NA,NA,FALSE,tested,Alameda,Alameda County,37.7763826585366,-122.285469414634
+Private,The Berkeley School,1310 University Avenue Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.86937235,-122.286245724457
+Private,The Berkeley School Early Childhood Campus,2030 Francisco St. Berkeley  CA 94709,NA,NA,FALSE,tested,Berkeley,Alameda County,37.87537435,-122.269468170856
+Private,The Child Unique Montessori School,2226 Encinal Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.7638047121491,-122.247474260851
+Private,The Child Unique Montessori School Taylor Avenue,1400 6th Street Alameda CA  94501,NA,NA,FALSE,tested,Oakland,Alameda County,37.8022107,-122.2836117
+Private,The College Preparatory School,6100 Broadway Oakland CA 94618,NA,NA,FALSE,tested,Oakland,Alameda County,37.848842,-122.241303
+Private,The Crowden School,1475 Rose Street Berkeley CA 94702,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8791667,-122.283581358633
+Oakland Unified,Think College Now,2825 International Blvd Oakland CA 94601-1543,NA,NA,FALSE,tested,Oakland,Alameda County,37.7796417142857,-122.229767040816
+Pleasanton Unified,Thomas S. Hart Middle,4433 Willow Road Pleasanton CA 94588-8520,NA,NA,FALSE,tested,,Alameda County,37.6854864,-121.896565162701
+Oakland Unified,Thornhill Elementary,5880 Thornhill Drive Oakland CA 94611-2147,NA,NA,FALSE,tested,Oakland,Alameda County,37.8361319252418,-122.211543690698
+Fremont Unified,Thornton Junior High,4357 Thornton Avenue Fremont CA 94536-4897,NA,NA,FALSE,tested,Fremont,Alameda County,37.5562645,-122.016361387949
+Berkeley Unified,Thousand Oaks Elementary,840 Colusa Avenue Berkeley CA 94707-1858,NA,NA,FALSE,tested,Berkeley,Alameda County,37.8930067433931,-122.280269627218
+New Haven Unified,Tom Kitayama Elementary,1959 Sunsprite Drive Union City CA 94587-1995,NA,NA,FALSE,tested,NA,Alameda County,37.59842065,-122.050124345667
+Fremont Unified,Tom Maloney Elementary,38700 Logan Drive Fremont CA 94536-6899,NA,NA,FALSE,tested,Fremont,Alameda County,37.5455376438979,-121.998471329024
+Berkeley Unified,Torins School,2164 Oregon Street Berkeley CA 94705,NA,NA,NA,not tested,Berkeley,Alameda County,37.8578092964849,-122.264866445229
+Hayward Unified,Treeview Elementary,30565 Treeview Street Hayward CA 94544-7458,NA,NA,FALSE,tested,Hayward,Alameda County,37.62444935,-122.038027532852
+Hayward Unified,Tyrrell Elementary,27000 Tyrrell Avenue Hayward CA 94540-0001,NA,NA,FALSE,tested,Hayward,Alameda County,37.63830505,-122.07467772156
+Oakland Unified,United for Success Academy,2101 35th Ave Oakland CA 94601-3124,8.9,ppb,TRUE,tested,Oakland,Alameda County,37.78437,-122.216736
+Oakland Unified,United Nation CDC,1025 4th Ave. Oakland CA 94606,NA,NA,FALSE,tested,Oakland,Alameda County,37.7947582841055,-122.257275357536
+Berkeley Unified,University Child Education Center,2100 Browning St Berkeley CA 94702,NA,NA,NA,not tested,Berkeley,Alameda County,37.8686549,-122.28892205732
+Alameda County Office of Education,Urban Montessori Charter,5328 Brann Street Oakland CA 94619-3312,NA,NA,FALSE,tested,Oakland,Alameda County,37.7785115757576,-122.190238353535
+Oakland Unified,Urban Promise Academy,3031 East 18th Street Oakland CA 94601-2457,NA,NA,FALSE,tested,Oakland,Alameda County,37.782402,-122.225199779865
+Fremont Unified,Vallejo Mill Elementary,38569 Canyon Heights Drive Fremont CA 94536-1899,NA,NA,NA,not tested,Fremont,Alameda County,37.57559515,-121.96055745
+Fremont Unified,Vallejo Mill Elementary,"38569 Canyon Heights Dr, Fremont, CA 94536",NA,NA,NA,exempt,Fremont,Alameda County,37.57559515,-121.96055745
+Dublin Unified,Valley High (Continuation),6901 York Drive Dublin CA 94568-2100,NA,NA,FALSE,tested,Dublin,Alameda County,37.70942,-121.92185
+Pleasanton Unified,Valley View Elementary,480 Adams Way Pleasanton CA 94566-7198,NA,NA,FALSE,tested,,Alameda County,37.6607242613643,-121.863738440731
+Castro Valley Unified,Vannoy Elementary,5100 Vannoy Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.706728,-122.059388
+Oakland Unified,Vincent Academy,2501 Chestnut Street Oakland CA 94607-2477,NA,NA,FALSE,tested,Oakland,Alameda County,37.817731555559,-122.282163141424
+Livermore Valley Joint Unified,Vineyard Alternative,1401 Almond Avenue Livermore CA 94550-5043,NA,NA,FALSE,tested,Livermore,Alameda County,37.6774059392515,-121.739919
+Pleasanton Unified,Vintage Hills Elementary,1125 Concord Street Pleasanton CA 94566-7236,NA,NA,FALSE,tested,,Alameda County,37.6558154681282,-121.855074073472
+Fremont Unified,Vista Alternative,4455 Seneca Park Ave. Fremont CA 94538-4028,NA,NA,FALSE,tested,Fremont,Alameda County,37.5189944310345,-121.964629172414
+Pleasanton Unified,Walnut Grove Elementary,1999 Harvest Road Pleasanton CA 94566-5499,NA,NA,FALSE,tested,,Alameda County,37.6732137,-121.885415674963
+Fremont Unified,Warm Springs Elementary,"47370 Warm Springs Blvd, Fremont, CA 94539",NA,NA,NA,exempt,Fremont,Alameda County,37.4970244,-121.9342068
+Fremont Unified,Warm Springs Elementary,47370 Warm Springs Boulevard Fremont CA 94539-7458,NA,NA,NA,not tested,Fremont,Alameda County,37.4970244,-121.9342068
+Fremont Unified,Warwick Elementary,3375 Warwick Road Fremont CA 94555-2499,NA,NA,FALSE,tested,Fremont,Alameda County,37.57702845,-122.031975421266
+San Leandro Unified,Washington Elementary,250 Dutton Avenue San Leandro CA 94577-2804,7.3,ppb,TRUE,tested,San Leandro,Alameda County,37.7324946233244,-122.156521601829
+Fremont Unified,Washington High,38442 Fremont Boulevard Fremont CA 94536-6031,NA,NA,FALSE,tested,Fremont,Alameda County,37.5517175,-121.9935237
+San Lorenzo Unified,Washington Manor Middle,1170 Fargo Avenue San Leandro CA 94579-1633,NA,NA,FALSE,tested,San Leandro,Alameda County,37.6888269727242,-122.149191747777
+Dublin Unified,Wells Middle,6800 Penn Drive Dublin CA 94568-2118,NA,NA,FALSE,tested,Dublin,Alameda County,37.71141775,-121.919463527947
+Oakland Unified,West Oakland Middle,991 14th Street Oakland CA 94607-3230,NA,NA,FALSE,tested,Oakland,Alameda County,37.8087912886204,-122.282716194403
+Oakland Unified,Westlake Middle,2629 Harrison Street Oakland CA 94612-3813,NA,NA,FALSE,tested,Oakland,Alameda County,37.8142132233273,-122.260448687273
+Newark Unified,Whiteford (June) Special Education Preschool,35725 Cedar Boulevard Newark CA 94560-1324,6.903,ppb,TRUE,tested,Newark,Alameda County,37.5449594,-122.029247
+Piedmont City Unified,Wildwood Elementary,301 Wildwood Ave Piedmont CA 94611-3817,NA,NA,FALSE,tested,NA,Alameda County,37.8198037,-122.23526602559
+Alameda Unified,Will C. Wood Middle,420 Grand Street Alameda CA 94501-5941,NA,NA,FALSE,tested,Oakland,Alameda County,37.7995623214286,-122.280247107143
+Berkeley Unified,Willard Middle,2425 Stuart Street Berkeley CA 94705-1209,7.25,ppb,TRUE,tested,Berkeley,Alameda County,37.8597077218746,-122.258590090367
+Alameda Unified,William G. Paden Elementary,444 Central Avenue Alameda CA 94501-3615,NA,NA,FALSE,tested,Alameda,Alameda County,37.7708092,-122.283691679646
+Fremont Unified,William Hopkins Junior High,600 Driscoll Road Fremont CA 94539-3803,NA,NA,FALSE,tested,Fremont,Alameda County,37.54633945,-121.941167248094
+Livermore Valley Joint Unified,William Mendenhall Middle,1701 El Padro Drive Livermore CA 94550-6215,NA,NA,FALSE,tested,Livermore,Alameda County,37.6627117929922,-121.792330085056
+San Leandro Unified,Wilson Elementary,1300 Williams Street San Leandro CA 94577-2401,NA,NA,FALSE,tested,San Leandro,Alameda County,37.715301,-122.165543
+Hayward Unified,Winton Middle,119 Winton Avenue Hayward CA 94540-5000,5.2,ppb,TRUE,tested,Hayward,Alameda County,37.6606222186877,-122.090458064193
+San Lorenzo Unified,Woodroe Woods,750  Fargo Ave San Leandro CA 94579,8.1,ppb,TRUE,tested,San Leandro,Alameda County,37.6878945519066,-122.141565700354
+Fremont Unified,Young Adult Program,4700 Calaveras Ave. Fremont CA 94538-1124,NA,NA,FALSE,tested,Fremont,Alameda County,37.5379537078649,-121.992051996441
+Alameda County Office of Education,Yu Ming Charter,1086 Alcatraz Avenue Oakland CA 94608-1265,NA,NA,FALSE,tested,Oakland,Alameda County,37.8469338,-122.2850706
+Alameda County Office of Education,Yu Ming Charter MLK Campus,675 41st St Oakland CA 94609,NA,NA,FALSE,tested,NA,Alameda County,37.8304871020408,-122.268096387755
+Oakland Unified,Yuc Yau CDC,291 10th Street Oakland CA 94607,NA,NA,NA,not tested,Oakland,Alameda County,37.799980343319,-122.269110829114
+Oakland Unified,Yuk Yau CDC,291 10th Street Oakland CA 94602,NA,NA,NA,not tested,Oakland,Alameda County,37.799980343319,-122.269110829114
