@@ -9,7 +9,7 @@ const tableNames = [
 	['district', 'schoolName']
 ];
 
-const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult', 'status'];
+const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult'];
 
 const { readFileSync, writeFileSync } = require('fs');
 const mkdirp = require('mkdirp');
@@ -66,6 +66,10 @@ tableNames.forEach(([a, b]) => {
 	indexTheseColumns.add(b);
 });
 
+mkdirp("output");
+
+mkdirp("output/indices");
+
 // sort unique values for each column
 for (let columnName in uniques) {
 	// e.g. San Diego, San Francisco, San Pablo
@@ -75,7 +79,7 @@ for (let columnName in uniques) {
 	// save to index / lookup table
 	const filename = "output/indices/" + columnName + "-index.txt";
 	const fileText = values.join("\n") + "\n";
-	writeFileSync(filename, fileText, "utf-8");		
+	writeFileSync(filename, fileText, "utf-8");
 }
 console.log('uniques', uniques);
 
@@ -147,6 +151,7 @@ tableNames.forEach(tableName => {
 	coocurrences[JSON.stringify(tableName)] = table;
 });
 
+mkdirp("output/cooccurrences");
 //county,cities
 //54	12,31,41,67,123
 for (let tableName in coocurrences) {
@@ -169,8 +174,10 @@ for (let tableName in coocurrences) {
 const splitBy = ["city", "county", "district"];
 const saveTheseColumns = ['district', 'lead', 'medianResult', 'schoolAddress', 'schoolName', 'status'];
 const outfolder = "output/downloads/";
+mkdirp(outfolder);
 const outfolders = splitBy.map(key => outfolder + key);
 console.log("outfolders:", outfolders);
+outfolders.map(outfolder => mkdirp(outfolder));
 // todo: make sub folders generically
 splitBy.forEach(fieldName => {
 	console.log("splitting by", fieldName);
@@ -181,9 +188,16 @@ splitBy.forEach(fieldName => {
 		}).sort((a, b) => {
 			return sortByLetter(a.schoolName, b.schoolName);
 		});
-		const outfile = `output/downloads/${fieldName}/${index}.csv`;
+		const outdir = `output/downloads/${fieldName}/`;
+		mkdirp(outdir);
+		console.log("made:", outdir);
+		const outfile = outdir + `${index}.csv`;
 		new ObjectsToCsv(filtered).toString(header=true).then(string => {
-			writeFileSync(outfile, string, 'utf-8');
+			try {
+				writeFileSync(outfile, string, 'utf-8');
+			} catch (error) {
+				console.error("CAUGHT:", error);
+			}
 		});
 	});
 });

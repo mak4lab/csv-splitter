@@ -1,3 +1,0 @@
-exempt
-not tested
-tested

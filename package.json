@@ -4,6 +4,9 @@
   "description": "Splits CSV into relational tables",
   "main": "index.js",
   "scripts": {
+    "clean": "rimraf output",
+    "split": "node index.js",
+    "start": "npm run clean && npm run split",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +30,8 @@
     "jquery-csv": "^0.8.12",
     "lodash": "^4.17.11",
     "objects-to-csv": "^1.2.1"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.0"
   }
 }
