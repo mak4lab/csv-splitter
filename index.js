@@ -9,7 +9,7 @@ const tableNames = [
 	['district', 'schoolName']
 ];
 
-const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult'];
+const ignoreTheseColumns = ['latitude', 'longitude', 'medianResult', 'maxResult'];
 
 const { readFileSync, writeFileSync } = require('fs');
 const mkdirp = require('mkdirp');
@@ -66,9 +66,9 @@ tableNames.forEach(([a, b]) => {
 	indexTheseColumns.add(b);
 });
 
-mkdirp("output");
+mkdirp("./output");
 
-mkdirp("output/indices");
+mkdirp("./output/indices");
 
 // sort unique values for each column
 for (let columnName in uniques) {
@@ -172,7 +172,7 @@ for (let tableName in coocurrences) {
 
 // save files for each value of designated field
 const splitBy = ["city", "county", "district"];
-const saveTheseColumns = ['district', 'lead', 'medianResult', 'schoolAddress', 'schoolName', 'status'];
+const saveTheseColumns = ['district', 'lead', 'medianResult', 'maxResult',  'schoolAddress', 'schoolName', 'status'];
 const outfolder = "output/downloads/";
 mkdirp(outfolder);
 const outfolders = splitBy.map(key => outfolder + key);
