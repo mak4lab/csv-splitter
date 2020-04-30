@@ -26,7 +26,7 @@
   "homepage": "https://github.com/mak4lab/csv-splitter#readme",
   "dependencies": {
     "convert-csv-to-array": "^1.0.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-csv": "^0.8.12",
     "lodash": "^4.17.11",
     "objects-to-csv": "^1.2.1"
